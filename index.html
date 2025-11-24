@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>NCCWC Radio — GitHub Edition</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body {
+  margin: 0;
+  background: #0b1220;
+  color: #e9f1ff;
+  font-family: Arial, sans-serif;
+}
+.wrap {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 10px;
+}
+h1 {
+  text-align: center;
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+.player-box {
+  background: #10192b;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #213255;
+}
+audio {
+  width: 100%;
+  margin-top: 20px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid #213255;
+  border-radius: 10px;
+}
+li {
+  padding: 10px;
+  border-bottom: 1px solid #213255;
+  cursor: pointer;
+}
+li:hover {
+  background: #182338;
+}
+.current {
+  background: #223355;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <h1>🎙️ NCCWC Radio — GitHub Edition</h1>
+
+  <div class="player-box">
+    <h3 id="songTitle">Select a Song</h3>
+    <audio id="audio" controls></audio>
+
+    <h3 style="margin-top:20px;">Playlist</h3>
+    <ul id="playlist"></ul>
+  </div>
+</div>
+
+<script>
+// 🔥 AUTO-LOAD ALL MP3 FILES FROM YOUR REPO
+
+const repoUser = "Janeen1970";
+const repoName = "nccwc-media";
+
+// GitHub API to list files
+const apiURL = `https://api.github.com/repos/${repoUser}/${repoName}/contents`;
+
+async function loadPlaylist() {
+  const response = await fetch(apiURL);
+  const files = await response.json();
+
+  const mp3s = files.filter(f => f.name.toLowerCase().endsWith(".mp3"));
+
+  const playlist = document.getElementById("playlist");
+  const audio = document.getElementById("audio");
+  const title = document.getElementById("songTitle");
+
+  mp3s.forEach((file, index) => {
+    const li = document.createElement("li");
+    li.textContent = file.name.replace(".mp3", "");
+    li.onclick = () => {
+      audio.src = file.download_url;
+      audio.play();
+      title.textContent = file.name.replace(".mp3", "");
+
+      // highlight current song
+      [...playlist.children].forEach(x => x.classList.remove("current"));
+      li.classList.add("current");
+    };
+    playlist.appendChild(li);
+  });
+}
+
+loadPlaylist();
+</script>
+
+</body>
+</html>
