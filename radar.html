@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>NCCWC Public Radar</title>
+<style>
+  html,body{
+    margin:0;height:100%;background:#000;overflow:hidden;
+    font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Helvetica,Arial,sans-serif;
+  }
+  #map-container{
+    position:relative;width:100vw;height:100vh;
+  }
+  #bg{
+    position:absolute;inset:0;background:#000 center/contain no-repeat;z-index:0;
+  }
+  #beam{
+    position:absolute;width:.1px;height:85%;background:lime;transform-origin:50% 100%;
+    box-shadow:0 0 10px 3px #00ff99;opacity:.95;pointer-events:none;z-index:2;
+  }
+  .cell{
+    position:absolute;width:15px;height:15px;border-radius:50%;opacity:1;
+    transform:translate(-50%,-50%) scale(1);pointer-events:none;z-index:3;
+    filter:blur(2px);
+  }
+  #footer{
+    position:absolute;bottom:8px;left:50%;transform:translateX(-50%);
+    color:#aaa;font-size:12px;text-align:center;opacity:.8;z-index:20;
+  }
+</style>
+</head>
+<body>
+
+<div id="map-container">
+  <div id="bg"></div>
+  <div id="beam"></div>
+  <canvas id="drawCanvas"></canvas>
+  <div id="footer">NCCWC Radar — Public Display</div>
+</div>
+
+<script>
+// === Public version: Only displays what the admin version generates ===
+
+// ====== Load Map ======
+fetch('public-map.json?_=' + Date.now())
+  .then(r=>r.json())
+  .then(data=>{
+    if(data.map) document.getElementById("bg").style.backgroundImage = `url('${data.map}')`;
+    renderCells(data.cells||[]);
+  });
+
+// ====== Load Cells ======
+function renderCells(cells){
+  const cont=document.getElementById("map-container");
+  cells.forEach(c=>{
+    const div=document.createElement("div");
+    div.className="cell";
+    div.style.left=c.x+"px";
+    div.style.top=c.y+"px";
+    div.style.background=c.color;
+    div.style.width=c.size+"px";
+    div.style.height=c.size+"px";
+    cont.appendChild(div);
+  });
+}
+
+// ====== Rotate beam (display only) ======
+const beam=document.getElementById("beam");
+let angle=0;
+function spin(){
+  angle=(angle+3)%360;
+  beam.style.left=(window.innerWidth/2)+"px";
+  beam.style.top=(window.innerHeight/2)+"px";
+  beam.style.transform=`translate(-50%,-100%) rotate(${angle}deg)`;
+  requestAnimationFrame(spin);
+}
+spin();
+</script>
+
+</body>
+</html>
