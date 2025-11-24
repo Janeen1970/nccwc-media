@@ -1,0 +1,510 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>WALT Radar — Live Display + KINK INDEX</title>
+<style>
+  html,body{margin:0;height:100%;background:#000;overflow:hidden;
+    font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Helvetica,Arial,sans-serif;}
+  #map-container{position:relative;width:100vw;height:100vh;cursor:crosshair;}
+  #bg{position:absolute;inset:0;background:#000 center/contain no-repeat;z-index:0;}
+  #beam{position:absolute;width:0.1px;height:85%;background:lime;transform-origin:50% 100%;
+        box-shadow:0 0 10px 3px #00ff99;opacity:.95;pointer-events:none;z-index:2;}
+
+  .cell{position:absolute;width:15px;height:15px;border-radius:50%;opacity:0;
+        transform:translate(-50%,-50%) scale(1);pointer-events:none;z-index:3;
+        transition:opacity .25s ease-out,transform .25s ease-out;}
+
+  /* 🌧️ Rain cells */
+  .rain{
+    filter:blur(2px) saturate(1.2);
+    background:radial-gradient(circle at center,
+      rgba(0,255,0,0.9) 0%,
+      rgba(173,255,47,0.8) 30%,
+      rgba(0,128,0,0.6) 70%,
+      transparent 100%);
+  }
+
+  /* 🌩️ Storm cells */
+  .storm{
+    filter:blur(2px) saturate(1.2);
+    background:radial-gradient(circle at center,
+      rgba(255,0,0,0.9) 0%,
+      rgba(255,140,0,0.8) 40%,
+      rgba(255,255,0,0.6) 80%,
+      transparent 100%);
+  }
+
+  /* 🌪️ Tornado cells */
+  .tornado{
+    filter:blur(2px) saturate(1.4);
+    background:radial-gradient(circle at center,
+      rgba(0,255,255,1) 0%,
+      rgba(0,0,255,0.9) 25%,
+      rgba(128,0,0,0.8) 60%,
+      rgba(0,0,0,0.6) 90%,
+      transparent 100%);
+    box-shadow:0 0 8px 3px rgba(0,255,255,0.6);
+  }
+
+  /* ❄️ Snow cells */
+  .snow{
+    filter:blur(2px) brightness(1.4) saturate(1.5);
+    background:radial-gradient(circle at center,
+      rgba(255,255,255,1) 0%,
+      rgba(200,230,255,0.9) 35%,
+      rgba(120,180,255,0.7) 70%,
+      rgba(80,120,200,0.5) 85%,
+      transparent 100%);
+    box-shadow:0 0 10px 4px rgba(180,220,255,0.5);
+  }
+
+  /* 🧊 Freezing Rain */
+  .freezing{
+    filter:blur(2px) brightness(1.5) saturate(1.5);
+    background:radial-gradient(circle at center,
+      rgba(255,105,180,1) 0%,
+      rgba(255,0,255,0.9) 30%,
+      rgba(186,85,211,0.8) 60%,
+      rgba(255,255,255,0.4) 90%,
+      transparent 100%);
+    box-shadow:0 0 12px 5px rgba(255,120,255,0.5);
+  }
+
+  /* 💨 WIND (brown burst) */
+  .wind{
+    filter:blur(2px) saturate(1.3);
+    background:radial-gradient(circle at center,
+      rgba(139,69,19,1) 0%,
+      rgba(160,82,45,0.9) 40%,
+      rgba(205,133,63,0.7) 75%,
+      transparent 100%);
+    box-shadow:0 0 10px 4px rgba(160,82,45,0.5);
+  }
+
+  /* 🟡 HAIL (yellow burst) */
+  .hail{
+    filter:blur(1px) brightness(1.3);
+    background:radial-gradient(circle at center,
+      rgba(255,255,200,1) 0%,
+      rgba(255,255,0,0.9) 35%,
+      rgba(200,180,0,0.6) 70%,
+      transparent 100%);
+    box-shadow:0 0 8px 3px rgba(255,255,150,0.6);
+  }
+
+  .cell.active{opacity:1;transform:translate(-50%,-50%) scale(1.6);}
+
+  #controls{
+    position:absolute;top:8px;right:8px;background:rgba(0,0,0,.75);
+    color:#fff;padding:10px;border-radius:6px;width:220px;z-index:10;
+    font-size:12px;text-align:right;overflow-y:auto;max-height:95vh;}
+  button{display:block;width:100%;margin:3px 0;padding:5px;border:none;
+         border-radius:4px;cursor:pointer;font-weight:600;font-size:12px;}
+  button.active{background:#00c851;color:#fff;}
+
+  #beamBtn{background:#1a73e8;color:#fff;}
+  #rainBtn{background:#00994c;color:#fff;}
+  #stormBtn{background:#ff0000;color:#fff;}
+  #tornadoBtn{background:#800000;color:#fff;}
+  #snowBtn{background:#00bcd4;color:#fff;}
+  #freezingBtn{background:#d81b60;color:#fff;}
+  #clearCells{background:#e84118;color:#fff;}
+
+  /* NEW: Wind + Hail buttons */
+  #windBtn{background:#8b4513;color:#fff;}  /* brown */
+  #hailBtn{background:yellow;color:#000;}   /* yellow */
+
+  /* ⭐ NEW: Drawing canvas */
+  #drawCanvas{
+    position:absolute;
+    inset:0;
+    z-index:5;
+    pointer-events:auto;
+  }
+
+  label{display:block;font-size:11px;margin-top:6px;color:#ccc;}
+  input[type=file]{font-size:11px;width:100%;color:#fff;}
+
+  /* KINK INDEX */
+  #kinkBox{margin-top:12px;padding:8px;background:#0a0a0a;border:1px solid #222;border-radius:8px;
+    text-align:left;transition:box-shadow 0.3s ease;}
+  #kinkBox.alert{box-shadow:0 0 15px 6px rgba(255,0,0,.6);animation:pulse 1.5s infinite;}
+  @keyframes pulse{
+    0%,100%{box-shadow:0 0 10px 3px rgba(255,0,0,.4);}
+    50%{box-shadow:0 0 18px 8px rgba(255,0,0,.9);}
+  }
+  #kinkBox h3{margin:0 0 4px;font-size:13px;color:#0ff;text-align:center;}
+  #kinkVal{font-size:22px;font-weight:700;text-align:center;color:#0ff;}
+  #kinkCat{text-align:center;font-weight:600;margin-top:2px;}
+  .barWrap{height:8px;background:#222;border-radius:999px;overflow:hidden;margin-top:6px;}
+  .bar{height:100%;width:0%;transition:width .3s ease;}
+  .low{background:linear-gradient(90deg,#1cc8a0,#10a077);}
+  .elev{background:linear-gradient(90deg,#ffd36a,#e6a122);}
+  .high{background:linear-gradient(90deg,#ff7f7f,#ff4747);}
+  #hazard{margin-top:5px;text-align:center;font-size:12px;font-weight:700;}
+
+  #footer{
+    position:absolute;bottom:8px;left:50%;transform:translateX(-50%);
+    color:#aaa;font-size:12px;text-align:center;opacity:0.8;
+    z-index:20;letter-spacing:0.5px;
+  }
+</style>
+</head>
+<body>
+<div id="map-container">
+
+  <div id="bg"></div>
+  <div id="beam"></div>
+
+  <canvas id="drawCanvas"></canvas>
+
+  <div id="controls">
+    <button id="beamBtn" class="active">🟢 Radar Origin</button>
+    <button id="rainBtn">🌧️ Add Rain Cell</button>
+    <button id="stormBtn">🌩️ Add Storm Cell</button>
+    <button id="tornadoBtn">🌪️ Add Tornado Cell</button>
+    <button id="snowBtn">❄️ Add Snow Cell</button>
+    <button id="freezingBtn">🧊 Add Freezing Rain Cell</button>
+
+    <!-- NEW: Separate Wind & Hail Buttons -->
+    <button id="windBtn">💨 Add Wind Cell</button>
+    <button id="hailBtn">🟡 Add Hail Cell</button>
+
+    <button id="clearCells">🧹 Clear Cells</button>
+
+    <button id="drawBtn">✏️ Draw</button>
+    <button id="textBtn">🅰️ Text</button>
+    <button id="clearDraw">🧽 Clear Drawing</button>
+
+    <label>🗺️ Upload Map:</label>
+    <input type="file" id="mapUpload" accept="image/*">
+
+    <label>📸 Upload Photo for KINK INDEX:</label>
+    <input type="file" id="kinkUpload" accept="image/*">
+
+    <div id="kinkBox">
+      <h3>KINK INDEX</h3>
+      <div id="kinkVal">0</div>
+      <div id="kinkCat" class="low">LOW</div>
+      <div class="barWrap"><div id="kinkBar" class="bar low"></div></div>
+      <div id="hazard">Stable — No Risk</div>
+    </div>
+  </div>
+
+  <div id="footer">Patent Pending © SONFIRE ALMANACS LLC</div>
+</div>
+
+<script>
+const container=document.getElementById("map-container");
+const bg=document.getElementById("bg");
+const beam=document.getElementById("beam");
+const clearCells=document.getElementById("clearCells");
+
+const buttons={
+  beam:beamBtn,
+  rain:rainBtn,
+  storm:stormBtn,
+  tornado:tornadoBtn,
+  snow:snowBtn,
+  freezing:freezingBtn,
+  wind:windBtn,
+  hail:hailBtn
+};
+
+let mode="beam",
+    originX=window.innerWidth/2,
+    originY=window.innerHeight/2,
+    angle=0,
+    cells=[];
+let beamSpeed=3.0;
+
+function placeBeam(){
+  beam.style.left=originX+"px";
+  beam.style.top=originY+"px";
+}
+
+function rotate(){
+  angle=(angle+beamSpeed)%360;
+  beam.style.transform=`translate(-50%,-100%) rotate(${angle}deg)`;
+  checkBeamHits();
+  requestAnimationFrame(rotate);
+}
+rotate();
+placeBeam();
+
+function setMode(m){
+  mode=m;
+  Object.values(buttons).forEach(b=>b.classList.remove("active"));
+  buttons[m]?.classList.add("active");
+}
+
+Object.entries(buttons).forEach(([m,btn])=>{
+  btn.onclick=()=>setMode(m);
+});
+
+container.addEventListener("click",e=>{
+  if(e.target.closest("#controls")) return;
+
+  const r=container.getBoundingClientRect();
+  const x=e.clientX-r.left,
+        y=e.clientY-r.top;
+
+  if(mode==="beam"){
+    originX=x;
+    originY=y;
+    placeBeam();
+    return;
+  }
+
+  if(mode==="wind"){
+    const c=document.createElement("div");
+    c.className="cell wind";
+    c.style.left=x+"px";
+    c.style.top=y+"px";
+    c.style.width="22px";
+    c.style.height="22px";
+    container.appendChild(c);
+    cells.push(c);
+    return;
+  }
+
+  if(mode==="hail"){
+    const c=document.createElement("div");
+    c.className="cell hail";
+    c.style.left=x+"px";
+    c.style.top=y+"px";
+    c.style.width="16px";
+    c.style.height="16px";
+    container.appendChild(c);
+    cells.push(c);
+    return;
+  }
+
+  if(["rain","storm","tornado","snow","freezing"].includes(mode)){
+    const c=document.createElement("div");
+    c.className=`cell ${mode}`;
+    const s=10+Math.random()*15;
+    c.style.width=s+"px";
+    c.style.height=s*(0.8+Math.random()*0.4)+"px";
+    c.style.left=x+"px";
+    c.style.top=y+"px";
+    c.style.borderRadius="50%";
+    container.appendChild(c);
+    cells.push(c);
+  }
+});
+
+function checkBeamHits(){
+  const bx=originX,by=originY;
+  const rad=angle*Math.PI/180;
+  const dir={x:Math.sin(rad),y:-Math.cos(rad)};
+  const tol=10;
+
+  cells.forEach(c=>{
+    const cx=parseFloat(c.style.left),
+          cy=parseFloat(c.style.top);
+    const dx=cx-bx,
+          dy=cy-by;
+    const proj=dx*dir.x+dy*dir.y;
+
+    if(proj>0){
+      const px=bx+dir.x*proj,
+            py=by+dir.y*proj;
+      const dist=Math.hypot(px-cx,py-cy);
+      if(dist<tol) triggerCell(c);
+    }
+  });
+}
+
+function triggerCell(c){
+  if(c.dataset.active==="1") return;
+  c.dataset.active="1";
+  c.classList.add("active");
+  setTimeout(()=>{
+    c.classList.remove("active");
+    c.dataset.active="0";
+  },400);
+}
+
+clearCells.onclick=e=>{
+  e.stopPropagation();
+  cells.forEach(c=>c.remove());
+  cells=[];
+};
+
+/* MAP UPLOAD */
+document.getElementById("mapUpload").addEventListener("change",evt=>{
+  const f=evt.target.files[0];
+  if(!f) return;
+  const r=new FileReader();
+  r.onload=e=>{
+    bg.style.backgroundImage=`url('${e.target.result}')`;
+  };
+  r.readAsDataURL(f);
+});
+
+/* KINK INDEX ANALYSIS */
+const kinkInput=document.getElementById("kinkUpload");
+kinkInput.addEventListener("change",evt=>{
+  const f=evt.target.files[0];
+  if(!f) return;
+  const r=new FileReader();
+  r.onload=e=> analyzeKinkIndex(e.target.result);
+  r.readAsDataURL(f);
+});
+
+function analyzeKinkIndex(url){
+  const img=new Image();
+  img.onload=()=>{
+
+    const cvs=document.createElement("canvas");
+    const ctx=cvs.getContext("2d");
+    cvs.width=256;
+    cvs.height=144;
+
+    ctx.drawImage(img,0,0,256,144);
+    const d=ctx.getImageData(0,0,256,144).data;
+
+    let bright=0,dark=0,haze=0,n=0;
+
+    for(let i=0;i<d.length;i+=4){
+      const r=d[i],g=d[i+1],b=d[i+2];
+      const avg=(r+g+b)/3;
+      bright+=avg;
+      n++;
+
+      const sat=Math.max(r,g,b)-Math.min(r,g,b);
+      const val=Math.max(r,g,b)/255;
+
+      if(val>0.6&&sat<30) haze++;
+      if(val<0.35) dark++;
+    }
+
+    const hazePct=haze/n*100;
+    const darkPct=dark/n*100;
+    const avgBright=bright/n;
+
+    let evapo=4.5+0.012*hazePct+0.018*darkPct+0.001*(255-avgBright);
+    evapo=Math.max(4.0,Math.min(6.5,evapo));
+
+    let shear=(darkPct>20)?2:(darkPct>10)?1:0;
+
+    let idx=45*(0.6*shear/2+0.4*((evapo-4.8)/(6.2-4.8)))
+           +25*(0.4*(darkPct/100)+0.35*(hazePct/100))
+           +10;
+
+    idx=Math.max(0,Math.min(100,idx));
+
+    updateKinkDisplay(idx);
+  };
+
+  img.src=url;
+}
+
+function updateKinkDisplay(idx){
+  const box=document.getElementById("kinkBox");
+  const val=document.getElementById("kinkVal");
+  const cat=document.getElementById("kinkCat");
+  const bar=document.getElementById("kinkBar");
+  const hazard=document.getElementById("hazard");
+
+  let label,cls,hz;
+
+  if(idx<30){
+    label="LOW";
+    cls="low";
+    hz="Stable — No Risk";
+    box.classList.remove("alert");
+  }
+  else if(idx<50){
+    label="ELEVATED";
+    cls="elev";
+    hz="Severe Storm Potential";
+    box.classList.remove("alert");
+  }
+  else{
+    label="LIKELY";
+    cls="high";
+    hz="⚠️ Tornado Potential";
+    box.classList.add("alert");
+  }
+
+  val.textContent=Math.round(idx);
+  cat.textContent=label;
+  cat.className=cls;
+  bar.style.width=idx+"%";
+  bar.className="bar "+cls;
+  hazard.textContent=hz;
+}
+
+/* DRAWING SYSTEM */
+const drawCanvas=document.getElementById("drawCanvas");
+const dctx=drawCanvas.getContext("2d");
+
+function resizeCanvas(){
+  drawCanvas.width=container.clientWidth;
+  drawCanvas.height=container.clientHeight;
+}
+resizeCanvas();
+window.addEventListener("resize",resizeCanvas);
+
+let drawMode="none";
+let drawing=false;
+let lastX=0,lastY=0;
+
+drawBtn.onclick=()=>{
+  drawMode="draw";
+  setMode("none");
+};
+
+textBtn.onclick=()=>{
+  drawMode="text";
+  setMode("none");
+};
+
+clearDraw.onclick=()=>{
+  dctx.clearRect(0,0,drawCanvas.width,drawCanvas.height);
+};
+
+drawCanvas.addEventListener("mousedown",e=>{
+  if(drawMode!=="draw") return;
+  drawing=true;
+  lastX=e.offsetX;
+  lastY=e.offsetY;
+});
+
+drawCanvas.addEventListener("mousemove",e=>{
+  if(!drawing||drawMode!=="draw") return;
+
+  dctx.strokeStyle="#00ffff";
+  dctx.lineWidth=3;
+  dctx.lineCap="round";
+
+  dctx.beginPath();
+  dctx.moveTo(lastX,lastY);
+  dctx.lineTo(e.offsetX,e.offsetY);
+  dctx.stroke();
+
+  lastX=e.offsetX;
+  lastY=e.offsetY;
+});
+
+drawCanvas.addEventListener("mouseup",()=>drawing=false);
+drawCanvas.addEventListener("mouseleave",()=>drawing=false);
+
+drawCanvas.addEventListener("click",e=>{
+  if(drawMode!=="text") return;
+  let text=prompt("Enter text:");
+  if(!text) return;
+
+  dctx.font="22px Arial";
+  dctx.fillStyle="red";
+  dctx.fillText(text,e.offsetX,e.offsetY);
+});
+</script>
+
+<h1>Patent Pending by SONFIRE ALMANACS LLC</h1>
+</body>
+</html>
+
