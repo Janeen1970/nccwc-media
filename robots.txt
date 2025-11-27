@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://janeen1970.github.io/nccwc-media/sitemap.xml
