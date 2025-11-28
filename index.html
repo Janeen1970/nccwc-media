@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-
+N
   <!-- ============================= -->
   <!--       SEO OPTIMIZATION        -->
   <!-- ============================= -->
@@ -372,6 +372,106 @@
     </div>
   </div>
 
+  <!-- GROUPED NWS OFFICE TICKER -->
+<style>
+#group-ticker {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #000;
+  color: #ff4444;
+  font-size: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: 6px 0;
+  z-index: 99999;
+  border-top: 1px solid #550000;
+}
+
+#group-scroll {
+  display: inline-block;
+  padding-left: 300%;
+  animation: gscroll 2400s linear infinite;
+}
+
+@keyframes gscroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-100%); }
+}
+</style>
+
+<div id="group-ticker">
+  <div id="group-scroll">Loading NWS office advisories…</div>
+</div>
+
+<script>
+async function loadGroupedNWS() {
+  try {
+    const res = await fetch("https://api.weather.gov/alerts/active");
+    const data = await res.json();
+
+    if (!data.features || data.features.length === 0) {
+      document.getElementById("group-scroll").textContent =
+        "No active NWS alerts nationwide.";
+      return;
+    }
+
+    const offices = {};
+
+    for (const f of data.features) {
+      const p = f.properties;
+      const wfo = p.senderName || "Unknown Office";
+      const event = p.event || "Alert";
+      const area = p.areaDesc || "";
+
+      let counties = area
+        .split(";")
+        .map(s => s.trim())
+        .filter(Boolean)
+        .map(region => {
+          let parts = region.split(",");
+          if (parts.length === 2) {
+            return parts[0].trim() + " County";
+          }
+          return region;
+        });
+
+      counties = [...new Set(counties)];
+
+      if (!offices[wfo]) offices[wfo] = {};
+      if (!offices[wfo][event]) offices[wfo][event] = [];
+
+      offices[wfo][event].push(...counties);
+    }
+
+    let output = "NWS Alerts:  ";
+
+    for (const office in offices) {
+      output += ` | ${office}: `;
+
+      const advisoryList = offices[office];
+
+      for (const adv in advisoryList) {
+        const countyString = advisoryList[adv].join(", ");
+        output += ` ${adv} → [${countyString}] `;
+      }
+    }
+
+    document.getElementById("group-scroll").textContent = output;
+
+  } catch (err) {
+    document.getElementById("group-scroll").textContent =
+      "Error loading NWS office feed.";
+  }
+}
+
+loadGroupedNWS();
+setInterval(loadGroupedNWS, 60000);
+</script>
+
+
+
+
   <div class="wrap">
     <header class="header">
       <div class="logo">📻</div>
@@ -609,3 +709,5 @@
 
 </body>
 </html>
+
+
