@@ -360,6 +360,53 @@
       font-size: 11px;
       color: #9ca3af;
     }
+
+    /* WALT MODEL TICKER STYLES */
+#walt-ticker {
+  width: 100%;
+  background: #000;
+  color: #0f0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+  box-sizing: border-box;
+}
+
+#walt-ticker-label {
+  padding: 4px 12px;
+  background: #111;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border-right: 1px solid #333;
+  white-space: nowrap;
+}
+
+#walt-ticker-window {
+  overflow: hidden;
+  flex: 1;
+  position: relative;
+}
+
+#walt-ticker-scroll {
+  display: inline-block;
+  white-space: nowrap;
+  padding-left: 100%;
+  animation: waltTicker 30s linear infinite; /* ⏱ change 30s to make it faster/slower */
+}
+
+/* Pause scroll when mouse is over it (optional but nice) */
+#walt-ticker:hover #walt-ticker-scroll {
+  animation-play-state: paused;
+}
+
+@keyframes waltTicker {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
   </style>
 </head>
 
@@ -574,7 +621,16 @@ loadFourOfficeNWS();
 setInterval(loadFourOfficeNWS, 60000);
 </script>
 
-
+<!-- WALT MODEL TICKER -->
+<div id="walt-ticker">
+  <div id="walt-ticker-label">WALT MODEL</div>
+  <div id="walt-ticker-window">
+    <div id="walt-ticker-scroll">
+      <!-- ✏️ EDIT THIS TEXT MANUALLY FOR EACH NEW UPDATE -->
+      WALT Model Update: No severe weather expected across the USA.  Last update: Nov 29, 2025 – 7:51 PM CST
+    </div>
+  </div>
+</div>
 
 
   <div class="wrap">
