@@ -95,35 +95,10 @@
       to   { transform: translateX(-100%); }
     }
 
-    /* ========== NWS TICKERS ========== */
-
-    /* Nationwide */
-    #group-ticker {
-      position: fixed;
-      bottom: 0;
-      width: 100%;
-      background: #000;
-      color: #ff4444;
-      font-size: 20px;
-      white-space: nowrap;
-      overflow: hidden;
-      padding: 6px 0;
-      z-index: 99999;
-    }
-    #group-scroll {
-      display: inline-block;
-      padding-left: 300%;
-      animation: gscroll 2400s linear infinite;
-    }
-    @keyframes gscroll {
-      from { transform: translateX(0); }
-      to   { transform: translateX(-100%); }
-    }
-
-    /* Four-office */
+    /* ===== 4-OFFICE TICKER ===== */
     #fouroffice-ticker {
       position: fixed;
-      bottom: 32px;
+      bottom: 0;
       width: 100%;
       background: #111;
       color: #ffeb3b;
@@ -198,7 +173,7 @@
   <div id="live-bar-scroll"><span id="live-bar-text">Loading NCCWC bulletin…</span></div>
 </div>
 
-<!-- WALT TICKER (directly under bulletin bar) -->
+<!-- WALT TICKER -->
 <div id="walt-ticker">
   <div id="walt-ticker-label">WALT</div>
   <div id="walt-ticker-window">
@@ -209,11 +184,6 @@
 <!-- Four-office ticker -->
 <div id="fouroffice-ticker">
   <div id="fouroffice-scroll">Loading Oklahoma–Arkansas office warnings…</div>
-</div>
-
-<!-- Nationwide ticker -->
-<div id="group-ticker">
-  <div id="group-scroll">Loading NWS nationwide alerts…</div>
 </div>
 
 <div class="wrap">
@@ -275,32 +245,7 @@ async function loadWaltTicker() {
 loadWaltTicker();
 setInterval(loadWaltTicker, 20000);
 
-/* ===== Nationwide NWS Alerts ===== */
-async function loadGroupedNWS() {
-  try {
-    const res = await fetch("https://api.weather.gov/alerts/active");
-    const data = await res.json();
-
-    if (!data.features.length) {
-      document.getElementById("group-scroll").textContent =
-        "No active NWS alerts nationwide.";
-      return;
-    }
-
-    const out = data.features.slice(0,20)
-                 .map(f => f.properties.event)
-                 .join(" • ");
-
-    document.getElementById("group-scroll").textContent = out;
-  } catch {
-    document.getElementById("group-scroll").textContent =
-      "Error loading NWS alerts.";
-  }
-}
-loadGroupedNWS();
-setInterval(loadGroupedNWS, 60000);
-
-/* ===== Regional 4-Office Alerts ===== */
+/* ===== 4-OFFICE NWS ALERTS ===== */
 async function loadFourOfficeNWS() {
   try {
     const res = await fetch("https://api.weather.gov/alerts/active");
@@ -408,13 +353,16 @@ function prevTrack() {
 document.getElementById("btn-next").addEventListener("click", nextTrack);
 document.getElementById("btn-prev").addEventListener("click", prevTrack);
 
-document.getElementById("btn-play").addEventListener("click", () => {
+/* FIXED PLAY BUTTON */
+const playBtn = document.getElementById("btn-play");
+
+playBtn.addEventListener("click", () => {
   if (audioEl.paused) {
     audioEl.play();
-    document.getElementById("btn-play").textContent = "⏸ Pause";
+    playBtn.textContent = "⏸ Pause";
   } else {
     audioEl.pause();
-    document.getElementById("btn-play").textContent = "▶️ Play";
+    playBtn.textContent = "▶️ Play";
   }
 });
 
