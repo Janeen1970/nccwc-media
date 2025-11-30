@@ -44,10 +44,6 @@
   }
   </script>
 
-  <!-- ============================= -->
-  <!-- CSS STYLES (INCLUDING WALT TICKER) -->
-  <!-- ============================= -->
-
 <style>
 :root {
   --bg: #020617;
@@ -120,7 +116,7 @@ body {
   white-space: nowrap;
   display: inline-block;
   padding-left: 100%;
-  animation: waltTicker 30s linear infinite; 
+  animation: waltTicker 30s linear infinite;
 }
 @keyframes waltTicker {
   0% { transform: translateX(0); }
@@ -130,7 +126,7 @@ body {
   animation-play-state: paused;
 }
 
-/* ===== Group Ticker (Bottom) ===== */
+/* ===== Group Ticker ===== */
 #group-ticker {
   position: fixed;
   bottom: 0;
@@ -180,18 +176,14 @@ body {
 </head>
 <body>
 
-<!-- ============================= -->
 <!-- LIVE BULLETIN BAR -->
-<!-- ============================= -->
 <div id="live-bar">
   <div id="live-bar-scroll">
     <span id="live-bar-text">Loading latest NCCWC update…</span>
   </div>
 </div>
 
-<!-- ============================= -->
-<!-- ⭐ ADDED: WALT MODEL TICKER ⭐ -->
-<!-- ============================= -->
+<!-- WALT MODEL TICKER -->
 <div id="walt-ticker">
   <div id="walt-ticker-label">WALT</div>
   <div id="walt-ticker-window">
@@ -199,22 +191,18 @@ body {
   </div>
 </div>
 
-<!-- ============================= -->
 <!-- GROUPED NWS OFFICE TICKER -->
-<!-- ============================= -->
 <div id="group-ticker">
   <div id="group-scroll">Loading NWS office advisories…</div>
 </div>
 
-<!-- ============================= -->
 <!-- FOUR-OFFICE TICKER -->
-<!-- ============================= -->
 <div id="fouroffice-ticker">
   <div id="fouroffice-scroll">Loading Oklahoma–Arkansas office warnings…</div>
 </div>
 
 <!-- ===================================================== -->
-<!-- PAGE CONTENT (unchanged) -->
+<!-- PAGE CONTENT -->
 <!-- ===================================================== -->
 
 <div class="wrap">
@@ -229,7 +217,47 @@ body {
     </div>
   </header>
 
-  <!-- your radio player + playlist (unchanged) -->
+  <!-- ⭐ RADIO PLAYER + PLAYLIST RESTORED HERE ⭐ -->
+  <div class="grid">
+    <section class="card">
+      <div class="card-header">
+        <h2>Now Playing</h2>
+        <small id="track-count-label">Loading playlist…</small>
+      </div>
+
+      <h3 id="now-title" class="now-playing-title">—</h3>
+      <div id="now-sub" class="now-playing-sub">NCCWC Media • Auto playlist</div>
+
+      <div class="audio-shell">
+        <audio id="audio" controls preload="none"></audio>
+
+        <div class="controls-row">
+          <button class="btn" id="btn-prev" type="button">⏮ Prev</button>
+          <button class="btn" id="btn-play" type="button">▶️ Play</button>
+          <button class="btn" id="btn-next" type="button">Next ⏭</button>
+          <span class="pill">🔁 Auto-advance • Loops end-to-end</span>
+        </div>
+      </div>
+
+      <div id="status" class="status-text"></div>
+    </section>
+
+    <aside class="card">
+      <div class="card-header">
+        <h2>Playlist</h2>
+        <small>Click a title to jump</small>
+      </div>
+
+      <ul id="playlist" class="playlist"></ul>
+
+      <div class="note-block">
+        <strong>How this works:</strong><br>
+        • All <code>.mp3</code> files in this GitHub repo root are loaded automatically.<br>
+        • Upload an MP3 to add a new song.<br>
+        • The red scrolling bar reads <code>bulletin.txt</code> every 20 seconds.
+      </div>
+    </aside>
+  </div> <!-- END GRID -->
 </div>
 
 <!-- ===================================================== -->
@@ -251,7 +279,7 @@ async function loadLiveBulletin() {
 loadLiveBulletin();
 setInterval(loadLiveBulletin, 20000);
 
-/* ⭐ WALT MODEL TXT ⭐ */
+/* WALT TXT */
 async function loadWaltTicker() {
   const el = document.getElementById("walt-ticker-scroll");
   try {
@@ -321,10 +349,134 @@ async function loadFourOfficeNWS() {
 }
 loadFourOfficeNWS();
 setInterval(loadFourOfficeNWS, 60000);
+
+/************************************************/
+/*** RADIO PLAYER OPERATIONS (unchanged code) ***/
+/************************************************/
+
+const GH_OWNER = 'Janeen1970';
+const GH_REPO  = 'nccwc-media';
+const API_URL  = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`;
+
+const audioEl = document.getElementById('audio');
+const playlistEl = document.getElementById('playlist');
+const nowTitleEl = document.getElementById('now-title');
+const nowSubEl = document.getElementById('now-sub');
+const statusEl = document.getElementById('status');
+const trackCountEl = document.getElementById('track-count-label');
+const btnPrev = document.getElementById('btn-prev');
+const btnPlay = document.getElementById('btn-play');
+const btnNext = document.getElementById('btn-next');
+
+let tracks = [];
+let currentIndex = 0;
+
+function niceTitle(name) {
+  return decodeURIComponent(name.replace(/\.mp3$/i, '').replace(/[_]+/g, ' ')).trim();
+}
+
+function renderPlaylist() {
+  playlistEl.innerHTML = '';
+  tracks.forEach((t, i) => {
+    const li = document.createElement('li');
+    li.className = 'track';
+    if (i === currentIndex) li.classList.add('badge-playing');
+    li.dataset.index = i;
+
+    li.innerHTML = `
+      <div class="track-index">${i + 1}</div>
+      <div class="track-main">
+        <div class="track-title">${t.title}</div>
+        <div class="track-meta">${t.name}</div>
+      </div>
+      <div class="track-badge">${i === currentIndex ? 'Now' : 'Song'}</div>
+    `;
+
+    li.addEventListener('click', () => loadTrack(i, true));
+    playlistEl.appendChild(li);
+  });
+}
+
+function updatePlaylistHighlight() {
+  Array.from(playlistEl.children).forEach((li, idx) => {
+    li.classList.toggle('badge-playing', idx === currentIndex);
+    const badge = li.querySelector('.track-badge');
+    badge.textContent = idx === currentIndex ? 'Now' : 'Song';
+  });
+}
+
+function loadTrack(index, autoplay = false) {
+  currentIndex = (index + tracks.length) % tracks.length;
+  const t = tracks[currentIndex];
+
+  audioEl.src = t.url;
+  nowTitleEl.textContent = t.title;
+  nowSubEl.textContent = "Original NCCWC Track • GitHub Audio Stream";
+  updatePlaylistHighlight();
+
+  if (autoplay) {
+    audioEl.play().catch(() => {
+      statusEl.textContent = "Tap ▶️ Play to allow audio.";
+    });
+  }
+}
+
+function playPause() {
+  if (audioEl.paused || audioEl.ended) {
+    audioEl.play();
+    btnPlay.textContent = "⏸ Pause";
+  } else {
+    audioEl.pause();
+    btnPlay.textContent = "▶️ Play";
+  }
+}
+
+function nextTrack() {
+  loadTrack(currentIndex + 1, true);
+}
+function prevTrack() {
+  loadTrack(currentIndex - 1, true);
+}
+
+async function loadTracksFromGitHub() {
+  statusEl.textContent = "Loading MP3 list from GitHub…";
+  try {
+    const res = await fetch(API_URL);
+    const data = await res.json();
+    const mp3s = data.filter(item => 
+      item.type === 'file' && item.name.toLowerCase().endsWith('.mp3')
+    );
+
+    tracks = mp3s
+      .map(item => ({
+        name: item.name,
+        title: niceTitle(item.name),
+        url: item.download_url
+      }))
+      .sort((a, b) => a.name.localeCompare(b.name));
+
+    trackCountEl.textContent = `${tracks.length} tracks loaded`;
+    renderPlaylist();
+    loadTrack(0, false);
+    statusEl.textContent = "";
+
+  } catch (err) {
+    statusEl.textContent = "Error loading playlist.";
+  }
+}
+
+btnPlay.addEventListener('click', playPause);
+btnNext.addEventListener('click', nextTrack);
+btnPrev.addEventListener('click', prevTrack);
+
+audioEl.addEventListener('ended', nextTrack);
+
+loadTracksFromGitHub();
 </script>
 
 </body>
 </html>
+
 
 
 
