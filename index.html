@@ -3,14 +3,9 @@
 <head>
   <meta charset="utf-8" />
 
-  <!-- ============================= -->
-  <!--       SEO OPTIMIZATION        -->
-  <!-- ============================= -->
-
   <title>NCCWC Media — NCCWC Radio, Weather Tools & WALT Model Forecasting</title>
 
   <meta name="description" content="NCCWC Media features NCCWC Radio, original music, radar tools, severe storm videos, tornado forecasting, and the WALT Model for Eastern Oklahoma and Western Arkansas.">
-
   <meta name="keywords" content="NCCWC Media, NCCWC Radio, WALT Model, tornado forecast, Oklahoma weather, Arkansas storms, severe weather audio, Wayne Adams, GitHub radio, storm videos, music playlist">
 
   <meta name="author" content="Wayne Adams">
@@ -19,171 +14,191 @@
 
   <link rel="canonical" href="https://janeen1970.github.io/nccwc-media/">
 
-  <meta property="og:title" content="NCCWC Media — Live Radio, Weather Tools & WALT Model">
-  <meta property="og:description" content="Original songs, storm coverage, radar, and WALT Model forecasting from Eastern Oklahoma & Western Arkansas.">
-  <meta property="og:url" content="https://janeen1970.github.io/nccwc-media/">
-  <meta property="og:type" content="website">
-  <meta property="og:image" content="https://janeen1970.github.io/nccwc-media/preview.jpg">
-
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="NCCWC Media — NCCWC Radio & WALT Model">
-  <meta name="twitter:description" content="Music, radar, storms, alerts, and the WALT Model.">
-  <meta name="twitter:image" content="https://janeen1970.github.io/nccwc-media/preview.jpg">
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Website",
-    "name": "NCCWC Media",
-    "url": "https://janeen1970.github.io/nccwc-media/",
-    "description": "NCCWC Radio, original music, radar tools, storm videos, and the WALT Model.",
-    "publisher": {
-      "@type": "Person",
-      "name": "Wayne Adams"
+  <style>
+    :root {
+      --bg: #020617;
+      --card: #0b1120;
+      --muted: #9ca3af;
+      --text: #f9fafb;
+      --accent: #38bdf8;
+      --line: #1f2937;
+      --danger: #b91c1c;
     }
-  }
-  </script>
 
-<style>
-:root {
-  --bg: #020617;
-  --card: #0b1120;
-  --card-soft: #020617;
-  --muted: #9ca3af;
-  --text: #f9fafb;
-  --accent: #38bdf8;
-  --line: #1f2937;
-  --ok: #22c55e;
-  --danger: #b91c1c;
-}
+    body {
+      margin: 0;
+      padding-top: 56px;
+      background: radial-gradient(1200px 800px at 20% -10%, #111827 0, #020617 55%, #000 100%);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Ubuntu, Arial;
+      color: var(--text);
+    }
 
-body {
-  margin: 0;
-  padding-top: 56px;
-  background: radial-gradient(1200px 800px at 20% -10%, #111827 0, #020617 55%, #000 100%);
-  color: var(--text);
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Ubuntu, Arial;
-}
+    /* ===== BULLETIN BAR ===== */
+    #live-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 56px;
+      background: var(--danger);
+      color: #fee2e2;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      z-index: 9999;
+    }
+    #live-bar-scroll {
+      white-space: nowrap;
+      display: inline-block;
+      padding-left: 100%;
+      animation: ticker 150s linear infinite;
+    }
+    #live-bar-text {
+      font-size: 18px;
+      font-weight: 700;
+      padding: 0 12px;
+    }
 
-/* ===== SCROLLING Live Bulletin Bar ===== */
-#live-bar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 56px;
-  background: var(--danger);
-  color: #fee2e2;
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-  z-index: 9999;
-}
-#live-bar-scroll {
-  white-space: nowrap;
-  display: inline-block;
-  padding-left: 100%;
-  animation: ticker 150s linear infinite;
-}
-@keyframes ticker {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
+    @keyframes ticker {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-100%); }
+    }
 
-/* ===== WALT MODEL TICKER ===== */
-#walt-ticker {
-  width: 100%;
-  background: #000;
-  color: #0f0;
-  font-size: 14px;
-  font-family: system-ui, -apple-system, Segoe UI;
-  display: flex;
-  align-items: center;
-  border-top: 1px solid #333;
-  border-bottom: 1px solid #333;
-}
-#walt-ticker-label {
-  padding: 4px 12px;
-  background: #111;
-  font-weight: bold;
-  border-right: 1px solid #333;
-}
-#walt-ticker-window {
-  overflow: hidden;
-  flex: 1;
-}
-#walt-ticker-scroll {
-  white-space: nowrap;
-  display: inline-block;
-  padding-left: 100%;
-  animation: waltTicker 30s linear infinite;
-}
-@keyframes waltTicker {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
-#walt-ticker:hover #walt-ticker-scroll {
-  animation-play-state: paused;
-}
+    /* ===== WALT TICKER ===== */
+    #walt-ticker {
+      width: 100%;
+      background: #000;
+      color: #0f0;
+      display: flex;
+      align-items: center;
+      border-top: 1px solid #333;
+      border-bottom: 1px solid #333;
+    }
+    #walt-ticker-label {
+      padding: 4px 12px;
+      background: #111;
+      border-right: 1px solid #333;
+      font-weight: bold;
+    }
+    #walt-ticker-window {
+      flex: 1;
+      overflow: hidden;
+    }
+    #walt-ticker-scroll {
+      display: inline-block;
+      white-space: nowrap;
+      padding-left: 100%;
+      animation: waltTicker 30s linear infinite;
+    }
+    @keyframes waltTicker {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-100%); }
+    }
 
-/* ===== Group Ticker ===== */
-#group-ticker {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  background: #000;
-  color: #ff4444;
-  font-size: 20px;
-  white-space: nowrap;
-  overflow: hidden;
-  padding: 6px 0;
-  z-index: 99999;
-}
-#group-scroll {
-  display: inline-block;
-  padding-left: 300%;
-  animation: gscroll 2400s linear infinite;
-}
-@keyframes gscroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
+    /* ========== NWS TICKERS ========== */
 
-/* ===== Four Office Ticker ===== */
-#fouroffice-ticker {
-  position: fixed;
-  bottom: 32px;
-  width: 100%;
-  background: #111;
-  color: #ffeb3b;
-  font-size: 20px;
-  white-space: nowrap;
-  overflow: hidden;
-  padding: 5px 0;
-  z-index: 100000;
-}
-#fouroffice-scroll {
-  display: inline-block;
-  padding-left: 300%;
-  animation: fourScroll 100s linear infinite;
-}
-@keyframes fourScroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
-</style>
+    /* Nationwide */
+    #group-ticker {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      background: #000;
+      color: #ff4444;
+      font-size: 20px;
+      white-space: nowrap;
+      overflow: hidden;
+      padding: 6px 0;
+      z-index: 99999;
+    }
+    #group-scroll {
+      display: inline-block;
+      padding-left: 300%;
+      animation: gscroll 2400s linear infinite;
+    }
+    @keyframes gscroll {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-100%); }
+    }
 
+    /* Four-office */
+    #fouroffice-ticker {
+      position: fixed;
+      bottom: 32px;
+      width: 100%;
+      background: #111;
+      color: #ffeb3b;
+      font-size: 20px;
+      white-space: nowrap;
+      overflow: hidden;
+      padding: 5px 0;
+      z-index: 100000;
+    }
+    #fouroffice-scroll {
+      display: inline-block;
+      padding-left: 300%;
+      animation: fourScroll 100s linear infinite;
+    }
+    @keyframes fourScroll {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-100%); }
+    }
+
+    /* ===== RADIO LAYOUT ===== */
+    .wrap {
+      max-width: 1100px;
+      margin: 80px auto;
+      padding: 0 16px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 2fr 1.3fr;
+      gap: 16px;
+    }
+    @media (max-width: 900px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+
+    .card {
+      background: #020617;
+      border-radius: 18px;
+      border: 1px solid var(--line);
+      padding: 16px;
+    }
+
+    .playlist {
+      max-height: 460px;
+      overflow-y: auto;
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
+
+    .track {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 10px;
+      cursor: pointer;
+      border-bottom: 1px solid #0f172a;
+    }
+    .track:last-child { border-bottom: none; }
+
+    .track.badge-playing {
+      background: rgba(56,189,248,0.12);
+      border-left: 2px solid var(--accent);
+    }
+  </style>
 </head>
+
 <body>
 
-<!-- LIVE BULLETIN BAR -->
+<!-- BULLETIN BAR -->
 <div id="live-bar">
-  <div id="live-bar-scroll">
-    <span id="live-bar-text">Loading latest NCCWC update…</span>
-  </div>
+  <div id="live-bar-scroll"><span id="live-bar-text">Loading NCCWC bulletin…</span></div>
 </div>
 
-<!-- WALT MODEL TICKER -->
+<!-- WALT TICKER (directly under bulletin bar) -->
 <div id="walt-ticker">
   <div id="walt-ticker-label">WALT</div>
   <div id="walt-ticker-window">
@@ -191,129 +206,101 @@ body {
   </div>
 </div>
 
-<!-- GROUPED NWS OFFICE TICKER -->
-<div id="group-ticker">
-  <div id="group-scroll">Loading NWS office advisories…</div>
-</div>
-
-<!-- FOUR-OFFICE TICKER -->
+<!-- Four-office ticker -->
 <div id="fouroffice-ticker">
   <div id="fouroffice-scroll">Loading Oklahoma–Arkansas office warnings…</div>
 </div>
 
-<!-- ===================================================== -->
-<!-- PAGE CONTENT -->
-<!-- ===================================================== -->
-
-<div class="wrap">
-  <header class="header">
-    <div class="logo">📻</div>
-    <div class="title-group">
-      <h1>NCCWC Radio</h1>
-      <p class="tagline">Original songs + live severe weather context.</p>
-    </div>
-    <div class="on-air-dot">
-      <span></span><div>Always On</div>
-    </div>
-  </header>
-
-  <!-- ⭐ RADIO PLAYER + PLAYLIST RESTORED HERE ⭐ -->
-  <div class="grid">
-    <section class="card">
-      <div class="card-header">
-        <h2>Now Playing</h2>
-        <small id="track-count-label">Loading playlist…</small>
-      </div>
-
-      <h3 id="now-title" class="now-playing-title">—</h3>
-      <div id="now-sub" class="now-playing-sub">NCCWC Media • Auto playlist</div>
-
-      <div class="audio-shell">
-        <audio id="audio" controls preload="none"></audio>
-
-        <div class="controls-row">
-          <button class="btn" id="btn-prev" type="button">⏮ Prev</button>
-          <button class="btn" id="btn-play" type="button">▶️ Play</button>
-          <button class="btn" id="btn-next" type="button">Next ⏭</button>
-          <span class="pill">🔁 Auto-advance • Loops end-to-end</span>
-        </div>
-      </div>
-
-      <div id="status" class="status-text"></div>
-    </section>
-
-    <aside class="card">
-      <div class="card-header">
-        <h2>Playlist</h2>
-        <small>Click a title to jump</small>
-      </div>
-
-      <ul id="playlist" class="playlist"></ul>
-
-      <div class="note-block">
-        <strong>How this works:</strong><br>
-        • All <code>.mp3</code> files in this GitHub repo root are loaded automatically.<br>
-        • Upload an MP3 to add a new song.<br>
-        • The red scrolling bar reads <code>bulletin.txt</code> every 20 seconds.
-      </div>
-    </aside>
-  </div> <!-- END GRID -->
+<!-- Nationwide ticker -->
+<div id="group-ticker">
+  <div id="group-scroll">Loading NWS nationwide alerts…</div>
 </div>
 
-<!-- ===================================================== -->
-<!-- JAVASCRIPT SECTION -->
-<!-- ===================================================== -->
+<div class="wrap">
+
+  <!-- RADIO -->
+  <div class="grid">
+    <section class="card">
+      <h2>Now Playing</h2>
+      <small id="track-count-label">Loading playlist…</small>
+      <h3 id="now-title">—</h3>
+      <div id="now-sub">NCCWC Media • Auto playlist</div>
+
+      <audio id="audio" controls preload="none"></audio>
+
+      <div>
+        <button id="btn-prev">Prev</button>
+        <button id="btn-play">▶️ Play</button>
+        <button id="btn-next">Next</button>
+      </div>
+
+      <div id="status"></div>
+    </section>
+
+    <!-- Playlist -->
+    <aside class="card">
+      <h2>Playlist</h2>
+      <ul id="playlist"></ul>
+      <p>All MP3 files in repo root load automatically.</p>
+    </aside>
+  </div>
+</div>
 
 <script>
-/* LIVE BULLETIN TXT */
+/* ===== BULLETIN TXT ===== */
 async function loadLiveBulletin() {
-  const barTextEl = document.getElementById('live-bar-text');
+  const el = document.getElementById("live-bar-text");
   try {
-    const res = await fetch('bulletin.txt?_=' + Date.now());
-    const text = (await res.text()).trim();
-    barTextEl.textContent = text || "NCCWC: No active bulletin.";
+    const res = await fetch("bulletin.txt?_=" + Date.now());
+    const txt = (await res.text()).trim();
+    el.textContent = txt || "NCCWC: No active bulletin.";
   } catch {
-    barTextEl.textContent = "NCCWC: Error loading bulletin.";
+    el.textContent = "NCCWC: Error loading bulletin.";
   }
 }
 loadLiveBulletin();
 setInterval(loadLiveBulletin, 20000);
 
-/* WALT TXT */
+/* ===== WALT TXT ===== */
 async function loadWaltTicker() {
   const el = document.getElementById("walt-ticker-scroll");
   try {
     const res = await fetch("walt.txt?_=" + Date.now());
-    const text = (await res.text()).trim();
-    el.textContent = text || "WALT Model: No active alert.";
+    const txt = (await res.text()).trim();
+    el.textContent = txt || "WALT Model: No active alert.";
   } catch {
-    el.textContent = "WALT Model: Error loading file.";
+    el.textContent = "WALT Model: Error loading.";
   }
 }
 loadWaltTicker();
 setInterval(loadWaltTicker, 20000);
 
-/* Grouped NWS ticker */
+/* ===== Nationwide NWS Alerts ===== */
 async function loadGroupedNWS() {
   try {
     const res = await fetch("https://api.weather.gov/alerts/active");
     const data = await res.json();
+
     if (!data.features.length) {
       document.getElementById("group-scroll").textContent =
-      "No active NWS alerts nationwide.";
+        "No active NWS alerts nationwide.";
       return;
     }
-    const out = data.features.slice(0,10).map(f => f.properties.event).join(" • ");
+
+    const out = data.features.slice(0,20)
+                 .map(f => f.properties.event)
+                 .join(" • ");
+
     document.getElementById("group-scroll").textContent = out;
   } catch {
     document.getElementById("group-scroll").textContent =
-    "Error loading advisory feed.";
+      "Error loading NWS alerts.";
   }
 }
 loadGroupedNWS();
 setInterval(loadGroupedNWS, 60000);
 
-/* Four office ticker */
+/* ===== Regional 4-Office Alerts ===== */
 async function loadFourOfficeNWS() {
   try {
     const res = await fetch("https://api.weather.gov/alerts/active");
@@ -332,7 +319,7 @@ async function loadFourOfficeNWS() {
 
     if (!alerts.length) {
       document.getElementById("fouroffice-scroll").textContent =
-      "No severe weather in Tulsa, Norman, Little Rock, or Shreveport.";
+        "No severe weather in Tulsa, Norman, Little Rock, or Shreveport.";
       return;
     }
 
@@ -344,90 +331,70 @@ async function loadFourOfficeNWS() {
 
   } catch {
     document.getElementById("fouroffice-scroll").textContent =
-    "Error loading office warnings.";
+      "Error loading regional warnings.";
   }
 }
 loadFourOfficeNWS();
 setInterval(loadFourOfficeNWS, 60000);
 
-/************************************************/
-/*** RADIO PLAYER OPERATIONS (unchanged code) ***/
-/************************************************/
+/* ===== RADIO PLAYER — ORIGINAL (NO DUPLICATES) ===== */
 
-const GH_OWNER = 'Janeen1970';
-const GH_REPO  = 'nccwc-media';
+const GH_OWNER = "Janeen1970";
+const GH_REPO  = "nccwc-media";
 const API_URL  = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`;
 
-const audioEl = document.getElementById('audio');
-const playlistEl = document.getElementById('playlist');
-const nowTitleEl = document.getElementById('now-title');
-const nowSubEl = document.getElementById('now-sub');
-const statusEl = document.getElementById('status');
-const trackCountEl = document.getElementById('track-count-label');
-const btnPrev = document.getElementById('btn-prev');
-const btnPlay = document.getElementById('btn-play');
-const btnNext = document.getElementById('btn-next');
+const audioEl = document.getElementById("audio");
+const playlistEl = document.getElementById("playlist");
+const nowTitleEl = document.getElementById("now-title");
+const nowSubEl = document.getElementById("now-sub");
+const statusEl = document.getElementById("status");
+const trackCountEl = document.getElementById("track-count-label");
 
 let tracks = [];
 let currentIndex = 0;
 
 function niceTitle(name) {
-  return decodeURIComponent(name.replace(/\.mp3$/i, '').replace(/[_]+/g, ' ')).trim();
+  return decodeURIComponent(
+    name.replace(/\.mp3$/i, "").replace(/[_]+/g, " ")
+  ).trim();
 }
 
 function renderPlaylist() {
-  playlistEl.innerHTML = '';
+  playlistEl.innerHTML = "";
   tracks.forEach((t, i) => {
-    const li = document.createElement('li');
-    li.className = 'track';
-    if (i === currentIndex) li.classList.add('badge-playing');
-    li.dataset.index = i;
+    const li = document.createElement("li");
+    li.className = "track";
+    if (i === currentIndex) li.classList.add("badge-playing");
 
     li.innerHTML = `
-      <div class="track-index">${i + 1}</div>
-      <div class="track-main">
-        <div class="track-title">${t.title}</div>
-        <div class="track-meta">${t.name}</div>
-      </div>
-      <div class="track-badge">${i === currentIndex ? 'Now' : 'Song'}</div>
+      <div>${i + 1}.</div>
+      <div class="track-main">${t.title}</div>
     `;
 
-    li.addEventListener('click', () => loadTrack(i, true));
+    li.addEventListener("click", () => loadTrack(i, true));
     playlistEl.appendChild(li);
   });
 }
 
 function updatePlaylistHighlight() {
   Array.from(playlistEl.children).forEach((li, idx) => {
-    li.classList.toggle('badge-playing', idx === currentIndex);
-    const badge = li.querySelector('.track-badge');
-    badge.textContent = idx === currentIndex ? 'Now' : 'Song';
+    li.classList.toggle("badge-playing", idx === currentIndex);
   });
 }
 
-function loadTrack(index, autoplay = false) {
+function loadTrack(index, autoplay=false) {
   currentIndex = (index + tracks.length) % tracks.length;
   const t = tracks[currentIndex];
 
   audioEl.src = t.url;
   nowTitleEl.textContent = t.title;
-  nowSubEl.textContent = "Original NCCWC Track • GitHub Audio Stream";
+  nowSubEl.textContent = "NCCWC Media • GitHub Stream";
   updatePlaylistHighlight();
 
   if (autoplay) {
     audioEl.play().catch(() => {
       statusEl.textContent = "Tap ▶️ Play to allow audio.";
     });
-  }
-}
-
-function playPause() {
-  if (audioEl.paused || audioEl.ended) {
-    audioEl.play();
-    btnPlay.textContent = "⏸ Pause";
-  } else {
-    audioEl.pause();
-    btnPlay.textContent = "▶️ Play";
   }
 }
 
@@ -438,45 +405,46 @@ function prevTrack() {
   loadTrack(currentIndex - 1, true);
 }
 
-async function loadTracksFromGitHub() {
-  statusEl.textContent = "Loading MP3 list from GitHub…";
-  try {
-    const res = await fetch(API_URL);
-    const data = await res.json();
-    const mp3s = data.filter(item => 
-      item.type === 'file' && item.name.toLowerCase().endsWith('.mp3')
-    );
+document.getElementById("btn-next").addEventListener("click", nextTrack);
+document.getElementById("btn-prev").addEventListener("click", prevTrack);
 
-    tracks = mp3s
-      .map(item => ({
-        name: item.name,
-        title: niceTitle(item.name),
-        url: item.download_url
-      }))
-      .sort((a, b) => a.name.localeCompare(b.name));
-
-    trackCountEl.textContent = `${tracks.length} tracks loaded`;
-    renderPlaylist();
-    loadTrack(0, false);
-    statusEl.textContent = "";
-
-  } catch (err) {
-    statusEl.textContent = "Error loading playlist.";
+document.getElementById("btn-play").addEventListener("click", () => {
+  if (audioEl.paused) {
+    audioEl.play();
+    document.getElementById("btn-play").textContent = "⏸ Pause";
+  } else {
+    audioEl.pause();
+    document.getElementById("btn-play").textContent = "▶️ Play";
   }
+});
+
+audioEl.addEventListener("ended", nextTrack);
+
+async function loadTracks() {
+  statusEl.textContent = "Loading…";
+
+  const res = await fetch(API_URL);
+  const data = await res.json();
+
+  const mp3s = data.filter(x => x.name.toLowerCase().endsWith(".mp3"));
+
+  tracks = mp3s.map(x => ({
+    name: x.name,
+    title: niceTitle(x.name),
+    url: x.download_url
+  })).sort((a,b)=>a.name.localeCompare(b.name));
+
+  trackCountEl.textContent = `${tracks.length} tracks loaded`;
+
+  renderPlaylist();
+  loadTrack(0);
+  statusEl.textContent = "";
 }
-
-btnPlay.addEventListener('click', playPause);
-btnNext.addEventListener('click', nextTrack);
-btnPrev.addEventListener('click', prevTrack);
-
-audioEl.addEventListener('ended', nextTrack);
-
-loadTracksFromGitHub();
+loadTracks();
 </script>
 
 </body>
 </html>
-
 
 
 
