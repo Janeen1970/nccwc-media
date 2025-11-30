@@ -1,10 +1,6 @@
 No severe weather expected in Eastern Oklahoma or Western Arkansas...... URGENT - WINTER WEATHER MESSAGE
 National Weather Service Little Rock AR
 1220 PM CST Sun Nov 30 2025
-
-ARZ005>008-014>017-024-025-031>034-039-042>046-052>056-062-063-123-
-130-137-138-140-141-223-230-237-238-240-241-340-341-010930-
-/O.NEW.KLZK.WW.Y.0006.251201T1200Z-251202T1200Z/
 Baxter-Fulton-Sharp-Randolph-Stone-Izard-Independence-Lawrence-
 Cleburne-Jackson-Conway-Faulkner-White-Woodruff-Perry-Garland-
 Saline-Pulaski-Lonoke-Prairie-Pike-Clark-Hot Spring-Grant-
@@ -64,10 +60,6 @@ $$
 URGENT - WINTER WEATHER MESSAGE
 National Weather Service Memphis TN
 1222 PM CST Sun Nov 30 2025
-
-ARZ009-018-026>028-035-036-048-MOZ113-115-TNZ001>004-019>022-048>052-
-054-055-010600-
-/O.NEW.KMEG.WW.Y.0003.251202T0000Z-251202T1200Z/
 Clay-Greene-Craighead-Poinsett-Mississippi-Cross-Crittenden-St.
 Francis-Dunklin-Pemiscot-Lake-Obion-Weakley-Henry-Dyer-Gibson-
 Carroll-Benton TN-Lauderdale-Tipton-Haywood-Crockett-Madison-
@@ -106,9 +98,6 @@ on stairs, sidewalks, and driveways. These surfaces could be icy and
 slippery, increasing your risk of a fall and injury......URGENT - WINTER WEATHER MESSAGE
 National Weather Service Topeka KS
 156 AM CST Sun Nov 30 2025
-
-KSZ008>012-020>024-026-034>040-054-055-302300-
-/O.NEW.KTOP.WW.Y.0009.251201T0900Z-251202T0000Z/
 Republic-Washington-Marshall-Nemaha-Brown-Cloud-Clay-Riley-
 Pottawatomie-Jackson-Jefferson-Ottawa-Dickinson-Geary-Morris-
 Wabaunsee-Shawnee-Douglas-Lyon-Osage-
@@ -152,8 +141,6 @@ URGENT - WINTER WEATHER MESSAGE
 National Weather Service Omaha/Valley NE
 959 AM CST Sun Nov 30 2025
 
-NEZ088>093-010000-
-/O.CON.KOAX.WW.Y.0018.251201T0900Z-251202T0000Z/
 Jefferson-Gage-Johnson-Nemaha-Pawnee-Richardson-
 Including the cities of Pawnee City, Fairbury, Table Rock,
 Tecumseh, Falls City, Sterling, Beatrice, and Auburn
@@ -196,9 +183,6 @@ an onset time possible Monday morning, have issued a Winter Weather
 Advisory for areas roughly along and west of Interstate 35. An
 eastward expansion of this advisory is likely later today. Onset
 time east of Interstate 35 is expected later in the afternoon Monday.
-
-KSZ025-102>105-MOZ001>005-011>014-020>022-028>030-037-301615-
-/O.NEW.KEAX.WW.Y.0012.251201T1100Z-251202T0000Z/
 Atchison KS-Doniphan-Leavenworth-Wyandotte-Johnson KS-Atchison MO-
 Nodaway-Worth-Gentry-Harrison-Holt-Andrew-De Kalb-Daviess-
 Buchanan-Clinton-Caldwell-Platte-Clay-Ray-Jackson-
@@ -239,15 +223,11 @@ The latest road conditions in Kansas can be obtained by calling 5 1
 
 $$
 
-https://www.weather.gov/eax
-
 Krull
 URGENT - WINTER WEATHER MESSAGE
 National Weather Service Wichita KS
 140 AM CST Sun Nov 30 2025
 
-KSZ032-033-047>053-067-068-302300-
-/O.NEW.KICT.WW.Y.0009.251201T0900Z-251202T0000Z/
 Russell-Lincoln-Barton-Ellsworth-Saline-Rice-McPherson-Marion-
 Chase-Reno-Harvey-
 Including the cities of Marion, Lyons, Hillsboro, Newton,
@@ -291,9 +271,6 @@ an onset time possible Monday morning, have issued a Winter Weather
 Advisory for areas roughly along and west of Interstate 35. An
 eastward expansion of this advisory is likely later today. Onset
 time east of Interstate 35 is expected later in the afternoon Monday.
-
-KSZ025-102>105-MOZ001>005-011>014-020>022-028>030-037-301615-
-/O.NEW.KEAX.WW.Y.0012.251201T1100Z-251202T0000Z/
 Atchison KS-Doniphan-Leavenworth-Wyandotte-Johnson KS-Atchison MO-
 Nodaway-Worth-Gentry-Harrison-Holt-Andrew-De Kalb-Daviess-
 Buchanan-Clinton-Caldwell-Platte-Clay-Ray-Jackson-
@@ -334,7 +311,7 @@ The latest road conditions in Kansas can be obtained by calling 5 1
 
 $$
 
-https://www.weather.gov/eax
+
 
 Krull
 URGENT - WINTER WEATHER MESSAGE
@@ -375,9 +352,6 @@ KG
 URGENT - WINTER WEATHER MESSAGE
 National Weather Service Topeka KS
 156 AM CST Sun Nov 30 2025
-
-KSZ008>012-020>024-026-034>040-054-055-302300-
-/O.NEW.KTOP.WW.Y.0009.251201T0900Z-251202T0000Z/
 Republic-Washington-Marshall-Nemaha-Brown-Cloud-Clay-Riley-
 Pottawatomie-Jackson-Jefferson-Ottawa-Dickinson-Geary-Morris-
 Wabaunsee-Shawnee-Douglas-Lyon-Osage-
