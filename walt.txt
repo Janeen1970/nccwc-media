@@ -318,8 +318,6 @@ URGENT - WINTER WEATHER MESSAGE
 National Weather Service Omaha/Valley NE
 959 AM CST Sun Nov 30 2025
 
-NEZ088>093-010000-
-/O.CON.KOAX.WW.Y.0018.251201T0900Z-251202T0000Z/
 Jefferson-Gage-Johnson-Nemaha-Pawnee-Richardson-
 Including the cities of Pawnee City, Fairbury, Table Rock,
 Tecumseh, Falls City, Sterling, Beatrice, and Auburn
