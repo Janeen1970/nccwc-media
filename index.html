@@ -26,7 +26,7 @@
 
     body {
       margin: 0;
-      padding-top: 110px; /* Space for bulletin + WALT */
+      padding-top: 110px;
       background: radial-gradient(1200px 800px at 20% -10%, #111827 0, #020617 55%, #000 100%);
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Ubuntu, Arial;
       color: var(--text);
@@ -148,6 +148,85 @@
       background: rgba(56,189,248,0.12);
       border-left: 2px solid var(--accent);
     }
+
+    /* ===== CUSTOM RADAR (PUBLIC VIEW) ===== */
+    #map-container,
+    #map-container * {
+      user-select: none;
+      pointer-events: none;
+      cursor: default;
+    }
+
+    #map-container {
+      position: relative;
+      width: 937px;
+      height: 756px;
+      margin: 30px auto 20px auto;
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    }
+
+    #bg {
+      position: absolute;
+      inset: 0;
+      background: url("https://janeen1970.github.io/nccwc-media/REGIONAL.jpg") no-repeat center/cover;
+      z-index: 1;
+    }
+
+    /* ===== THIN ROTATING RADAR BEAM ===== */
+    #beam {
+      position: absolute;
+      width: 950px;
+      height: 3px;
+      top: 378px;
+      left: 468px;
+      background: rgba(0,255,0,0.25);
+      box-shadow: 0 0 10px rgba(0,255,0,0.7);
+      transform-origin: 0% 50%;
+      animation: sweep 3.5s linear infinite;
+      z-index: 2;
+    }
+
+    @keyframes sweep {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
+    }
+
+    #drawCanvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 3;
+    }
+
+    #footer {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      background: rgba(0,0,0,0.45);
+      padding: 4px 8px;
+      font-size: 14px;
+      color: white;
+      z-index: 4;
+    }
+
+    /* ===== HIDDEN ADMIN PANEL ===== */
+    #radar-admin {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background: #020617;
+      border: 1px solid #374151;
+      padding: 14px;
+      z-index: 100000;
+      color: #f9fafb;
+      width: 260px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.7);
+      font-family: system-ui;
+    }
   </style>
 </head>
 
@@ -166,16 +245,37 @@
   </div>
 </div>
 
-<!-- MAIN CONTENT -->
-<div class="wrap">
+<!-- CUSTOM RADAR -->
+<div id="map-container">
+  <div id="bg"></div>
+  <div id="beam"></div>
+  <canvas id="drawCanvas" width="937" height="756"></canvas>
+  <div id="footer">Patent Pending © SONFIRE ALMANACS LLC</div>
+</div>
 
+<!-- HIDDEN ADMIN -->
+<div id="radar-admin" hidden>
+  <h3>Radar Control Panel</h3>
+  <label>Beam Rotation Speed</label>
+  <input id="beamSpeed" type="number" value="3.5" step="0.1">
+
+  <label>Beam Opacity</label>
+  <input id="beamOpacity" type="number" value="0.25" step="0.05">
+
+  <label>Beam Color</label>
+  <input id="beamColor" type="color" value="#00ff00">
+
+  <button onclick="applyRadarSettings()">Apply</button>
+  <small>Press <b>Ctrl+Shift+R</b> to toggle panel</small>
+</div>
+
+<!-- MAIN -->
+<div class="wrap">
   <div class="grid">
 
-    <!-- RADIO CARD -->
     <section class="card">
       <h2>Now Playing</h2>
       <small id="track-count-label">Loading playlist…</small>
-
       <h3 id="now-title">—</h3>
       <div id="now-sub">NCCWC Media • Auto playlist</div>
 
@@ -190,7 +290,6 @@
       <div id="status"></div>
     </section>
 
-    <!-- PLAYLIST CARD -->
     <aside class="card">
       <h2>Playlist</h2>
       <ul id="playlist"></ul>
@@ -228,10 +327,9 @@ loadWaltTicker();
 setInterval(loadWaltTicker, 20000);
 
 /* ===== RADIO ===== */
-
 const GH_OWNER = "Janeen1970";
-const GH_REPO  = "nccwc-media";
-const API_URL  = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`;
+const GH_REPO = "nccwc-media";
+const API_URL = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`;
 
 const audioEl = document.getElementById("audio");
 const playlistEl = document.getElementById("playlist");
@@ -244,9 +342,7 @@ let tracks = [];
 let currentIndex = 0;
 
 function niceTitle(name) {
-  return decodeURIComponent(
-    name.replace(/\.mp3$/i, "").replace(/[_]+/g, " ")
-  ).trim();
+  return decodeURIComponent(name.replace(/\.mp3$/i, "").replace(/[_]+/g, " "));
 }
 
 function renderPlaylist() {
@@ -257,19 +353,19 @@ function renderPlaylist() {
     if (i === currentIndex) li.classList.add("badge-playing");
 
     li.innerHTML = `<div>${i + 1}.</div> <div>${t.title}</div>`;
-
-    li.addEventListener("click", () => loadTrack(i, true));
+    li.onclick = () => loadTrack(i, true);
     playlistEl.appendChild(li);
   });
 }
 
 function updatePlaylistHighlight() {
-  Array.from(playlistEl.children).forEach((li, idx) => {
-    li.classList.toggle("badge-playing", idx === currentIndex);
-  });
+  [...playlistEl.children].forEach((li, idx) =>
+    li.classList.toggle("badge-playing", idx === currentIndex)
+  );
 }
 
-function loadTrack(index, autoplay=false) {
+function loadTrack(index, autoplay = false) {
+  if (!tracks.length) return;
   currentIndex = (index + tracks.length) % tracks.length;
   const t = tracks[currentIndex];
 
@@ -279,19 +375,19 @@ function loadTrack(index, autoplay=false) {
   updatePlaylistHighlight();
 
   if (autoplay) {
-    audioEl.play().catch(() => {
-      statusEl.textContent = "Tap ▶️ Play to allow audio.";
-    });
+    audioEl.play().catch(() =>
+      (statusEl.textContent = "Tap ▶️ Play to allow audio.")
+    );
   }
 }
 
 function nextTrack() { loadTrack(currentIndex + 1, true); }
 function prevTrack() { loadTrack(currentIndex - 1, true); }
 
-document.getElementById("btn-next").addEventListener("click", nextTrack);
-document.getElementById("btn-prev").addEventListener("click", prevTrack);
+document.getElementById("btn-next").onclick = nextTrack;
+document.getElementById("btn-prev").onclick = prevTrack;
 
-document.getElementById("btn-play").addEventListener("click", () => {
+document.getElementById("btn-play").onclick = () => {
   if (audioEl.paused) {
     audioEl.play();
     document.getElementById("btn-play").textContent = "⏸ Pause";
@@ -299,31 +395,72 @@ document.getElementById("btn-play").addEventListener("click", () => {
     audioEl.pause();
     document.getElementById("btn-play").textContent = "▶️ Play";
   }
-});
+};
 
-audioEl.addEventListener("ended", nextTrack);
+audioEl.onended = nextTrack;
 
 async function loadTracks() {
   statusEl.textContent = "Loading…";
-
   const res = await fetch(API_URL);
   const data = await res.json();
 
-  const mp3s = data.filter(x => x.name.toLowerCase().endsWith(".mp3"));
-
-  tracks = mp3s
-    .map(x => ({ name: x.name, title: niceTitle(x.name), url: x.download_url }))
+  tracks = data
+    .filter((x) => x.name.toLowerCase().endsWith(".mp3"))
+    .map((x) => ({
+      name: x.name,
+      title: niceTitle(x.name),
+      url: x.download_url,
+    }))
     .sort((a, b) => a.name.localeCompare(b.name));
 
   trackCountEl.textContent = `${tracks.length} tracks loaded`;
-
   renderPlaylist();
   loadTrack(0);
   statusEl.textContent = "";
 }
-
 loadTracks();
+
+/* ================================= */
+/* ===== CLEAN RADAR CANVAS — NO DOT ===== */
+/* ================================= */
+const radarCanvas = document.getElementById("drawCanvas");
+const radarCtx = radarCanvas.getContext("2d");
+
+function renderRadar() {
+  // Completely blank — no dot, no shapes
+  radarCtx.clearRect(0, 0, radarCanvas.width, radarCanvas.height);
+}
+
+setInterval(renderRadar, 120);
+
+/* ===== ADMIN PANEL ===== */
+document.addEventListener("keydown", (e) => {
+  if (e.ctrlKey && e.shiftKey && (e.key === "R" || e.key === "r")) {
+    const panel = document.getElementById("radar-admin");
+    panel.hidden = !panel.hidden;
+  }
+});
+
+function applyRadarSettings() {
+  const beam = document.getElementById("beam");
+  const speed = parseFloat(beamSpeed.value) || 3.5;
+  const opacity = parseFloat(beamOpacity.value) || 0.25;
+  const color = beamColor.value || "#00ff00";
+
+  beam.style.background = `rgba(${hexToRGBA(color, opacity)})`;
+  beam.style.animationDuration = speed + "s";
+}
+
+function hexToRGBA(hex, alpha) {
+  const c = hex.replace("#", "");
+  const r = parseInt(c.substr(0, 2), 16);
+  const g = parseInt(c.substr(2, 2), 16);
+  const b = parseInt(c.substr(4, 2), 16);
+  return `${r},${g},${b},${alpha}`;
+}
 </script>
 
 </body>
 </html>
+
+
