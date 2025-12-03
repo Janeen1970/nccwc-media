@@ -26,7 +26,7 @@
 
     body {
       margin: 0;
-      padding-top: 110px;
+      padding-top: 110px; /* Space for bulletin + WALT */
       background: radial-gradient(1200px 800px at 20% -10%, #111827 0, #020617 55%, #000 100%);
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Ubuntu, Arial;
       color: var(--text);
@@ -95,7 +95,7 @@
       display: inline-block;
       white-space: nowrap;
       padding-left: 100%;
-      animation: waltTicker 60s linear infinite;
+      animation: waltTicker 150s linear infinite;
     }
 
     @keyframes waltTicker {
@@ -148,106 +148,6 @@
       background: rgba(56,189,248,0.12);
       border-left: 2px solid var(--accent);
     }
-
-    /* ===== CUSTOM RADAR ===== */
-    #map-container,
-    #map-container * {
-      user-select: none;
-      pointer-events: none;
-      cursor: default;
-    }
-
-    #map-container {
-      position: relative;
-      width: 937px;
-      height: 756px;
-      margin: 30px auto 20px auto;
-      border-radius: 12px;
-      overflow: hidden;
-      border: 1px solid var(--line);
-      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-    }
-
-    #bg {
-      position: absolute;
-      inset: 0;
-      background: url("https://janeen1970.github.io/nccwc-media/REGIONAL.jpg")
-        no-repeat center/cover;
-      z-index: 1;
-    }
-
-    /* Radar Beam */
-    #beam {
-      position: absolute;
-      width: 950px;
-      height: 3px;
-      top: 378px;
-      left: 468px;
-      background: rgba(0,255,0,0.25);
-      box-shadow: 0 0 10px rgba(0,255,0,0.7);
-      transform-origin: 0% 50%;
-      animation: sweep 3.5s linear infinite;
-      z-index: 2;
-    }
-
-    @keyframes sweep {
-      from { transform: rotate(0deg); }
-      to   { transform: rotate(360deg); }
-    }
-
-    #drawCanvas {
-      position: absolute;
-      top: 0;
-      left: 0;
-      z-index: 3;
-    }
-
-    #footer {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      background: rgba(0,0,0,0.45);
-      padding: 4px 8px;
-      font-size: 14px;
-      color: white;
-      z-index: 4;
-    }
-
-    /* WEATHER PANEL */
-    #weather-admin {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      width: 230px;
-      padding: 14px;
-      background: #111;
-      border: 1px solid #444;
-      border-radius: 12px;
-      color: white;
-      z-index: 999999;
-      display: none;
-      box-shadow: 0 0 20px #000;
-    }
-
-    #weather-admin button {
-      width: 100%;
-      padding: 6px;
-      margin-bottom: 8px;
-      border-radius: 8px;
-      display: flex;
-      align-items: center;
-      column-gap: 10px;
-      font-size: 14px;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
-
-    #weather-admin img {
-      width: 22px;
-      height: 22px;
-      pointer-events: none;
-    }
   </style>
 </head>
 
@@ -266,82 +166,16 @@
   </div>
 </div>
 
-<!-- CUSTOM RADAR -->
-<div id="map-container">
-  <div id="bg"></div>
-  <div id="beam"></div>
-  <canvas id="drawCanvas" width="937" height="756"></canvas>
-  <div id="footer">Patent Pending © SONFIRE ALMANACS LLC</div>
-</div>
-
-<!-- WEATHER PANEL (HIDDEN) -->
-<div id="weather-admin">
-  <h3>Weather Cells</h3>
-
-  <button onclick="addCell('rain')" style="background:#2266dd;">
-    <img src="rain.png"> Rain Cell
-  </button>
-
-  <button onclick="addCell('storm')" style="background:#bb1e1e;">
-    <img src="storm.png"> Storm Cell
-  </button>
-
-  <button onclick="addCell('tornado')" style="background:#7c0000;">
-    <img src="tornado.png"> Tornado Cell
-  </button>
-
-  <button onclick="addCell('wind')" style="background:#666;">
-    <img src="wind.png"> Wind Cell
-  </button>
-
-  <button onclick="addCell('freezing_rain')" style="background:#c64fb4;">
-    <img src="freezing_rain.png"> Freezing Rain
-  </button>
-
-  <button onclick="addCell('snow')" style="background:#1dbed6;">
-    <img src="snow.png"> Snow
-  </button>
-
-  <button onclick="addCell('hail')" style="background:#d6a200;">
-    <img src="hail.png"> Hail
-  </button>
-
-  <button onclick="addCell('rotation')" style="background:#ff6a00;">
-    <img src="rotation.png"> Rotation
-  </button>
-
-  <button onclick="clearCells()" style="background:#cc3300;">
-    <img src="clear_cells.png"> Clear Cells
-  </button>
-
-  <div style="font-size:12px; opacity:0.7; margin-top:8px;">
-    Press <b>Shift + R</b> to toggle
-  </div>
-</div>
-
-<!-- HIDDEN ORIGINAL ADMIN -->
-<div id="radar-admin" hidden>
-  <h3>Radar Control Panel</h3>
-  <label>Beam Rotation Speed</label>
-  <input id="beamSpeed" type="number" value="3.5" step="0.1">
-
-  <label>Beam Opacity</label>
-  <input id="beamOpacity" type="number" value="0.25" step="0.05">
-
-  <label>Beam Color</label>
-  <input id="beamColor" type="color" value="#00ff00">
-
-  <button onclick="applyRadarSettings()">Apply</button>
-  <small>Press <b>Ctrl+Shift+R</b> to toggle panel</small>
-</div>
-
-<!-- MAIN -->
+<!-- MAIN CONTENT -->
 <div class="wrap">
+
   <div class="grid">
 
+    <!-- RADIO CARD -->
     <section class="card">
       <h2>Now Playing</h2>
       <small id="track-count-label">Loading playlist…</small>
+
       <h3 id="now-title">—</h3>
       <div id="now-sub">NCCWC Media • Auto playlist</div>
 
@@ -356,6 +190,7 @@
       <div id="status"></div>
     </section>
 
+    <!-- PLAYLIST CARD -->
     <aside class="card">
       <h2>Playlist</h2>
       <ul id="playlist"></ul>
@@ -366,7 +201,7 @@
 </div>
 
 <script>
-/* BULLETIN */
+/* ===== BULLETIN ===== */
 async function loadLiveBulletin() {
   const el = document.getElementById("live-bar-text");
   try {
@@ -379,7 +214,7 @@ async function loadLiveBulletin() {
 loadLiveBulletin();
 setInterval(loadLiveBulletin, 20000);
 
-/* WALT */
+/* ===== WALT ===== */
 async function loadWaltTicker() {
   const el = document.getElementById("walt-ticker-scroll");
   try {
@@ -392,10 +227,11 @@ async function loadWaltTicker() {
 loadWaltTicker();
 setInterval(loadWaltTicker, 20000);
 
-/* RADIO */
+/* ===== RADIO ===== */
+
 const GH_OWNER = "Janeen1970";
-const GH_REPO = "nccwc-media";
-const API_URL = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`;
+const GH_REPO  = "nccwc-media";
+const API_URL  = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`;
 
 const audioEl = document.getElementById("audio");
 const playlistEl = document.getElementById("playlist");
@@ -408,7 +244,9 @@ let tracks = [];
 let currentIndex = 0;
 
 function niceTitle(name) {
-  return decodeURIComponent(name.replace(/\.mp3$/i, "").replace(/[_]+/g, " "));
+  return decodeURIComponent(
+    name.replace(/\.mp3$/i, "").replace(/[_]+/g, " ")
+  ).trim();
 }
 
 function renderPlaylist() {
@@ -419,19 +257,19 @@ function renderPlaylist() {
     if (i === currentIndex) li.classList.add("badge-playing");
 
     li.innerHTML = `<div>${i + 1}.</div> <div>${t.title}</div>`;
-    li.onclick = () => loadTrack(i, true);
+
+    li.addEventListener("click", () => loadTrack(i, true));
     playlistEl.appendChild(li);
   });
 }
 
 function updatePlaylistHighlight() {
-  [...playlistEl.children].forEach((li, idx) =>
-    li.classList.toggle("badge-playing", idx === currentIndex)
-  );
+  Array.from(playlistEl.children).forEach((li, idx) => {
+    li.classList.toggle("badge-playing", idx === currentIndex);
+  });
 }
 
-function loadTrack(index, autoplay = false) {
-  if (!tracks.length) return;
+function loadTrack(index, autoplay=false) {
   currentIndex = (index + tracks.length) % tracks.length;
   const t = tracks[currentIndex];
 
@@ -441,19 +279,19 @@ function loadTrack(index, autoplay = false) {
   updatePlaylistHighlight();
 
   if (autoplay) {
-    audioEl.play().catch(() =>
-      (statusEl.textContent = "Tap ▶️ Play to allow audio.")
-    );
+    audioEl.play().catch(() => {
+      statusEl.textContent = "Tap ▶️ Play to allow audio.";
+    });
   }
 }
 
 function nextTrack() { loadTrack(currentIndex + 1, true); }
 function prevTrack() { loadTrack(currentIndex - 1, true); }
 
-document.getElementById("btn-next").onclick = nextTrack;
-document.getElementById("btn-prev").onclick = prevTrack;
+document.getElementById("btn-next").addEventListener("click", nextTrack);
+document.getElementById("btn-prev").addEventListener("click", prevTrack);
 
-document.getElementById("btn-play").onclick = () => {
+document.getElementById("btn-play").addEventListener("click", () => {
   if (audioEl.paused) {
     audioEl.play();
     document.getElementById("btn-play").textContent = "⏸ Pause";
@@ -461,101 +299,30 @@ document.getElementById("btn-play").onclick = () => {
     audioEl.pause();
     document.getElementById("btn-play").textContent = "▶️ Play";
   }
-};
+});
 
-audioEl.onended = nextTrack;
+audioEl.addEventListener("ended", nextTrack);
 
 async function loadTracks() {
   statusEl.textContent = "Loading…";
+
   const res = await fetch(API_URL);
   const data = await res.json();
 
-  tracks = data
-    .filter((x) => x.name.toLowerCase().endsWith(".mp3"))
-    .map((x) => ({
-      name: x.name,
-      title: niceTitle(x.name),
-      url: x.download_url,
-    }))
+  const mp3s = data.filter(x => x.name.toLowerCase().endsWith(".mp3"));
+
+  tracks = mp3s
+    .map(x => ({ name: x.name, title: niceTitle(x.name), url: x.download_url }))
     .sort((a, b) => a.name.localeCompare(b.name));
 
   trackCountEl.textContent = `${tracks.length} tracks loaded`;
+
   renderPlaylist();
   loadTrack(0);
   statusEl.textContent = "";
 }
+
 loadTracks();
-
-/* BLANK RADAR CANVAS */
-const radarCanvas = document.getElementById("drawCanvas");
-const radarCtx = radarCanvas.getContext("2d");
-
-function renderRadar() {
-  radarCtx.clearRect(0, 0, radarCanvas.width, radarCanvas.height);
-}
-setInterval(renderRadar, 120);
-
-/* WEATHER CELLS */
-let drawnCells = [];
-
-function addCell(type) {
-  const img = new Image();
-  img.src = `${type}.png`;
-
-  img.onload = () => {
-    drawnCells.push({
-      img,
-      x: Math.random() * 800 + 50,
-      y: Math.random() * 600 + 50
-    });
-  };
-}
-
-function clearCells() {
-  drawnCells = [];
-}
-
-function renderCells() {
-  for (let c of drawnCells) {
-    radarCtx.drawImage(c.img, c.x, c.y, 40, 40);
-  }
-}
-setInterval(renderCells, 60);
-
-/* SECRET PANEL TOGGLE */
-document.addEventListener("keydown", (e) => {
-  if (e.shiftKey && (e.key === "R" || e.key === "r")) {
-    const w = document.getElementById("weather-admin");
-    w.style.display = w.style.display === "none" ? "block" : "none";
-  }
-});
-
-/* ORIGINAL ADMIN TOGGLE */
-document.addEventListener("keydown", (e) => {
-  if (e.ctrlKey && e.shiftKey && (e.key === "R" || e.key === "r")) {
-    const panel = document.getElementById("radar-admin");
-    panel.hidden = !panel.hidden;
-  }
-});
-
-/* APPLY BEAM SETTINGS */
-function applyRadarSettings() {
-  const beam = document.getElementById("beam");
-  const speed = parseFloat(beamSpeed.value) || 3.5;
-  const opacity = parseFloat(beamOpacity.value) || 0.25;
-  const color = beamColor.value || "#00ff00";
-
-  beam.style.background = `rgba(${hexToRGBA(color, opacity)})`;
-  beam.style.animationDuration = speed + "s";
-}
-
-function hexToRGBA(hex, alpha) {
-  const c = hex.replace("#", "");
-  const r = parseInt(c.substr(0, 2), 16);
-  const g = parseInt(c.substr(2, 2), 16);
-  const b = parseInt(c.substr(4, 2), 16);
-  return `${r},${g},${b},${alpha}`;
-}
 </script>
 
 </body>
