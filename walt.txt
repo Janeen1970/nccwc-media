@@ -1,4 +1,42 @@
-Special Weather Statement
+RGENT - WINTER WEATHER MESSAGE
+National Weather Service Amarillo TX
+552 PM CST Wed Dec 3 2025
+
+OKZ001-TXZ001-002-006>008-011>013-016-017-317-040800-
+/O.EXT.KAMA.WW.Y.0011.251204T0000Z-251204T1800Z/
+Cimarron-Dallam-Sherman-Hartley-Moore-Hutchinson-Oldham-Potter-
+Carson-Deaf Smith-Randall-Palo Duro Canyon-
+Including the cities of Bushland, Boise City, Panhandle, Borger,
+Channing, Dumas, Amarillo, Masterson, Dawn, Hartley, Wildorado,
+Ware, Pantex, Hereford, Stratford, Skellytown, Dalhart, Palo Duro
+Canyon State Park, Buffalo Lake, Vega, Boys Ranch, Bootleg,
+Canyon, White Deer, Romero, Umbarger, Keyes, Conlen, and Four Way
+552 PM CST Wed Dec 3 2025
+
+...WINTER WEATHER ADVISORY NOW IN EFFECT UNTIL NOON CST THURSDAY...
+
+* WHAT...Snow expected. Total snow accumulations between one to four
+  inches.
+
+* WHERE...Portions of the Panhandle of Oklahoma and the Panhandle of
+  Texas.
+
+* WHEN...Until noon CST Thursday.
+
+* IMPACTS...Roads, and especially bridges and overpasses, will
+  likely become slick and hazardous. Plan on slippery road
+  conditions. The hazardous conditions could impact the Wednesday
+  evening and Thursday morning commutes.
+
+* ADDITIONAL DETAILS...Narrow bands of snowfall are expected to be
+  the main producer of these higher snowfall totals with stronger
+  winter impacts possible in localized areas across the advisory.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Slow down and use caution while traveling.  In Oklahoma, call
+844-465-4997 for road information. In Texas, call 800-452-9292 for
+road information......Special Weather Statement
 National Weather Service Norman OK
 1225 PM CST Wed Dec 3 2025
 -
@@ -28,38 +66,4 @@ travel during the day on Thursday. Continue to monitor the
 forecast tonight and tomorrow morning as potential areas for the
 snowband are refined, at which point a Winter Weather Advisory may
 be needed......
- URGENT - WINTER WEATHER MESSAGE
-National Weather Service Amarillo TX
-1228 PM CST Wed Dec 3 2025
-
-Cimarron-Dallam-Sherman-Hartley-Moore-Hutchinson-Oldham-Potter-
-Carson-Deaf Smith-Randall-Palo Duro Canyon-
-Including the cities of Romero, Ware, Bootleg, White Deer, Palo
-Duro Canyon State Park, Hartley, Buffalo Lake, Pantex, Masterson,
-Stratford, Vega, Bushland, Conlen, Dawn, Four Way, Dalhart,
-Amarillo, Panhandle, Umbarger, Hereford, Boys Ranch, Dumas,
-Skellytown, Wildorado, Channing, Boise City, Borger, Keyes, and
-Canyon
-1228 PM CST Wed Dec 3 2025
-
-...WINTER WEATHER ADVISORY IN EFFECT FROM 8 PM THIS EVENING TO NOON
-CST THURSDAY...
-
-* WHAT...Snow expected. Total snow accumulations between one to
-  three inches.
-
-* WHERE...The western Oklahoma Panhandle as well as the western and
-  central Texas Panhandle.
-
-* WHEN...From 8 PM this evening to noon CST Thursday.
-
-* IMPACTS...Roads, and especially bridges and overpasses, will
-  likely become slick and hazardous. Plan on slippery road
-  conditions. The hazardous conditions could impact the Thursday
-  morning commute.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Slow down and use caution while traveling.  In Oklahoma, call
-844-465-4997 for road information. In Texas, call 800-452-9292 for
-road information.....WALT AI Winter Weather Outlook: Winter weather may return to Eastern Oklahoma and Western Arkansas from Wednesday night into Thursday morning. The WALT AI Model highlights icing mainly in elevated terrain and on bridges/overpasses, including ridges and shaded slopes. Valleys remain mostly wet, with slick spots forming first on higher ground, elevated road decks, ramps, and parking lots. 
+ .....WALT AI Winter Weather Outlook: Winter weather may return to Eastern Oklahoma and Western Arkansas from Wednesday night into Thursday morning. The WALT AI Model highlights icing mainly in elevated terrain and on bridges/overpasses, including ridges and shaded slopes. Valleys remain mostly wet, with slick spots forming first on higher ground, elevated road decks, ramps, and parking lots. 
