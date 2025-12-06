@@ -26,7 +26,7 @@
 
     body {
       margin: 0;
-      padding-top: 110px; /* Space for bulletin + WALT */
+      padding-top: 110px;
       background: radial-gradient(1200px 800px at 20% -10%, #111827 0, #020617 55%, #000 100%);
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Ubuntu, Arial;
       color: var(--text);
@@ -166,6 +166,15 @@
   </div>
 </div>
 
+<!-- ✅ FIXED LINK (now in correct place) -->
+<div style="text-align:center; margin-top:15px;">
+  <a href="https://sites.google.com/view/nccwc/forecast" 
+     target="_blank" 
+     style="color:#38bdf8; font-size:20px; text-decoration:none;">
+    NCCWC Climate Model
+  </a>
+</div>
+
 <!-- MAIN CONTENT -->
 <div class="wrap">
 
@@ -225,7 +234,7 @@ async function loadWaltTicker() {
   }
 }
 loadWaltTicker();
-setInterval(loadWaltTicker, 20000);
+setInterval(loadWaltTicker(), 20000);
 
 /* ===== RADIO ===== */
 
