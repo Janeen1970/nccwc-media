@@ -1,189 +1,38 @@
 URGENT - WEATHER MESSAGE
-National Weather Service Tulsa OK
-1044 PM CST Fri Dec 5 2025
-
-
-Benton-Carroll-Washington AR-Madison-Pushmataha-Choctaw-Osage-
-Washington OK-Nowata-Craig-Ottawa-Pawnee-Tulsa-Rogers-Mayes-
-Delaware-Creek-Okfuskee-Okmulgee-Wagoner-Cherokee-Adair-Muskogee-
-McIntosh-Pittsburg-Latimer-
-Including the cities of Huntsville, Clayton, Hugo, Tahlequah,
-Sapulpa, Stilwell, McAlester, Springdale, Wagoner, Pryor,
-Okmulgee, Miami, Claremore, Eureka Springs, Bentonville, Pawnee,
-Berryville, Rogers, Checotah, Fayetteville, Jay, Wilburton,
-Antlers, Muskogee, Pawhuska, Tulsa, Vinita, Grove, Okemah,
-Bartlesville, and Nowata
-1044 PM CST Fri Dec 5 2025
-
-...DENSE FOG ADVISORY IN EFFECT UNTIL 11 AM CST SATURDAY...
-
-* WHAT...Visibility one quarter mile or less in dense fog.
-
-* WHERE...Portions of northwest Arkansas and east central,
-  northeast, and southeast Oklahoma.
-
-* WHEN...Until 11 AM CST Saturday.
-
-* IMPACTS...Visibilities are expected to be reduced to less than one
-  quarter mile in spots by dense fog. Rapidly changing visibility
-  will create hazardous driving conditions.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-If driving, slow down, use your low beam headlights, and leave
-plenty of distance ahead of you.
-
-&&
-
-$$
-
-Lacy
-URGENT - WEATHER MESSAGE
-National Weather Service Springfield MO
-1208 AM CST Sat Dec 6 2025
-
-
-Bourbon-Crawford-Cherokee-Vernon-St. Clair-Barton-Cedar-Polk-
-Jasper-Dade-Greene-Newton-Lawrence-Christian-McDonald-Barry-Stone-
-Including the cities of Indian Point, Rocky Comfort, Lone Oak,
-Selmore, Fort Scott, Christian Center, Madry, Lamar, Ozark,
-Lowell, Mount Vernon, Tiffin, Carthage, Monett, Baxter Springs,
-Arnica, Filley, Cassville, Pineville, Nixa, Meinert, Anderson,
-Columbus, Noel, Crane, El Dorado Springs, Stockton, Pittsburg,
-Bolivar, Springfield, Sherwin, South West City, Greenfield,
-Riverton, Johnson City, Lockwood, Caplinger Mills, Kimberling
-City, Elsey, Pawnee Station, Neosho, Marionville, Appleton City,
-Kenoma, Joplin, Cedar Springs, Silver Dollar City, Nevada,
-Chicopee, Aurora, Stippville, Neutral, and Goodman
-1208 AM CST Sat Dec 6 2025
-
-...DENSE FOG ADVISORY IN EFFECT UNTIL 10 AM CST THIS MORNING...
-
-* WHAT...Visibility one quarter mile or less in dense fog.
-
-* WHERE...Portions of southeast Kansas and southwest and west
-  central Missouri.
-
-* WHEN...Until 10 AM CST this morning.
-
-* IMPACTS...Low visibility could make driving conditions hazardous.
-
-* ADDITIONAL DETAILS...Patchy freezing fog could form in a few areas
-  tonight. Use caution as elevated surfaces may become icy.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-If driving, slow down, use your headlights, and leave plenty of
-distance ahead of you.
-
-&&
-
-$$
-
-
-Soria
-URGENT - WEATHER MESSAGE
-National Weather Service Wichita KS
-1201 AM CST Sat Dec 6 2025
-
-Allen-Wilson-Neosho-Chautauqua-Montgomery-Labette-
-Including the cities of Iola, Neodesha, Cedar Vale, Chanute,
-Independence, Coffeyville, Humboldt, Fredonia, Sedan, and Parsons
-1201 AM CST Sat Dec 6 2025
-
-...DENSE FOG ADVISORY IN EFFECT UNTIL 10 AM CST THIS MORNING...
-
-* WHAT...Visibility one quarter mile or less in dense fog.
-
-* WHERE...Allen, Chautauqua, Labette, Montgomery, Neosho, and Wilson
-  Counties.
-
-* WHEN...Until 10 AM CST this morning.
-
-* IMPACTS...Low visibility could make driving conditions hazardous.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-If driving, slow down, use your headlights, and leave plenty of
-distance ahead of you.
-
-&&
-
-$$
-
-Lawson
-URGENT - WEATHER MESSAGE
-National Weather Service Fort Worth TX
-1159 PM CST Fri Dec 5 2025
-
-
-Montague-Cooke-Grayson-Fannin-Lamar-Young-Jack-Wise-Denton-Collin-
-Hunt-Delta-Hopkins-Palo Pinto-Parker-Tarrant-Dallas-Rockwall-
-Rains-
-Including the cities of Nocona, Emory, Paris, Jacksboro, Heath,
-Denton, Lewisville, Allen, Rockwall, Bridgeport, Plano, Dallas,
-Fort Worth, Bonham, Point, Denison, Flower Mound, Sulphur
-Springs, East Tawakoni, McKinney, Cooper, Mineral Wells,
-Gainesville, Sherman, Commerce, Carrollton, Bowie, Frisco,
-Arlington, Decatur, Graham, Weatherford, Briar, Olney, and
-Greenville
-1159 PM CST Fri Dec 5 2025
-
-...DENSE FOG ADVISORY REMAINS IN EFFECT FROM 3 AM TO 10 AM CST
-SATURDAY...
-
-* WHAT...Visibility one quarter mile or less in dense fog.
-
-* WHERE...Portions of north central and northeast Texas.
-
-* WHEN...From 3 AM to 10 AM CST Saturday.
-
-* IMPACTS...Low visibility could make driving conditions hazardous.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-If driving, slow down, use your low beam headlights, and leave
-plenty of distance between you and others.
-
-&&
-
-$$
-
-Dunn
-URGENT - WEATHER MESSAGE
 National Weather Service Norman OK
-1210 PM CST Fri Dec 5 2025
+337 AM CST Sat Dec 6 2025
 
+OKZ008-013-019-020-023>031-037>040-044-045-TXZ086-089-090-061600-
+/O.CAN.KOUN.FG.Y.0020.000000T0000Z-251206T1600Z/
+/O.NEW.KOUN.ZF.Y.0002.251206T0937Z-251206T1600Z/
 Kay-Noble-Logan-Payne-Caddo-Canadian-Oklahoma-Lincoln-Grady-
-McClain-Cleveland-Pottawatomie-Seminole-Hughes-Tillman-Comanche-
-Stephens-Garvin-Murray-Pontotoc-Coal-Cotton-Jefferson-Carter-
-Johnston-Atoka-Love-Marshall-Bryan-Wichita-Archer-Clay-
-Including the cities of Henrietta, Ponca City, Ryan, Hinton,
-Wetumka, Durant, Duncan, Lindsay, Pauls Valley, Blackwell,
-Marietta, Concho, Walters, Lakeside City, Yukon, Scotland,
-Blanchard, Oklahoma City, Anadarko, Prague, Wellston, Stillwater,
-Tishomingo, Atoka, Frederick, Kingston, Wewoka, Davis, Ringling,
-Perry, Holliday, Mustang, Madill, Tuttle, Davenport, Shawnee,
-Meeker, Seminole, Coalgate, Wynnewood, Lawton, Temple, Ardmore,
-Wichita Falls, Purcell, Norman, Stroud, Sulphur, Sheppard AFB,
-Ada, Archer City, El Reno, Chickasha, Waurika, Thackerville,
-Guthrie, Newcastle, Moore, Chandler, and Holdenville
-1210 PM CST Fri Dec 5 2025
+McClain-Cleveland-Pottawatomie-Seminole-Tillman-Comanche-Stephens-
+Garvin-Cotton-Jefferson-Wichita-Archer-Clay-
+Including the cities of Hinton, Waurika, Stroud, Guthrie,
+Oklahoma City, Prague, Blanchard, Wichita Falls, Lawton, Wewoka,
+Chandler, Meeker, Archer City, Concho, Sheppard AFB, Lindsay,
+Ponca City, Wynnewood, Ryan, Frederick, Stillwater, El Reno,
+Chickasha, Moore, Blackwell, Seminole, Temple, Henrietta, Tuttle,
+Pauls Valley, Davenport, Walters, Lakeside City, Duncan, Perry,
+Mustang, Shawnee, Yukon, Norman, Holliday, Newcastle, Ringling,
+Scotland, Wellston, Purcell, and Anadarko
+337 AM CST Sat Dec 6 2025
 
-...DENSE FOG ADVISORY IN EFFECT FROM MIDNIGHT TONIGHT TO 10 AM CST
-SATURDAY...
+...FREEZING FOG ADVISORY IN EFFECT UNTIL 10 AM CST THIS MORNING...
+...DENSE FOG ADVISORY IS CANCELLED...
 
-* WHAT...Visibility as low as one quarter mile in dense fog.
+* WHAT...Visibility as low as one quarter mile or less in freezing
+  fog.
 
-* WHERE...Portions of central, east central, northern, southeast,
-  southern, and southwest Oklahoma and northern Texas.
+* WHERE...Portions of central, east central, northern, southern, and
+  southwest Oklahoma and northern Texas.
 
-* WHEN...From midnight tonight to 10 AM CST Saturday.
+* WHEN...Until 10 AM CST this morning.
 
 * IMPACTS...Low visibility could make driving conditions hazardous.
 
 * ADDITIONAL DETAILS...Roads and bridges may become slick where
-  temperatures remain at or below freezing on Saturday morning.
+  temperatures remain at or below freezing this morning.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
