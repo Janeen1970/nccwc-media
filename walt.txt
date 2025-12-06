@@ -259,7 +259,118 @@ plenty of distance ahead of you.
 
 $$
 
-Lacy
+Lacy...URGENT - WEATHER MESSAGE
+National Weather Service Little Rock AR
+549 AM CST Sat Dec 6 2025
+
+
+Cleburne-Conway-Perry-Southern Pope County-Southeast Van Buren
+County-Northwest Yell County-Pope County Higher Elevations-Van
+Buren County Higher Elevations-Yell Excluding Northwest-
+Including the cities of Dennard, Morrilton, Havana, Atkins,
+Danville, Nogo, Pelsor, Plainview, Waveland, Russellville,
+Botkinburg, Ola, Hector, Heber Springs, London, Shirley,
+Dardanelle, Perryville, Fairfield Bay, Clinton, Scotland,
+Damascus, and Tilly
+549 AM CST Sat Dec 6 2025
+
+...DENSE FOG ADVISORY IN EFFECT UNTIL 11 AM CST THIS MORNING...
+
+* WHAT...Visibility 1/4 of a mile in dense fog.
+
+* WHERE...Conway, Northwest Yell County, Perry, Pope County Higher
+  Elevations, Southern Pope County, Yell Excluding Northwest,
+  Cleburne, Southeast Van Buren County, and Van Buren County Higher
+  Elevations Counties.
+
+* WHEN...Until 11 AM CST this morning.
+
+* IMPACTS...Low visibility could make driving conditions hazardous.
+
+* ADDITIONAL DETAILS...Temperatures are near freezing or below
+  freezing in some locations in the advisory area. This may lead to
+  a very thin glaze of ice on some area roadways and slippery
+  conditions.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+If driving, slow down, use your headlights, and leave plenty of
+distance ahead of you.
+
+&&
+
+$$
+URGENT - WEATHER MESSAGE
+National Weather Service Little Rock AR
+549 AM CST Sat Dec 6 2025
+
+
+Faulkner-White-Woodruff-Saline-Pulaski-Lonoke-Prairie-Monroe-
+Grant-Jefferson-Arkansas-
+Including the cities of Bryant, Pine Bluff, Searcy, Cotton Plant,
+Beebe, Lonoke, Conway, Cabot, De Valls Bluff, North Little Rock,
+Little Rock, De Witt, Benton, Brinkley, Hazen, Augusta,
+Stuttgart, McCrory, Sheridan, Des Arc, and Clarendon
+549 AM CST Sat Dec 6 2025
+
+...DENSE FOG ADVISORY REMAINS IN EFFECT UNTIL 11 AM CST THIS
+MORNING...
+
+* WHAT...Visibility 1.4 of a mile in dense fog in dense fog.
+
+* WHERE...Portions of central, eastern, and southeast Arkansas.
+
+* WHEN...Until 11 AM CST this morning.
+
+* IMPACTS...Low visibility could make driving conditions hazardous.
+
+* ADDITIONAL DETAILS...Temperatures are near freezing or below
+  freezing in some locations in the advisory area. This may lead to
+  a very thin glaze of ice on some area roadways and slippery
+  conditions.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+If driving, slow down, use your headlights, and leave plenty of
+distance ahead of you.
+
+&&
+
+$$
+
+56
+URGENT - WEATHER MESSAGE
+National Weather Service Memphis TN
+519 AM CST Sat Dec 6 2025
+
+
+Poinsett-Mississippi-Cross-Crittenden-St. Francis-Lee AR-Phillips-
+Including the cities of West Memphis, Marianna, Helena-West
+Helena, Wynne, Harrisburg, Forrest City, and Blytheville
+519 AM CST Sat Dec 6 2025
+
+...DENSE FOG ADVISORY IN EFFECT UNTIL 11 AM CST THIS MORNING...
+
+* WHAT...Visibility one quarter of a mile in dense fog.
+
+* WHERE...Crittenden, Cross, Lee AR, Mississippi, Phillips,
+  Poinsett, and St. Francis Counties.
+
+* WHEN...Until 11 AM CST this morning.
+
+* IMPACTS...Low visibility could make driving conditions hazardous.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+If driving, slow down, use your headlights, and leave plenty of
+distance ahead of you.
+
+&&
+
+$$
+
+AC3
+
 
 
 ...WALT AI: No major winter storms or severe weather expected across Eastern Oklahoma or Western Arkansas through the end of December. 
