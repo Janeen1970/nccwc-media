@@ -1,28 +1,27 @@
 URGENT - WEATHER MESSAGE
 National Weather Service Norman OK
-816 PM CST Tue Dec 16 2025
-
+1151 PM CST Tue Dec 16 2025
 
 Alfalfa-Grant-Kay-Major-Garfield-Noble-Blaine-Kingfisher-Logan-
 Payne-Washita-Caddo-Canadian-Oklahoma-Lincoln-Grady-McClain-
 Cleveland-Pottawatomie-Seminole-Kiowa-Jackson-Tillman-Comanche-
 Stephens-Garvin-Murray-Pontotoc-Cotton-Jefferson-Carter-Johnston-
 Wilbarger-Wichita-Baylor-Archer-Clay-
-Including the cities of Cherokee, Wakita, Hennessey, Chandler,
-Yukon, Duncan, Scotland, Snyder, Meeker, Hinton, Temple, Carmen,
-Sulphur, El Reno, Wewoka, Norman, Burns Flat, Seminole,
-Wynnewood, Chickasha, Blackwell, Wellston, Ryan, Ardmore, Geary,
-Ada, Watonga, Medford, Okarche, Helena, Henrietta, Frederick,
-Seymour, Archer City, Lamont, Anadarko, Moore, Lakeside City,
-Sentinel, Hobart, Holliday, Ringling, Prague, Walters, Vernon,
-Oklahoma City, Sheppard AFB, Perry, Wichita Falls, Enid, Pond
-Creek, Tuttle, Stroud, Davenport, Altus, Waurika, Ponca City,
-Blanchard, Newcastle, Davis, Concho, Fairview, Purcell, Lawton,
-Cordell, Shawnee, Pauls Valley, Lindsay, Tishomingo, Kingfisher,
-Guthrie, Mustang, Okeene, and Stillwater
-816 PM CST Tue Dec 16 2025
+Including the cities of Lakeside City, Henrietta, Guthrie,
+Stroud, Seminole, Sulphur, Ryan, Holliday, Burns Flat, Frederick,
+Archer City, Lawton, Walters, Pond Creek, Sheppard AFB, Watonga,
+Waurika, Hennessey, Ada, Geary, Chandler, Sentinel, Yukon,
+Wewoka, Davis, Chickasha, Ringling, Altus, Blackwell, Ponca City,
+Prague, Temple, Enid, Stillwater, Anadarko, Oklahoma City,
+Newcastle, Norman, Mustang, Hinton, Tishomingo, Davenport,
+Scotland, Shawnee, Duncan, Okeene, Concho, Fairview, Pauls
+Valley, Helena, Blanchard, Purcell, Snyder, Wichita Falls,
+Lamont, Ardmore, Vernon, Hobart, Wynnewood, Lindsay, Seymour,
+Medford, Cherokee, Carmen, Wakita, Cordell, Wellston, El Reno,
+Moore, Perry, Meeker, Kingfisher, Tuttle, and Okarche
+1151 PM CST Tue Dec 16 2025
 
-...DENSE FOG ADVISORY IN EFFECT FROM 1 AM TO 10 AM CST WEDNESDAY...
+...DENSE FOG ADVISORY REMAINS IN EFFECT UNTIL 10 AM CST WEDNESDAY...
 
 * WHAT...Visibility one quarter mile or less in dense fog.
 
@@ -30,116 +29,320 @@ Guthrie, Mustang, Okeene, and Stillwater
   southeast, southern, southwest, and western Oklahoma and northern
   Texas.
 
-* WHEN...From 1 AM to 10 AM CST Wednesday.
+* WHEN...Until 10 AM CST Wednesday.
+
+* IMPACTS...Low visibility could make driving conditions hazardous.
+
+* ADDITIONAL DETAILS...Bridges and elevated surfaces may be slick in
+  dense fog where temperatures remain at or below freezing.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+If driving, slow down, use your headlights, and leave plenty of
+distance ahead of you.
+
+&&
+
+$$
+
+JP
+URGENT - WEATHER MESSAGE
+National Weather Service Fort Worth TX
+648 AM CST Wed Dec 17 2025
+
+
+Montague-Young-Jack-
+Including the cities of Olney, Bowie, Jacksboro, Nocona, and
+Graham
+648 AM CST Wed Dec 17 2025
+
+...DENSE FOG ADVISORY IN EFFECT UNTIL 10 AM CST THIS MORNING...
+
+* WHAT...Visibility one quarter mile or less in dense fog.
+
+* WHERE...Jack, Montague, and Young Counties.
+
+* WHEN...Until 10 AM CST this morning.
 
 * IMPACTS...Low visibility could make driving conditions hazardous.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-If driving, slow down, use your headlights, and leave plenty of
-distance ahead of you....URGENT - WEATHER MESSAGE
-National Weather Service Goodland KS
-1253 PM MST Tue Dec 16 2025
+If driving, slow down, use your low beam headlights, and leave
+plenty of distance between you and others.
+...URGENT - WEATHER MESSAGE
+National Weather Service Topeka KS
+246 AM CST Wed Dec 17 2025
 
-Yuma-Kit Carson-Cheyenne-Cheyenne-Rawlins-Decatur-Norton-Sherman-
-Thomas-Sheridan-Graham-Wallace-Logan-Gove-Greeley-Wichita-Dundy-
-Hitchcock-Red Willow-
-Including the cities of Trenton, Grinnell, Oakley, Stratton Ne,
-Oberlin, Goodland, Colby, Atwood, Palisade, Wray, Hoxie,
-Benkelman, Sharon Springs, Arapahoe, Yuma, St. Francis,
-Grainfield, Bird City, Norton, Burlington, Hill City, Tribune,
-Cheyenne Wells, Quinter, McCook, Culbertson, and Leoti
-1253 PM MST Tue Dec 16 2025 /153 PM CST Tue Dec 16 2025/
+Republic-Washington-Marshall-Nemaha-Brown-Cloud-Clay-Riley-
+Pottawatomie-Jackson-Jefferson-Ottawa-Dickinson-Geary-Morris-
+Wabaunsee-Shawnee-Douglas-Lyon-Osage-Franklin-Coffey-Anderson-
+Including the cities of Frankfort, Alta Vista, Blue Rapids,
+Washington, Burlingame, Bennington, Abilene, Garnett, Maple Hill,
+Lebo, Greenleaf, Manhattan, Council Grove, Alma, McFarland, Osage
+City, Wamego, Holton, Paxico, Burlington, Horton, Overbrook,
+Seneca, Hiawatha, Clay Center, McLouth, Hanover, Valley Falls,
+Ottawa, Grantville, Herington, Emporia, Linn, Minneapolis,
+Carbondale, Oskaloosa, Junction City, Harveyville, Belleville,
+Eskridge, Topeka, Marysville, St. Marys, Lyndon, Concordia,
+Perry, Lawrence, Clifton, Sabetha, Nortonville, and Meriden
+246 AM CST Wed Dec 17 2025
 
-...HIGH WIND WATCH IN EFFECT FROM LATE WEDNESDAY NIGHT THROUGH
-THURSDAY AFTERNOON...
+...WIND ADVISORY IN EFFECT FROM 8 AM TO 6 PM CST THURSDAY...
 
-* WHAT...Northwest winds 30 to 50 mph with gusts up to 70 mph
-  possible.
+* WHAT...Northwest winds 25 to 35 mph with gusts of 45 to 55 mph
+  expected.
 
-* WHERE...Portions of east central and northeast Colorado, northwest
-  and west central Kansas, and southwest Nebraska.
+* WHERE...Portions of central, east central, north central, and
+  northeast Kansas.
 
-* WHEN...From late Wednesday night through Thursday afternoon.  The
-  highest winds gusts will occur before noon, then decline during
-  the afternoon.
+* WHEN...From 8 AM to 6 PM CST Thursday.
 
-* IMPACTS...High winds may move loose debris, damage property and
-  cause power outages. Travel could be dangerous, especially for
-  high profile vehicles.
-
-* ADDITIONAL DETAILS...These winds may cause corridors of blowing
-  dust with near zero visibility downwind of loose soil.  These
-  winds will also cause any fire started to grow explosively....URGENT - FIRE WEATHER MESSAGE
-National Weather Service Wichita KS
-211 PM CST Tue Dec 16 2025
-
-
-Russell-Lincoln-Barton-Ellsworth-Saline-Rice-McPherson-Marion-
-Chase-Reno-Harvey-Butler-Greenwood-Kingman-Sedgwick-Harper-Sumner-
-Cowley-Elk-Chautauqua-
-211 PM CST Tue Dec 16 2025
-
-...FIRE WEATHER WATCH IN EFFECT FROM THURSDAY MORNING THROUGH
-THURSDAY AFTERNOON FOR EXTREME GRASSLAND FIRE DANGER FOR AREAS
-WITHIN AND NORTHWEST OF THE FLINT HILLS...
-
-The National Weather Service in Wichita has issued a Fire Weather
-Watch for extreme grassland fire danger, which is in effect from
-Thursday morning through Thursday afternoon.
-
-* Extreme Grassland Fire Danger...
-
-* Winds...Northwest 25 to 35 mph with gusts around 50 mph.
-
-* Relative Humidity...Between 20 and 30 percent.
+* IMPACTS...Gusty winds will blow around unsecured objects. Small
+  tree limbs could be blown down too. Isolated power outages may
+  result.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-A fire weather watch means that critical fire weather conditions
-are forecast to occur. Listen for later forecasts and possible
-red flag warnings.
+Winds this strong can make driving difficult, especially for high
+profile vehicles. Use extra caution while driving.
 
-Please advise the appropriate officials or fire crews in the
-field of this fire weather product.
+Secure outdoor objects.
 
 &&
 
 $$
-URGENT - FIRE WEATHER MESSAGE
-National Weather Service Topeka KS
-234 PM CST Tue Dec 16 2025
+
+CP
+URGENT - WEATHER MESSAGE
+National Weather Service Wichita KS
+320 AM CST Wed Dec 17 2025
 
 
+Saline-McPherson-Marion-Chase-Reno-Harvey-Butler-Greenwood-
+Woodson-Allen-Kingman-Sedgwick-Harper-Sumner-Cowley-Elk-Wilson-
+Neosho-Chautauqua-Montgomery-Labette-
+Including the cities of Andover, Wichita, Anthony, McPherson,
+Iola, Longton, Bel Aire, Howard, El Dorado, Chanute, Yates
+Center, Rose Hill, Attica, Wellington, Winfield, Neodesha, Sedan,
+Derby, Peabody, Coffeyville, Augusta, Moline, Harper, Fredonia,
+Humboldt, Marion, Grenola, Independence, Cedar Vale, Haysville,
+Arkansas City, Madison, Newton, Strong City, Park City, Kingman,
+Cottonwood Falls, Parsons, Valley Center, Eureka, Hillsboro,
+Hutchinson, and Salina
+320 AM CST Wed Dec 17 2025
 
-Cloud-Clay-Riley-Ottawa-Dickinson-Geary-Morris-Wabaunsee-Lyon-
-234 PM CST Tue Dec 16 2025
+...WIND ADVISORY IN EFFECT FROM 9 AM TO 6 PM CST THURSDAY...
 
-...FIRE WEATHER WATCH IN EFFECT FROM THURSDAY MORNING THROUGH
-THURSDAY AFTERNOON FOR POTENTIAL FOR EXTREME FIRE DANGER FOR NORTH
-CENTRAL INTO EAST CENTRAL KANSAS...
+* WHAT...Northwest winds 25 to 35 mph with gusts between 45 to 50
+  mph expected.
 
-The National Weather Service in Topeka has issued a Fire Weather
-Watch for potential extreme fire danger, which is in effect from
-Thursday morning through Thursday afternoon.
+* WHERE...Portions of Central, South Central, and Southeast Kansas.
 
-* AFFECTED AREA...Fire Weather Zone 020 Cloud, Fire Weather Zone
-  021 Clay, Fire Weather Zone 022 Riley, Fire Weather Zone 034
-  Ottawa, Fire Weather Zone 035 Dickinson, Fire Weather Zone 036
-  Geary, Fire Weather Zone 037 Morris, Fire Weather Zone 038
-  Wabaunsee and Fire Weather Zone 054 Lyon.
+* WHEN...From 9 AM to 6 PM CST Thursday.
 
-* TIMING...From Thursday morning through Thursday afternoon.
-
-* WINDS...Northwest 25 to 35 mph with gusts up to 45 to 50 mph.
-
-* RELATIVE HUMIDITY...As low as 20 percent.
-
-* IMPACTS...Any fire that develops will have the potential to
-  catch and spread quickly. Outdoor burning will not recommended.
+* IMPACTS...Gusty winds will blow around unsecured objects. Tree
+  limbs could be blown down and a few power outages may result.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-A Fire Weather Watch means that critical fire weather conditions
-are forecast to occur. Listen for later forecasts and possible
-Red Flag Warnings.....The forecast for Eastern Oklahoma and Western Arkansas: Tuesday night lows in the 30s and 40s. Wednesday highs in the 50s and 60s. Wednesday night lows in the 30s and 40s. Thursday highs in the 50s and 60s. Thursday night lows in the 30s and 40s. Friday highs in the 50s and 60s. Friday night lows in the 30s to 40s. Saturday highs in the 60s and 70s. Saturday night lows in the 40s to 50s. Sunday highs in the 60s to 70s. Sunday night lows in the 30s to 40s. Monday highs in the 50s to 60s. Monday night lows in the 30s to 40s. Tuesday highs in the 50s to 60s. Tuesday night lows in the 30s to 40s. Christmas Eve highs in the 50s to 60s. Christmas Eve night lows in the 30s to 40s. Christmas Day highs in the 50s to 60s. Christmas Night lows in the 30s and 40s. Friday highs in the 50s to 60s. Friday night lows in the 30s to 40s. Saturday highs in the 50s to 60s. Saturday night lows in the 30s to 40s. Sunday highs in the 50s to 60s. Sunday night lows in the 30s and 40s. Monday highs in the 30s to 40s. Monday night lows in the 20s to 30s. Tuesday highs in the 50s and 60s. Tuesday night lows in the 30s to 40s. New Year's Eve highs in the 50s and 60s. New Year's Eve night lows in the 30s to 40s. New Year's Day highs in the 40s to 50s. New Year's night lows in the 20s to 30s. Thurday high in the 40s to 50s. Thursday night lows in the 20s to 30s. Friday highs in the 40s to 50s. Friday night lows in the 30s to 40s. Saturday highs in the 50s to 60s. Saturday night lows in the 30s to 40s. Sunday highs in the 50s to 60s. Sunday night lows in the 40s to 50s. Monday highs in the 40s to 50s. Monday night lows in the 20s to 30s. Tuesday highs in the 30s to 40s.. Tuesday night lows in the teens to 20s. Wednesday highs in the 40s to 50s. Wednesday night lows in the teens to 20s. Thursday highs in the 50s to 60s. Thursday night lows in the 30s to 40s....WALT AI: No major winter storms or severe weather expected across Eastern Oklahoma or Western Arkansas through the end of December. 
+Winds this strong can make driving difficult, especially for high
+profile vehicles. Use extra caution.
+
+&&
+
+$$
+URGENT - WEATHER MESSAGE
+National Weather Service Kansas City/Pleasant Hill MO
+242 AM CST Wed Dec 17 2025
+
+Atchison KS-Miami-Doniphan-Leavenworth-Wyandotte-Johnson KS-
+Atchison MO-Nodaway-Worth-Gentry-Harrison-Holt-Andrew-De Kalb-
+Daviess-Buchanan-Clinton-Caldwell-Platte-Clay-Ray-Jackson-Cass-
+Including the cities of Oregon, Liberty, Grant City, Troy,
+Atchison, Paola, Kansas City Kansas, Osawatomie, Gladstone,
+Elwood, Weatherby Lake, Kearney, King City, Platte City, Braymer,
+Cameron, Raymore, Maitland, Wathena, Lathrop, Plattsburg, Mound
+City, Forest City, Jamesport, Polo, Weston, St. Joseph, Rock
+Port, Bethany, Savannah, Independence, Overland Park, Highland,
+Maysville, Gallatin, Country Club Villa, Kansas City,
+Breckenridge, Stewartsville, Louisburg, Clarksdale, Stanley,
+Shawnee, Pleasant Hill, Albany, Maryville, Riverside,
+Harrisonville, Union Star, Tarkio, Fairfax, Parkville, Craig,
+Excelsior Springs, Richmond, Leavenworth, Fort Leavenworth,
+Lansing, St. Joseph Airport, Hamilton, Osborn, Olathe, Belton,
+Lawson, Lenexa, and Stanberry
+242 AM CST Wed Dec 17 2025
+
+...WIND ADVISORY IN EFFECT FROM 8 AM TO 6 PM CST THURSDAY...
+
+* WHAT...Northwest winds 20 to 30 mph with gusts up to 45 mph
+  expected.
+
+* WHERE...Portions of east central and northeast Kansas and north
+  central, northwest, and west central Missouri.
+
+* WHEN...From 8 AM to 6 PM CST Thursday.
+
+* IMPACTS...Gusty winds will blow around unsecured objects. Tree
+  limbs could be blown down and a few power outages may result.
+
+* ADDITIONAL DETAILS...The west to northwest winds will make travel
+  on north-south oriented roads particularly difficult.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Winds this strong can make driving difficult, especially for high
+profile vehicles. Use extra caution.
+
+&&
+
+$$
+
+
+
+CDB
+URGENT - WEATHER MESSAGE
+National Weather Service Omaha/Valley NE
+218 AM CST Wed Dec 17 2025
+
+
+Shelby-Pottawattamie-Mills-Montgomery-Fremont-Page-Cass-Otoe-Gage-
+Johnson-Nemaha-Pawnee-Richardson-
+Including the cities of Sidney, Clarinda, Beatrice, Falls City,
+Hamburg, Plattsmouth, Shenandoah, Tecumseh, Red Oak, Table Rock,
+Glenwood, Farragut, Harlan, Tabor, Council Bluffs, Sterling,
+Pawnee City, Auburn, and Nebraska City
+218 AM CST Wed Dec 17 2025
+
+...WIND ADVISORY IN EFFECT FROM 6 AM TO 6 PM CST THURSDAY...
+
+* WHAT...Northwest winds 25 to 35 mph with gusts up to 50 mph
+  expected.
+
+* WHERE...Portions of southwest Iowa and southeast Nebraska.
+
+* WHEN...From 6 AM to 6 PM CST Thursday.
+
+* IMPACTS...Gusty winds will blow around unsecured objects. Tree
+  limbs could be blown down and a few power outages may result.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Winds this strong can make driving difficult, especially for high
+profile vehicles. Use extra caution.
+
+Secure outdoor furniture or decorations....URGENT - WEATHER MESSAGE
+National Weather Service Goodland KS
+622 AM MST Wed Dec 17 2025
+
+
+Yuma-Kit Carson-Cheyenne-Cheyenne-Rawlins-Decatur-Norton-Sherman-
+Thomas-Sheridan-Graham-Wallace-Logan-Gove-Greeley-Wichita-Dundy-
+Hitchcock-Red Willow-
+Including the cities of Bird City, Hoxie, Grinnell, Wray, Oakley,
+Oberlin, Tribune, Sharon Springs, Goodland, Leoti, Colby,
+Trenton, Quinter, Palisade, Grainfield, Norton, Cheyenne Wells,
+St. Francis, Stratton Ne, Arapahoe, McCook, Benkelman, Yuma,
+Atwood, Burlington, Culbertson, and Hill City
+622 AM MST Wed Dec 17 2025 /722 AM CST Wed Dec 17 2025/
+
+...HIGH WIND WATCH REMAINS IN EFFECT FROM LATE TONIGHT THROUGH
+THURSDAY AFTERNOON...
+
+* WHAT...Northwest winds 35 to 50 mph with gusts up to 70 mph
+  possible.
+
+* WHERE...Entire Tri-State area.
+
+* WHEN...From late tonight through Thursday afternoon.
+
+* IMPACTS...Dangerous travel conditions, especially for high profile
+  vehicles. High winds may also damage property.
+
+* ADDITIONAL DETAILS...Strong northwest winds will accompany a cold
+  frontal passage this evening. Winds will weaken for a period
+  overnight, then strengthen after sunrise. The strongest winds are
+  expected mid morning through mid afternoon on Thursday. Winds will
+  decrease during the late afternoon and abruptly weaken around
+  sunset Thursday evening.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Monitor the latest forecasts and warnings for updates.
+
+&&
+
+$$
+
+Vincent
+URGENT - WEATHER MESSAGE
+National Weather Service Dodge City KS
+327 AM CST Wed Dec 17 2025
+
+Trego-Ellis-Scott-Lane-Ness-Rush-Hamilton-Kearny-Finney-Hodgeman-
+Pawnee-Stafford-Gray-Ford-Edwards-
+Including the cities of Pfeifer, Wakeeney, Syracuse, Jetmore,
+Dighton, Ness City, Larned, Cimarron, Kinsley, Scott City,
+Macksville, Hays, Lakin, Garden City, Dodge City, St. John, La
+Crosse, Deerfield, Stafford, Scott State Lake, Hanston, Lewis,
+and Montezuma
+327 AM CST Wed Dec 17 2025 /227 AM MST Wed Dec 17 2025/
+
+...HIGH WIND WATCH IN EFFECT FROM THURSDAY MORNING THROUGH THURSDAY
+AFTERNOON...
+
+* WHAT...Northwest winds 30 to 40 mph with gusts up to 60 mph
+  possible.
+
+* WHERE...Portions of central, south central, southwest, and west
+  central Kansas.
+
+* WHEN...From Thursday morning through Thursday afternoon.
+
+* IMPACTS...Areas of blowing dust are likely. Please exercise
+  caution driving past open fields as visibility could quickly fall
+  down to one half mile or less over very short distances!
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Monitor the latest forecasts and warnings for updates.
+
+Fasten loose objects or shelter objects in a safe location prior to
+the onset of winds.
+
+&&
+
+$$
+
+UMSCHEID
+URGENT - WEATHER MESSAGE
+National Weather Service Denver CO
+135 AM MST Wed Dec 17 2025
+
+Sedgwick County-Phillips County-
+Including the cities of Amherst, Holyoke, Julesburg, Haxtun, Ovid,
+and Sedgwick
+135 AM MST Wed Dec 17 2025
+
+...HIGH WIND WATCH IN EFFECT THURSDAY MORNING AND AFTERNOON...
+
+* WHAT...Northwest winds 25 to 35 mph with gusts up to 60 mph
+  possible.
+
+* WHERE...Sedgwick and Phillips Counties, including Julesburg and
+  Holyoke.
+
+* WHEN...5 AM Thursday through 5 PM Thursday.
+
+* IMPACTS...Gusty winds will blow around unsecured objects and a few
+  power outages may result. Travel will be difficult, especially for
+  high profile vehicles.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Monitor the latest forecasts and warnings for updates.
+
+Winds this strong can make driving difficult, especially for high
+profile vehicles. Use extra caution.
+...The forecast for Eastern Oklahoma and Western Arkansas: Wednesday highs in to 50s to 60s. Wednesday night lows in the 30s and 40s. Thursday highs in the 50s and 60s. Thursday night lows in the 30s and 40s. Friday highs in the 50s and 60s. Friday night lows in the 30s to 40s. Saturday highs in the 60s and 70s. Saturday night lows in the 40s to 50s. Sunday highs in the 60s to 70s. Sunday night lows in the 30s to 40s. Monday highs in the 50s to 60s. Monday night lows in the 30s to 40s. Tuesday highs in the 50s to 60s. Tuesday night lows in the 30s to 40s. Christmas Eve highs in the 50s to 60s. Christmas Eve night lows in the 30s to 40s. Christmas Day highs in the 50s to 60s. Christmas Night lows in the 30s and 40s. Friday highs in the 50s to 60s. Friday night lows in the 30s to 40s. Saturday highs in the 50s to 60s. Saturday night lows in the 30s to 40s. Sunday highs in the 50s to 60s. Sunday night lows in the 30s and 40s. Monday highs in the 30s to 40s. Monday night lows in the 20s to 30s. Tuesday highs in the 50s and 60s. Tuesday night lows in the 30s to 40s. New Year's Eve highs in the 50s and 60s. New Year's Eve night lows in the 30s to 40s. New Year's Day highs in the 40s to 50s. New Year's night lows in the 20s to 30s. Thurday high in the 40s to 50s. Thursday night lows in the 20s to 30s. Friday highs in the 40s to 50s. Friday night lows in the 30s to 40s. Saturday highs in the 50s to 60s. Saturday night lows in the 30s to 40s. Sunday highs in the 50s to 60s. Sunday night lows in the 40s to 50s. Monday highs in the 40s to 50s. Monday night lows in the 20s to 30s. Tuesday highs in the 30s to 40s.. Tuesday night lows in the teens to 20s. Wednesday highs in the 40s to 50s. Wednesday night lows in the teens to 20s. Thursday highs in the 50s to 60s. Thursday night lows in the 30s to 40s....WALT AI: No major winter storms or severe weather expected across Eastern Oklahoma or Western Arkansas through the end of December. 
