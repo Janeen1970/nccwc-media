@@ -33,29 +33,23 @@ PRECAUTIONARY/PREPAREDNESS ACTIONS...
 Slow down and use caution while traveling. The latest road
 conditions for the state you are calling from can be obtained by
 calling 5 1 1...NWS Storm Prediction Center Norman OK
-   0352 AM CST Sat Feb 28 2026
+   0359 AM CST Sun Mar 01 2026
 
-   Valid 031200Z - 081200Z
+   Valid 041200Z - 091200Z
 
    ...DISCUSSION...
-   ...Tuesday/Day 4 and Wednesday/Day 5...
-   On Tuesday, a mid-level trough will move eastward across the Desert
-   Southwest, as southwesterly flow remains in place over the southern
-   Plains. As the trough approaches Tuesday night, scattered elevated
-   thunderstorms will be possible from the Red River northeastward into
-   the mid Mississippi Valley. From Tuesday night into Wednesday, a
-   moist airmass will spread northward from east-central Texas into the
-   Arklatex and Ozarks. Thunderstorm development will be possible near
-   the boundary from central Oklahoma into southern Missouri during the
-   day on Wednesday, and further southeast across the warm sector in
-   the afternoon and evening. Model forecasts continue to show moderate
-   instability ahead of the front. In addition, a mid-level jet streak
-   is forecast to pass through the southern Plains during the
-   afternoon, creating deep-layer shear sufficient for severe storms.
-   Supercells with wind damage and isolated large hail will be
-   possible. Model solutions are in better agreement this run,
-   suggesting the severe threat will be a bit further east than was
-   previously forecast. For this reason, the severe threat area has
-   been adjusted eastward towards the Ark-La-Tex.
+   ...Wednesday/Day 4 to Thursday/Day 5...
+   On Wednesday, model forecasts continue to move a mid-level shortwave
+   trough across the southern Plains. A cold front is forecast to
+   advance southeastward into Oklahoma as a moist and unstable airmass
+   resides southward from the front over much of the southern Plains.
+   Surface dewpoints across southeast Oklahoma and north-central to
+   northeast Texas should be in the lower to mid 60s F, and moderate
+   instability will be possible by afternoon. Thunderstorm development
+   appears likely across parts of this unstable airmass from the mid
+   afternoon into the evening. Moderate deep-layer shear should support
+   a severe threat, with a potential for large hail and damaging wind
+   gusts associated with supercells.
+
 
  
