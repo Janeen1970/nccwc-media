@@ -1,32 +1,4 @@
-URGENT - IMMEDIATE BROADCAST REQUESTED
-   Tornado Watch Number 13
-   NWS Storm Prediction Center Norman OK
-   545 PM CST Thu Mar 5 2026
-
-   The NWS Storm Prediction Center has issued a
-
-   * Tornado Watch for portions of 
-     Western Oklahoma
-     Eastern Texas Panhandle
-
-   * Effective this Thursday afternoon from 545 PM until Midnight
-     CST.
-
-   * Primary threats include...
-     A few tornadoes likely with a couple intense tornadoes possible
-     Scattered damaging winds and isolated significant gusts to 80
-       mph likely
-     Scattered large hail and isolated very large hail events to 2.5
-       inches in diameter likely
-
-   SUMMARY...Thunderstorms are expected to intensify rapidly this
-   evening in an increasingly moist and unstable air mass.  Supercells
-   capable of very large hail and a few tornadoes are the main
-   concerns.
-
-   The tornado watch area is approximately along and 50 statute miles
-   east and west of a line from 35 miles south southwest of Childress
-   TX to 75 miles north of Clinton OK....Daytime highs Thursday through Monday in the 60s to 70s and lows in the 40s to 50s. Chance of rain Thursday through Monday. Friday into Friday night, WALT Model indicates an environment capable of producing organized severe thunderstorms. Storms are likely to develop as discrete or semi-discrete cells initially, supported by sufficient atmospheric energy and shear to allow strong updrafts and rotation to form within individual storms. During this early stage, hail and localized tornado potential can occur, especially if a storm remains isolated long enough to strengthen. As additional storms form and interact, the system will likely transition into a more organized line of thunderstorms, shifting the dominant hazard toward damaging straight-line winds with embedded pockets of rotation along the leading edge. Overall, the event would most likely feature a period of isolated severe storms followed by a fast-moving line capable of strong winds, hail, and brief tornadoes...NWS Storm Prediction Center Norman OK
+Daytime highs Thursday through Monday in the 60s to 70s and lows in the 40s to 50s. Chance of rain Thursday through Monday. Friday into Friday night, WALT Model indicates an environment capable of producing organized severe thunderstorms. Storms are likely to develop as discrete or semi-discrete cells initially, supported by sufficient atmospheric energy and shear to allow strong updrafts and rotation to form within individual storms. During this early stage, hail and localized tornado potential can occur, especially if a storm remains isolated long enough to strengthen. As additional storms form and interact, the system will likely transition into a more organized line of thunderstorms, shifting the dominant hazard toward damaging straight-line winds with embedded pockets of rotation along the leading edge. Overall, the event would most likely feature a period of isolated severe storms followed by a fast-moving line capable of strong winds, hail, and brief tornadoes...NWS Storm Prediction Center Norman OK
    0336 AM CST Thu Mar 05 2026On Tuesday, model forecasts move an upper-level system across
    northern Mexico, and retain southwesterly mid-level flow over much
    of the south-central U.S. A moist and unstable airmass is forecast
