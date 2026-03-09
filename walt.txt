@@ -1,45 +1,30 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Shreveport LA
-814 AM CDT Mon Mar 9 2026
+URGENT - IMMEDIATE BROADCAST REQUESTED
+   Severe Thunderstorm Watch Number 28
+   NWS Storm Prediction Center Norman OK
+   845 AM CDT Mon Mar 9 2026
 
-The National Weather Service in Shreveport has issued a
+   The NWS Storm Prediction Center has issued a
 
-* Severe Thunderstorm Warning for...
-  Northern McCurtain County in southeastern Oklahoma...
+   * Severe Thunderstorm Watch for portions of 
+     Central and southern Arkansas
+     Extreme souheast Oklahoma
 
-* Until 900 AM CDT.
+   * Effective this Monday morning and afternoon from 845 AM until
+     300 PM CDT.
 
-* At 814 AM CDT, a severe thunderstorm was located 27 miles northwest
-  of Broken Bow, or 13 miles southwest of Battiest, moving east
-  northeast at 50 mph.
+   * Primary threats include...
+     Scattered large hail and isolated very large hail events to 2
+       inches in diameter possible
+     Isolated damaging wind gusts to 70 mph possible
 
-  HAZARD...Quarter size hail.
+   SUMMARY...Clusters of thunderstorms will spread eastward from
+   southeast Oklahoma into Arkansas through the morning, with
+   additional storm development possible into southern Arkansas.  Large
+   hail (1-2 inches in diameter) will be the main threat through the
+   morning, though upscale storm growth could support the potential for
+   some wind damage by late morning into early afternoon.
 
-  SOURCE...Radar indicated.
-
-  IMPACT...Damage to vehicles is expected.
-
-* Locations impacted include...
-  Sherwood, Mount Herman, Bethel, Smithville, Battiest, Watson,
-  Pickens and Plunketville.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Seek shelter inside a well-built structure and stay away from
-windows. This storm is capable of producing large hail.
-
-Report severe weather to your nearest law enforcement agency or the
-National Weather Service office in Shreveport LA.
-
-&&
-
-LAT...LON 3429 9447 3422 9515 3424 9515 3424 9505
-      3451 9505 3451 9446
-TIME...MOT...LOC 1312Z 258DEG 42KT 3430 9508
-
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...<50 MPH
+   The severe thunderstorm watch area is approximately along and 45
+   statute miles north and south of a line from 30 miles north of De
+   Queen AR to 45 miles east of Pine Bluff AR.
 ...Eastern Oklahoma and Western Arkansas: Monday through Friday, Daytime highs in the 60s to 80s. Low temperatures from 30s to 50s. Chance of rain Monday through Wednesday. WALT Model points to Thunderstorms forming in this environment will likely produce bursts of 35–60 mph winds, periods of moderate to heavy rain, and possibly small hail to 1 inch in diameter if updrafts strengthen briefly. Strong surface shear could allow storms to organize into short line segments or clusters, which typically enhances the wind threat as downdrafts surge outward from the storm cores if storms form at all...WALT Model on Tuesday suggests a serious severe thunderstorm environment with enough support for both damaging winds and large hail. The atmosphere has enough energy and structure for storms to intensify quickly. Shear is a major factor here because it supports storm organization, stronger updraft rotation, and more efficient transfer of momentum to the surface. There is also enough particulate loading to support dense cloud structure and strong precipitation cores. The most likely outcome is a powerful severe thunderstorm or line of storms capable of producing 60 to 80 mph wind gusts, which could bring down tree limbs, damage powerlines, and cause scattered structural damage. The hail signal is also strong enough for severe hail, likely around quarter to golf ball size, with isolated larger stones possible if a storm remains discrete for a while before lining out. This is a higher-end damaging storm pattern in the WALT Model, and while the strongest signal is for wind and hail, some rotation potential exists. A brief funnel or isolated tornado cannot be fully ruled out if one storm can stay semi-isolated...
