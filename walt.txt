@@ -1,5 +1,48 @@
 
-   URGENT - IMMEDIATE BROADCAST REQUESTED
+   BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Norman OK
+539 PM CDT Tue Mar 10 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Northwestern Grady County in central Oklahoma...
+  East central Caddo County in southwestern Oklahoma...
+  Southwestern Canadian County in central Oklahoma...
+
+* Until 630 PM CDT.
+
+* At 539 PM CDT, a severe thunderstorm was located near Gracemont,
+  moving northeast at 35 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Minco, Gracemont, Pocasset, Cogar, Lake Chickasha, and Cedar Lake.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect for the warned area.
+
+&&
+
+LAT...LON 3506 9833 3520 9839 3543 9819 3543 9799
+      3520 9791
+TIME...MOT...LOC 2239Z 218DEG 30KT 3516 9827 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 33
    NWS Storm Prediction Center Norman OK
    500 PM CDT Tue Mar 10 2026
