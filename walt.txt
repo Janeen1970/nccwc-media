@@ -1,29 +1,31 @@
-This is climate scientist Adams for the National Climate Change Warning Center. We have severe thunderstorms in Oklahoma, near Marietta, Wakita, and Shawnee, Oklahoma. Large hail and damaging winds are expected with these storms. Severe storms west of Fort Worth, Texas, with damaging winds and large hail...URGENT - IMMEDIATE BROADCAST REQUESTED
-   Tornado Watch Number 33
+ URGENT - IMMEDIATE BROADCAST REQUESTED
+   Tornado Watch Number 40
    NWS Storm Prediction Center Norman OK
-   500 PM CDT Tue Mar 10 2026
+   1020 PM CDT Tue Mar 10 2026
 
    The NWS Storm Prediction Center has issued a
 
    * Tornado Watch for portions of 
-     Western and Central Oklahoma
-     Western North Texas
+     Western Arkansas
+     Southeast Kansas
+     Southwest Missouri
+     Eastern Oklahoma
+     Northeast Texas
 
-   * Effective this Tuesday afternoon and evening from 500 PM until
-     1100 PM CDT.
+   * Effective this Tuesday night and Wednesday morning from 1020 PM
+     until 400 AM CDT.
 
    * Primary threats include...
-     A few tornadoes likely
-     Widespread damaging winds and isolated significant gusts to 80
-       mph likely
-     Widespread large hail and isolated very large hail events to 3.5
+     A few tornadoes and a couple intense tornadoes possible
+     Scattered large hail and isolated very large hail events to 2
        inches in diameter likely
+     Scattered damaging wind gusts to 70 mph likely
 
-   SUMMARY...Thunderstorms are expected to rapidly develop this
-   afternoon in a warm and moist air mass.  Supercells and linear storm
-   segments are likely, capable of very large hail, damaging winds, and
-   tornadoes.
+   SUMMARY...Clusters of thunderstorms over eastern Oklahoma and
+   southeast Kansas will track eastward and into the watch area through
+   the next several hours.  A few storms may develop supercell or
+   bowing structures capable of damaging winds and a tornado or two.
 
-   The tornado watch area is approximately along and 70 statute miles
-   east and west of a line from 30 miles northwest of Ponca City OK to
-   20 miles east southeast of Brownwood TX....Eastern Oklahoma and Western Arkansas: Tuesday through Friday, Daytime highs in the 60s to 80s. Low temperatures from 40s to 50s. Chance of rain Tuesday through Wednesday. Tuesday, WALT Live Update Mode Storm Potential: WALT Model favors strong thunderstorms with gusty winds and some hail, but not a top-end severe outbreak signal. The most likely outcome is a storm or line of storms producing 40 to 60 mph wind gusts, capable of knocking down small limbs, moving loose objects, and causing isolated minor damage. The hail threat is moderate, with small to near-severe hail possible in the stronger cells. Because shear is strong, a storm could briefly show some rotation structure, but the tornado signal stays low.
+   The tornado watch area is approximately along and 60 statute miles
+   east and west of a line from 55 miles north of Joplin MO to 45 miles
+   west southwest of De Queen AR. ....Eastern Oklahoma and Western Arkansas: Tuesday through Friday, Daytime highs in the 60s to 80s. Low temperatures from 40s to 50s. Chance of rain Tuesday through Wednesday. Tuesday, WALT Live Update Mode Storm Potential: WALT Model favors strong thunderstorms with gusty winds and some hail, but not a top-end severe outbreak signal. The most likely outcome is a storm or line of storms producing 40 to 60 mph wind gusts, capable of knocking down small limbs, moving loose objects, and causing isolated minor damage. The hail threat is moderate, with small to near-severe hail possible in the stronger cells. Because shear is strong, a storm could briefly show some rotation structure, but the tornado signal stays low.
