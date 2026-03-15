@@ -1,6 +1,65 @@
 
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Little Rock AR
+324 PM CDT Sun Mar 15 2026
+
+The National Weather Service in Little Rock has issued a
+
+* Severe Thunderstorm Warning for...
+  Northern Searcy County in north central Arkansas...
+  Northeastern Newton County in north central Arkansas...
+  Marion County in north central Arkansas...
+  Southeastern Boone County in north central Arkansas...
+  Baxter County in north central Arkansas...
+
+* Until 415 PM CDT.
+
+* At 322 PM CDT, severe thunderstorms were located along a line
+  extending from near Pyatt to near Dugger to near Eula, moving
+  northeast at 50 mph.
+
+  HAZARD...60 mph wind gusts and penny size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Mountain Home...                  Bull Shoals...
+  Yellville...                      Gassville...
+  Flippin...                        Lakeview in Baxter County...
+  Norfork...                        Salesville...
+  Bergman...                        Western Grove...
+  Briarcliff...                     Pyatt...
+  Valley Springs...                 Arkawana...
+  Dugger...                         Olvey...
+  Duff...                           Lakeway...
+  Bull Shoals State Park...         Winington...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+A Tornado Watch remains in effect until 900 PM CDT for north central
+Arkansas.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 900 PM CDT for north central
+Arkansas.
+
+&&
+
+LAT...LON 3631 9217 3617 9220 3617 9221 3613 9221
+      3607 9222 3606 9230 3605 9231 3589 9309
+      3602 9301 3635 9303 3650 9222 3650 9217
+TIME...MOT...LOC 2022Z 245DEG 44KT 3628 9287 3606 9285 3590 9296 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...0.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Shreveport LA
 314 PM CDT Sun Mar 15 2026
 
