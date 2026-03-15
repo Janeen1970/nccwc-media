@@ -1,60 +1,53 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
-National Weather Service Little Rock AR
-320 PM CDT Sun Mar 15 2026
+National Weather Service Shreveport LA
+350 PM CDT Sun Mar 15 2026
 
-The National Weather Service in Little Rock has issued a
+The National Weather Service in Shreveport has issued a
 
 * Severe Thunderstorm Warning for...
-  Southern Polk County in western Arkansas...
+  Southwestern Little River County in southwestern Arkansas...
+  Southeastern McCurtain County in southeastern Oklahoma...
+  Central Bowie County in northeastern Texas...
+  East Central Red River County in northeastern Texas...
 
-* Until 400 PM CDT.
+* Until 445 PM CDT.
 
-* At 319 PM CDT, severe thunderstorms were located along a line
-  extending from 10 miles west of Vandervoort to 11 miles northeast
-  of Broken Bow, moving east at 35 mph.
+* At 350 PM CDT, a severe thunderstorm was located 8 miles north of
+  De Kalb, or 15 miles southwest of Foreman, moving east at 45 mph.
 
-  HAZARD...60 mph wind gusts and quarter size hail.
+  HAZARD...60 mph wind gusts and half dollar size hail.
 
   SOURCE...Radar indicated.
 
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage to
+           roofs, siding, and trees.
 
 * Locations impacted include...
-  Wickes...                         Grannis...
-  Vandervoort...                    Hartley...
-  Cossatot River State Park...      Bard Springs Recreation Area...
-  Caney Creek Wilderness...         Mccauley...
-  Cove...                           Shady Lake Recreation Area...
-  Hatton...                         Roaring Branch Natural Area...
-  Bogg Springs...                   
+  Texarkana, Wake Village, Ashdown, New Boston, Foreman, Nash, Hooks,
+  De Kalb, Red Lick, Wilton, Ogden, Richmond, Leary, Avery, Wallace,
+  Red Bank, Arden, Almont and Tom.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-A Tornado Watch remains in effect until 900 PM CDT for western
-Arkansas.
+Seek shelter inside a well-built structure and stay away from
+windows. This storm is capable of producing damaging winds and large
+hail.
 
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 900 PM CDT for western
-Arkansas.
+A Tornado Watch remains in effect until 900 PM CDT Sunday for
+portions of southwest Arkansas, southeast Oklahoma, and northeast
+Texas.
 
 &&
 
-LAT...LON 3443 9446 3445 9393 3435 9394 3436 9425
-      3427 9426 3427 9425 3419 9425 3419 9447
-TIME...MOT...LOC 2019Z 273DEG 31KT 3436 9454 3417 9465 
+LAT...LON 3348 9487 3375 9474 3373 9405 3355 9403
+      3355 9404 3341 9404
+TIME...MOT...LOC 2050Z 271DEG 37KT 3363 9464
 
 HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
+MAX HAIL SIZE...1.25 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH
-
-$$
-
-* Until 415 PM CDT....URGENT - IMMEDIATE BROADCAST REQUESTED
+MAX WIND GUST...60 MPH....URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 53
    NWS Storm Prediction Center Norman OK
    150 PM CDT Sun Mar 15 2026
