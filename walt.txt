@@ -10,4 +10,41 @@ Radar Update: Showers to thunderstorms from near Bella Vista Arkansas to near Mc
    Valid 151731Z - 151900Z
 
    Probability of Watch Issuance...80 percent
-...Very strong non-t-storm winds in Western Oklahoma and Kansas along the cold front.
+
+   SUMMARY...Rapid severe thunderstorm development is expected early
+   this afternoon from eastern OK into AR, northeast TX into northern
+   LA. All hazards are possible with an eventual QLCS.
+
+   DISCUSSION...As of 1730 UTC, regional satellite imagery showed
+   initial ascent ahead of a potent shortwave trough was impinging upon
+   the intersection of a cold front and weak dryline over parts of
+   eastern OK and far southwest MO. Exceptionally strong mid-level
+   ascent (8-10 cm/s observed from the SGF soundings) will overspread a
+   rapidly warming/moistening air mass resulting in destabilization
+   this afternoon.
+
+   Rapid thunderstorm initiation is expected in the next couple of
+   hours as ascent continues and the front impinges upon the plume of
+   returning surface moisture. While modest, surface dewpoints in the
+   low to mid 60s F amid steep mid-level lapse rates will support
+   1000-2000 J/kg of MUCAPE. 50+ kt of deep-layer shear will favor
+   storm organization with a mixed mode of supercells and line
+   segments. The surging nature of the front suggests rapid upscale
+   growth into a QLCS is also likely this afternoon before spreading
+   eastward. Strong low and mid-level shear (ESRH 200-300 m2/s2) may
+   still support embedded supercellular elements, along with QLCS
+   circulations. Enhanced lower tropospheric flow of 30-50 kt is
+   favorable for damaging gusts and embedded tornadoes. Hail is less
+   certain, but will likely remain tied to more isolated initial
+   semi-cellular development into parts of southwest AR and northwest
+   LA/northeast TX.
+
+   Observational trends and the latest CAM guidance show thunderstorms
+   developing first along the most progressive portions of the cold
+   front from far southern MO into far eastern OK and western AR.
+   Additional development farther southwest may be somewhat more
+   gradual as large-scale forcing for ascent is weaker and residual
+   capping is likely to remain in place. With time, widespread
+   thunderstorms should mature within a favorable CAPE/shear space,
+   increasing the severe risk. Given this, one or more Tornado Watches
+   are likely this afternoon.
