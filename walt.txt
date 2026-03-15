@@ -4,54 +4,33 @@ The National Weather Service in Tulsa has issued a
   Southeastern Benton County in northwestern Arkansas...
   Northeastern Washington County in northwestern Arkansas...
 
-* Until 215 PM CDT.
- Mesoscale Discussion 0244
+* Until 215 PM CDT...URGENT - IMMEDIATE BROADCAST REQUESTED
+   Tornado Watch Number 52
    NWS Storm Prediction Center Norman OK
-   1231 PM CDT Sun Mar 15 2026
+   130 PM CDT Sun Mar 15 2026
 
-   Areas affected...Arkansas...eastern Oklahoma...northeast Texas and
-   northwestern Louisiana.
+   The NWS Storm Prediction Center has issued a
 
-   Concerning...Severe potential...Tornado Watch likely 
+   * Tornado Watch for portions of 
+     West-Central Illinois
+     Southern and Eastern Missouri
 
-   Valid 151731Z - 151900Z
+   * Effective this Sunday afternoon and evening from 130 PM until
+     800 PM CDT.
 
-   Probability of Watch Issuance...80 percent
+   * Primary threats include...
+     A few tornadoes possible
+     Scattered damaging winds likely with isolated significant gusts
+       to 75 mph possible
+     Isolated large hail events to 1.5 inches in diameter possible
 
-   SUMMARY...Rapid severe thunderstorm development is expected early
-   this afternoon from eastern OK into AR, northeast TX into northern
-   LA. All hazards are possible with an eventual QLCS.
+   SUMMARY...Thunderstorms should continue to develop this afternoon
+   while posing a threat for scattered severe/damaging winds and a few
+   tornadoes. A greater wind threat, with peak gusts up to 65-75 mph,
+   may exist if thunderstorms can form into a line along/ahead of a
+   cold front over the next several hours. Isolated severe hail may
+   also occur with the strongest cores.
 
-   DISCUSSION...As of 1730 UTC, regional satellite imagery showed
-   initial ascent ahead of a potent shortwave trough was impinging upon
-   the intersection of a cold front and weak dryline over parts of
-   eastern OK and far southwest MO. Exceptionally strong mid-level
-   ascent (8-10 cm/s observed from the SGF soundings) will overspread a
-   rapidly warming/moistening air mass resulting in destabilization
-   this afternoon.
-
-   Rapid thunderstorm initiation is expected in the next couple of
-   hours as ascent continues and the front impinges upon the plume of
-   returning surface moisture. While modest, surface dewpoints in the
-   low to mid 60s F amid steep mid-level lapse rates will support
-   1000-2000 J/kg of MUCAPE. 50+ kt of deep-layer shear will favor
-   storm organization with a mixed mode of supercells and line
-   segments. The surging nature of the front suggests rapid upscale
-   growth into a QLCS is also likely this afternoon before spreading
-   eastward. Strong low and mid-level shear (ESRH 200-300 m2/s2) may
-   still support embedded supercellular elements, along with QLCS
-   circulations. Enhanced lower tropospheric flow of 30-50 kt is
-   favorable for damaging gusts and embedded tornadoes. Hail is less
-   certain, but will likely remain tied to more isolated initial
-   semi-cellular development into parts of southwest AR and northwest
-   LA/northeast TX.
-
-   Observational trends and the latest CAM guidance show thunderstorms
-   developing first along the most progressive portions of the cold
-   front from far southern MO into far eastern OK and western AR.
-   Additional development farther southwest may be somewhat more
-   gradual as large-scale forcing for ascent is weaker and residual
-   capping is likely to remain in place. With time, widespread
-   thunderstorms should mature within a favorable CAPE/shear space,
-   increasing the severe risk. Given this, one or more Tornado Watches
-   are likely this afternoon.
+   The tornado watch area is approximately along and 75 statute miles
+   east and west of a line from 40 miles north northwest of Alton IL to
+   40 miles west southwest of West Plains MO.
