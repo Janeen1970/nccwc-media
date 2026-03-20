@@ -1,6 +1,6 @@
 Radar Update: Radar is all clear across Eastern Oklahoma and Western Arkansas. Eastern Oklahoma and Western Arkansas: Friday through Thursday, Daytime highs in the 70s to 90s. Low temperatures from 40s to 60s. Winds calm to 25 miles per hour at times...Special Weather Statement
 National Weather Service Shreveport LA
-202 PM CDT Thu Mar 19 2026
+606 AM CDT Fri Mar 20 2026
 
 Sevier-Howard-Little River-Hempstead-Nevada-Miller-Lafayette-
 Columbia-Union-Caddo-Bossier-Webster-Claiborne-Lincoln-De Soto-
@@ -22,9 +22,9 @@ Linden, Hughes Springs, Queen City, Mineola, Winnsboro, Quitman,
 Hawkins, Gilmer, Big Sandy, Jefferson, Tyler, Longview, Marshall,
 Jacksonville, Rusk, Henderson, Carthage, Nacogdoches, Center,
 Lufkin, San Augustine, Hemphill, and Pineland
-202 PM CDT Thu Mar 19 2026
+606 AM CDT Fri Mar 20 2026
 
-...ELEVATED FIRE WEATHER CONDITIONS ARE EXPECTED FOR ALL OF OUR
+...ELEVATED FIRE WEATHER CONDITIONS ARE EXPECTED FOR THE ENTIRE
 FOUR STATE REGION WHICH INCLUDES EXTREME SOUTHEAST OKLAHOMA,
 SOUTHWEST & SOUTH-CENTRAL ARKANSAS, EAST TEXAS, AND NORTHERN &
 CENTRAL LOUISIANA...
@@ -44,4 +44,3 @@ These conditions will support the spread of wildfires. Outdoor
 burning and activities that involve open sparks or flames are
 discouraged. Please report all wildfires to local law enforcement
 as soon as possible.
-
