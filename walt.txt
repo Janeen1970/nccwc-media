@@ -34,8 +34,10 @@ A fire weather watch means that critical fire weather conditions
 are forecast to occur.
 ...Special Weather Statement
 National Weather Service Shreveport LA
-1146 AM CDT Fri Mar 20 2026
+629 AM CDT Sat Mar 21 2026
 
+ARZ050-051-059>061-070>073-LAZ001>006-010>014-017>022-OKZ077-
+TXZ096-097-108>112-124>126-136>138-149>153-165>167-220000-
 Sevier-Howard-Little River-Hempstead-Nevada-Miller-Lafayette-
 Columbia-Union-Caddo-Bossier-Webster-Claiborne-Lincoln-De Soto-
 Red River-Bienville-Jackson-Ouachita-Sabine-Natchitoches-Winn-
@@ -56,7 +58,7 @@ Linden, Hughes Springs, Queen City, Mineola, Winnsboro, Quitman,
 Hawkins, Gilmer, Big Sandy, Jefferson, Tyler, Longview, Marshall,
 Jacksonville, Rusk, Henderson, Carthage, Nacogdoches, Center,
 Lufkin, San Augustine, Hemphill, and Pineland
-1146 AM CDT Fri Mar 20 2026
+629 AM CDT Sat Mar 21 2026
 
 ...ELEVATED FIRE WEATHER CONDITIONS ARE EXPECTED FOR ALL OF OUR
 FOUR STATE REGION WHICH INCLUDES EXTREME SOUTHEAST OKLAHOMA,
@@ -65,7 +67,7 @@ CENTRAL LOUISIANA...
 
 Weather conditions will be favorable for wildfire growth.
 
-* TIMING: Until 7 PM Saturday Evening.
+* TIMING: Until 7 PM this evening.
 
 * RELATIVE HUMIDITY: Afternoon minimums will range from 35 to 45
   percent.
