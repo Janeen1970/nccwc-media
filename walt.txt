@@ -2,8 +2,6 @@ Radar Update: Radar is all clear across Eastern Oklahoma and Western Arkansas. E
 National Weather Service Tulsa OK
 1139 PM CDT Fri Mar 20 2026
 
-ARZ001-010-OKZ057-058-062-063-068>073-211800-
-/O.EXB.KTSA.FW.A.0003.260322T1600Z-260323T0100Z/
 Benton-Washington AR-Craig-Ottawa-Mayes-Delaware-Cherokee-Adair-
 Muskogee-McIntosh-Sequoyah-Pittsburg-
 1139 PM CDT Fri Mar 20 2026
@@ -38,8 +36,6 @@ are forecast to occur.
 National Weather Service Shreveport LA
 1146 AM CDT Fri Mar 20 2026
 
-ARZ050-051-059>061-070>073-LAZ001>006-010>014-017>022-OKZ077-
-TXZ096-097-108>112-124>126-136>138-149>153-165>167-220015-
 Sevier-Howard-Little River-Hempstead-Nevada-Miller-Lafayette-
 Columbia-Union-Caddo-Bossier-Webster-Claiborne-Lincoln-De Soto-
 Red River-Bienville-Jackson-Ouachita-Sabine-Natchitoches-Winn-
