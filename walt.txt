@@ -1,37 +1,43 @@
 Radar Update: Radar is all clear across Eastern Oklahoma and Western Arkansas. Eastern Oklahoma and Western Arkansas: Saturday through Friday, Daytime highs in the 70s to 90s. Low temperatures from 40s to 60s. Winds calm to 25 miles per hour at times. On Sunday into Monday winds 20 to 50 mph with cold front passage...Based on current WALT long-range image analysis, the atmosphere appears stable with only minimal signs of moisture and no visible indicators of organized storm development. The daytime scene shows a clear sky with slight low-level haze but no vertical cloud growth, no filtered light dome, and no structural features associated with convection or storm organization. The lack of atmospheric distortion or buildup suggests that no active storm trigger is present at this time. Over the next two weeks, the probability of a severe storm event remains relatively low, estimated at 30%–40%. Continued monitoring of atmospheric inputs will be important, as this pattern could transition into a more organized system if conditions intensify...URGENT - FIRE WEATHER MESSAGE
 National Weather Service Tulsa OK
-1139 PM CDT Fri Mar 20 2026
+1215 PM CDT Sat Mar 21 2026
 
-Benton-Washington AR-Craig-Ottawa-Mayes-Delaware-Cherokee-Adair-
-Muskogee-McIntosh-Sequoyah-Pittsburg-
-1139 PM CDT Fri Mar 20 2026
+Benton-Washington AR-Osage-Washington OK-Nowata-Craig-Ottawa-
+Pawnee-Tulsa-Rogers-Mayes-Delaware-Creek-Okfuskee-Okmulgee-
+Wagoner-Cherokee-Adair-Muskogee-McIntosh-Sequoyah-Pittsburg-
+1215 PM CDT Sat Mar 21 2026
 
-...FIRE WEATHER WATCH IN EFFECT FROM SUNDAY MORNING THROUGH
-SUNDAY EVENING FOR VERY DRY AND WINDY CONDITIONS ACROSS A LARGE
-PORTION OF EASTERN OKLAHOMA AND A PORTION OF NORTHWEST ARKANSAS...
+...RED FLAG WARNING IN EFFECT FROM 11 AM TO 8 PM CDT SUNDAY FOR
+VERY DRY AND WINDY CONDITIONS FOR MUCH OF EASTERN OKLAHOMA AND
+PARTS OF FAR NORTHWEST ARKANSAS...
 
-The National Weather Service in Tulsa has issued a Fire Weather
-Watch, which is in effect from Sunday morning through Sunday
-evening.
+The National Weather Service in Tulsa has issued a Red Flag
+Warning, which is in effect from 11 AM to 8 PM CDT Sunday. The
+Fire Weather Watch is no longer in effect.
 
 * AFFECTED AREA...In Arkansas, Benton, and Washington counties.
-  In Oklahoma, Craig, Ottawa, Mayes, Delaware, Cherokee, Adair,
-  Muskogee, McIntosh, Sequoyah, and Pittsburg counties.
+  In Oklahoma, Osage, Washington, Nowata, Craig, Ottawa, Pawnee,
+  Tulsa, Rogers, Mayes, Delaware, Creek, Okfuskee, Okmulgee,
+  Wagoner, Cherokee, Adair, Muskogee, McIntosh, Sequoyah, and
+  Pittsburg counties.
 
-* WIND...Southwest 15 to 25 mph with gusts 30 to 35 mph becoming
-  north 20 to 25 mph with gusts 30 to 40 mph late.
+* WIND...Southwest 15 to 20 mph with gusts 30 to 35 mph becoming
+  north late.
 
-* HUMIDITY...13-20 percent
+* HUMIDITY...15-25 percent
 
-* TEMPERATURE...80s to low 90s.
+* TEMPERATURE...Upper 80s to mid 90s.
 
-* IMPACTS...any fires that develop will likely spread rapidly.
+* IMPACTS...Any fires that develop will likely spread rapidly.
   Outdoor burning is not recommended.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-A fire weather watch means that critical fire weather conditions
-are forecast to occur.
+A red flag warning means that a dangerous combination of weather
+conditions and dry vegetation is expected within 24 hours,
+favoring rapid growth and spread of any wildfires. The primary
+weather factors include stronger winds, lower humidities, and
+warmer temperatures.
 ...Special Weather Statement
 National Weather Service Shreveport LA
 629 AM CDT Sat Mar 21 2026
