@@ -40,9 +40,10 @@ weather factors include stronger winds, lower humidities, and
 warmer temperatures.
 ...Special Weather Statement
 National Weather Service Shreveport LA
-629 AM CDT Sat Mar 21 2026
+1251 PM CDT Sat Mar 21 2026
 
-
+ARZ050-051-059>061-070>073-LAZ001>006-010>014-017>022-OKZ077-
+TXZ096-097-108>112-124>126-136>138-149>153-165>167-230000-
 Sevier-Howard-Little River-Hempstead-Nevada-Miller-Lafayette-
 Columbia-Union-Caddo-Bossier-Webster-Claiborne-Lincoln-De Soto-
 Red River-Bienville-Jackson-Ouachita-Sabine-Natchitoches-Winn-
@@ -63,7 +64,7 @@ Linden, Hughes Springs, Queen City, Mineola, Winnsboro, Quitman,
 Hawkins, Gilmer, Big Sandy, Jefferson, Tyler, Longview, Marshall,
 Jacksonville, Rusk, Henderson, Carthage, Nacogdoches, Center,
 Lufkin, San Augustine, Hemphill, and Pineland
-629 AM CDT Sat Mar 21 2026
+1251 PM CDT Sat Mar 21 2026
 
 ...ELEVATED FIRE WEATHER CONDITIONS ARE EXPECTED FOR ALL OF OUR
 FOUR STATE REGION WHICH INCLUDES EXTREME SOUTHEAST OKLAHOMA,
@@ -72,9 +73,9 @@ CENTRAL LOUISIANA...
 
 Weather conditions will be favorable for wildfire growth.
 
-* TIMING: Until 7 PM this evening.
+* TIMING: Until 7 PM Sunday evening.
 
-* RELATIVE HUMIDITY: Afternoon minimums will range from 35 to 45
+* RELATIVE HUMIDITY: Afternoon minimums will range from 30 to 45
   percent.
 
 * WIND: South winds near 10 to 20 mph sustained with higher gusts.
