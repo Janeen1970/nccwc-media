@@ -36,8 +36,7 @@ are forecast to occur.
 National Weather Service Shreveport LA
 629 AM CDT Sat Mar 21 2026
 
-ARZ050-051-059>061-070>073-LAZ001>006-010>014-017>022-OKZ077-
-TXZ096-097-108>112-124>126-136>138-149>153-165>167-220000-
+
 Sevier-Howard-Little River-Hempstead-Nevada-Miller-Lafayette-
 Columbia-Union-Caddo-Bossier-Webster-Claiborne-Lincoln-De Soto-
 Red River-Bienville-Jackson-Ouachita-Sabine-Natchitoches-Winn-
