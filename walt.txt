@@ -2,41 +2,8 @@ Radar Update: Radar is all clear across Eastern Oklahoma and Western Arkansas. E
 National Weather Service Tulsa OK
 1112 PM CDT Sat Mar 21 2026
 
-Haskell-Latimer-
-1112 PM CDT Sat Mar 21 2026
-
-...RED FLAG WARNING IN EFFECT FROM 11 AM TO 8 PM CDT SUNDAY FOR
-VERY DRY AND WINDY CONDITIONS ACROSS MUCH OF EASTERN OKLAHOMA AND
-PORTIONS OF NORTHWEST ARKANSAS...
-
-The National Weather Service in Tulsa has issued a Red Flag
-Warning, which is in effect from 11 AM to 8 PM CDT Sunday.
-
-* AFFECTED AREA...IN Oklahoma, Haskell, and Latimer counties.
-
-* WIND...Southwest 15 to 20 mph with gusts 30 to 35 mph becoming
-  north in the evening.
-
-* HUMIDITY...15-25 percent
-
-* TEMPERATURE...Upper 80s to mid 90s.
-
-* IMPACTS...Any fires that develop will likely spread rapidly.
-  Outdoor burning is not recommended. An abrupt wind shift to the
-  north with the front will make ongoing fire-fighting efforts
-  more challenging.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-A red flag warning means that a dangerous combination of weather
-conditions and dry vegetation is expected within 24 hours,
-favoring rapid growth and spread of any wildfires. The primary
-weather factors include stronger winds, lower humidities, and
-warmer temperatures.
-...URGENT - FIRE WEATHER MESSAGE
-National Weather Service Tulsa OK
-1112 PM CDT Sat Mar 21 2026
-
+ARZ001-010-OKZ054>073-221800-
+/O.CON.KTSA.FW.W.0005.260322T1600Z-260323T0100Z/
 Benton-Washington AR-Osage-Washington OK-Nowata-Craig-Ottawa-
 Pawnee-Tulsa-Rogers-Mayes-Delaware-Creek-Okfuskee-Okmulgee-
 Wagoner-Cherokee-Adair-Muskogee-McIntosh-Sequoyah-Pittsburg-
@@ -72,7 +39,6 @@ conditions and dry vegetation is expected within 24 hours,
 favoring rapid growth and spread of any wildfires. The primary
 weather factors include stronger winds, lower humidities, and
 warmer temperatures.
-
 ...Special Weather Statement
 National Weather Service Shreveport LA
 1251 PM CDT Sat Mar 21 2026
