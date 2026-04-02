@@ -1,5 +1,52 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+831 PM CDT Wed Apr 1 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  East central Osage County in northeastern Oklahoma...
+  Southern Washington County in northeastern Oklahoma...
+
+* Until 915 PM CDT.
+
+* At 831 PM CDT, a severe thunderstorm was located 5 miles south of
+  Wynona, moving east at 25 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Barnsdall...                      Pershing...
+  Ramona...                         Wynona...
+  Nelagoney...                      Avant...
+  Ochelata...                       Tallant...
+  Wolco...                          Hominy...
+  Bartlesville...                   
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until midnight CDT for northeastern
+Oklahoma.
+
+&&
+
+LAT...LON 3635 9636 3655 9645 3675 9599 3646 9586
+TIME...MOT...LOC 0131Z 248DEG 20KT 3647 9632 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Norman OK
 827 PM CDT Wed Apr 1 2026
 
