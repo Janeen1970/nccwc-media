@@ -1,36 +1,37 @@
 This is climate scientist Adams no severe weather in the local coverage area of far Eastern Oklahoma and Western Arkansas. BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
-916 PM CDT Wed Apr 1 2026
+953 PM CDT Wed Apr 1 2026
 
 The National Weather Service in Tulsa has issued a
 
 * Severe Thunderstorm Warning for...
-  Northwestern Rogers County in northeastern Oklahoma...
-  East central Osage County in northeastern Oklahoma...
-  Washington County in northeastern Oklahoma...
-  Southwestern Nowata County in northeastern Oklahoma...
+  Northwestern Craig County in northeastern Oklahoma...
+  Central Washington County in northeastern Oklahoma...
+  Nowata County in northeastern Oklahoma...
 
-* Until 1000 PM CDT.
+* Until 1100 PM CDT.
 
-* At 916 PM CDT, a severe thunderstorm was located 4 miles south of
-  Barnsdall, moving northeast at 30 mph.
+* At 953 PM CDT, a severe thunderstorm was located 6 miles east of
+  Bartlesville, moving northeast at 35 mph.
 
-  HAZARD...60 mph wind gusts and nickel size hail.
+  HAZARD...60 mph wind gusts.
 
   SOURCE...Radar indicated.
 
   IMPACT...Expect damage to roofs, siding, and trees.
 
 * Locations in or near the path include...
-  Barnsdall...                      Watova...
-  Ramona...                         Bartlesville...
-  Dewey...                          Bartlesville Municipal Airport...
-  Avant...                          Ochelata...
-  Tallant...                        Wolco...
-  Pershing...                       
+  Ramona...                         Nowata...
+  Bartlesville...                   Lenapah...
+  Dewey...                          South Coffeyville...
+  Delaware...                       Centralia...
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
 
 For your protection move to an interior room on the lowest floor of a
 building.
@@ -40,13 +41,16 @@ Oklahoma.
 
 &&
 
-LAT...LON 3637 9615 3657 9631 3688 9582 3659 9558
-TIME...MOT...LOC 0216Z 241DEG 27KT 3650 9614 
+LAT...LON 3682 9522 3660 9575 3660 9581 3657 9581
+      3652 9593 3680 9596 3700 9563 3700 9536
+TIME...MOT...LOC 0253Z 236DEG 29KT 3675 9583 
 
+TORNADO...POSSIBLE
 HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...0.88 IN
+MAX HAIL SIZE...<.75 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH......URGENT - IMMEDIATE BROADCAST REQUESTED
+MAX WIND GUST...60 MPH
+...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 86
    NWS Storm Prediction Center Norman OK
    440 PM CDT Wed Apr 1 2026
