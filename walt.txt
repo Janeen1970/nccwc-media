@@ -91,56 +91,7 @@ TIME...MOT...LOC 0131Z 248DEG 20KT 3647 9632
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...1.00 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Norman OK
-827 PM CDT Wed Apr 1 2026
-
-The National Weather Service in Norman has issued a
-
-* Severe Thunderstorm Warning for...
-  Kingfisher County in central Oklahoma...
-  Northern Grady County in central Oklahoma...
-  Northeastern Caddo County in southwestern Oklahoma...
-  Eastern Blaine County in northwestern Oklahoma...
-  South central Garfield County in northern Oklahoma...
-  Canadian County in central Oklahoma...
-
-* Until 915 PM CDT.
-
-* At 827 PM CDT, severe thunderstorms were located along a line
-  extending from 5 miles south of Okeene to 4 miles north of
-  Gracemont, moving east at 40 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations impacted include...
-  Western Oklahoma City, El Reno, Kingfisher, Yukon, Mustang, Tuttle,
-  Piedmont, Hennessey, Union City, Minco, Geary, Okarche, Binger,
-  Calumet, Dover, Gracemont, Hitchcock, Loyal, Cogar, and Concho.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect for the warned area.
-
-&&
-
-LAT...LON 3623 9770 3528 9772 3514 9835 3604 9835
-TIME...MOT...LOC 0127Z 248DEG 33KT 3604 9828 3525 9828 
-
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH
-...URGENT - IMMEDIATE BROADCAST REQUESTED
+MAX WIND GUST...60 MPH......URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 86
    NWS Storm Prediction Center Norman OK
    440 PM CDT Wed Apr 1 2026
