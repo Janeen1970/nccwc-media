@@ -1,6 +1,54 @@
 This is climate scientist Adams no severe weather in the local coverage area of far Eastern Oklahoma and Western Arkansas. BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
+916 PM CDT Wed Apr 1 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Northwestern Rogers County in northeastern Oklahoma...
+  East central Osage County in northeastern Oklahoma...
+  Washington County in northeastern Oklahoma...
+  Southwestern Nowata County in northeastern Oklahoma...
+
+* Until 1000 PM CDT.
+
+* At 916 PM CDT, a severe thunderstorm was located 4 miles south of
+  Barnsdall, moving northeast at 30 mph.
+
+  HAZARD...60 mph wind gusts and nickel size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Barnsdall...                      Watova...
+  Ramona...                         Bartlesville...
+  Dewey...                          Bartlesville Municipal Airport...
+  Avant...                          Ochelata...
+  Tallant...                        Wolco...
+  Pershing...                       
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until midnight CDT for northeastern
+Oklahoma.
+
+&&
+
+LAT...LON 3637 9615 3657 9631 3688 9582 3659 9558
+TIME...MOT...LOC 0216Z 241DEG 27KT 3650 9614 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...0.88 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
 850 PM CDT Wed Apr 1 2026
 
 The National Weather Service in Tulsa has issued a
