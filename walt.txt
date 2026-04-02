@@ -1,6 +1,52 @@
 This is climate scientist Adams no severe weather in the local coverage area of far Eastern Oklahoma and Western Arkansas. BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
+850 PM CDT Wed Apr 1 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  South central Osage County in northeastern Oklahoma...
+  Northwestern Creek County in northeastern Oklahoma...
+  Southeastern Pawnee County in northeastern Oklahoma...
+
+* Until 930 PM CDT.
+
+* At 850 PM CDT, a severe thunderstorm was located over Jennings,
+  moving northeast at 20 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Westport...                       Walnut Creek State Park...
+  Osage...                          Terlton...
+  Hallett...                        Jennings...
+  Cleveland...                      Hominy...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until midnight CDT for northeastern
+Oklahoma.
+
+&&
+
+LAT...LON 3610 9659 3624 9665 3645 9634 3622 9616
+TIME...MOT...LOC 0150Z 236DEG 18KT 3619 9656 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
 831 PM CDT Wed Apr 1 2026
 
 The National Weather Service in Tulsa has issued a
