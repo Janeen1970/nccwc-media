@@ -1,47 +1,5 @@
 
-BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Norman OK
-639 PM CDT Fri Apr 3 2026
-
-The National Weather Service in Norman has issued a
-
-* Tornado Warning for...
-  Southeastern Washita County in western Oklahoma...
-  Northeastern Kiowa County in southwestern Oklahoma...
-
-* Until 715 PM CDT.
-
-* At 639 PM CDT, a severe thunderstorm capable of producing a tornado
-  was located 4 miles northwest of Gotebo, moving east at 20 mph.
-
-  HAZARD...Tornado and quarter size hail.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations impacted include...
-  Mountain View and Gotebo.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-TAKE COVER NOW! Move to a storm shelter, safe room or an interior
-room on the lowest floor of a sturdy building. Avoid windows. If you
-are outdoors, in a mobile home, or in a vehicle, move to the closest
-substantial shelter and protect yourself from flying debris.
-
-&&
-
-LAT...LON 3506 9901 3514 9903 3525 9874 3506 9867
-TIME...MOT...LOC 2339Z 259DEG 18KT 3510 9894 
-
-TORNADO...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
-...Severe Thunderstorm Watch Number 93
+Severe Thunderstorm Watch Number 93
    NWS Storm Prediction Center Norman OK
    240 PM CDT Fri Apr 3 2026
 
