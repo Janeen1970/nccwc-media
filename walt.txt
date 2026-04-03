@@ -1,34 +1,4 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-613 PM CDT Fri Apr 3 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  West central Osage County in northeastern Oklahoma...
-  Northwestern Pawnee County in northeastern Oklahoma...
-
-* Until 645 PM CDT.
-
-* At 612 PM CDT, a severe thunderstorm was located 7 miles east of
-  Sooner Lake, moving east at 30 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Ralston...                        Fairfax...
-  Skedee...                         
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building....Severe Thunderstorm Watch Number 93
+Severe Thunderstorm Watch Number 93
    NWS Storm Prediction Center Norman OK
    240 PM CDT Fri Apr 3 2026
 
