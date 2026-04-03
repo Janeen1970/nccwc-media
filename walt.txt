@@ -1,5 +1,46 @@
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+531 PM CDT Fri Apr 3 2026
 
-  Severe Thunderstorm Watch Number 93
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  West central Osage County in northeastern Oklahoma...
+  Northwestern Pawnee County in northeastern Oklahoma...
+
+* Until 615 PM CDT.
+
+* At 530 PM CDT, a severe thunderstorm was located 4 miles south of
+  Red Rock, moving east at 30 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Pawnee...                         
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3651 9703 3651 9701 3652 9701 3653 9698
+      3653 9696 3655 9692 3655 9690 3658 9689
+      3659 9691 3660 9687 3661 9677 3630 9673
+      3630 9693 3633 9693 3634 9703
+TIME...MOT...LOC 2230Z 260DEG 26KT 3640 9716 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...Severe Thunderstorm Watch Number 93
    NWS Storm Prediction Center Norman OK
    240 PM CDT Fri Apr 3 2026
 
