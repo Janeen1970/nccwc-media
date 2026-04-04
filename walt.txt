@@ -1,4 +1,45 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
+BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Tulsa OK
+134 AM CDT Sat Apr 4 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Tornado Warning for...
+  Southwestern Crawford County in northwestern Arkansas...
+  Northern Sebastian County in west central Arkansas...
+
+* Until 200 AM CDT.
+
+* At 134 AM CDT, a severe squall line capable of producing tornadoes
+  that may not be visible due to heavy rain was located over Moffett,
+  moving east at 45 mph.
+
+  HAZARD...Tornado.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
+
+* Locations in or near the path include...
+  Alma...                           Shibley...
+  Dyer...                           Kibler...
+  Fort Smith...                     Concord...
+  Van Buren...                      Mulberry...
+  !** weakened. This includes the following highways, Interstate 40 
+  in Arkansas between mile markers 4 and 11, and between mile 
+  markers 14 and 16.
+ Interstate 540 between mile markers 1 and 8.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+ !** weakened. TAKE COVER NOW! Move to a basement or an interior 
+room on the lowest floor of a sturdy building. Avoid windows. If you 
+are outdoors, in a mobile home, or in a vehicle, move to the closest 
+substantial shelter and protect yourself from flying debris.
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 129 AM CDT Sat Apr 4 2026
