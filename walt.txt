@@ -1,4 +1,70 @@
-BULLETIN - EAS ACTIVATION REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+129 AM CDT Sat Apr 4 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Crawford County in northwestern Arkansas...
+  Northwestern Sebastian County in west central Arkansas...
+  South central Washington County in northwestern Arkansas...
+  Eastern Sequoyah County in east central Oklahoma...
+  Southeastern Adair County in northeastern Oklahoma...
+  Northeastern Le Flore County in southeastern Oklahoma...
+
+* Until 215 AM CDT.
+
+* At 129 AM CDT, severe thunderstorms were located along a line
+  extending from 5 miles east of Brushy to near Roland to 2 miles
+  southwest of Panama, moving northeast at 40 mph.
+
+  HAZARD...70 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect considerable tree damage. Damage is likely to 
+           mobile homes, roofs, and outbuildings.
+
+* Locations in or near the path include...
+  Alma...                           Shibley...
+  Kibler...                         Woolsey...
+  Central City...                   Cameron...
+  Spiro...                          Winslow...
+  Moffett...                        Panama...
+  Odell...                          Muldrow...
+  Short...                          Rudy...
+  Natural Dam...                    Devils Den State Park...
+  Hackett...                        Lake Fort Smith...
+  Strickler...                      Arkoma...
+
+This includes the following highways,
+ Interstate 40 in Arkansas between mile markers 0 and 15.
+ Interstate 40 in Oklahoma between mile markers 317 and 328.
+ Interstate 540 between mile markers 1 and 14.
+ Interstate 49 between mile markers 22 and 54.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3597 9417 3576 9408 3515 9430 3509 9477
+      3539 9464 3564 9471
+TIME...MOT...LOC 0629Z 231DEG 33KT 3558 9463 3544 9454 3514 9470 
+
+TORNADO...POSSIBLE
+THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...<.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...70 MPH...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
 109 AM CDT Sat Apr 4 2026
