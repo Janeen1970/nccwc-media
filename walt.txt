@@ -1,38 +1,4 @@
-BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Norman OK
-800 PM CDT Fri Apr 3 2026
-
-The National Weather Service in Norman has issued a
-
-* Tornado Warning for...
-  Northwestern Grady County in central Oklahoma...
-  East central Caddo County in southwestern Oklahoma...
-  Southern Canadian County in central Oklahoma...
-
-* Until 845 PM CDT.
-
-* At 800 PM CDT, a severe thunderstorm capable of producing a tornado
-  was located over Cogar, moving east at 20 mph.
-
-  HAZARD...Tornado.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations impacted include...
-  Southwestern Oklahoma City, Tuttle, Union City, Minco, and Cogar.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-TAKE COVER NOW! Move to a storm shelter, safe room or an interior
-room on the lowest floor of a sturdy building. Avoid windows. If you
-are outdoors, in a mobile home, or in a vehicle, move to the closest
-substantial shelter and protect yourself from flying debris....Severe Thunderstorm Watch Number 93
+Severe Thunderstorm Watch Number 93
    NWS Storm Prediction Center Norman OK
    240 PM CDT Fri Apr 3 2026
 
