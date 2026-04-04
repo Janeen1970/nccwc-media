@@ -1,20 +1,22 @@
 Flood Watch
 National Weather Service Tulsa OK
-1135 AM CDT Fri Apr 3 2026
+1054 PM CDT Fri Apr 3 2026
 
-
+ARZ001-010-019-029-OKZ049-068>076-041400-
+/O.CON.KTSA.FA.A.0001.000000T0000Z-260404T1400Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
 Benton-Washington AR-Crawford-Sebastian-Pushmataha-Cherokee-Adair-
 Muskogee-McIntosh-Sequoyah-Pittsburg-Haskell-Latimer-Le Flore-
-Including the cities of Fayetteville, Poteau, Van Buren,
-McAlester, Antlers, Fort Smith, Muskogee, Clayton, Bentonville,
-Stigler, Stilwell, Wilburton, Rogers, Tahlequah, Checotah,
-Springdale, and Sallisaw
-1135 AM CDT Fri Apr 3 2026
+Including the cities of Fayetteville, McAlester, Checotah,
+Antlers, Rogers, Poteau, Sallisaw, Tahlequah, Muskogee,
+Wilburton, Stigler, Van Buren, Springdale, Stilwell, Clayton,
+Bentonville, and Fort Smith
+1054 PM CDT Fri Apr 3 2026
 
-...FLOOD WATCH IN EFFECT FROM 10 PM CDT THIS EVENING THROUGH
-SATURDAY MORNING...
+...FLOOD WATCH REMAINS IN EFFECT UNTIL 9 AM CDT SATURDAY...
 
-* WHAT...Flooding caused by excessive rainfall is possible.
+* WHAT...Flooding caused by excessive rainfall continues to be
+  possible.
 
 * WHERE...Portions of Arkansas, including the following counties,
   Benton, Crawford, Sebastian and Washington AR and Oklahoma,
@@ -22,21 +24,14 @@ SATURDAY MORNING...
   Latimer, Le Flore, McIntosh, Muskogee, Pittsburg, Pushmataha and
   Sequoyah.
 
-* WHEN...From 10 PM CDT this evening through Saturday morning.
+* WHEN...Until 9 AM CDT Saturday.
 
 * IMPACTS...Excessive runoff may result in flooding of rivers,
   creeks, streams, and other low-lying and flood-prone locations.
 
 * ADDITIONAL DETAILS...
   - Widespread showers and thunderstorms will move slowly
-    southward across the eastern Oklahoma and northwest Arkansas
-    late tonight through early Saturday morning. Rainfall amounts
-    of 1 to 3 inches will be common with localized amounts of 4
-    to 5 inches possible.
-  - http://www.weather.gov/safety/flood
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-You should monitor later forecasts and be alert for possible Flood
-Warnings. Those living in areas prone to flooding should be prepared
-to take action should flooding develop....Far Eastern Oklahoma and Western Arkansas: Saturday through Friday, Daytime highs in the 60s to 70s. Low temperatures from 30s to 50s. Winds calm to 25 miles per hour at times with higher gusts possible. Chance of thunderstorms on Saturday. 
+    southward across eastern Oklahoma and northwest Arkansas late
+    tonight through early Saturday morning. Rainfall amounts of 1
+    to 3 inches will be common with localized amounts of 4 to 5
+    inches possible.Far Eastern Oklahoma and Western Arkansas: Saturday through Friday, Daytime highs in the 60s to 70s. Low temperatures from 30s to 50s. Winds calm to 25 miles per hour at times with higher gusts possible. Chance of thunderstorms on Saturday. 
