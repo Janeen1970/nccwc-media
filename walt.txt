@@ -105,45 +105,7 @@ THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...<.75 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...70 MPH...BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Tulsa OK
-109 AM CDT Sat Apr 4 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Tornado Warning for...
-  Northeastern Sequoyah County in east central Oklahoma...
-
-* Until 145 AM CDT.
-
-* At 109 AM CDT, a severe squall line capable of producing tornadoes
-  that may not be visible due to heavy rain was located 3 miles east
-  of Sallisaw, moving east at 25 mph.
-
-  HAZARD...Tornado.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations in or near the path include...
-  Sallisaw...                       Roland...
-  Short...                          Muldrow...
-
-This includes Interstate 40 in Oklahoma between mile markers 306 and
-314, and between mile markers 325 and 328.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-TAKE COVER NOW! Move to a basement or an interior room on the lowest
-floor of a sturdy building. Avoid windows. If you are outdoors, in a
-mobile home, or in a vehicle, move to the closest substantial shelter
-and protect yourself from flying debris...
-...URGENT - IMMEDIATE BROADCAST REQUESTED
+MAX WIND GUST...70 MPH......URGENT - IMMEDIATE BROADCAST REQUESTED
    Severe Thunderstorm Watch Number 95
    NWS Storm Prediction Center Norman OK
    940 PM CDT Fri Apr 3 2026
