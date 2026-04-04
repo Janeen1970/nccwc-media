@@ -2,9 +2,7 @@ Flood Watch
 National Weather Service Tulsa OK
 1054 PM CDT Fri Apr 3 2026
 
-ARZ001-010-019-029-OKZ049-068>076-041400-
-/O.CON.KTSA.FA.A.0001.000000T0000Z-260404T1400Z/
-/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+
 Benton-Washington AR-Crawford-Sebastian-Pushmataha-Cherokee-Adair-
 Muskogee-McIntosh-Sequoyah-Pittsburg-Haskell-Latimer-Le Flore-
 Including the cities of Fayetteville, McAlester, Checotah,
