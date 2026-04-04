@@ -1,46 +1,38 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
+BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
 National Weather Service Norman OK
-750 PM CDT Fri Apr 3 2026
+800 PM CDT Fri Apr 3 2026
 
 The National Weather Service in Norman has issued a
 
-* Severe Thunderstorm Warning for...
-  Northern Grady County in central Oklahoma...
-  Northeastern Caddo County in southwestern Oklahoma...
-  Canadian County in central Oklahoma...
+* Tornado Warning for...
+  Northwestern Grady County in central Oklahoma...
+  East central Caddo County in southwestern Oklahoma...
+  Southern Canadian County in central Oklahoma...
 
-* Until 830 PM CDT.
+* Until 845 PM CDT.
 
-* At 750 PM CDT, a severe thunderstorm was located 5 miles west of
-  Cogar, moving east at 20 mph.
+* At 800 PM CDT, a severe thunderstorm capable of producing a tornado
+  was located over Cogar, moving east at 20 mph.
 
-  HAZARD...60 mph wind gusts and nickel size hail.
+  HAZARD...Tornado.
 
-  SOURCE...Radar indicated.
+  SOURCE...Radar indicated rotation.
 
-  IMPACT...Expect damage to roofs, siding, and trees.
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
 
 * Locations impacted include...
-  Western Oklahoma City, El Reno, Blanchard, Yukon, Mustang, Tuttle,
-  Piedmont, Hinton, Union City, Minco, Binger, Calumet, Amber, Bridge
-  Creek, Gracemont, Lookeba, Pocasset, Bridgeport, Cogar, and Concho.
+  Southwestern Oklahoma City, Tuttle, Union City, Minco, and Cogar.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-For your protection move to an interior room on the lowest floor of a
-building.
-
-&&
-
-LAT...LON 3569 9768 3503 9767 3517 9840 3555 9839
-      3555 9832 3557 9831
-TIME...MOT...LOC 0050Z 266DEG 19KT 3535 9823 
-
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...0.88 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH...Severe Thunderstorm Watch Number 93
+TAKE COVER NOW! Move to a storm shelter, safe room or an interior
+room on the lowest floor of a sturdy building. Avoid windows. If you
+are outdoors, in a mobile home, or in a vehicle, move to the closest
+substantial shelter and protect yourself from flying debris....Severe Thunderstorm Watch Number 93
    NWS Storm Prediction Center Norman OK
    240 PM CDT Fri Apr 3 2026
 
