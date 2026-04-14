@@ -1,35 +1,47 @@
-For our listeners in Northeast Kansas...BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
+For our listeners in Northeast Kansas...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Topeka KS
-.A TORNADO WARNING REMAINS IN EFFECT UNTIL 800 PM CDT FOR
-NORTHEASTERN FRANKLIN COUNTY...
+744 PM CDT Mon Apr 13 2026
 
-At 737 PM CDT, a confirmed tornado was located over Ottawa, moving
-east at 25 mph.
+The National Weather Service in Topeka has issued a
 
-HAZARD...Damaging tornado and tennis ball size hail.
+* Severe Thunderstorm Warning for...
+  Douglas County in east central Kansas...
 
-SOURCE...Emergency management confirmed tornado on the ground in 
-         Ottawa.
+* Until 815 PM CDT.
 
-IMPACT...Flying debris will be dangerous to those caught without 
-         shelter. Mobile homes will be damaged or destroyed. Damage 
-         to roofs, windows, and vehicles will occur.  Tree damage is 
-         likely.
+* At 744 PM CDT, a severe thunderstorm was located near Lone Star,
+  moving east at 55 mph.
 
-Locations impacted include...
-Ottawa and Wellsville.
+  HAZARD...60 mph wind gusts and penny size hail.
 
-This includes Interstate 35 between mile markers 180 and 198.
- 
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Lawrence, Baldwin City, Eudora, Clinton, Lone Star, Pleasant Grove,
+  Clinton Lake, Vinland, and Globe.
+
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-To repeat, a tornado is on the ground. TAKE COVER NOW! Move to a
-basement or an interior room on the lowest floor of a sturdy
-building. Avoid windows. If you are outdoors, in a mobile home, or in
-a vehicle, move to the closest substantial shelter and protect
-yourself from flying debris.
+For your protection move to an interior room on the lowest floor of a
+building.
 
-Heavy rainfall may hide this tornado. Do not wait to see or hear the
-tornado. TAKE COVER NOW!
+A Tornado Watch remains in effect until 1100 PM CDT for east central
+Kansas.
+
+&&
+
+LAT...LON 3877 9550 3893 9550 3898 9519 3897 9519
+      3896 9518 3898 9516 3897 9513 3897 9511
+      3895 9509 3896 9508 3898 9508 3899 9506
+      3876 9506
+TIME...MOT...LOC 0044Z 264DEG 46KT 3883 9538 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...0.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
 ... Far Eastern Oklahoma and Western Arkansas: Tuesday through Monday, Daytime highs in the 70s to 80s. Low temperatures from 40s to 60s. Winds calm to 25 miles per hour at times. Chance of thunderstorms on Tuesday, Wednesday and Friday. WALT Model AI supports on Tuesday night storms are likely to move through the area with strong, damaging winds as the main concern. Gusts could reach 60 to 80 mph, which is strong enough to knock down trees, damage roofs, and cause power outages. You may also see some hail, especially in the heavier parts of the storm, but it probably won’t be the biggest issue. The storms could become intense fairly quickly, and while there is a small chance of a brief, short-lived tornado, the biggest impact for most people will be the powerful winds and heavy rain hitting in a short period of time. WALT Model AI for Wednesday supports a more typical thunderstorm scenario, not a high-end severe outbreak. You could still see gusty winds between 40 and 60 mph, which may blow around loose objects, move trash cans, and possibly knock down small branches. Rain could be steady at times, but the hail risk is low, so if any hail falls, it would likely be small and not cause much damage. Even though wind shear is present, the chance of a tornado is low. Overall, this looks like a brief, somewhat windy storm rather than a dangerous one. WALT AI on Friday into Saturday morning supports a very dangerous severe storm situation. Storms that form could quickly become intense, bringing very strong winds 60 to  80 plus mph that can knock down trees, damage roofs, and cause power outages. There is also a high chance of large hail, possibly big enough to dent cars and break windows. Early on, a few storms could even produce tornadoes, especially before they merge into a larger line. Overall, this is the kind of weather where conditions can go from calm to severe very fast.
