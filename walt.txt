@@ -45,45 +45,40 @@ Severe Thunderstorm Warning
 National Weather Service Topeka KS
 744 PM CDT Mon Apr 13 2026
 
-The National Weather Service in Topeka has issued a
+A SEVERE THUNDERSTORM WARNING REMAINS IN EFFECT UNTIL 815 PM CDT
+FOR SOUTHERN DOUGLAS COUNTY...
 
-* Severe Thunderstorm Warning for...
-  Douglas County in east central Kansas...
+At 803 PM CDT, a severe thunderstorm was located over Baldwin City,
+moving east at 45 mph.
 
-* Until 815 PM CDT.
+HAZARD...60 mph wind gusts and penny size hail.
 
-* At 744 PM CDT, a severe thunderstorm was located near Lone Star,
-  moving east at 55 mph.
+SOURCE...Radar indicated.
 
-  HAZARD...60 mph wind gusts and penny size hail.
+IMPACT...Expect damage to roofs, siding, and trees.
 
-  SOURCE...Radar indicated.
-
-  IMPACT...Expect damage to roofs, siding, and trees.
-
-* Locations impacted include...
-  Lawrence, Baldwin City, Eudora, Clinton, Lone Star, Pleasant Grove,
-  Clinton Lake, Vinland, and Globe.
+Locations impacted include...
+Baldwin City, Eudora, Clinton, Lone Star, Pleasant Grove, Vinland,
+and Globe.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
 
 A Tornado Watch remains in effect until 1100 PM CDT for east central
 Kansas.
 
+For your protection move to an interior room on the lowest floor of a
+building.
+
 &&
 
-LAT...LON 3877 9550 3893 9550 3898 9519 3897 9519
-      3896 9518 3898 9516 3897 9513 3897 9511
-      3895 9509 3896 9508 3898 9508 3899 9506
-      3876 9506
-TIME...MOT...LOC 0044Z 264DEG 46KT 3883 9538 
+LAT...LON 3877 9545 3891 9543 3892 9506 3876 9506
+TIME...MOT...LOC 0103Z 269DEG 38KT 3879 9520 
 
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...0.75 IN
 WIND THREAT...RADAR INDICATED
 MAX WIND GUST...60 MPH
+
+$$
 
 ... Far Eastern Oklahoma and Western Arkansas: Tuesday through Monday, Daytime highs in the 70s to 80s. Low temperatures from 40s to 60s. Winds calm to 25 miles per hour at times. Chance of thunderstorms on Tuesday, Wednesday and Friday. WALT Model AI supports on Tuesday night storms are likely to move through the area with strong, damaging winds as the main concern. Gusts could reach 60 to 80 mph, which is strong enough to knock down trees, damage roofs, and cause power outages. You may also see some hail, especially in the heavier parts of the storm, but it probably won’t be the biggest issue. The storms could become intense fairly quickly, and while there is a small chance of a brief, short-lived tornado, the biggest impact for most people will be the powerful winds and heavy rain hitting in a short period of time. WALT Model AI for Wednesday supports a more typical thunderstorm scenario, not a high-end severe outbreak. You could still see gusty winds between 40 and 60 mph, which may blow around loose objects, move trash cans, and possibly knock down small branches. Rain could be steady at times, but the hail risk is low, so if any hail falls, it would likely be small and not cause much damage. Even though wind shear is present, the chance of a tornado is low. Overall, this looks like a brief, somewhat windy storm rather than a dangerous one. WALT AI on Friday into Saturday morning supports a very dangerous severe storm situation. Storms that form could quickly become intense, bringing very strong winds 60 to  80 plus mph that can knock down trees, damage roofs, and cause power outages. There is also a high chance of large hail, possibly big enough to dent cars and break windows. Early on, a few storms could even produce tornadoes, especially before they merge into a larger line. Overall, this is the kind of weather where conditions can go from calm to severe very fast.
