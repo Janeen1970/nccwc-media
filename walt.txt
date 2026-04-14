@@ -1,34 +1,39 @@
 For our listeners in Northeast Kansas...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
-National Weather Service Topeka KS
-810 PM CDT Mon Apr 13 2026
+National Weather Service Kansas City/Pleasant Hill MO
+814 PM CDT Mon Apr 13 2026
 
-The National Weather Service in Topeka has issued a
+The National Weather Service in Pleasant Hill has issued a
 
 * Severe Thunderstorm Warning for...
-  Northern Franklin County in east central Kansas...
-  Southern Douglas County in east central Kansas...
+  Northern Miami County in east central Kansas...
+  Johnson County in east central Kansas...
 
 * Until 900 PM CDT.
 
-* At 810 PM CDT, a severe thunderstorm was located near Pomona,
-  moving east at 30 mph.
+* At 813 PM CDT, a severe thunderstorm was located near Edgerton,
+  moving east at 25 mph.
 
-  HAZARD...Ping pong ball size hail and 60 mph wind gusts.
+  HAZARD...60 mph wind gusts and half dollar size hail.
 
   SOURCE...Radar indicated.
 
-  IMPACT...People and animals outdoors will be injured. Expect hail 
-           damage to roofs, siding, windows, and vehicles. Expect 
-           wind damage to roofs, siding, and trees.
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
 
 * Locations impacted include...
-  Ottawa, Baldwin City, Wellsville, Centropolis, Pomona, Rantoul, and
-  Globe.
+  Overland Park, Olathe, Lenexa, Leawood, Gardner, Spring Hill,
+  Louisburg, Edgerton, Hillsdale, Chiles, Bucyrus, Clare, Lackmans,
+  Stanley, Wagstaff, and Stilwell.
 
-This includes Interstate 35 between mile markers 181 and 198.
+This includes Interstate 35 in Kansas between mile markers 200 and
+220.
  
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
 
 For your protection move to an interior room on the lowest floor of a
 building.
@@ -38,55 +43,13 @@ Kansas.
 
 &&
 
-LAT...LON 3869 9507 3854 9506 3858 9551 3881 9550
-      3882 9506 3870 9506
-TIME...MOT...LOC 0110Z 270DEG 25KT 3866 9544 
+LAT...LON 3892 9505 3893 9461 3862 9462 3861 9506
+TIME...MOT...LOC 0113Z 258DEG 22KT 3870 9496 
 
+TORNADO...POSSIBLE
 HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.50 IN
+MAX HAIL SIZE...1.25 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH...BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Topeka KS
-758 PM CDT Mon Apr 13 2026
-
-The National Weather Service in Topeka has issued a
-
-* Tornado Warning for...
-  Northwestern Franklin County in east central Kansas...
-  East central Osage County in east central Kansas...
-
-* Until 830 PM CDT.
-
-* At 758 PM CDT, a severe thunderstorm capable of producing a tornado
-  was located over Pomona Lake, moving east at 30 mph.
-
-  HAZARD...Tornado.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations impacted include...
-  Centropolis, Pomona, and Pomona Lake.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-TAKE COVER NOW! Move to a basement or an interior room on the lowest
-floor of a sturdy building. Avoid windows. If you are outdoors, in a
-mobile home, or in a vehicle, move to the closest substantial shelter
-and protect yourself from flying debris.
-
-&&
-
-LAT...LON 3861 9558 3870 9561 3874 9543 3874 9533
-      3858 9529
-TIME...MOT...LOC 0058Z 259DEG 25KT 3866 9556 
-
-TORNADO...RADAR INDICATED
-MAX HAIL SIZE...<.75 IN...
+MAX WIND GUST...60 MPH
 
 ... Far Eastern Oklahoma and Western Arkansas: Tuesday through Monday, Daytime highs in the 70s to 80s. Low temperatures from 40s to 60s. Winds calm to 25 miles per hour at times. Chance of thunderstorms on Tuesday, Wednesday and Friday. WALT Model AI supports on Tuesday night storms are likely to move through the area with strong, damaging winds as the main concern. Gusts could reach 60 to 80 mph, which is strong enough to knock down trees, damage roofs, and cause power outages. You may also see some hail, especially in the heavier parts of the storm, but it probably won’t be the biggest issue. The storms could become intense fairly quickly, and while there is a small chance of a brief, short-lived tornado, the biggest impact for most people will be the powerful winds and heavy rain hitting in a short period of time. WALT Model AI for Wednesday supports a more typical thunderstorm scenario, not a high-end severe outbreak. You could still see gusty winds between 40 and 60 mph, which may blow around loose objects, move trash cans, and possibly knock down small branches. Rain could be steady at times, but the hail risk is low, so if any hail falls, it would likely be small and not cause much damage. Even though wind shear is present, the chance of a tornado is low. Overall, this looks like a brief, somewhat windy storm rather than a dangerous one. WALT AI on Friday into Saturday morning supports a very dangerous severe storm situation. Storms that form could quickly become intense, bringing very strong winds 60 to  80 plus mph that can knock down trees, damage roofs, and cause power outages. There is also a high chance of large hail, possibly big enough to dent cars and break windows. Early on, a few storms could even produce tornadoes, especially before they merge into a larger line. Overall, this is the kind of weather where conditions can go from calm to severe very fast.
