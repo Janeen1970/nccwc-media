@@ -8,24 +8,26 @@ The National Weather Service in Topeka has issued a
 * Tornado Warning for...
   Northeastern Franklin County in east central Kansas...
 
-* Until 800 PM CDT.
+.A TORNADO WARNING REMAINS IN EFFECT UNTIL 800 PM CDT FOR
+NORTHEASTERN FRANKLIN COUNTY...
 
-* At 721 PM CDT, a confirmed tornado was located 4 miles east of
-  Pomona, moving east at 25 mph.
+At 737 PM CDT, a confirmed tornado was located over Ottawa, moving
+east at 25 mph.
 
-  HAZARD...Damaging tornado and hail up to two inches in diameter.
+HAZARD...Damaging tornado and tennis ball size hail.
 
-  SOURCE...Weather spotters confirmed tornado.
+SOURCE...Emergency management confirmed tornado on the ground in 
+         Ottawa.
 
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
+IMPACT...Flying debris will be dangerous to those caught without 
+         shelter. Mobile homes will be damaged or destroyed. Damage 
+         to roofs, windows, and vehicles will occur.  Tree damage is 
+         likely.
 
-* Locations impacted include...
-  Ottawa and Wellsville.
+Locations impacted include...
+Ottawa and Wellsville.
 
-This includes Interstate 35 between mile markers 178 and 198.
+This includes Interstate 35 between mile markers 180 and 198.
  
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -35,12 +37,6 @@ building. Avoid windows. If you are outdoors, in a mobile home, or in
 a vehicle, move to the closest substantial shelter and protect
 yourself from flying debris.
 
-&&
-
-LAT...LON 3869 9506 3869 9507 3856 9507 3855 9536
-      3870 9537 3874 9512 3874 9506
-TIME...MOT...LOC 0021Z 262DEG 20KT 3863 9537 
-
-TORNADO...OBSERVED
-MAX HAIL SIZE...2.00 IN
+Heavy rainfall may hide this tornado. Do not wait to see or hear the
+tornado. TAKE COVER NOW!
 ... Far Eastern Oklahoma and Western Arkansas: Tuesday through Monday, Daytime highs in the 70s to 80s. Low temperatures from 40s to 60s. Winds calm to 25 miles per hour at times. Chance of thunderstorms on Tuesday, Wednesday and Friday. WALT Model AI supports on Tuesday night storms are likely to move through the area with strong, damaging winds as the main concern. Gusts could reach 60 to 80 mph, which is strong enough to knock down trees, damage roofs, and cause power outages. You may also see some hail, especially in the heavier parts of the storm, but it probably won’t be the biggest issue. The storms could become intense fairly quickly, and while there is a small chance of a brief, short-lived tornado, the biggest impact for most people will be the powerful winds and heavy rain hitting in a short period of time. WALT Model AI for Wednesday supports a more typical thunderstorm scenario, not a high-end severe outbreak. You could still see gusty winds between 40 and 60 mph, which may blow around loose objects, move trash cans, and possibly knock down small branches. Rain could be steady at times, but the hail risk is low, so if any hail falls, it would likely be small and not cause much damage. Even though wind shear is present, the chance of a tornado is low. Overall, this looks like a brief, somewhat windy storm rather than a dangerous one. WALT AI on Friday into Saturday morning supports a very dangerous severe storm situation. Storms that form could quickly become intense, bringing very strong winds 60 to  80 plus mph that can knock down trees, damage roofs, and cause power outages. There is also a high chance of large hail, possibly big enough to dent cars and break windows. Early on, a few storms could even produce tornadoes, especially before they merge into a larger line. Overall, this is the kind of weather where conditions can go from calm to severe very fast.
