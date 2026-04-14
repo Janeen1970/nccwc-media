@@ -1,4 +1,49 @@
-For our listeners in central and northeast Oklahoma...URGENT - IMMEDIATE BROADCAST REQUESTED
+For our listeners in central and northeast Oklahoma...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Norman OK
+619 PM CDT Tue Apr 14 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Western Garvin County in southern Oklahoma...
+  Southeastern Grady County in central Oklahoma...
+  Northern Stephens County in southern Oklahoma...
+
+* Until 700 PM CDT.
+
+* At 618 PM CDT, a severe thunderstorm was located near Duncan,
+  moving northeast at 40 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Duncan, Bray, Velma, Foster, and Pernell.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect for the warned area.
+
+&&
+
+LAT...LON 3454 9803 3485 9749 3451 9749 3451 9756
+      3448 9756 3440 9794
+TIME...MOT...LOC 2318Z 233DEG 35KT 3451 9790 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 110
    NWS Storm Prediction Center Norman OK
    320 PM CDT Tue Apr 14 2026
