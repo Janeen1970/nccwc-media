@@ -48,34 +48,25 @@ MAX WIND GUST...60 MPH
 ...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
-1000 PM CDT Tue Apr 14 2026
+At 1004 PM CDT, a severe thunderstorm capable of producing a tornado
+was located near Tulsa, moving northeast at 45 mph.
 
-The National Weather Service in Tulsa has issued a
+HAZARD...Tornado.
 
-* Tornado Warning for...
-  West central Wagoner County in northeastern Oklahoma...
-  Southeastern Tulsa County in northeastern Oklahoma...
+SOURCE...Radar indicated rotation.
 
-* Until 1045 PM CDT.
+IMPACT...Flying debris will be dangerous to those caught without 
+         shelter. Mobile homes will be damaged or destroyed. Damage 
+         to roofs, windows, and vehicles will occur.  Tree damage is 
+         likely.
 
-* At 1000 PM CDT, a severe thunderstorm capable of producing a
-  tornado was located 3 miles south of Bixby, moving northeast at 40
-  mph.
+Locations in or near the path include...
+Catoosa...                        Tulsa International Airport...
+Owasso...                         Tulsa...
+Broken Arrow...                   
 
-  HAZARD...Tornado.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations in or near the path include...
-  Leonard...                        Stonebluff...
-  Coweta...                         Oneta...
-  Bixby...                          Broken Arrow...
-
+This includes Interstate 44 between mile markers 222 and 238.
+ 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 TAKE COVER NOW! Move to a basement or an interior room on the lowest
@@ -85,11 +76,13 @@ and protect yourself from flying debris.
 
 &&
 
-LAT...LON 3586 9590 3592 9595 3606 9566 3591 9557
-TIME...MOT...LOC 0300Z 247DEG 37KT 3590 9588 
+LAT...LON 3602 9587 3606 9596 3616 9600 3629 9582
+      3611 9564
+TIME...MOT...LOC 0304Z 235DEG 38KT 3611 9588 
 
 TORNADO...RADAR INDICATED
-MAX HAIL SIZE...<.75 IN...BULLETIN - EAS ACTIVATION REQUESTED
+MAX HAIL SIZE...<.75 IN
+...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
 951 PM CDT Tue Apr 14 2026
