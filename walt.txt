@@ -1,4 +1,51 @@
-For our listeners in East and Northeast Oklahoma...BULLETIN - EAS ACTIVATION REQUESTED
+For our listeners in East and Northeast Oklahoma...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Norman OK
+1000 PM CDT Tue Apr 14 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Southern Seminole County in east central Oklahoma...
+  Northeastern Pontotoc County in east central Oklahoma...
+  Hughes County in southeastern Oklahoma...
+
+* Until 1045 PM CDT.
+
+* At 1000 PM CDT, severe thunderstorms were located along a line
+  extending from 5 miles north of Wetumka to 7 miles north of Sasakwa
+  to 4 miles southwest of Byng, moving east at 45 mph.
+
+  HAZARD...60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Holdenville, Wewoka, Wetumka, Byng, Allen, Dustin, Francis, Calvin,
+  Stuart, Lamar, Sasakwa, Horntown, Yeager, Atwood, and Spaulding.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+Torrential rainfall is occurring with these storms, and may lead to
+flash flooding. Do not drive your vehicle through flooded roadways.
+
+&&
+
+LAT...LON 3514 9601 3512 9601 3512 9603 3509 9606
+      3506 9607 3505 9609 3484 9609 3484 9681
+      3529 9650 3529 9598 3515 9598
+TIME...MOT...LOC 0300Z 255DEG 40KT 3532 9624 3505 9657 3482 9672 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...<.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
 1000 PM CDT Tue Apr 14 2026
