@@ -1,46 +1,5 @@
-For our listeners in Northeast Oklahoma...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-210 PM CDT Wed Apr 15 2026
 
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Northern Washington County in northeastern Oklahoma...
-  Northwestern Nowata County in northeastern Oklahoma...
-
-* Until 300 PM CDT.
-
-* At 210 PM CDT, a severe thunderstorm was located near Dewey, moving
-  northeast at 35 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  South Coffeyville...              Wann...
-  Copan...                          Dewey...
-  Bartlesville...                   
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-&&
-
-LAT...LON 3673 9591 3681 9599 3700 9588 3700 9542
-TIME...MOT...LOC 1910Z 226DEG 28KT 3682 9590 
-
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH
-...URGENT - IMMEDIATE BROADCAST REQUESTED
+URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 121
    NWS Storm Prediction Center Norman OK
    230 PM CDT Wed Apr 15 2026
