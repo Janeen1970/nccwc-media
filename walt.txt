@@ -1,5 +1,55 @@
 For our listeners Northeast Oklahoma...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Norman OK
+929 PM CDT Tue Apr 14 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Garvin County in southern Oklahoma...
+  Seminole County in east central Oklahoma...
+  Southeastern Cleveland County in central Oklahoma...
+  Northwestern Pontotoc County in east central Oklahoma...
+  Southwestern Pottawatomie County in central Oklahoma...
+  Southeastern McClain County in central Oklahoma...
+
+* Until 1015 PM CDT.
+
+* At 928 PM CDT, severe thunderstorms were located along a line
+  extending from near Brooksville to 3 miles west of Asher to 4 miles
+  southwest of Byars, moving east at 40 mph.
+
+  HAZARD...60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Seminole, Tecumseh, Pauls Valley, Purcell, Slaughterville, Wewoka,
+  Wynnewood, Lexington, Stratford, Konawa, Maysville, Byng, Maud,
+  Wayne, Earlsboro, Paoli, Bowlegs, Asher, Tribbey, and Wanette.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+Torrential rainfall is occurring with these storms, and may lead to
+flash flooding. Do not drive your vehicle through flooded roadways.
+
+&&
+
+LAT...LON 3512 9649 3506 9649 3464 9689 3463 9756
+      3480 9756 3517 9723 3541 9645 3512 9644
+TIME...MOT...LOC 0228Z 254DEG 37KT 3523 9699 3500 9698 3482 9708 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...<.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 931 PM CDT Tue Apr 14 2026
 
