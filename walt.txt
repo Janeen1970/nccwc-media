@@ -83,65 +83,7 @@ LAT...LON 3602 9587 3606 9596 3616 9600 3629 9582
 TIME...MOT...LOC 0304Z 235DEG 38KT 3611 9588 
 
 TORNADO...RADAR INDICATED
-MAX HAIL SIZE...<.75 IN
-...BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Tulsa OK
-951 PM CDT Tue Apr 14 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Tornado Warning for...
-  Southwestern Rogers County in northeastern Oklahoma...
-  East central Creek County in northeastern Oklahoma...
-  Northwestern Wagoner County in northeastern Oklahoma...
-  Southeastern Tulsa County in northeastern Oklahoma...
-
-* Until 1015 PM CDT.
-
-* At 951 PM CDT, a severe thunderstorm capable of producing a tornado
-  was located near Jenks Riverside Airport, moving northeast at 55
-  mph.
-
-  HAZARD...Tornado.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations in or near the path include...
-  Tulsa International Airport...    Jenks...
-  Glenpool...                       Catoosa...
-  Jenks Riverside Airport...        Owasso...
-  Tulsa...                          Broken Arrow...
-  Sand Springs...                   Bixby...
-
-This includes Interstate 44 between mile markers 212 and 238.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-TAKE COVER NOW! Move to a basement or an interior room on the lowest
-floor of a sturdy building. Avoid windows. If you are outdoors, in a
-mobile home, or in a vehicle, move to the closest substantial shelter
-and protect yourself from flying debris.
-
-&&
-
-LAT...LON 3611 9564 3595 9603 3600 9611 3607 9611
-      3608 9612 3629 9582
-TIME...MOT...LOC 0251Z 232DEG 47KT 3605 9602 
-
-TORNADO...RADAR INDICATED
-MAX HAIL SIZE...<.75 IN
-
-$$
-
-
-
-...
+MAX HAIL SIZE...<.75 IN...
    URGENT - IMMEDIATE BROADCAST REQUESTED
    Severe Thunderstorm Watch Number 114
    NWS Storm Prediction Center Norman OK
