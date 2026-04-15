@@ -83,43 +83,7 @@ from severe thunderstorms. If you spot a tornado go at once into the
 basement or small central room in a sturdy structure.
 
 For your protection move to an interior room on the lowest floor of a
-building....BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Tulsa OK
-At 1004 PM CDT, a severe thunderstorm capable of producing a tornado
-was located near Tulsa, moving northeast at 45 mph.
-
-HAZARD...Tornado.
-
-SOURCE...Radar indicated rotation.
-
-IMPACT...Flying debris will be dangerous to those caught without 
-         shelter. Mobile homes will be damaged or destroyed. Damage 
-         to roofs, windows, and vehicles will occur.  Tree damage is 
-         likely.
-
-Locations in or near the path include...
-Catoosa...                        Tulsa International Airport...
-Owasso...                         Tulsa...
-Broken Arrow...                   
-
-This includes Interstate 44 between mile markers 222 and 238.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-TAKE COVER NOW! Move to a basement or an interior room on the lowest
-floor of a sturdy building. Avoid windows. If you are outdoors, in a
-mobile home, or in a vehicle, move to the closest substantial shelter
-and protect yourself from flying debris.
-
-&&
-
-LAT...LON 3602 9587 3606 9596 3616 9600 3629 9582
-      3611 9564
-TIME...MOT...LOC 0304Z 235DEG 38KT 3611 9588 
-
-TORNADO...RADAR INDICATED
-MAX HAIL SIZE...<.75 IN...
+building.......
    URGENT - IMMEDIATE BROADCAST REQUESTED
    Severe Thunderstorm Watch Number 114
    NWS Storm Prediction Center Norman OK
