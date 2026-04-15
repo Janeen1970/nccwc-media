@@ -1,4 +1,56 @@
-For our listeners in central and northeast Oklahoma...URGENT - IMMEDIATE BROADCAST REQUESTED
+For our listeners in central and northeast Oklahoma...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Norman OK
+752 PM CDT Tue Apr 14 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Central Comanche County in southwestern Oklahoma...
+  Southwestern Stephens County in southern Oklahoma...
+  Cotton County in southwestern Oklahoma...
+  Eastern Tillman County in southwestern Oklahoma...
+  Northwestern Clay County in northern Texas...
+  Central Wichita County in northern Texas...
+
+* Until 830 PM CDT.
+
+* At 751 PM CDT, severe thunderstorms were located along a line
+  extending from near Manitou to 5 miles northeast of Grandfield to 3
+  miles west of Iowa Park, moving northeast at 50 mph.
+
+  HAZARD...60 mph wind gusts and nickel size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Northwestern Wichita Falls, Lawton, Burkburnett, Walters, Iowa
+  Park, Cache, Geronimo, Grandfield, Temple, Chattanooga, Randlett,
+  Medicine Park, Indiahoma, Manitou, Devol, Faxon, Hollister,
+  Loveland, Corum, and Cookietown.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect for the warned area.
+
+&&
+
+LAT...LON 3391 9880 3425 9879 3451 9905 3460 9888
+      3459 9883 3462 9883 3480 9842 3453 9807
+      3429 9811 3429 9814 3412 9814
+TIME...MOT...LOC 0051Z 242DEG 42KT 3449 9893 3430 9865 3395 9874 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...0.88 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 110
    NWS Storm Prediction Center Norman OK
    320 PM CDT Tue Apr 14 2026
