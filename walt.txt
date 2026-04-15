@@ -1,4 +1,63 @@
-For our listeners Northeast Oklahoma...
+For our listeners Northeast Oklahoma...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+931 PM CDT Tue Apr 14 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Southeastern Creek County in northeastern Oklahoma...
+  Okmulgee County in northeastern Oklahoma...
+  Southeastern Tulsa County in northeastern Oklahoma...
+  Northeastern Okfuskee County in east central Oklahoma...
+
+* Until 1015 PM CDT.
+
+* At 931 PM CDT, severe thunderstorms were located along a line
+  extending from 5 miles southwest of Kellyville to 5 miles northeast
+  of Okemah, moving northeast at 35 mph.
+
+  HAZARD...60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Beggs...                          Preston...
+  Okmulgee...                       Sapulpa...
+  Jenks Riverside Airport...        Bald Hill...
+  Liberty...                        Okfuskee...
+  Mounds...                         Okmulgee State Park...
+  Hectorville...                    Jenks...
+  Glenpool...                       Bixby...
+  Kellyville...                     Kiefer...
+  Morris...                         Slick...
+  Broken Arrow...                   Tulsa...
+
+This includes Interstate 44 between mile markers 223 and 227.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3616 9581 3590 9580 3590 9582 3586 9582
+      3585 9580 3563 9579 3549 9625 3593 9627
+TIME...MOT...LOC 0231Z 223DEG 29KT 3587 9626 3550 9624 
+
+TORNADO...POSSIBLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...<.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+...
    URGENT - IMMEDIATE BROADCAST REQUESTED
    Severe Thunderstorm Watch Number 114
    NWS Storm Prediction Center Norman OK
