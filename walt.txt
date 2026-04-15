@@ -44,52 +44,7 @@ TAKE COVER NOW! Move to a basement or an interior room on the lowest
 floor of a sturdy building. Avoid windows. If you are outdoors, in a
 mobile home, or in a vehicle, move to the closest substantial shelter
 and protect yourself from flying debris.
-...BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Tulsa OK
-1146 PM CDT Tue Apr 14 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Tornado Warning for...
-  South central Benton County in northwestern Arkansas...
-  Northwestern Washington County in northwestern Arkansas...
-  Northern Adair County in northeastern Oklahoma...
-
-* Until 1230 AM CDT.
-
-* At 1146 PM CDT, a severe thunderstorm capable of producing a
-  tornado was located over Christie, moving east at 45 mph.
-
-  HAZARD...Tornado.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations in or near the path include...
-  Lake Francis...                   Fayetteville...
-  Westville...                      Christie...
-  Cincinnati...                     Savoy...
-  Tontitown...                      Ballard...
-  Rhea...                           Wedington...
-  Summers...                        Rocky Comfort...
-  Farmington...                     Wheeler...
-  Baron...                          Viney Grove...
-  Watts...                          Johnson...
-  Lincoln...                        
-
-This includes Interstate 49 between mile markers 60 and 65.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-TAKE COVER NOW! Move to a basement or an interior room on the lowest
-floor of a sturdy building. Avoid windows. If you are outdoors, in a
-mobile home, or in a vehicle, move to the closest substantial shelter
-and protect yourself from flying debris....BULLETIN - IMMEDIATE BROADCAST REQUESTED
+......BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 1144 PM CDT Tue Apr 14 2026
