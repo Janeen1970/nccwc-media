@@ -1,19 +1,19 @@
 
-For our listeners in Northeast Oklahoma...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+For our listeners in Northeast Oklahoma..BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
-245 PM CDT Wed Apr 15 2026
+313 PM CDT Wed Apr 15 2026
 
 The National Weather Service in Tulsa has issued a
 
 * Severe Thunderstorm Warning for...
-  Central Washington County in northeastern Oklahoma...
-  Southwestern Nowata County in northeastern Oklahoma...
+  Northwestern Craig County in northeastern Oklahoma...
+  Northeastern Nowata County in northeastern Oklahoma...
 
-* Until 330 PM CDT.
+* Until 400 PM CDT.
 
-* At 245 PM CDT, a severe thunderstorm was located 9 miles southeast
-  of Bartlesville, moving northeast at 25 mph.
+* At 313 PM CDT, a severe thunderstorm was located near Delaware,
+  moving northeast at 35 mph.
 
   HAZARD...60 mph wind gusts and quarter size hail.
 
@@ -23,8 +23,7 @@ The National Weather Service in Tulsa has issued a
            to roofs, siding, and trees.
 
 * Locations in or near the path include...
-  Delaware...                       Nowata...
-  Lenapah...                        
+  Hollow...                         Lenapah...
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -33,6 +32,7 @@ building.
 
 A Tornado Watch remains in effect until 900 PM CDT for northeastern
 Oklahoma.
+
 ....URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 121
    NWS Storm Prediction Center Norman OK
