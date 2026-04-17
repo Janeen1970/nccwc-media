@@ -1,33 +1,4 @@
-We are interrupting regular programming to bring you continuing severe weather coverage...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Topeka KS
-213 PM CDT Fri Apr 17 2026
-
-The National Weather Service in Topeka has issued a
-
-* Severe Thunderstorm Warning for...
-  Northwestern Jefferson County in northeastern Kansas...
-  Southeastern Jackson County in northeastern Kansas...
-
-* Until 245 PM CDT.
-
-* At 213 PM CDT, a severe thunderstorm was located near Hoyt, moving
-  northeast at 30 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations impacted include...
-  Valley Falls, Hoyt, and Nortonville.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building....URGENT - IMMEDIATE BROADCAST REQUESTED
+We are interrupting regular programming to bring you continuing severe weather coverage...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 130
    NWS Storm Prediction Center Norman OK
    135 PM CDT Fri Apr 17 2026
