@@ -9,9 +9,6 @@
 
   <meta name="author" content="Wayne Adams">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="robots" content="index, follow">
-
-  <link rel="canonical" href="https://janeen1970.github.io/nccwc-media/">
 
   <style>
     :root {
@@ -166,31 +163,43 @@
   </div>
 </div>
 
-<!-- ✅ FIXED LINK (now in correct place) -->
+<!-- LINKS -->
 <div style="text-align:center; margin-top:15px;">
-  <a href="https://payhip.com/WayneAdams" 
-     target="_blank" 
-     style="color:#38bdf8; font-size:20px; text-decoration:none;">
-    Adams Arcade
-Strategy, Simulation & Survival Games
+  <a href="https://payhip.com/WayneAdams" target="_blank" style="color:#38bdf8; font-size:20px; text-decoration:none;">
+    Adams Arcade – Strategy, Simulation & Survival Games
   </a>
 </div>
 
-  </div>
 <div style="text-align:center; margin-top:15px;">
-  <a href="https://lesfeldick.com/watch/videos/book-1/" 
-     target="_blank" 
-     style="color:#38bdf8; font-size:20px; text-decoration:none;">
+  <a href="https://lesfeldick.com/watch/videos/book-1/" target="_blank" style="color:#38bdf8; font-size:20px; text-decoration:none;">
     Through The Bible with Les Feldick
   </a>
 </div>
-  </div>
+
 <div style="text-align:center; margin-top:15px;">
-  <a href="https://sites.google.com/view/nccwc/walt-model-far-east-oklahoma-and-western-arkansas?authuser=0" 
-     target="_blank" 
-     style="color:#38bdf8; font-size:20px; text-decoration:none;">
-    WALT Model WALT Model Far East Oklahoma and Western Arkansas
+  <a href="https://sites.google.com/view/nccwc/walt-model-far-east-oklahoma-and-western-arkansas?authuser=0" target="_blank" style="color:#38bdf8; font-size:20px; text-decoration:none;">
+    WALT Model – Far East Oklahoma and Western Arkansas
   </a>
+</div>
+
+<!-- 🔴 LIVE RADIO -->
+<div style="text-align:center; margin-top:20px;">
+  <div id="radioStatus" style="font-size:22px; font-weight:bold; margin-bottom:10px;">
+    ⚫ Checking live status...
+  </div>
+
+  <button id="listenBtn"
+  onclick="window.open('https://nccwc-radio.mixlr.com','_blank')"
+  style="padding:15px 30px;
+         font-size:20px;
+         color:white;
+         background-color:gray;
+         border:none;
+         border-radius:10px;
+         font-weight:bold;
+         cursor:pointer;">
+    Checking...
+  </button>
 </div>
 
 <!-- MAIN CONTENT -->
@@ -228,52 +237,46 @@ Strategy, Simulation & Survival Games
 </div>
 
 <script>
-/* ===== BULLETIN ===== */
+
+/* BULLETIN */
 async function loadLiveBulletin() {
   const el = document.getElementById("live-bar-text");
   try {
     const res = await fetch("bulletin.txt?_=" + Date.now());
-    el.textContent = (await res.text()).trim() || "NCCWC: No active bulletin.";
+    el.textContent = (await res.text()).trim();
   } catch {
-    el.textContent = "NCCWC: Error loading bulletin.";
+    el.textContent = "Error loading bulletin.";
   }
 }
 loadLiveBulletin();
 setInterval(loadLiveBulletin, 20000);
 
-/* ===== WALT ===== */
+/* WALT */
 async function loadWaltTicker() {
   const el = document.getElementById("walt-ticker-scroll");
   try {
     const res = await fetch("walt.txt?_=" + Date.now());
-    el.textContent = (await res.text()).trim() || "WALT Model: No active alert.";
+    el.textContent = (await res.text()).trim();
   } catch {
-    el.textContent = "WALT Model: Error loading.";
+    el.textContent = "Error loading WALT.";
   }
 }
 loadWaltTicker();
 setInterval(loadWaltTicker, 20000);
 
-/* ===== RADIO ===== */
-
-const GH_OWNER = "Janeen1970";
-const GH_REPO  = "nccwc-media";
-const API_URL  = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`;
+/* RADIO */
+const API_URL = `https://api.github.com/repos/Janeen1970/nccwc-media/contents/`;
 
 const audioEl = document.getElementById("audio");
 const playlistEl = document.getElementById("playlist");
 const nowTitleEl = document.getElementById("now-title");
-const nowSubEl = document.getElementById("now-sub");
 const statusEl = document.getElementById("status");
-const trackCountEl = document.getElementById("track-count-label");
 
 let tracks = [];
 let currentIndex = 0;
 
 function niceTitle(name) {
-  return decodeURIComponent(
-    name.replace(/\.mp3$/i, "").replace(/[_]+/g, " ")
-  ).trim();
+  return decodeURIComponent(name.replace(/\.mp3$/i, "").replace(/[_]+/g, " "));
 }
 
 function renderPlaylist() {
@@ -284,76 +287,62 @@ function renderPlaylist() {
     if (i === currentIndex) li.classList.add("badge-playing");
 
     li.innerHTML = `<div>${i + 1}.</div> <div>${t.title}</div>`;
-
-    li.addEventListener("click", () => loadTrack(i, true));
+    li.onclick = () => loadTrack(i, true);
     playlistEl.appendChild(li);
   });
 }
 
-function updatePlaylistHighlight() {
-  Array.from(playlistEl.children).forEach((li, idx) => {
-    li.classList.toggle("badge-playing", idx === currentIndex);
-  });
-}
-
 function loadTrack(index, autoplay=false) {
-  currentIndex = (index + tracks.length) % tracks.length;
-  const t = tracks[currentIndex];
-
+  currentIndex = index;
+  const t = tracks[index];
   audioEl.src = t.url;
   nowTitleEl.textContent = t.title;
-  nowSubEl.textContent = "NCCWC Media • GitHub Stream";
-  updatePlaylistHighlight();
-
-  if (autoplay) {
-    audioEl.play().catch(() => {
-      statusEl.textContent = "Tap ▶️ Play to allow audio.";
-    });
-  }
+  renderPlaylist();
+  if (autoplay) audioEl.play();
 }
 
-function nextTrack() { loadTrack(currentIndex + 1, true); }
-function prevTrack() { loadTrack(currentIndex - 1, true); }
+function nextTrack(){ loadTrack((currentIndex+1)%tracks.length,true); }
+function prevTrack(){ loadTrack((currentIndex-1+tracks.length)%tracks.length,true); }
 
-document.getElementById("btn-next").addEventListener("click", nextTrack);
-document.getElementById("btn-prev").addEventListener("click", prevTrack);
+document.getElementById("btn-next").onclick = nextTrack;
+document.getElementById("btn-prev").onclick = prevTrack;
 
-document.getElementById("btn-play").addEventListener("click", () => {
-  if (audioEl.paused) {
-    audioEl.play();
-    document.getElementById("btn-play").textContent = "⏸ Pause";
-  } else {
-    audioEl.pause();
-    document.getElementById("btn-play").textContent = "▶️ Play";
-  }
-});
+document.getElementById("btn-play").onclick = () => {
+  audioEl.paused ? audioEl.play() : audioEl.pause();
+};
 
 audioEl.addEventListener("ended", nextTrack);
 
 async function loadTracks() {
-  statusEl.textContent = "Loading…";
-
   const res = await fetch(API_URL);
   const data = await res.json();
-
-  const mp3s = data.filter(x => x.name.toLowerCase().endsWith(".mp3"));
-
-  tracks = mp3s
-    .map(x => ({ name: x.name, title: niceTitle(x.name), url: x.download_url }))
-    .sort((a, b) => a.name.localeCompare(b.name));
-
-  trackCountEl.textContent = `${tracks.length} tracks loaded`;
-
+  tracks = data.filter(x => x.name.endsWith(".mp3"))
+    .map(x => ({ name: x.name, title: niceTitle(x.name), url: x.download_url }));
   renderPlaylist();
   loadTrack(0);
-  statusEl.textContent = "";
 }
-
 loadTracks();
+
+/* LIVE CHECK */
+function checkLive(){
+fetch("https://nccwc-radio.mixlr.com/embed")
+.then(r=>r.text())
+.then(d=>{
+if(d.toLowerCase().includes("live")){
+radioStatus.innerText="🔴 LIVE NOW";
+listenBtn.innerText="▶️ Listen Live";
+listenBtn.style.background="red";
+}else{
+radioStatus.innerText="⚫ OFFLINE";
+listenBtn.innerText="⏸️ Offline";
+listenBtn.style.background="gray";
+}
+});
+}
+checkLive();
+setInterval(checkLive,30000);
+
 </script>
 
 </body>
 </html>
-
-
-
