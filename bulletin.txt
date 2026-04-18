@@ -2,19 +2,19 @@ We are interrupting regular programming to bring you continuing severe weather c
 ...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
-704 PM CDT Fri Apr 17 2026
+722 PM CDT Fri Apr 17 2026
 
 The National Weather Service in Tulsa has issued a
 
 * Tornado Warning for...
-  Northwestern Osage County in northeastern Oklahoma...
+  North central Osage County in northeastern Oklahoma...
 
-* Until 730 PM CDT.
+* Until 745 PM CDT.
 
-* At 704 PM CDT, a severe thunderstorm capable of producing a tornado
-  was located near Ponca City, moving east at 40 mph.
+* At 722 PM CDT, a severe thunderstorm capable of producing a tornado
+  was located near Burbank, moving east at 55 mph.
 
-  HAZARD...Tornado.
+  HAZARD...Tornado and golf ball size hail.
 
   SOURCE...Radar indicated rotation.
 
@@ -24,7 +24,8 @@ The National Weather Service in Tulsa has issued a
            damage is likely.
 
 * Locations in or near the path include...
-  Shidler...                        Burbank...
+  Pawhuska...                       Shidler...
+  Burbank...                        Pearsonia...
   Webb City...                      Apperson...
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
@@ -32,18 +33,7 @@ PRECAUTIONARY/PREPAREDNESS ACTIONS...
 TAKE COVER NOW! Move to a basement or an interior room on the lowest
 floor of a sturdy building. Avoid windows. If you are outdoors, in a
 mobile home, or in a vehicle, move to the closest substantial shelter
-and protect yourself from flying debris.
-
-&&
-
-LAT...LON 3670 9705 3670 9703 3669 9700 3669 9693
-      3672 9692 3675 9689 3674 9683 3677 9682
-      3677 9679 3678 9679 3678 9675 3685 9675
-      3688 9663 3663 9662 3665 9706 3668 9706
-TIME...MOT...LOC 0004Z 265DEG 33KT 3670 9705 
-
-TORNADO...RADAR INDICATED
-MAX HAIL SIZE...<.75 IN......BULLETIN - IMMEDIATE BROADCAST REQUESTED
+and protect yourself from flying debris....BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 654 PM CDT Fri Apr 17 2026
