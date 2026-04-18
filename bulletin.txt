@@ -1,4 +1,39 @@
 We are interrupting regular programming to bring you continuing severe weather coverage
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Norman OK
+812 PM CDT Fri Apr 17 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Southern Noble County in northern Oklahoma...
+  Northwestern Logan County in central Oklahoma...
+  Northwestern Payne County in central Oklahoma...
+  Southeastern Garfield County in northern Oklahoma...
+
+* Until 900 PM CDT.
+
+* At 812 PM CDT, a severe thunderstorm was located near Marshall,
+  moving east at 45 mph.
+
+  HAZARD...Golf ball size hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           wind damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Stillwater, Perry, Morrison, Glencoe, Marshall, Orlando, Douglas,
+  Lake Carl Blackwell, Lake Mcmurtry, Lucien, Sooner Lake, and
+  Hayward.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
 ...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
