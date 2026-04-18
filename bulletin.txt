@@ -1,4 +1,37 @@
-Regular weather programming has been interrupted for continuing severe weather coverage....BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Regular weather programming has been interrupted for continuing severe weather coverage...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Norman OK
+838 PM CDT Fri Apr 17 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern Custer County in western Oklahoma...
+  Blaine County in northwestern Oklahoma...
+  Southeastern Dewey County in northwestern Oklahoma...
+  Northwestern Canadian County in central Oklahoma...
+
+* Until 945 PM CDT.
+
+* At 838 PM CDT, severe thunderstorms were located along a line
+  extending from 5 miles northwest of Hitchcock to 4 miles southeast
+  of Fay to 3 miles north of Arapaho, moving east at 25 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Weatherford, Watonga, Geary, Thomas, Hydro, Arapaho, Custer City,
+  Hitchcock, Bridgeport, Greenfield, Eagle City, Fay, and Southard.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building....BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Norman OK
 902 PM CDT Fri Apr 17 2026
