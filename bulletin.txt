@@ -1,4 +1,100 @@
 We are interrupting regular programming to bring you continuing severe weather coverage
+...BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Tulsa OK
+752 PM CDT Fri Apr 17 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Tornado Warning for...
+  Northeastern Osage County in northeastern Oklahoma...
+
+* Until 815 PM CDT.
+
+* At 752 PM CDT, a severe thunderstorm capable of producing a tornado
+  was located 4 miles north of Pawhuska, moving east at 60 mph.
+
+  HAZARD...Tornado and ping pong ball size hail.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
+
+* Locations in or near the path include...
+  Bartlesville...                   Pawhuska...
+  Bigheart...                       Osage Hills State Park...
+  Bartlesville Municipal Airport... Hulah...
+  Okesa...                          Sunset Lake...
+  Wah Sha She State Park...         
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+TAKE COVER NOW! Move to a basement or an interior room on the lowest
+floor of a sturdy building. Avoid windows. If you are outdoors, in a
+mobile home, or in a vehicle, move to the closest substantial shelter
+and protect yourself from flying debris.
+
+&&
+
+LAT...LON 3698 9600 3669 9600 3665 9638 3681 9644
+TIME...MOT...LOC 0052Z 262DEG 50KT 3674 9632 
+
+TORNADO...RADAR INDICATED
+MAX HAIL SIZE...1.50 IN
+
+$$
+
+Mejia
+
+
+======================================================================
+
+093 
+WFUS54 KTSA 180049
+TORTSA
+OKC113-180115-
+/O.NEW.KTSA.TO.W.0034.260418T0049Z-260418T0115Z/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Tulsa OK
+749 PM CDT Fri Apr 17 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Tornado Warning for...
+  Northeastern Osage County in northeastern Oklahoma...
+
+* Until 815 PM CDT.
+
+* At 749 PM CDT, a severe thunderstorm capable of producing a tornado
+  was located 4 miles north of Pawhuska, moving east at 55 mph.
+
+  HAZARD...Tornado.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
+
+* Locations in or near the path include...
+  Bartlesville...                   Pawhuska...
+  Bigheart...                       Osage Hills State Park...
+  Bartlesville Municipal Airport... Hulah...
+  Okesa...                          Sunset Lake...
+  Wah Sha She State Park...         
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+TAKE COVER NOW! Move to a basement or an interior room on the lowest
+floor of a sturdy building. Avoid windows. If you are outdoors, in a
+mobile home, or in a vehicle, move to the closest substantial shelter
+and protect yourself from flying debris.
 ...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
