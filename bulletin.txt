@@ -1,5 +1,37 @@
 We are interrupting regular programming to bring you continuing severe weather coverage
-...BULLETIN - EAS ACTIVATION REQUESTED
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Norman OK
+735 PM CDT Fri Apr 17 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Northern Kingfisher County in central Oklahoma...
+  Northwestern Logan County in central Oklahoma...
+  Southern Garfield County in northern Oklahoma...
+
+* Until 815 PM CDT.
+
+* At 735 PM CDT, a severe thunderstorm was located 7 miles northwest 
+  of Lacey, moving east at 45 mph.
+
+  HAZARD...Tennis ball size hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           wind damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Hennessey, Waukomis, Covington, Marshall, Fairmont, Douglas,
+  Lovell, Bison, Hayward, and Lacey.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building....BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
 752 PM CDT Fri Apr 17 2026
