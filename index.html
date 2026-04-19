@@ -148,7 +148,6 @@
       background: rgba(56,189,248,0.12);
       border-left: 2px solid var(--accent);
     }
-    @keyframes pulseLive { 0% { background:#b91c1c; } 50% { background:#ef4444; } 100% { background:#b91c1c; } 
   </style>
 </head>
 
@@ -198,73 +197,23 @@ Strategy, Simulation & Survival Games
 <div class="wrap">
 
   <div class="grid">
-<!-- 🔴 NCCWC LIVE RADIO (CUSTOM WRAP) -->
-<div style="
-  position:relative;
-  margin-bottom:20px;
-  border-radius:16px;
-  overflow:hidden;
-  border:1px solid #1f2937;
-  background:#000;
-">
-
-  <!-- 🔴 LIVE BADGE -->
-  <div id="live-badge" style="
-    position:absolute;
-    top:10px;
-    left:10px;
-    z-index:2;
-    background:#333;
-    color:#fff;
-    padding:4px 10px;
-    border-radius:20px;
-    font-size:12px;
-  ">
-    ⚫ OFF AIR
-  </div>
-
-  <!-- TITLE -->
-  <div style="
-    position:absolute;
-    top:10px;
-    right:10px;
-    z-index:2;
-    color:#fff;
-    font-weight:700;
-    font-size:14px;
-  ">
-    NCCWC RADIO
-  </div>
-
-  <!-- OFFLINE SCREEN -->
-  <div id="offline-cover" style="
-    position:absolute;
-    inset:0;
-    background:linear-gradient(135deg,#020617,#000);
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    flex-direction:column;
-    text-align:center;
-    color:#9ca3af;
-    z-index:1;
-  ">
-    <div style="font-size:22px; margin-bottom:10px;">🎙</div>
-    <div style="font-size:16px;">Station OFF AIR</div>
-    <div style="font-size:13px; margin-top:6px;">
-      Live severe weather coverage will begin when conditions warrant
-    </div>
-  </div>
-
-  <!-- MIXLR -->
-  <iframe id="mixlr-frame"
-          src="https://nccwc-radio.mixlr.com/embed"
-          style="width:100%; height:200px; border:0;">
-  </iframe>
-
-</div>
-
-  
+<div style="text-align:center; margin-bottom:15px; grid-column:1 / -1;">
+  <a href="https://nccwc-radio.mixlr.com"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="
+       display:inline-block;
+       background:#b91c1c;
+       color:#fff;
+       padding:12px 20px;
+       border-radius:8px;
+       font-size:18px;
+       font-weight:700;
+       text-decoration:none;
+       cursor:pointer;
+     ">
+     🔴 Click here for live severe weather coverage... Link is only active during severe weather for Oklahoma Counties Le Flore, Sequoyah, Haskell, Latimer, McCurtain. Arkansas Counties Benton, Washington, Madison, Carroll, Newton, Franklin, Scott, Sebastian, Crawford, Johnson, Polk, Yell, Boone, and Pope.
+  </a>
 </div>
     <!-- RADIO CARD -->
     <section class="card">
@@ -418,35 +367,11 @@ async function loadTracks() {
 }
 
 loadTracks();
-/* ===== FORCE MIXLR TO WAKE UP ===== */
-
-const frame = document.getElementById("mixlr-frame");
-const cover = document.getElementById("offline-cover");
-const badge = document.getElementById("live-badge");
-
-function refreshMixlr(){
-  if (!frame) return;
-
-  // reload iframe
-  frame.src = frame.src;
-
-  // after reload, assume live
-  setTimeout(() => {
-    if (cover) cover.style.display = "none";
-    if (badge) {
-      badge.textContent = "🔴 LIVE";
-      badge.style.background = "#b91c1c";
-    }
-  }, 3000);
-}
-
-// run every 8 seconds
-setInterval(refreshMixlr, 8000);
-
 </script>
 
 </body>
 </html>
+
 
 
 
