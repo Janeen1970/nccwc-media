@@ -148,6 +148,7 @@
       background: rgba(56,189,248,0.12);
       border-left: 2px solid var(--accent);
     }
+    @keyframes pulseLive { 0% { background:#b91c1c; } 50% { background:#ef4444; } 100% { background:#b91c1c; } 
   </style>
 </head>
 
@@ -197,7 +198,40 @@ Strategy, Simulation & Survival Games
 <div class="wrap">
 
   <div class="grid">
+<!-- 🔴 LIVE RADIO PANEL -->
+<div style="
+  margin-bottom:20px;
+  padding:14px;
+  border-radius:16px;
+  border:1px solid #1f2937;
+  background:linear-gradient(135deg,#0b1220,#020617);
+">
 
+  <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+  <div style="font-weight:800; font-size:18px;">
+    🎙 NCCWC LIVE RADIO
+  </div>
+
+  <div id="live-label" style="
+    background:#333;
+    color:#fff;
+    padding:4px 10px;
+    border-radius:20px;
+    font-size:12px;
+  ">
+    🔴 OFF AIR
+  </div>
+</div>
+
+  <div style="font-size:13px; color:#9ca3af; margin-bottom:10px;">
+    Live Severe Weather broadcast feed for Oklahoma Counties: Le Flore Sequoyah Haskell Latimer Pushmataha McCurtain...Arkansas Counties: Sebastian Crawford Benton Washington Madison Newton Carroll Boone Pope Logan Johnson Yell Scott Polk Franklin from Climate Scientist Adams — when active
+  </div>
+
+  <iframe src="https://nccwc-radio.mixlr.com/embed"
+          style="width:100%; height:200px; border:0; border-radius:10px;">
+  </iframe>
+
+</div>
     <!-- RADIO CARD -->
     <section class="card">
       <h2>Now Playing</h2>
@@ -208,10 +242,45 @@ Strategy, Simulation & Survival Games
 
       <audio id="audio" controls preload="none"></audio>
 
+<div id="mixlr-live" style="display:none; margin-top:15px;">
+
+  <div style="
+    background: linear-gradient(135deg, #0b1220, #020617);
+    border: 1px solid #1f2937;
+    border-radius: 16px;
+    padding: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+  ">
+
+    <!-- Header -->
+    <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:10px;">
+      <div style="font-weight:700; font-size:16px;">
+        🎙 NCCWC Radio
+      </div>
+
+  <div id="live-label" style="
+  background:#333;
+  color:#fff;
+  padding:4px 10px;
+  border-radius:20px;
+  font-size:12px;
+">
+  ⚫ OFF AIR
+</div>
+
+    <!-- Mixlr Player -->
+    <iframe src="https://nccwc-radio.mixlr.com/embed"
+            style="width:100%; height:200px; border:0; border-radius:10px;">
+    </iframe>
+
+  </div>
+</div>
+
       <div>
         <button id="btn-prev">Prev</button>
         <button id="btn-play">▶️ Play</button>
         <button id="btn-next">Next</button>
+        <button id="btn-live" onclick="toggleLive()">🔴 OFF AIR</button>
       </div>
 
       <div id="status"></div>
@@ -350,10 +419,63 @@ async function loadTracks() {
 }
 
 loadTracks();
+/* ===== ON AIR / OFF AIR CONTROL ===== */
+
+let isLive = false;
+const mixlrBox = document.getElementById("mixlr-live");
+const liveBtn = document.getElementById("btn-live");
+
+function toggleLive(){
+  isLive = !isLive;
+
+  const liveIndicator = document.getElementById("live-indicator");
+
+  if(isLive){
+    // 🔴 GO LIVE
+    audioEl.pause(); // pause MP3
+    mixlrBox.style.display = "block";
+
+    nowTitleEl.textContent = "🔴 NCCWC RADIO LIVE";
+    nowSubEl.textContent = "Broadcasting via Mixlr";
+    statusEl.textContent = "LIVE BROADCAST ACTIVE";
+
+    if(liveIndicator) liveIndicator.style.display = "inline-block";
+
+    liveBtn.textContent = "🟢 ON AIR";
+
+  } else {
+    // ⚫ BACK TO MP3
+    mixlrBox.style.display = "none";
+
+    nowSubEl.textContent = "NCCWC Media • GitHub Stream";
+    statusEl.textContent = "";
+
+    if(liveIndicator) liveIndicator.style.display = "none";
+
+    liveBtn.textContent = "🔴 ON AIR";
+
+    // ✅ THIS IS THE KEY FIX
+    audioEl.play().catch(()=>{});
+  }
+}
+loadTracks();
+
+
 </script>
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
