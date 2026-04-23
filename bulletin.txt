@@ -55,21 +55,6 @@
    The tornado watch area is approximately along and 60 statute miles
    east and west of a line from 65 miles north northeast of Manhattan
    KS to 45 miles south southeast of Wichita KS....
-   Mesoscale Discussion 0504
-   NWS Storm Prediction Center Norman OK
-   0302 PM CDT Thu Apr 23 2026
-
-   Areas affected...central OK into western North TX
-
-   Concerning...Severe potential...Watch possible 
-
-   Valid 232002Z - 232230Z
-
-   Probability of Watch Issuance...60 percent
-
-   SUMMARY...Severe thunderstorms are expected across north-central OK
-   this evening. Further south, from central OK into western North TX,
-   a more conditional risk is expected. A tornado watch may be needed
-   for portions of OK into western north TX in the next few hours.
+ 
 
 
