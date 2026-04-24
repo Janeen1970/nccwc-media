@@ -1,5 +1,39 @@
 
-BULLETIN - EAS ACTIVATION REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+350 PM CDT Fri Apr 24 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Southeastern Haskell County in southeastern Oklahoma...
+  Northwestern Le Flore County in southeastern Oklahoma...
+
+* Until 430 PM CDT.
+
+* At 350 PM CDT, a severe thunderstorm was located 5 miles northeast
+  of Lequire, moving east at 20 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Stigler...                        Keota...
+  Mccurtain...                      Mc Curtain...
+  Lequire...                        Milton...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 900 PM CDT for southeastern
+Oklahoma....BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Norman OK
 335 PM CDT Fri Apr 24 2026
