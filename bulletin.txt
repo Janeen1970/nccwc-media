@@ -87,43 +87,7 @@ HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...1.50 IN
 WIND THREAT...RADAR INDICATED
 MAX WIND GUST...70 MPH
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-554 PM CDT Fri Apr 24 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Northeastern Pushmataha County in southeastern Oklahoma...
-  South central Latimer County in southeastern Oklahoma...
-  Southwestern Le Flore County in southeastern Oklahoma...
-
-* Until 645 PM CDT.
-
-* At 554 PM CDT, a severe thunderstorm was located over Talihina,
-  moving east at 15 mph.
-
-  HAZARD...Golf ball size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...People and animals outdoors will be injured. Expect 
-           damage to roofs, siding, windows, and vehicles.
-
-* Locations in or near the path include...
-  Talihina...                       Albion...
-  Whitesboro...                     Talimena State Park...
-  Muse...                           
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 900 PM CDT for southeastern
-Oklahoma.
-......URGENT - IMMEDIATE BROADCAST REQUESTED
+...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 141
    NWS Storm Prediction Center Norman OK
    155 PM CDT Fri Apr 24 2026
