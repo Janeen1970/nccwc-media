@@ -1,6 +1,61 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
+501 PM CDT Fri Apr 24 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Southeastern Sequoyah County in east central Oklahoma...
+  Northeastern Le Flore County in southeastern Oklahoma...
+
+* Until 545 PM CDT.
+
+* At 501 PM CDT, a severe thunderstorm was located 5 miles south of
+  Sallisaw, moving east at 25 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Sallisaw...                       Pocola...
+  Muldrow...                        Roland...
+  Spiro...                          Arkoma...
+  Gans...                           Moffett...
+  Scullyville...                    Cottonwood...
+  Braden...                         Jenson...
+
+This includes Interstate 40 in Oklahoma between mile markers 304 and
+327.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 900 PM CDT for southeastern
+Oklahoma.
+
+&&
+
+LAT...LON 3518 9444 3532 9482 3534 9483 3536 9483
+      3537 9484 3536 9487 3546 9484 3544 9444
+      3540 9443
+TIME...MOT...LOC 2201Z 281DEG 20KT 3538 9480 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
 443 PM CDT Fri Apr 24 2026
 
 The National Weather Service in Tulsa has issued a
