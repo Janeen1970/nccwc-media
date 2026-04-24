@@ -148,67 +148,7 @@ THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...2.00 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...70 MPH
-
-$$
-
-
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-606 PM CDT Fri Apr 24 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Central Pushmataha County in southeastern Oklahoma...
-
-* Until 645 PM CDT.
-
-* At 606 PM CDT, a severe thunderstorm was located over Stanley,
-  moving southeast at 25 mph.
-
-  HAZARD...70 mph wind gusts and ping pong ball size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...People and animals outdoors will be injured. Expect hail 
-           damage to roofs, siding, windows, and vehicles. Expect 
-           considerable tree damage. Wind damage is also likely to 
-           mobile homes, roofs, and outbuildings.
-
-* Locations in or near the path include...
-  Clayton...                        Rattan...
-  Clayton Lake State Park...        Stanley...
-  Snow...                           Nashoba...
-  Dunbar...                         Cloudy...
-  Eubanks...                        Finley...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Remain alert for a possible tornado! Tornadoes can develop quickly
-from severe thunderstorms. If you spot a tornado go at once into the
-basement or small central room in a sturdy structure.
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 900 PM CDT for southeastern
-Oklahoma.
-
-&&
-
-LAT...LON 3417 9543 3451 9567 3460 9557 3460 9551
-      3465 9551 3466 9550 3451 9504 3448 9505
-TIME...MOT...LOC 2306Z 303DEG 22KT 3452 9549 
-
-TORNADO...POSSIBLE
-THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.50 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...70 MPH
-...URGENT - IMMEDIATE BROADCAST REQUESTED
+MAX WIND GUST...70 MPH...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 141
    NWS Storm Prediction Center Norman OK
    155 PM CDT Fri Apr 24 2026
