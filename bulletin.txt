@@ -1,5 +1,43 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+817 PM CDT Thu Apr 23 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Northwestern Osage County in northeastern Oklahoma...
+
+* Until 915 PM CDT.
+
+* At 817 PM CDT, a severe thunderstorm was located near Newkirk,
+  moving east at 30 mph.
+
+  HAZARD...70 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect considerable 
+           tree damage. Wind damage is also likely to mobile homes, 
+           roofs, and outbuildings.
+
+* Locations in or near the path include...
+  Shidler...                        Burbank...
+  Grainola...                       Foraker...
+  Webb City...                      Apperson...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 1100 PM CDT for northeastern
+Oklahoma....BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Kansas City/Pleasant Hill MO
 805 PM CDT Thu Apr 23 2026
 
@@ -40,51 +78,11 @@ PRECAUTIONARY/PREPAREDNESS ACTIONS...
 For your protection move to an interior room on the lowest floor of a
 building.
 
-&&
-
-LAT...LON 3934 9518 3942 9503 3942 9498 3945 9498
-      3951 9486 3919 9473 3903 9475 3886 9486
-      3886 9506 3898 9506 3899 9507 3898 9509
-      3896 9508 3898 9516 3896 9517 3897 9519
-TIME...MOT...LOC 0105Z 266DEG 36KT 3912 9528 3899 9529 3886 9537 
 
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...1.00 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Norman OK
-804 PM CDT Thu Apr 23 2026
-
-The National Weather Service in Norman has issued a
-
-* Severe Thunderstorm Warning for...
-  Kay County in northern Oklahoma...
-  Southeastern Grant County in northern Oklahoma...
-
-* Until 845 PM CDT.
-
-* At 804 PM CDT, severe thunderstorms were located along a line
-  extending from near Chilocco to 4 miles west of Kildare to 5 miles
-  northeast of Hunter, moving east at 30 mph.
-
-  HAZARD...Golf ball size hail and 60 mph wind gusts.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...People and animals outdoors will be injured. Expect hail 
-           damage to roofs, siding, windows, and vehicles. Expect 
-           wind damage to roofs, siding, and trees.
-
-* Locations impacted include...
-  Ponca City, Blackwell, Tonkawa, Newkirk, Pond Creek, Lamont, Kaw
-  City, Braman, Deer Creek, Kildare, Chilocco, Kaw Lake, Hardy,
-  Nardin, and Peckham.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building....BULLETIN - EAS ACTIVATION REQUESTED
+MAX WIND GUST...60 MPH......BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Topeka KS
 809 PM CDT Thu Apr 23 2026
