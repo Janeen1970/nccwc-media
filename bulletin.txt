@@ -38,14 +38,7 @@ For your protection move to an interior room on the lowest floor of a
 building.
 
 A Tornado Watch remains in effect until 900 PM CDT for southeastern
-Oklahoma.
-
-&&
-
-LAT...LON 3388 9580 3397 9594 3412 9594 3415 9596
-      3415 9598 3416 9598 3416 9578 3425 9578
-      3418 9557
-TIME...MOT...LOC 2327Z 303DEG 25KT 3422 9613 
+Oklahoma. 
 
 TORNADO...POSSIBLE
 THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
