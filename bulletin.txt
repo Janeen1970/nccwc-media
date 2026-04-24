@@ -69,11 +69,6 @@ building.
 A Tornado Watch remains in effect until 900 PM CDT for southeastern
 Oklahoma.
 
-&&
-
-LAT...LON 3466 9532 3480 9533 3487 9489 3464 9486
-TIME...MOT...LOC 2210Z 267DEG 13KT 3475 9523 
-
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...1.25 IN
 WIND THREAT...RADAR INDICATED
@@ -82,8 +77,6 @@ MAX WIND GUST...60 MPH
 National Weather Service Tulsa OK
 509 PM CDT Fri Apr 24 2026
 
-OKC121-127-242245-
-/O.CON.KTSA.TO.W.0038.000000T0000Z-260424T2245Z/
 Pushmataha OK-Pittsburg OK-
 509 PM CDT Fri Apr 24 2026
 
@@ -115,12 +108,6 @@ building. Avoid windows. If you are outdoors, in a mobile home, or in
 a vehicle, move to the closest substantial shelter and protect
 yourself from flying debris.
 
-&&
-
-LAT...LON 3442 9578 3451 9578 3451 9567 3459 9567
-      3459 9588 3468 9589 3468 9600 3478 9589
-      3446 9539 3426 9560
-TIME...MOT...LOC 2209Z 303DEG 17KT 3471 9588 
 
 TORNADO...OBSERVED
 MAX HAIL SIZE...<.75 IN
@@ -201,55 +188,13 @@ building.
 A Tornado Watch remains in effect until 900 PM CDT for southeastern
 Oklahoma.
 
-&&
-
-LAT...LON 3518 9444 3532 9482 3534 9483 3536 9483
-      3537 9484 3536 9487 3546 9484 3544 9444
-      3540 9443
-TIME...MOT...LOC 2201Z 281DEG 20KT 3538 9480 
 
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...1.25 IN
 WIND THREAT...RADAR INDICATED
 MAX WIND GUST...60 MPH
 
-$$
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-443 PM CDT Fri Apr 24 2026
 
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Northwestern Latimer County in southeastern Oklahoma...
-  Southeastern Pittsburg County in southeastern Oklahoma...
-
-* Until 530 PM CDT.
-
-* At 443 PM CDT, a severe thunderstorm was located over Hartshorne,
-  moving northeast at 10 mph.
-
-  HAZARD...60 mph wind gusts and half dollar size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Wilburton...                      Hartshorne...
-  Higgins...                        Damon...
-  Haileyville...                    Gowen...
-  Dow...                            
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 900 PM CDT for southeastern
-Oklahoma.
 ...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Shreveport LA
