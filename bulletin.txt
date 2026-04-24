@@ -1,4 +1,42 @@
-BULLETIN - EAS ACTIVATION REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Topeka KS
+750 PM CDT Thu Apr 23 2026
+
+The National Weather Service in Topeka has issued a
+
+* Severe Thunderstorm Warning for...
+  Southern Jefferson County in northeastern Kansas...
+  Southeastern Shawnee County in east central Kansas...
+  Northwestern Douglas County in east central Kansas...
+
+* Until 815 PM CDT.
+
+* At 750 PM CDT, a severe thunderstorm was located near Tecumseh,
+  moving northeast at 40 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Eastern Topeka, Lawrence, Oskaloosa, Tecumseh, Richland, Perry,
+  McLouth, Lecompton, Clinton, Williamstown, Grantville, Clinton
+  Lake, and Berryton.
+
+This includes Kansas Turnpike between mile markers 179 and 205.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 900 PM CDT for northeastern
+and east central Kansas.
+...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Norman OK
 739 PM CDT Thu Apr 23 2026
@@ -30,89 +68,7 @@ PRECAUTIONARY/PREPAREDNESS ACTIONS...
 TAKE COVER NOW! Move to a storm shelter, safe room or an interior
 room on the lowest floor of a sturdy building. Avoid windows. If you
 are outdoors, in a mobile home, or in a vehicle, move to the closest
-substantial shelter and protect yourself from flying debris....BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Topeka KS
-738 PM CDT Thu Apr 23 2026
-
-The National Weather Service in Topeka has issued a
-
-* Tornado Warning for...
-  Osage County in east central Kansas...
-
-* Until 815 PM CDT.
-
-* At 738 PM CDT, a severe thunderstorm capable of producing a tornado
-  was located over Osage City, moving east at 30 mph.
-
-  HAZARD...Tornado and quarter size hail.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations impacted include...
-  Osage City, Overbrook, Lyndon, Burlingame, Scranton, Quenemo,
-  Melvern, and Pomona Lake.
-
-This includes Kansas Turnpike near mile marker 156.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-TAKE COVER NOW! Move to a basement or an interior room on the lowest
-floor of a sturdy building. Avoid windows. If you are outdoors, in a
-mobile home, or in a vehicle, move to the closest substantial shelter
-and protect yourself from flying debris....BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Topeka KS
-732 PM CDT Thu Apr 23 2026
-
-The National Weather Service in Topeka has issued a
-
-* Severe Thunderstorm Warning for...
-  Southwestern Jefferson County in northeastern Kansas...
-  Southeastern Shawnee County in east central Kansas...
-  Northwestern Douglas County in east central Kansas...
-
-* Until 800 PM CDT.
-
-* At 732 PM CDT, a severe thunderstorm was located near Pauline,
-  moving east at 35 mph.
-
-  HAZARD...60 mph wind gusts and half dollar size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations impacted include...
-  Topeka, Tecumseh, Richland, Auburn, Pauline, Berryton, and
-  Grantville.
-
-This includes Kansas Turnpike between mile markers 167 and 191.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 900 PM CDT for northeastern
-and east central Kansas.
-
-&&
-
-LAT...LON 3887 9555 3887 9582 3897 9584 3912 9551
-      3888 9538
-TIME...MOT...LOC 0032Z 249DEG 31KT 3894 9575 
-
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.25 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH
+substantial shelter and protect yourself from flying debris....
 
 ...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 137
