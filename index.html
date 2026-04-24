@@ -50,7 +50,7 @@
       white-space: nowrap;
       display: inline-block;
       padding-left: 100%;
-      animation: ticker 150s linear infinite;
+      animation: ticker 500s linear infinite;
     }
     #live-bar-text {
       font-size: 18px;
@@ -192,30 +192,6 @@ Strategy, Simulation & Survival Games
      WALT Model Far East Oklahoma and Western Arkansas
   </a>
 </div>
-<section class="card">
-  <h2>🔴 NCCWC LIVE RADIO</h2>
-
-  <audio id="liveRadio" controls preload="auto" loop>
-    <source src="audio/forecast.mp3?v=1" type="audio/mpeg">
-  </audio>
-
-  <div style="margin-top:10px;">
-    <button onclick="refreshRadio()" style="
-      background:#b91c1c;
-      color:white;
-      padding:10px 15px;
-      border:none;
-      border-radius:6px;
-      cursor:pointer;
-    ">
-      🔄 Refresh Broadcast
-    </button>
-  </div>
-
-  <p id="liveStatus" style="margin-top:10px;">
-    Status: Waiting for playback
-  </p>
-</section>
 
     <!-- RADIO CARD -->
     <section class="card">
@@ -319,6 +295,7 @@ function loadTrack(index, autoplay=false) {
   currentIndex = (index + tracks.length) % tracks.length;
   const t = tracks[currentIndex];
 
+
   audioEl.src = t.url;
   nowTitleEl.textContent = t.title;
   nowSubEl.textContent = "NCCWC Media • GitHub Stream";
@@ -370,19 +347,7 @@ async function loadTracks() {
 
 loadTracks();
 </script>
-<script>
-let version = 1;
 
-function refreshRadio() {
-  version++;
-  const player = document.getElementById("liveRadio");
-  player.src = "audio/forecast.mp3?v=" + version;
-  player.load();
-  player.play();
-
-  document.getElementById("liveStatus").innerText =
-    "🔴 Playing latest broadcast";
-}
-</script>
 </body>
 </html>
+
