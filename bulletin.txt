@@ -56,47 +56,6 @@ MAX WIND GUST...70 MPH
 ...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
-533 PM CDT Fri Apr 24 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Northwestern Pushmataha County in southeastern Oklahoma...
-  South central Pittsburg County in southeastern Oklahoma...
-
-* Until 615 PM CDT.
-
-* At 533 PM CDT, a severe thunderstorm was located 7 miles southeast
-  of Blanco, moving southeast at 25 mph.
-
-  HAZARD...Golf ball size hail and 70 mph wind gusts.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...People and animals outdoors will be injured. Expect hail 
-           damage to roofs, siding, windows, and vehicles. Expect 
-           considerable tree damage. Wind damage is also likely to 
-           mobile homes, roofs, and outbuildings.
-
-* Locations in or near the path include...
-  Clayton...                        Clayton Lake State Park...
-  Stanley...                        Kosoma...
-  Dunbar...                         Tuskahoma...
-  Eubanks...                        Sardis...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Remain alert for a possible tornado! Tornadoes can develop quickly
-from severe thunderstorms. If you spot a tornado go at once into the
-basement or small central room in a sturdy structure.
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 900 PM CDT for southeastern
-Oklahoma....BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
 554 PM CDT Fri Apr 24 2026
 
 The National Weather Service in Tulsa has issued a
@@ -130,40 +89,6 @@ building.
 
 A Tornado Watch remains in effect until 900 PM CDT for southeastern
 Oklahoma.
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-551 PM CDT Fri Apr 24 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Northwestern Sebastian County in west central Arkansas...
-
-* Until 615 PM CDT.
-
-* At 551 PM CDT, a severe thunderstorm was located 3 miles north of
-  Bonanza, moving east at 30 mph.
-
-  HAZARD...Quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Damage to vehicles is expected.
-
-* Locations in or near the path include...
-  Fort Smith...                     Greenwood...
-  Barling...                        Bonanza...
-  Excelsior...                      Fort Smith Regional Airport...
-  Jenny Lind...                     Central City...
-  Mill Creek...                     Rye Hill...
-
-This includes Interstate 540 between mile markers 10 and 14.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
 ......URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 141
    NWS Storm Prediction Center Norman OK
