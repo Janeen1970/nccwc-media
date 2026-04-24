@@ -47,62 +47,7 @@ MAX HAIL SIZE...1.25 IN
 WIND THREAT...RADAR INDICATED
 MAX WIND GUST...60 MPH
 
-$$...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Topeka KS
-709 PM CDT Thu Apr 23 2026
-
-The National Weather Service in Topeka has issued a
-
-* Severe Thunderstorm Warning for...
-  Jefferson County in northeastern Kansas...
-  Eastern Shawnee County in east central Kansas...
-  Northwestern Douglas County in east central Kansas...
-  Northeastern Osage County in east central Kansas...
-  Southeastern Jackson County in northeastern Kansas...
-
-* Until 800 PM CDT.
-
-* At 708 PM CDT, severe thunderstorms were located along a line
-  extending from 3 miles south of Denison to near Grantville to 3
-  miles west of Richland, moving east at 40 mph.
-
-  HAZARD...70 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect considerable 
-           tree damage. Wind damage is also likely to mobile homes, 
-           roofs, and outbuildings.
-
-* Locations impacted include...
-  Topeka, Lawrence, Valley Falls, Oskaloosa, Tecumseh, Richland,
-  Perry, McLouth, Meriden, Hoyt, Ozawkie, Nortonville, Lecompton,
-  Clinton, Winchester, Lone Star, Pauline, Williamstown, Perry Lake,
-  and Grantville.
-
-This includes Kansas Turnpike between mile markers 172 and 204.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 900 PM CDT for northeastern
-and east central Kansas.
-
-&&
-
-LAT...LON 3913 9519 3908 9519 3886 9523 3883 9579
-      3912 9569 3931 9574 3942 9533 3942 9518
-      3913 9518
-TIME...MOT...LOC 0008Z 252DEG 36KT 3934 9563 3912 9554 3889 9560 
-
-THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...70 MPH...URGENT - IMMEDIATE BROADCAST REQUESTED
+...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 137
    NWS Storm Prediction Center Norman OK
    510 PM CDT Thu Apr 23 2026
