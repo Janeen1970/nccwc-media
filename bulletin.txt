@@ -1,4 +1,50 @@
-BULLETIN - EAS ACTIVATION REQUESTED
+Severe Weather Statement
+National Weather Service Tulsa OK
+509 PM CDT Fri Apr 24 2026
+
+OKC121-127-242245-
+/O.CON.KTSA.TO.W.0038.000000T0000Z-260424T2245Z/
+Pushmataha OK-Pittsburg OK-
+509 PM CDT Fri Apr 24 2026
+
+...A TORNADO WARNING REMAINS IN EFFECT UNTIL 545 PM CDT FOR WESTERN
+PUSHMATAHA AND SOUTHWESTERN PITTSBURG COUNTIES...
+
+At 509 PM CDT, a confirmed tornado was located over Kiowa, moving
+southeast at 20 mph.
+
+HAZARD...Damaging tornado.
+
+SOURCE...Weather spotters confirmed tornado.
+
+IMPACT...Flying debris will be dangerous to those caught without 
+         shelter. Mobile homes will be damaged or destroyed. Damage 
+         to roofs, windows, and vehicles will occur.  Tree damage is 
+         likely.
+
+Locations in or near the path include...
+Kiowa...                          Kosoma...
+Dunbar...                         Moyers...
+Pittsburg...                      Eubanks...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+To repeat, a tornado is on the ground. TAKE COVER NOW! Move to a
+basement or an interior room on the lowest floor of a sturdy
+building. Avoid windows. If you are outdoors, in a mobile home, or in
+a vehicle, move to the closest substantial shelter and protect
+yourself from flying debris.
+
+&&
+
+LAT...LON 3442 9578 3451 9578 3451 9567 3459 9567
+      3459 9588 3468 9589 3468 9600 3478 9589
+      3446 9539 3426 9560
+TIME...MOT...LOC 2209Z 303DEG 17KT 3471 9588 
+
+TORNADO...OBSERVED
+MAX HAIL SIZE...<.75 IN
+...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
 507 PM CDT Fri Apr 24 2026
