@@ -12,28 +12,32 @@ The National Weather Service in Tulsa has issued a
 
 * Until 430 PM CDT.
 
-* At 350 PM CDT, a severe thunderstorm was located 5 miles northeast
-  of Lequire, moving east at 20 mph.
+* 
+...A SEVERE THUNDERSTORM WARNING REMAINS IN EFFECT UNTIL 430 PM CDT
+FOR SOUTHEASTERN HASKELL AND NORTHWESTERN LE FLORE COUNTIES...
 
-  HAZARD...60 mph wind gusts and quarter size hail.
+At 359 PM CDT, a severe thunderstorm was located near Mc Curtain,
+moving east at 20 mph.
 
-  SOURCE...Radar indicated.
+HAZARD...Ping pong ball size hail and 60 mph wind gusts.
 
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
+SOURCE...Radar indicated.
 
-* Locations in or near the path include...
-  Stigler...                        Keota...
-  Mccurtain...                      Mc Curtain...
-  Lequire...                        Milton...
+IMPACT...People and animals outdoors will be injured. Expect hail 
+         damage to roofs, siding, windows, and vehicles. Expect wind 
+         damage to roofs, siding, and trees.
+
+Locations in or near the path include...
+Keota...                          Mccurtain...
+Mc Curtain...                     Milton...
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-For your protection move to an interior room on the lowest floor of a
-building.
-
 A Tornado Watch remains in effect until 900 PM CDT for southeastern
-Oklahoma....BULLETIN - EAS ACTIVATION REQUESTED
+Oklahoma.
+
+For your protection move to an interior room on the lowest floor of a
+building.....BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Norman OK
 335 PM CDT Fri Apr 24 2026
