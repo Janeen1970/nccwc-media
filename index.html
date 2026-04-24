@@ -192,6 +192,30 @@ Strategy, Simulation & Survival Games
      WALT Model Far East Oklahoma and Western Arkansas
   </a>
 </div>
+<section class="card">
+  <h2>🔴 NCCWC LIVE RADIO</h2>
+
+  <audio id="liveRadio" controls preload="auto" loop>
+    <source src="audio/forecast.mp3?v=1" type="audio/mpeg">
+  </audio>
+
+  <div style="margin-top:10px;">
+    <button onclick="refreshRadio()" style="
+      background:#b91c1c;
+      color:white;
+      padding:10px 15px;
+      border:none;
+      border-radius:6px;
+      cursor:pointer;
+    ">
+      🔄 Refresh Broadcast
+    </button>
+  </div>
+
+  <p id="liveStatus" style="margin-top:10px;">
+    Status: Waiting for playback
+  </p>
+</section>
 
     <!-- RADIO CARD -->
     <section class="card">
@@ -346,6 +370,19 @@ async function loadTracks() {
 
 loadTracks();
 </script>
+<script>
+let version = 1;
 
+function refreshRadio() {
+  version++;
+  const player = document.getElementById("liveRadio");
+  player.src = "audio/forecast.mp3?v=" + version;
+  player.load();
+  player.play();
+
+  document.getElementById("liveStatus").innerText =
+    "🔴 Playing latest broadcast";
+}
+</script>
 </body>
 </html>
