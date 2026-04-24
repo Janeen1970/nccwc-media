@@ -72,39 +72,53 @@ structure.
 
 A Tornado Watch remains in effect until 900 PM CDT Friday for a
 portion of southeast Oklahoma.
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
+...Severe Weather Statement
 National Weather Service Tulsa OK
-416 PM CDT Fri Apr 24 2026
+455 PM CDT Fri Apr 24 2026
 
-The National Weather Service in Tulsa has issued a
+OKC079-242215-
+/O.CON.KTSA.SV.W.0125.000000T0000Z-260424T2215Z/
+Le Flore OK-
+455 PM CDT Fri Apr 24 2026
 
-* Severe Thunderstorm Warning for...
-  Northern Le Flore County in southeastern Oklahoma...
+...A SEVERE THUNDERSTORM WARNING REMAINS IN EFFECT UNTIL 515 PM CDT
+FOR NORTHEASTERN LE FLORE COUNTY...
 
-* Until 515 PM CDT.
+At 455 PM CDT, a severe thunderstorm was located 5 miles northwest of
+Poteau, moving east at 20 mph.
 
-* At 416 PM CDT, a severe thunderstorm was located 4 miles east of
-  Mccurtain, moving east at 25 mph.
+HAZARD...Golf ball size hail and 60 mph wind gusts.
 
-  HAZARD...60 mph wind gusts and half dollar size hail.
+SOURCE...Radar indicated.
 
-  SOURCE...Radar indicated.
+IMPACT...People and animals outdoors will be injured. Expect hail 
+         damage to roofs, siding, windows, and vehicles. Expect wind 
+         damage to roofs, siding, and trees.
 
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Poteau...                         Pocola...
-  Spiro...                          Panama...
-  Bokoshe...                        Cameron...
-  Shady Point...                    Rock Island...
-  Milton...                         
+Locations in or near the path include...
+Poteau...                         Panama...
+Cameron...                        Shady Point...
+Rock Island...                    
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
+A Tornado Watch remains in effect until 900 PM CDT for southeastern
+Oklahoma.
+
 For your protection move to an interior room on the lowest floor of a
 building.
+
+&&
+
+LAT...LON 3504 9479 3513 9476 3518 9473 3520 9470
+      3522 9444 3500 9445
+TIME...MOT...LOC 2155Z 276DEG 19KT 3508 9470 
+
+THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
 
 A Tornado Watch remains in effect until 900 PM CDT for southeastern
 Oklahoma....URGENT - IMMEDIATE BROADCAST REQUESTED
