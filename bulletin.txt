@@ -1,5 +1,40 @@
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Norman OK
+850 PM CDT Thu Apr 23 2026
 
-BULLETIN - EAS ACTIVATION REQUESTED
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern Kingfisher County in central Oklahoma...
+  Southwestern Noble County in northern Oklahoma...
+  Northwestern Logan County in central Oklahoma...
+  Southeastern Garfield County in northern Oklahoma...
+
+* Until 930 PM CDT.
+
+* At 850 PM CDT, severe thunderstorms were located along a line
+  extending from 6 miles northeast of Lucien to near Covington to 3
+  miles northwest of Bison, moving southeast at 20 mph.
+
+  HAZARD...Golf ball size hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           wind damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Enid, Perry, Hennessey, Waukomis, Garber, Covington, Billings,
+  Marshall, Breckenridge, Orlando, Fairmont, Douglas, Lucien, Bison,
+  and Hayward.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
 843 PM CDT Thu Apr 23 2026
