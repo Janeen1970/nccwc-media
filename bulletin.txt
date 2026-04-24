@@ -1,4 +1,38 @@
-Climate Scientist Wayne Adams: Tornadic rotation is located west of Weathers in Southern Pittsburg County about to move into Northwest Pushmataha County Oklahoma...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Climate Scientist Wayne Adams: Tornadic rotation is located west of Weathers in Southern Pittsburg County about to move into Northwest Pushmataha County Oklahoma...BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Tulsa OK
+523 PM CDT Fri Apr 24 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Tornado Warning for...
+  South central Pittsburg County in southeastern Oklahoma...
+
+* Until 615 PM CDT.
+
+* At 523 PM CDT, a severe thunderstorm with strong rotation that 
+  could produce a tornado at any time was located 4 miles south of 
+  Blanco, moving east at 25 mph.
+
+  HAZARD...Tornado.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
+
+* This tornadic thunderstorm will remain over mainly rural areas of
+  south central Pittsburg County.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+TAKE COVER NOW! Move to a basement or an interior room on the lowest
+floor of a sturdy building. Avoid windows. If you are outdoors, in a
+mobile home, or in a vehicle, move to the closest substantial shelter
+and protect yourself from flying debris.
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 512 PM CDT Fri Apr 24 2026
@@ -192,48 +226,7 @@ Oklahoma.
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...1.25 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH
-
-
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Shreveport LA
-439 PM CDT Fri Apr 24 2026
-
-The National Weather Service in Shreveport has issued a
-
-* Severe Thunderstorm Warning for...
-  Northeastern McCurtain County in southeastern Oklahoma...
-
-* Until 545 PM CDT.
-
-* At 439 PM CDT, a severe thunderstorm was located 27 miles north of
-  Broken Bow, or 33 miles northwest of De Queen, moving east at 15
-  mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage to
-           roofs, siding, and trees.
-
-* Locations impacted include...
-  Smithville, Watson and Plunketville.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Seek shelter inside a well-built structure and stay away from
-windows. This storm is capable of producing damaging winds and large
-hail.
-
-Tornadoes can develop quickly from severe thunderstorms. Seek shelter
-immediately in an interior room on the lowest floor of a well-built
-structure.
-
-A Tornado Watch remains in effect until 900 PM CDT Friday for a
-portion of southeast Oklahoma.
-...URGENT - IMMEDIATE BROADCAST REQUESTED
+MAX WIND GUST...60 MPH...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 141
    NWS Storm Prediction Center Norman OK
    155 PM CDT Fri Apr 24 2026
