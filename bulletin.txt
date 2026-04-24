@@ -1,5 +1,53 @@
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Topeka KS
+732 PM CDT Thu Apr 23 2026
 
-   BULLETIN - IMMEDIATE BROADCAST REQUESTED
+The National Weather Service in Topeka has issued a
+
+* Severe Thunderstorm Warning for...
+  Southwestern Jefferson County in northeastern Kansas...
+  Southeastern Shawnee County in east central Kansas...
+  Northwestern Douglas County in east central Kansas...
+
+* Until 800 PM CDT.
+
+* At 732 PM CDT, a severe thunderstorm was located near Pauline,
+  moving east at 35 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Topeka, Tecumseh, Richland, Auburn, Pauline, Berryton, and
+  Grantville.
+
+This includes Kansas Turnpike between mile markers 167 and 191.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 900 PM CDT for northeastern
+and east central Kansas.
+
+&&
+
+LAT...LON 3887 9555 3887 9582 3897 9584 3912 9551
+      3888 9538
+TIME...MOT...LOC 0032Z 249DEG 31KT 3894 9575 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Topeka KS
 709 PM CDT Thu Apr 23 2026
