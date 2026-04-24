@@ -144,39 +144,7 @@ TAKE COVER NOW! Move to a basement or an interior room on the lowest
 floor of a sturdy building. Avoid windows. If you are outdoors, in a
 mobile home, or in a vehicle, move to the closest substantial shelter
 and protect yourself from flying debris.
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Little Rock AR
-535 PM CDT Fri Apr 24 2026
-
-The National Weather Service in Little Rock has issued a
-
-* Severe Thunderstorm Warning for...
-  Western Scott County in western Arkansas...
-
-* Until 600 PM CDT.
-
-* At 535 PM CDT, a severe thunderstorm was located near Hartford, or
-  11 miles southeast of Poteau, moving east at 25 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations impacted include...
-  Waldron...                        Beauchamp...
-  Oliver...                         Morgan Springs...
-  Bates...                          Cauthron...
-  Winfield...                       Hon...
-  Liberty...                        Elm Park...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building...URGENT - IMMEDIATE BROADCAST REQUESTED
+......URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 141
    NWS Storm Prediction Center Norman OK
    155 PM CDT Fri Apr 24 2026
