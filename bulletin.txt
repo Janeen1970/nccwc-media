@@ -162,56 +162,7 @@ structure.
 
 A Tornado Watch remains in effect until 900 PM CDT Friday for a
 portion of southeast Oklahoma.
-...Severe Weather Statement
-National Weather Service Tulsa OK
-455 PM CDT Fri Apr 24 2026
-
-OKC079-242215-
-/O.CON.KTSA.SV.W.0125.000000T0000Z-260424T2215Z/
-Le Flore OK-
-455 PM CDT Fri Apr 24 2026
-
-...A SEVERE THUNDERSTORM WARNING REMAINS IN EFFECT UNTIL 515 PM CDT
-FOR NORTHEASTERN LE FLORE COUNTY...
-
-At 455 PM CDT, a severe thunderstorm was located 5 miles northwest of
-Poteau, moving east at 20 mph.
-
-HAZARD...Golf ball size hail and 60 mph wind gusts.
-
-SOURCE...Radar indicated.
-
-IMPACT...People and animals outdoors will be injured. Expect hail 
-         damage to roofs, siding, windows, and vehicles. Expect wind 
-         damage to roofs, siding, and trees.
-
-Locations in or near the path include...
-Poteau...                         Panama...
-Cameron...                        Shady Point...
-Rock Island...                    
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-A Tornado Watch remains in effect until 900 PM CDT for southeastern
-Oklahoma.
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-&&
-
-LAT...LON 3504 9479 3513 9476 3518 9473 3520 9470
-      3522 9444 3500 9445
-TIME...MOT...LOC 2155Z 276DEG 19KT 3508 9470 
-
-THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.75 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH
-
-A Tornado Watch remains in effect until 900 PM CDT for southeastern
-Oklahoma....URGENT - IMMEDIATE BROADCAST REQUESTED
+...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 141
    NWS Storm Prediction Center Norman OK
    155 PM CDT Fri Apr 24 2026
