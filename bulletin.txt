@@ -1,4 +1,50 @@
-Severe Weather Statement
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+510 PM CDT Fri Apr 24 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern Pushmataha County in southeastern Oklahoma...
+  South central Latimer County in southeastern Oklahoma...
+  Southwestern Le Flore County in southeastern Oklahoma...
+
+* Until 600 PM CDT.
+
+* At 510 PM CDT, a severe thunderstorm was located 5 miles northeast
+  of Yanush, moving east at 15 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Talihina...                       Albion...
+  Whitesboro...                     Talimena State Park...
+  Yanush...                         Bengal...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 900 PM CDT for southeastern
+Oklahoma.
+
+&&
+
+LAT...LON 3466 9532 3480 9533 3487 9489 3464 9486
+TIME...MOT...LOC 2210Z 267DEG 13KT 3475 9523 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+...Severe Weather Statement
 National Weather Service Tulsa OK
 509 PM CDT Fri Apr 24 2026
 
