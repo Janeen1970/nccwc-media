@@ -1,5 +1,49 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Norman OK
+522 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern Garvin County in southern Oklahoma...
+  Southwestern Seminole County in east central Oklahoma...
+  Central Pontotoc County in east central Oklahoma...
+  Southeastern McClain County in central Oklahoma...
+
+* Until 615 PM CDT.
+
+* At 522 PM CDT, a severe thunderstorm was located near Stratford,
+  moving east at 25 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Ada, Stratford, Byng, Francis, Byars, and Vanoss.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect for the warned area.
+
+&&
+
+LAT...LON 3468 9705 3489 9705 3493 9680 3490 9680
+      3490 9678 3494 9677 3498 9656 3468 9651
+TIME...MOT...LOC 2222Z 253DEG 21KT 3481 9699 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 518 PM CDT Sat Apr 25 2026
 
