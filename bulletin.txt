@@ -1,4 +1,52 @@
-Climate Scientist Wayne Adams: Rapidly developing thunderstorm entering Le Flore County Oklahoma from Latimer County Oklahoma near Red Oak. Hail and wind possible...URGENT - IMMEDIATE BROADCAST REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+451 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern Latimer County in southeastern Oklahoma...
+  Central Le Flore County in southeastern Oklahoma...
+
+* Until 530 PM CDT.
+
+* At 450 PM CDT, a severe thunderstorm was located 3 miles northwest
+  of Fanshawe, moving east at 30 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Poteau...                         Panama...
+  Wister...                         Fanshawe...
+  Shady Point...                    
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 1100 PM CDT for southeastern
+Oklahoma.
+
+&&
+
+LAT...LON 3492 9500 3505 9507 3506 9505 3506 9493
+      3511 9493 3523 9462 3498 9450
+TIME...MOT...LOC 2150Z 250DEG 25KT 3500 9495 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 144
    NWS Storm Prediction Center Norman OK
    350 PM CDT Sat Apr 25 2026
