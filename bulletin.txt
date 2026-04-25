@@ -1,21 +1,25 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Shreveport LA
-759 PM CDT Fri Apr 24 2026
+831 PM CDT Fri Apr 24 2026
 
 The National Weather Service in Shreveport has issued a
 
 * Severe Thunderstorm Warning for...
-  Howard County in southwestern Arkansas...
-  Northern Little River County in southwestern Arkansas...
-  Sevier County in southwestern Arkansas...
-  East Central McCurtain County in southeastern Oklahoma...
+  Northwestern Hempstead County in southwestern Arkansas...
+  Southeastern Howard County in southwestern Arkansas...
+  Little River County in southwestern Arkansas...
+  Southern Sevier County in southwestern Arkansas...
+  Southeastern McCurtain County in southeastern Oklahoma...
+  Northern Bowie County in northeastern Texas...
+  Northern Red River County in northeastern Texas...
 
-* Until 900 PM CDT.
+* Until 930 PM CDT.
 
-* At 759 PM CDT, a line of severe thunderstorms was located 6 miles
-  west of Athens to 7 miles west of Gillham to near Hochatown and
-  Broken Bow, moving east at 45 mph.
+* At 831 PM CDT, severe thunderstorms were located along a line from
+  7 miles northwest of Arkinda to near Clarksville, or along a line
+  from 13 miles southwest of Horatio to near Clarksville, moving
+  southeast at 40 mph.
 
   HAZARD...60 mph wind gusts and quarter size hail.
 
@@ -25,48 +29,9 @@ The National Weather Service in Shreveport has issued a
            roofs, siding, and trees.
 
 * Locations impacted include...
-  De Queen, Dierks, Horatio, Umpire, Lockesburg, Corinth, Athens,
-  Center Point, Lebanon, Geneva, Provo, Silver Ridge, Bellview, Burg,
-  West Otis, West Line, Muddy Fork, Cerrogordo and Goodwater.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Seek shelter inside a well-built structure and stay away from
-windows. This storm is capable of producing damaging winds and large
-hail.
-
-A Tornado Watch remains in effect until 900 PM CDT Friday for
-portions of southwest Arkansas and southeast Oklahoma....BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Shreveport LA
-735 PM CDT Fri Apr 24 2026
-
-The National Weather Service in Shreveport has issued a
-
-* Severe Thunderstorm Warning for...
-  Northwestern Sevier County in southwestern Arkansas...
-  Central McCurtain County in southeastern Oklahoma...
-  Northwestern Red River County in northeastern Texas...
-
-* Until 830 PM CDT.
-
-* At 735 PM CDT, severe thunderstorms were located along a line from
-  16 miles north of Gillham to 15 miles northwest of Manchester, or
-  along a line from 22 miles west of Umpire to 30 miles northwest of
-  Clarksville, moving southeast at 20 mph.
-
-  HAZARD...60 mph wind gusts and half dollar size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage to
-           roofs, siding, and trees.
-
-* Locations impacted include...
-  Idabel, Broken Bow, Gillham, Manchester, Wright City, Valliant,
-  Detroit, Millerton, Garvin, Oak Hill, Glover, Golden, Holly Creek,
-  Hochatown, Farmers Hill, Slim, Sherwood, Eagletown, Albion and
-  Silver City.
+  Ashdown, Nashville, Mineral Springs, Foreman, Idabel, Hooks, Red
+  Lick, Wilton, Tollette, Winthrop, Ogden, Ben Lomond, Arkinda,
+  Richmond, Saratoga, Leary, Oak Grove, Haworth and Wallace.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -76,76 +41,4 @@ large hail.
 
 A Tornado Watch remains in effect until 900 PM CDT Friday for
 portions of southwest Arkansas, southeast Oklahoma, and northeast
-Texas....BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Little Rock AR
-751 PM CDT Fri Apr 24 2026
-
-The National Weather Service in Little Rock has issued a
-
-* Severe Thunderstorm Warning for...
-  Northwestern Pike County in southwestern Arkansas...
-  Southern Polk County in western Arkansas...
-  Southwestern Montgomery County in western Arkansas...
-
-* Until 815 PM CDT.
-
-* At 750 PM CDT, a severe thunderstorm was located over Wickes, or 14
-  miles west of Umpire, moving east at 40 mph.
-
-  HAZARD...Quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Damage to vehicles is expected.
-
-* Locations impacted include...
-  Wickes...                         Grannis...
-  Albert Pike Recreation Area...    Shady Lake Recreation Area...
-  Hatton...                         Roaring Branch Natural Area...
-  Langley...                        New Hope in Pike County...
-  Bogg Springs...                   
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-A Tornado Watch remains in effect until 900 PM CDT for western
-Arkansas.
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 900 PM CDT for western
-Arkansas.....URGENT - IMMEDIATE BROADCAST REQUESTED
-   Tornado Watch Number 141
-   NWS Storm Prediction Center Norman OK
-   155 PM CDT Fri Apr 24 2026
-
-   The NWS Storm Prediction Center has issued a
-
-   * Tornado Watch for portions of 
-     Southwest Arkansas
-     Southern and Eastern Oklahoma
-     North and Northeast Texas
-
-   * Effective this Friday afternoon and evening from 155 PM until
-     900 PM CDT.
-
-   * Primary threats include...
-     A few tornadoes and a couple intense tornadoes possible
-     Widespread large hail and isolated very large hail events to 3.5
-       inches in diameter likely
-     Scattered damaging winds and isolated significant gusts to 80
-       mph possible
-
-   SUMMARY...Intense storm development including supercells is
-   anticipated through mid/late afternoon across the region, especially
-   in vicinity of a front and modifying outflow boundary, and perhaps
-   near/just of a dryline across north Texas. Very large hail is
-   possible, along with a tornado risk, with damaging winds also
-   expected to increase by early evening in anticipation of storms
-   clustering/organizing as they move southeastward toward and across
-   the ArkLaTex.
-
-   The tornado watch area is approximately along and 65 statute miles
-   north and south of a line from 50 miles south of Chickasha OK to 25
-   miles north northeast of Texarkana AR. Climate Scientist Wayne Adams (Not associated with NWS): Tornado watch includes Latimer, Pushmataha, Le Flore, McCurtain in Oklahoma. In Arkansas Polk County in the NCCWC Radio coverage area. 
+Texas.
