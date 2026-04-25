@@ -1,52 +1,55 @@
   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0100 AM CDT Sat Apr 25 2026
+   1131 AM CDT Sat Apr 25 2026
 
-   Valid 251200Z - 261200Z
+   Valid 251630Z - 261200Z
 
    ...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   CENTRAL AND SOUTHEAST OKLAHOMA...
+   CENTRAL/EASTERN OKLAHOMA AND FAR NORTH TEXAS...
 
    ...SUMMARY...
-   Severe thunderstorms with large to very large hail, tornadoes and
-   wind damage will be likely today across parts of the southern Plains
-   and Arklatex. Hailstones greater than 3 inches in diameter and
-   strong tornadoes will be possible.
+   Severe thunderstorms with very large to giant hail (2 to 4+ inches
+   in diameter), tornadoes, and scattered damaging winds are expected
+   late this afternoon through tonight across parts of the southern
+   Plains and ArkLaTex. A couple of strong tornadoes are possible.
 
-   ...Southern Plains/Ark-La-Tex...
-   A mid-level shortwave trough will move eastward across the southern
-   Rockies this morning and into the southern Plains this afternoon. At
-   the surface, a low will deepen across northwest Texas. Ahead of the
-   approaching trough, moisture advection will take place in the
-   southern Plains, as surface dewpoints over Oklahoma increase into
-   the mid to upper 60s F. This will contribute to strong
-   destabilization by afternoon from parts of north Texas into
-   Oklahoma. An outflow boundary over north Texas will move northward
-   this afternoon into southern Oklahoma. Low-level convergence will
-   increase along this boundary in the afternoon. Low-level convergence
-   will also increase along a front moving into central Oklahoma. These
-   two zones will be the focus for convective initiation this
-   afternoon. Severe storms are expected to develop and move
-   southeastward across much of Oklahoma and north Texas this afternoon
-   and evening.
+   ...Southern Plains and ArkLaTex...
+   While stratus remains semi-prevalent this morning along/north of the
+   near-stationary front, strong to locally extreme instability (MLCAPE
+   2500-4000+ J/kg) is expected to develop along/east of the dryline in
+   Texas and Red River-vicinity triple point, and to the south of
+   slow-northward-shifting warm front in Oklahoma by peak afternoon
+   heating. The presence of seasonably cool temperatures aloft and
+   7.5-8.5 C/km mid-level lapse rates will also support this very
+   unstable thermodynamic environment. While large-scale ascent
+   associated with the ejecting mid-level shortwave trough is not
+   expected to be overly robust, the arrival of a shortwave
+   trough/mid-level speed max will be favorably timed atop the warm
+   sector. At least widely scattered thunderstorm initiation is
+   expected by mid/late afternoon to early evening (around 20-23Z),
+   especially near the warm front/dryline intersection and a bit north
+   across south-central/east-central Oklahoma.
 
-   RAP forecast soundings late this afternoon in far southern Oklahoma
-   to the north of the Dallas/Fort Worth Metroplex increase MLCAPE into
-   the 3000 to 4000 J/kg range and have 700-500 mb lapse rates near 8
-   C/km range. This combined with long hodographs and a tendency for
-   the storms to remain discrete will be very favorable for supercells
-   with large hail. Hailstones greater than 3 inches in diameter will
-   be possible with the more intense cores. In addition, a 25 to 30
-   knot low-level jet will be in place late this afternoon from north
-   Texas into east-central Oklahoma. This feature will create strong
-   low-level shear profiles favorable for tornadoes. Low-level shear
-   will be amplified by the boundary in southern Oklahoma. By early
-   this evening, forecast sounding near the western edge of the
-   low-level jet have 0-3 km storm-relative helicity in the 300 to 400
-   m2/s2 range. This will support a potential for strong tornadoes with
-   the more robust supercells. Also, a wind-damage threat will develop
-   with supercells. The wind-damage threat will continue through much
-   of the evening as a cluster of severe storms moves southeastward
-   toward the Ark-La-Tex.
+   40-50 kt of generally westerly effective bulk shear will support
+   intense supercells, with multiple right/left splits expected. This
+   activity will quickly intensify shortly after convective initiation,
+   and very large to giant hail appears likely (2-4+ inches in
+   diameter). The potential exists for multiple intense supercells to
+   track east-southeastward along/near the warm front. A conditional
+   risk for supercells remains apparent farther south along the length
+   of the dryline in TX, although confidence in convective initiation
+   remains low, but at least isolated but intense deep convective
+   development is plausible, especially in closer proximity to the
+   surface triple point across North Texas. 
 
-
+   Modest southerly low-level winds (around 20-30 kt at 850 mb) will be
+   present through this evening across the southern Plains. Locally
+   enhanced 0-1 km SRH will exist near the warm front with backed
+   near-surface winds. This will support a threat for tornadoes with
+   any right-split supercells that remain surface based. A slight
+   increase in the low-level jet this evening and presence of very
+   strong to locally extreme buoyancy also suggests some threat for a
+   few EF-2+ tornadoes. With time this evening, convection may
+   grow upscale and pose a threat for scattered severe/damaging winds
+   as storm clusters move southeastward across the Red River toward and
+   across the ArkLaTex.
