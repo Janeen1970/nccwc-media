@@ -1,4 +1,57 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
+BULLETIN - EAS ACTIVATION REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+538 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  East central Le Flore County in southeastern Oklahoma...
+
+* Until 630 PM CDT.
+
+* At 537 PM CDT, a severe thunderstorm was located near Wister,
+  moving east at 20 mph.
+
+  HAZARD...Two inch hail and 70 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           considerable tree damage. Wind damage is also likely to 
+           mobile homes, roofs, and outbuildings.
+
+* Locations in or near the path include...
+  Poteau...                         Heavener...
+  Wister...                         Howe...
+  Lake Wister State Park...         Hodgen...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 1100 PM CDT for west central
+Arkansas...and southeastern Oklahoma.
+
+&&
+
+LAT...LON 3488 9482 3503 9474 3500 9444 3495 9445
+      3492 9445 3474 9446
+TIME...MOT...LOC 2237Z 284DEG 16KT 3493 9471 
+
+TORNADO...POSSIBLE
+THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...2.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...70 MPH
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Norman OK
 522 PM CDT Sat Apr 25 2026
