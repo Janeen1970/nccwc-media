@@ -1,4 +1,63 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
+BULLETIN - EAS ACTIVATION REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Little Rock AR
+642 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Little Rock has issued a
+
+* Severe Thunderstorm Warning for...
+  Southern Scott County in western Arkansas...
+  Northeastern Polk County in western Arkansas...
+  Northwestern Montgomery County in western Arkansas...
+
+* Until 730 PM CDT.
+
+* At 641 PM CDT, a severe thunderstorm was located over Beauchamp, or
+  13 miles southwest of Waldron, moving east at 35 mph.
+
+  HAZARD...Two inch hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           wind damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Waldron...                        Oden...
+  Beauchamp...                      Morgan Springs...
+  Union Hill...                     Olio...
+  Winfield...                       Cedar Creek...
+  Y City...                         Pine Ridge...
+  Needmore...                       Harvey...
+  Boles...                          Parks...
+  Eagleton...                       Cherry Hill in Polk County...
+  Rich Mountain...                  
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+A Tornado Watch remains in effect until 100 AM CDT for western
+Arkansas.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 100 AM CDT for western
+Arkansas.
+
+&&
+
+LAT...LON 3471 9439 3489 9439 3494 9374 3453 9381
+TIME...MOT...LOC 2341Z 269DEG 28KT 3481 9430 
+
+TORNADO...POSSIBLE
+THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...2.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 633 PM CDT Sat Apr 25 2026
