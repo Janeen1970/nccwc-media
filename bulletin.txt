@@ -1,4 +1,59 @@
-BULLETIN - EAS ACTIVATION REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Little Rock AR
+559 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Little Rock has issued a
+
+* Severe Thunderstorm Warning for...
+  Western Scott County in western Arkansas...
+
+* Until 645 PM CDT.
+
+* At 557 PM CDT, a severe thunderstorm was located over Heavener, or
+  9 miles south of Poteau, moving east at 15 mph.
+
+  HAZARD...70 mph wind gusts and ping pong ball size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           considerable tree damage. Wind damage is also likely to 
+           mobile homes, roofs, and outbuildings.
+
+* Locations impacted include...
+  Beauchamp...                      Oliver...
+  Morgan Springs...                 Bates...
+  Black Fork...                     Cauthron...
+  Winfield...                       Hon...
+  Liberty...                        Elm Park...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+A Tornado Watch remains in effect until 100 AM CDT for western
+Arkansas.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 100 AM CDT for western
+Arkansas.
+
+&&
+
+LAT...LON 3493 9445 3493 9443 3495 9441 3494 9439
+      3496 9437 3495 9434 3495 9429 3497 9424
+      3504 9423 3505 9409 3470 9423 3476 9445
+TIME...MOT...LOC 2257Z 288DEG 14KT 3491 9463 
+
+TORNADO...POSSIBLE
+THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.50 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...70 MPH
+...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Norman OK
 550 PM CDT Sat Apr 25 2026
