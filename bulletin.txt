@@ -1,5 +1,43 @@
 BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
+National Weather Service Little Rock AR
+613 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Little Rock has issued a
+
+* Tornado Warning for...
+  Southwestern Scott County in western Arkansas...
+  North central Polk County in western Arkansas...
+
+* Until 700 PM CDT.
+
+* At 613 PM CDT, a severe thunderstorm capable of producing a tornado
+  was located near Heavener, or 13 miles southeast of Poteau, moving
+  east at 25 mph.
+
+  HAZARD...Tornado.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
+
+* Locations impacted include...
+  Waldron...                        Beauchamp...
+  Oliver...                         Morgan Springs...
+  Bates...                          Black Fork...
+  Y City...                         Cauthron...
+  Winfield...                       Hon...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+TAKE COVER NOW! Move to a basement or an interior room on the lowest
+floor of a sturdy building. Avoid windows. If you are outdoors, in a
+mobile home, or in a vehicle, move to the closest substantial shelter
+and protect yourself from flying debris....BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
 National Weather Service Tulsa OK
 605 PM CDT Sat Apr 25 2026
 
@@ -127,104 +165,7 @@ PRECAUTIONARY/PREPAREDNESS ACTIONS...
 TAKE COVER NOW! Move to a storm shelter, safe room or an interior
 room on the lowest floor of a sturdy building. Avoid windows. If you
 are outdoors, in a mobile home, or in a vehicle, move to the closest
-substantial shelter and protect yourself from flying debris....BULLETIN - EAS ACTIVATION REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-538 PM CDT Sat Apr 25 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  East central Le Flore County in southeastern Oklahoma...
-
-* Until 630 PM CDT.
-
-* At 537 PM CDT, a severe thunderstorm was located near Wister,
-  moving east at 20 mph.
-
-  HAZARD...Two inch hail and 70 mph wind gusts.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...People and animals outdoors will be injured. Expect hail 
-           damage to roofs, siding, windows, and vehicles. Expect 
-           considerable tree damage. Wind damage is also likely to 
-           mobile homes, roofs, and outbuildings.
-
-* Locations in or near the path include...
-  Poteau...                         Heavener...
-  Wister...                         Howe...
-  Lake Wister State Park...         Hodgen...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Remain alert for a possible tornado! Tornadoes can develop quickly
-from severe thunderstorms. If you spot a tornado go at once into the
-basement or small central room in a sturdy structure.
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 1100 PM CDT for west central
-Arkansas...and southeastern Oklahoma.
-
-&&
-
-LAT...LON 3488 9482 3503 9474 3500 9444 3495 9445
-      3492 9445 3474 9446
-TIME...MOT...LOC 2237Z 284DEG 16KT 3493 9471 
-
-TORNADO...POSSIBLE
-THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...2.00 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...70 MPH
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Norman OK
-522 PM CDT Sat Apr 25 2026
-
-The National Weather Service in Norman has issued a
-
-* Severe Thunderstorm Warning for...
-  Northeastern Garvin County in southern Oklahoma...
-  Southwestern Seminole County in east central Oklahoma...
-  Central Pontotoc County in east central Oklahoma...
-  Southeastern McClain County in central Oklahoma...
-
-* Until 615 PM CDT.
-
-* At 522 PM CDT, a severe thunderstorm was located near Stratford,
-  moving east at 25 mph.
-
-  HAZARD...60 mph wind gusts and half dollar size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations impacted include...
-  Ada, Stratford, Byng, Francis, Byars, and Vanoss.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect for the warned area.
-
-&&
-
-LAT...LON 3468 9705 3489 9705 3493 9680 3490 9680
-      3490 9678 3494 9677 3498 9656 3468 9651
-TIME...MOT...LOC 2222Z 253DEG 21KT 3481 9699 
-
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.25 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH......URGENT - IMMEDIATE BROADCAST REQUESTED
+substantial shelter and protect yourself from flying debris....URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 144
    NWS Storm Prediction Center Norman OK
    350 PM CDT Sat Apr 25 2026
