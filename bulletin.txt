@@ -1,6 +1,62 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
+510 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Central Le Flore County in southeastern Oklahoma...
+
+* Until 600 PM CDT.
+
+* At 510 PM CDT, a severe thunderstorm was located 3 miles northeast
+  of Fanshawe, moving east at 15 mph.
+
+  HAZARD...Ping pong ball size hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           wind damage to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Poteau...                         Heavener...
+  Wister...                         Howe...
+  Fanshawe...                       Lake Wister State Park...
+  Hodgen...                         Summerfield...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 1100 PM CDT for southeastern
+Oklahoma.
+
+&&
+
+LAT...LON 3490 9497 3494 9496 3494 9493 3508 9493
+      3507 9452 3481 9457
+TIME...MOT...LOC 2210Z 278DEG 13KT 3499 9487 
+
+TORNADO...POSSIBLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.50 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+
+
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
 451 PM CDT Sat Apr 25 2026
 
 The National Weather Service in Tulsa has issued a
