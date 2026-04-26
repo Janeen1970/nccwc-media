@@ -1,4 +1,57 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
+BULLETIN - EAS ACTIVATION REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+803 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Southwestern Sebastian County in west central Arkansas...
+  East central Le Flore County in southeastern Oklahoma...
+
+* Until 845 PM CDT.
+
+* At 802 PM CDT, a severe thunderstorm was located 6 miles southeast
+  of Poteau, moving southeast at 30 mph.
+
+  HAZARD...Tennis ball size hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           wind damage to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Poteau...                         Hartford...
+  Patterson...                      Liberty...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 1100 PM CDT for west central
+Arkansas...and southeastern Oklahoma.
+
+&&
+
+LAT...LON 3497 9424 3495 9429 3496 9433 3495 9434
+      3495 9435 3496 9437 3494 9439 3495 9441
+      3493 9443 3493 9445 3483 9445 3497 9466
+      3514 9449 3504 9423
+TIME...MOT...LOC 0102Z 304DEG 25KT 3500 9452 
+
+THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...2.50 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+
+
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Little Rock AR
 740 PM CDT Sat Apr 25 2026
