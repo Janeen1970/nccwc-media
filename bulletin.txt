@@ -1,151 +1,67 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Little Rock AR
-1128 PM CDT Sat Apr 25 2026
-
-The National Weather Service in Little Rock has issued a
-
-* Severe Thunderstorm Warning for...
-  Southeastern Scott County in western Arkansas...
-  Northeastern Polk County in western Arkansas...
-  Southwestern Yell County in central Arkansas...
-  Northwestern Montgomery County in western Arkansas...
-
-* Until 1215 AM CDT.
-
-* At 1128 PM CDT, a severe thunderstorm was located near Waldron,
-  moving southeast at 30 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations impacted include...
-  Waldron...                        Oden...
-  Cardiff...                        Muddy Creek WMA...
-  Chula...                          Olio...
-  Cedar Creek...                    Y City...
-  Pine Ridge...                     Nola...
-  Needmore...                       Harvey...
-  Boles...                          Parks...
-  Pencil Bluff...                   
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building....BULLETIN - EAS ACTIVATION REQUESTED
-Flash Flood Warning
-National Weather Service Little Rock AR
-1022 PM CDT Sat Apr 25 2026
-
-The National Weather Service in Little Rock has issued a
-
-* Flash Flood Warning for...
-  Southwestern Garland County in central Arkansas...
-  Northern Clark County in southwestern Arkansas...
-  Southwestern Hot Spring County in southwestern Arkansas...
-  Northeastern Pike County in southwestern Arkansas...
-  Montgomery County in western Arkansas...
-  Northeastern Polk County in western Arkansas...
-  Southeastern Scott County in western Arkansas...
-
-* Until 130 AM CDT.
-
-* At 1022 PM CDT, Doppler radar indicated thunderstorms producing 
-  heavy rain across the warned area. Between 2.5 and 4 inches of 
-  rain have fallen in the past few hours. The expected rainfall rate 
-  is 2 to 3 inches in 1 hour. Additional rainfall amounts of 1.5 to 
-  2 inches are possible in the warned area. Flash flooding is 
-  ongoing or expected to begin shortly.
-
-  HAZARD...Flash flooding caused by thunderstorms.
-
-  SOURCE...Radar.
-
-  IMPACT...Flash flooding of small creeks and streams, urban
-           areas, highways, streets and underpasses as well as
-           other poor drainage and low-lying areas.
-
-* Some locations that will experience flash flooding include...
-  Arkadelphia...                     Mount Ida...
-  Glenwood...                        Amity...
-  Caddo Valley...                    Norman...
-  Oden...                            Daisy...
-  Meyers...                          Mimosa...
-  Mauldin...                         Albert Pike Recreation Area...
-  Lofton...                          Little Missouri Falls 
-  Recreation Area...
-  DeGray Lake State Park...          Opal...
-  Friendship...                      Bismarck...
-  Black Springs...                   Alpine...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Turn around, don't drown when encountering flooded roads. Most flood 
-deaths occur in vehicles.
-....  URGENT - IMMEDIATE BROADCAST REQUESTED
-   Severe Thunderstorm Watch Number 147
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1010 PM CDT Sat Apr 25 2026
+   1232 AM CDT Sun Apr 26 2026
 
-   The NWS Storm Prediction Center has issued a
+   Valid 261200Z - 271200Z
 
-   * Severe Thunderstorm Watch for portions of 
-     Southwest Arkansas
-     Northwest Louisiana
-     Southeast Oklahoma
-     Northeast Texas
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE CENTRAL PLAINS...
 
-   * Effective this Saturday night and Sunday morning from 1010 PM
-     until 600 AM CDT.
+   ...SUMMARY...
+   Scattered severe storms with large to very hail, damaging wind gusts
+   and tornadoes are expected this afternoon and evening across parts
+   of the central and southern Plains. Strong tornadoes and hailstones
+   greater than 2 inches in diameter will be possible. Hail and
+   isolated severe gusts will also be possible in parts of the
+   Ark-La-Tex and lower Mississippi Valley.
 
-   * Primary threats include...
-     Scattered large hail likely with isolated very large hail events
-       to 2 inches in diameter possible
-     Scattered damaging wind gusts to 70 mph possible
-     A tornado or two possible
+   ...Southern and Central Plains...
+   A vigorous mid-level trough will eject northeastward toward the
+   southern and central Rockies this afternoon into tonight, as an
+   associated mid-level jet translates east-northeastward through the
+   Desert Southwest. The exit region of the mid-level jet will
+   overspread the central Plains by this evening providing lift and
+   strong deep-layer shear, favorable for severe storms. At the
+   surface, a lee trough will deepen over the southern and central High
+   Plains, as moisture advects northward from Oklahoma into Kansas.
+   Throughout most of the day, large-scale ascent will be limited over
+   the moist sector. Isolated thunderstorms with hail and severe gusts
+   will be possible in areas with maximized low-level convergence and
+   strong instability. Convective coverage will likely increase during
+   the evening as the mid-level jet max approaches, and as a 40 to 50
+   knot low-level jet strengthens. By mid to late evening and into the
+   overnight period, scattered severe storms will be likely in parts of
+   the central Plains and Ozarks, with isolated storms possible in the
+   southern Plains.
 
-   SUMMARY...Isolated to scattered thunderstorms will continue to track
-   southeast into the overnight hours. Nocturnal cooling and increasing
-   boundary-layer inhibition will limit surface-based storms and large
-   hail up to 2 inch diameter will be the main hazard. Isolated severe
-   gusts also are possible. If a storm can become surface-based, a
-   tornado is also possible.
+   Model forecasts suggest that a pocket of strong instability will be
+   in place over Oklahoma early this evening, but that a capping
+   inversion will exist over much of the moist sector. RAP forecast
+   soundings at Salina, Kansas gradually erode the capping inversion
+   during the evening as low-level moisture increases. By late evening
+   in central Kansas, MUCAPE is forecast to be in the 4500 to 5000 J/kg
+   range with 0-6 km shear near 50 knots. 700-500 mb lapse rates are
+   forecast to be very steep and could exceed 8 C/km. This should be
+   favorable for supercells with large to very large hail. Hailstones
+   greater than 2 inches in diameter will be possible. Although the
+   storms will likely be elevated during much of the evening, some
+   cells could become surface-based in the mid to late evening or early
+   overnight period. Once this occurs, a tornado threat should develop.
+   The more intense supercells could produce a strong tornado or two. A
+   wind-damage threat will also be possible.
 
-   The severe thunderstorm watch area is approximately along and 65
-   statute miles north and south of a line from 60 miles southwest of
-   De Queen AR to 35 miles east of El Dorado AR....URGENT - IMMEDIATE BROADCAST REQUESTED
-   Severe Thunderstorm Watch Number 145
-   NWS Storm Prediction Center Norman OK
-   525 PM CDT Sat Apr 25 2026
+   Further south into parts of Oklahoma, limited large-scale ascent
+   will make initiation difficult along the dryline.  If a storm can
+   become established during the late afternoon or early to mid
+   evening, extreme instability (MLCAPE near 5000 J/kg) and steep
+   mid-level lapse rates near 8 C/Km will be very favorable for large
+   to very large hail. 0-3 km storm-relative helicity around 250 m2/s2
+   would also support a tornado threat.
 
-   The NWS Storm Prediction Center has issued a
-
-   * Severe Thunderstorm Watch for portions of 
-     Northwest Arkansas
-     Southeast Kansas
-     Southwest Missouri
-     Northeast Oklahoma
-
-   * Effective this Saturday afternoon from 525 PM until Midnight
-     CDT.
-
-   * Primary threats include...
-     Scattered large hail likely with isolated very large hail events
-       to 2 inches in diameter possible
-     Scattered damaging wind gusts to 70 mph possible
-     A tornado or two possible
-
-   SUMMARY...Scattered thunderstorms will develop east/northeast
-   through the evening. These storms will mainly pose a risk for large
-   hail in the 1.0-2.0 inch range. A few strong to severe wind gusts
-   also are possible. While the overall tornado risk is low, a surface
-   boundary across west-central Arkansas could lift northward this
-   evening and a tornado along this boundary is conditionally possible.
-
-   The severe thunderstorm watch area is approximately along and 60
-   statute miles north and south of a line from 40 miles west southwest
-   of Bartlesville OK to 35 miles north northeast of Fayetteville AR. 
+   ...Ark-La-Tex/Lower Mississippi Valley...
+   The eastern edge of a moist and unstable airmass will be located in
+   the lower Mississippi Valley today. Although large-scale ascent will
+   be weak due to the presence of a mid-level ridge, isolated
+   convective initiation will be possible in areas that locally heat up
+   the most. Cells that can strengthen in the late afternoon and early
+   evening could produce isolated severe gusts and hail.
