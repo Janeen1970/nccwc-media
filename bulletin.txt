@@ -1,4 +1,37 @@
-BULLETIN - EAS ACTIVATION REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+701 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern Haskell County in southeastern Oklahoma...
+  South central Sequoyah County in east central Oklahoma...
+  Northwestern Le Flore County in southeastern Oklahoma...
+
+* Until 745 PM CDT.
+
+* At 701 PM CDT, a severe thunderstorm was located over Keota, moving
+  southeast at 25 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Spiro...                          Panama...
+  Keota...                          Bokoshe...
+  Cowlington...                     Milton...
+  Kanima...                         
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building....BULLETIN - EAS ACTIVATION REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Little Rock AR
 642 PM CDT Sat Apr 25 2026
