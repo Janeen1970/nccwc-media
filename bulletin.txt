@@ -1,67 +1,81 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1232 AM CDT Sun Apr 26 2026
+   0756 AM CDT Sun Apr 26 2026
 
-   Valid 261200Z - 271200Z
+   Valid 261300Z - 271200Z
 
    ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE CENTRAL PLAINS...
+   THE SOUTHERN/CENTRAL PLAINS...
 
    ...SUMMARY...
-   Scattered severe storms with large to very hail, damaging wind gusts
-   and tornadoes are expected this afternoon and evening across parts
-   of the central and southern Plains. Strong tornadoes and hailstones
-   greater than 2 inches in diameter will be possible. Hail and
-   isolated severe gusts will also be possible in parts of the
-   Ark-La-Tex and lower Mississippi Valley.
+   Scattered severe thunderstorms with large to very hail, damaging
+   winds and tornadoes are expected this afternoon through tonight
+   across parts of the southern/central Plains. A couple of strong
+   tornadoes and hailstones up to 2-3 inches in diameter are possible.
 
-   ...Southern and Central Plains...
-   A vigorous mid-level trough will eject northeastward toward the
-   southern and central Rockies this afternoon into tonight, as an
-   associated mid-level jet translates east-northeastward through the
-   Desert Southwest. The exit region of the mid-level jet will
-   overspread the central Plains by this evening providing lift and
-   strong deep-layer shear, favorable for severe storms. At the
-   surface, a lee trough will deepen over the southern and central High
-   Plains, as moisture advects northward from Oklahoma into Kansas.
-   Throughout most of the day, large-scale ascent will be limited over
-   the moist sector. Isolated thunderstorms with hail and severe gusts
-   will be possible in areas with maximized low-level convergence and
-   strong instability. Convective coverage will likely increase during
-   the evening as the mid-level jet max approaches, and as a 40 to 50
-   knot low-level jet strengthens. By mid to late evening and into the
-   overnight period, scattered severe storms will be likely in parts of
-   the central Plains and Ozarks, with isolated storms possible in the
-   southern Plains.
+   ...Southern/Central Plains to the Mid Mississippi Valley...
+   Fairly substantial changes have been made to the outlook based on
+   latest observational and guidance trends. Namely, the Enhanced Risk
+   has been expanded into northern OK to account for the potential of
+   both surface-based supercells this afternoon, and elevated
+   supercells this evening/tonight. The Slight Risk has been expanded
+   southward into north-central TX for a somewhat more
+   conditional/uncertain supercell threat. The eastern extent of severe
+   probabilities have also been expanded in MO to account for a
+   potential cluster producing severe/damaging winds occurring late
+   tonight into early Monday morning.
 
-   Model forecasts suggest that a pocket of strong instability will be
-   in place over Oklahoma early this evening, but that a capping
-   inversion will exist over much of the moist sector. RAP forecast
-   soundings at Salina, Kansas gradually erode the capping inversion
-   during the evening as low-level moisture increases. By late evening
-   in central Kansas, MUCAPE is forecast to be in the 4500 to 5000 J/kg
-   range with 0-6 km shear near 50 knots. 700-500 mb lapse rates are
-   forecast to be very steep and could exceed 8 C/km. This should be
-   favorable for supercells with large to very large hail. Hailstones
-   greater than 2 inches in diameter will be possible. Although the
-   storms will likely be elevated during much of the evening, some
-   cells could become surface-based in the mid to late evening or early
-   overnight period. Once this occurs, a tornado threat should develop.
-   The more intense supercells could produce a strong tornado or two. A
-   wind-damage threat will also be possible.
+   A weak lead mid-level vorticity maximum over the central High Plains
+   this morning should continue to aid elevated thunderstorm
+   development across KS through the afternoon. Increasing MUCAPE with
+   persistent low-level warm/moist advection and steepening mid-level
+   lapse rates combined with strong deep-layer shear will support
+   organized updrafts, including the potential for supercells. This
+   convection will probably tend to remain elevated to the north of a
+   front as it spreads east-northeastward over the central Plains, but
+   scattered large hail may occur given the overall favorable
+   environment. Isolated 2+ inch diameter hail also appears possible
+   with the strongest cores. Eventually, this activity may pose a
+   greater threat for damaging winds across eastern KS into western MO
+   by late afternoon/early evening, if it can become truly surface
+   based.
 
-   Further south into parts of Oklahoma, limited large-scale ascent
-   will make initiation difficult along the dryline.  If a storm can
-   become established during the late afternoon or early to mid
-   evening, extreme instability (MLCAPE near 5000 J/kg) and steep
-   mid-level lapse rates near 8 C/Km will be very favorable for large
-   to very large hail. 0-3 km storm-relative helicity around 250 m2/s2
-   would also support a tornado threat.
+   A more notable mid-level shortwave trough is expected to eject
+   northeastward across the Southwest and southern/central High Plans
+   today, accompanied by a 50-60 kt southwesterly mid-level jet. Weak
+   lee cyclogenesis is forecast to occur across the southeast
+   CO/northeast NM vicinity in response, with the surface low
+   developing into the OK Panhandle and southwest KS by this evening.
+   Strong to locally extreme instability is once again forecast to
+   develop to the east of a sharpening dryline across western/central
+   OK as daytime heating of a moist airmass occurs. There is still a
+   fair amount of uncertainty with the placement of an effective warm
+   front by late afternoon/early evening, but current expectations are
+   for this boundary to be draped somewhere near north-central OK by
+   peak afternoon heating. The surface triple point may serve as a
+   focus for convective initiation today, although better large-scale
+   ascent associated with the mid-level shortwave trough overspreading
+   the warm sector will be delayed until this evening and past peak
+   diurnal heating.
 
-   ...Ark-La-Tex/Lower Mississippi Valley...
-   The eastern edge of a moist and unstable airmass will be located in
-   the lower Mississippi Valley today. Although large-scale ascent will
-   be weak due to the presence of a mid-level ridge, isolated
-   convective initiation will be possible in areas that locally heat up
-   the most. Cells that can strengthen in the late afternoon and early
-   evening could produce isolated severe gusts and hail.
+   Greater than average uncertainty exists regarding the potential for
+   surface-based convective initiation today in OK/north TX. Still, it
+   appears possible that multiple supercells may develop with gradual
+   erosion of lingering MLCIN and weak ascent preceding the ejecting
+   shortwave trough. Any supercells that can root and ingest the ample
+   low-level moisture will be capable of producing very large hail
+   (2-3+ inches in diameter) given a overall rather favorable
+   environment. The tornado potential is less clear through the day,
+   but a southerly low-level jet will quickly strengthen this evening
+   and aid curved/elongated hodographs with strong effective SRH. A
+   somewhat conditional/uncertain threat for a couple of strong
+   tornadoes remains apparent, especially if any supercells that can
+   form this afternoon persist into the evening.
+
+   Additional, somewhat elevated supercells may form this evening into
+   tonight along/north of the warm front from northwest OK near the
+   triple point into KS. This activity will also pose a threat for
+   large to very large hail. Some guidance suggests a cluster
+   eventually evolves from this convection across eastern KS into MO
+   late tonight/early Monday morning. If this occurs, then a greater
+   threat for severe/damaging winds would exist.
