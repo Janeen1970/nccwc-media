@@ -1,4 +1,49 @@
-BULLETIN - EAS ACTIVATION REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+803 PM CDT Sat Apr 25 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Southeastern Washington County in northwestern Arkansas...
+
+* Until 845 PM CDT.
+
+* At 803 PM CDT, a severe thunderstorm was located near Prairie
+  Grove, moving east at 15 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Prairie Grove...                  West Fork...
+  Greenland...                      Brentwood...
+  Prairie Grove Battlefield State...Walnut Grove...
+  Sulphur City...                   Woolsey...
+  Hogeye...                         
+
+This includes Interstate 49 between mile markers 48 and 57.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3593 9436 3601 9432 3599 9404 3582 9408
+TIME...MOT...LOC 0103Z 280DEG 15KT 3595 9428 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+...BULLETIN - EAS ACTIVATION REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 803 PM CDT Sat Apr 25 2026
@@ -48,80 +93,8 @@ MAX HAIL SIZE...2.50 IN
 WIND THREAT...RADAR INDICATED
 MAX WIND GUST...60 MPH
 
-$$
 
-
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Little Rock AR
-740 PM CDT Sat Apr 25 2026
-
-The National Weather Service in Little Rock has issued a
-
-* Severe Thunderstorm Warning for...
-  Southern Scott County in western Arkansas...
-
-* Until 830 PM CDT.
-
-* At 739 PM CDT, a severe thunderstorm was located near Waldron,
-  moving southeast at 25 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations impacted include...
-  Waldron...                        Beauchamp...
-  Cardiff...                        Y City...
-  Needmore...                       Olio...
-  Winfield...                       Cedar Creek...
-  Boles...                          Parks...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-A Tornado Watch remains in effect until 100 AM CDT for western
-Arkansas.
-
-For your protection move to an interior room on the lowest floor of a
-building.
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-734 PM CDT Sat Apr 25 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  West central Sebastian County in west central Arkansas...
-  Northeastern Le Flore County in southeastern Oklahoma...
-
-* Until 815 PM CDT.
-
-* At 734 PM CDT, a severe thunderstorm was located 3 miles southwest
-  of Panama, moving southeast at 30 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Poteau...                         Panama...
-  Howe...                           Cameron...
-  Shady Point...                    
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 1100 PM CDT for west central
-Arkansas...and southeastern Oklahoma.......URGENT - IMMEDIATE BROADCAST REQUESTED
+...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 144
    NWS Storm Prediction Center Norman OK
    350 PM CDT Sat Apr 25 2026
