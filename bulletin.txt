@@ -54,4 +54,31 @@ MAX HAIL SIZE...1.00 IN
 WIND THREAT...RADAR INDICATED
 MAX WIND GUST...60 MPH
 
-$$
+ URGENT - IMMEDIATE BROADCAST REQUESTED
+   Severe Thunderstorm Watch Number 149
+   NWS Storm Prediction Center Norman OK
+   1210 PM CDT Sun Apr 26 2026
+
+   The NWS Storm Prediction Center has issued a
+
+   * Severe Thunderstorm Watch for portions of 
+     Eastern Kansas
+     Western Missouri
+
+   * Effective this Sunday afternoon and evening from 1210 PM until
+     700 PM CDT.
+
+   * Primary threats include...
+     Scattered damaging winds and isolated significant gusts to 75
+       mph possible
+     Scattered large hail and isolated very large hail events to 2
+       inches in diameter possible
+     A tornado or two possible
+
+   SUMMARY...Severe thunderstorms are expected to further develop near
+   a boundary and probably become more surface-based over time, with
+   large hail and damaging winds as the primary hazards.
+
+   The severe thunderstorm watch area is approximately along and 65
+   statute miles north and south of a line from 45 miles west southwest
+   of Manhattan KS to 30 miles east southeast of Kansas City MO.
