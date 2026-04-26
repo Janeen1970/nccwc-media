@@ -1,81 +1,57 @@
-Day 1 Convective Outlook  
-   NWS Storm Prediction Center Norman OK
-   0756 AM CDT Sun Apr 26 2026
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Topeka KS
+207 PM CDT Sun Apr 26 2026
 
-   Valid 261300Z - 271200Z
+The National Weather Service in Topeka has issued a
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE SOUTHERN/CENTRAL PLAINS...
+* Severe Thunderstorm Warning for...
+  Southeastern Morris County in east central Kansas...
+  Shawnee County in east central Kansas...
+  Wabaunsee County in east central Kansas...
+  Northern Osage County in east central Kansas...
+  Southeastern Pottawatomie County in northeastern Kansas...
+  Southern Jackson County in northeastern Kansas...
+  Northern Lyon County in east central Kansas...
 
-   ...SUMMARY...
-   Scattered severe thunderstorms with large to very hail, damaging
-   winds and tornadoes are expected this afternoon through tonight
-   across parts of the southern/central Plains. A couple of strong
-   tornadoes and hailstones up to 2-3 inches in diameter are possible.
+* Until 300 PM CDT.
 
-   ...Southern/Central Plains to the Mid Mississippi Valley...
-   Fairly substantial changes have been made to the outlook based on
-   latest observational and guidance trends. Namely, the Enhanced Risk
-   has been expanded into northern OK to account for the potential of
-   both surface-based supercells this afternoon, and elevated
-   supercells this evening/tonight. The Slight Risk has been expanded
-   southward into north-central TX for a somewhat more
-   conditional/uncertain supercell threat. The eastern extent of severe
-   probabilities have also been expanded in MO to account for a
-   potential cluster producing severe/damaging winds occurring late
-   tonight into early Monday morning.
+* At 206 PM CDT, severe thunderstorms were located along a line
+  extending from near Louisville to 6 miles west of Eskridge to 3
+  miles southwest of Dunlap, moving east at 35 mph.
 
-   A weak lead mid-level vorticity maximum over the central High Plains
-   this morning should continue to aid elevated thunderstorm
-   development across KS through the afternoon. Increasing MUCAPE with
-   persistent low-level warm/moist advection and steepening mid-level
-   lapse rates combined with strong deep-layer shear will support
-   organized updrafts, including the potential for supercells. This
-   convection will probably tend to remain elevated to the north of a
-   front as it spreads east-northeastward over the central Plains, but
-   scattered large hail may occur given the overall favorable
-   environment. Isolated 2+ inch diameter hail also appears possible
-   with the strongest cores. Eventually, this activity may pose a
-   greater threat for damaging winds across eastern KS into western MO
-   by late afternoon/early evening, if it can become truly surface
-   based.
+  HAZARD...60 mph wind gusts and quarter size hail.
 
-   A more notable mid-level shortwave trough is expected to eject
-   northeastward across the Southwest and southern/central High Plans
-   today, accompanied by a 50-60 kt southwesterly mid-level jet. Weak
-   lee cyclogenesis is forecast to occur across the southeast
-   CO/northeast NM vicinity in response, with the surface low
-   developing into the OK Panhandle and southwest KS by this evening.
-   Strong to locally extreme instability is once again forecast to
-   develop to the east of a sharpening dryline across western/central
-   OK as daytime heating of a moist airmass occurs. There is still a
-   fair amount of uncertainty with the placement of an effective warm
-   front by late afternoon/early evening, but current expectations are
-   for this boundary to be draped somewhere near north-central OK by
-   peak afternoon heating. The surface triple point may serve as a
-   focus for convective initiation today, although better large-scale
-   ascent associated with the mid-level shortwave trough overspreading
-   the warm sector will be delayed until this evening and past peak
-   diurnal heating.
+  SOURCE...Radar indicated.
 
-   Greater than average uncertainty exists regarding the potential for
-   surface-based convective initiation today in OK/north TX. Still, it
-   appears possible that multiple supercells may develop with gradual
-   erosion of lingering MLCIN and weak ascent preceding the ejecting
-   shortwave trough. Any supercells that can root and ingest the ample
-   low-level moisture will be capable of producing very large hail
-   (2-3+ inches in diameter) given a overall rather favorable
-   environment. The tornado potential is less clear through the day,
-   but a southerly low-level jet will quickly strengthen this evening
-   and aid curved/elongated hodographs with strong effective SRH. A
-   somewhat conditional/uncertain threat for a couple of strong
-   tornadoes remains apparent, especially if any supercells that can
-   form this afternoon persist into the evening.
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
 
-   Additional, somewhat elevated supercells may form this evening into
-   tonight along/north of the warm front from northwest OK near the
-   triple point into KS. This activity will also pose a threat for
-   large to very large hail. Some guidance suggests a cluster
-   eventually evolves from this convection across eastern KS into MO
-   late tonight/early Monday morning. If this occurs, then a greater
-   threat for severe/damaging winds would exist.
+* Locations impacted include...
+  Topeka, Wamego, Osage City, Carbondale, Rossville, Alma, Eskridge,
+  St. Marys, Dover, Silver Lake, Auburn, Lyndon, Burlingame,
+  Americus, Scranton, Hoyt, Maple Hill, McFarland, Harveyville, and
+  Paxico.
+
+This includes the following highways...
+ Interstate 70 between mile markers 325 and 355.
+ Kansas Turnpike between mile markers 135 and 184.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3856 9564 3848 9635 3852 9635 3852 9646
+      3885 9627 3924 9639 3932 9567 3909 9559
+      3907 9560 3899 9556
+TIME...MOT...LOC 1906Z 256DEG 32KT 3922 9634 3887 9622 3855 9641 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
