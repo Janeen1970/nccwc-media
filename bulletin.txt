@@ -34,47 +34,7 @@ TAKE COVER NOW! Move to a basement or an interior room on the lowest
 floor of a sturdy building. Avoid windows. If you are outdoors, in a
 mobile home, or in a vehicle, move to the closest substantial shelter
 and protect yourself from flying debris.
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-351 PM CDT Tue Apr 28 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Southwestern Pushmataha County in southeastern Oklahoma...
-  Northwestern Choctaw County in southeastern Oklahoma...
-
-* Until 430 PM CDT.
-
-* At 351 PM CDT, a severe thunderstorm was located 3 miles southeast
-  of Atoka, moving east at 40 mph.
-
-  HAZARD...70 mph wind gusts and ping pong ball size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...People and animals outdoors will be injured. Expect hail 
-           damage to roofs, siding, windows, and vehicles. Expect 
-           considerable tree damage. Wind damage is also likely to 
-           mobile homes, roofs, and outbuildings.
-
-* Locations in or near the path include...
-  Antlers...                        Boswell...
-  Soper...                          Kent...
-  Snow...                           Moyers...
-  Kosoma...                         Kellond...
-  Eubanks...                        Darwin...
-  Dela...                           Unger...
-  Finley...                         
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 700 PM CDT for southeastern
-Oklahoma....BULLETIN - EAS ACTIVATION REQUESTED
+...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Norman OK
 337 PM CDT Tue Apr 28 2026
@@ -151,50 +111,6 @@ building.
 
 A Tornado Watch remains in effect for the warned area.
 
-&&...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-315 PM CDT Tue Apr 28 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Southwestern McIntosh County in southeastern Oklahoma...
-  Northwestern Pittsburg County in southeastern Oklahoma...
-  South central Okmulgee County in northeastern Oklahoma...
-  Southeastern Okfuskee County in east central Oklahoma...
-
-* Until 400 PM CDT.
-
-* At 314 PM CDT, a severe thunderstorm was located 3 miles west of
-  Horntown, moving northeast at 45 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Emergency management.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Henryetta...                      Weleetka...
-  Dewar...                          Schulter...
-  Canadian...                       Indianola...
-  Hanna...                          Raiford...
-  Vivian...                         Scipio...
-  Arrowhead State Park...           Bryant...
-  Vernon...                         
-
-This includes Interstate 40 in Oklahoma between mile markers 232 and
-246.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 700 PM CDT for southeastern
-Oklahoma.
 ...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 171
    NWS Storm Prediction Center Norman OK
