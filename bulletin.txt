@@ -1,4 +1,59 @@
-URGENT - IMMEDIATE BROADCAST REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Little Rock AR
+956 PM CDT Mon Apr 27 2026
+
+The National Weather Service in Little Rock has issued a
+
+* Severe Thunderstorm Warning for...
+  Southwestern Searcy County in north central Arkansas...
+  Southeastern Newton County in north central Arkansas...
+  Northwestern Van Buren County in north central Arkansas...
+  Northeastern Pope County in central Arkansas...
+
+* Until 1045 PM CDT.
+
+* At 956 PM CDT, a severe thunderstorm was located near Bertha, or 20
+  miles south of Jasper, moving east at 35 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Kay...                            Bohannon...
+  Woolum...                         Imo...
+  Witts Spring...                   Moore...
+  Watts...                          Marsena...
+  Smyrna...                         Ben Hur...
+  Canaan...                         Chimes...
+  Tilly...                          Sand Gap...
+  Lurton...                         
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+A Tornado Watch remains in effect until 400 AM CDT for central and
+north central Arkansas.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 400 AM CDT for central and
+north central Arkansas.
+
+&&
+
+LAT...LON 3566 9314 3577 9313 3592 9267 3564 9264
+TIME...MOT...LOC 0256Z 259DEG 30KT 3573 9309 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+...URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 166
    NWS Storm Prediction Center Norman OK
    820 PM CDT Mon Apr 27 2026
