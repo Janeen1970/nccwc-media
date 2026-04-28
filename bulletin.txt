@@ -1,5 +1,54 @@
 Climate Scientist Wayne Adams: As severe storm moved through west of Pocola I measured 11 mph winds and .52 of rainfall...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+545 PM CDT Tue Apr 28 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Southwestern Sebastian County in west central Arkansas...
+
+* Until 600 PM CDT.
+
+* At 544 PM CDT, a severe thunderstorm was located over Huntington,
+  moving east at 35 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Hartford...                       Huntington...
+  Midland...                        Arkola...
+  Liberty...                        
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 700 PM CDT for west central
+Arkansas.
+
+&&
+
+LAT...LON 3506 9425 3506 9423 3498 9423 3502 9438
+      3510 9436 3508 9419
+TIME...MOT...LOC 2244Z 269DEG 31KT 3506 9427 
+
+TORNADO...POSSIBLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Shreveport LA
 541 PM CDT Tue Apr 28 2026
 
