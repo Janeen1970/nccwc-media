@@ -1,5 +1,58 @@
 Climate Scientist Wayne Adams: As severe storm moved through west of Pocola I measured 11 mph winds and .52 of rainfall...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Shreveport LA
+541 PM CDT Tue Apr 28 2026
+
+The National Weather Service in Shreveport has issued a
+
+* Severe Thunderstorm Warning for...
+  Northwestern Howard County in southwestern Arkansas...
+  Northwestern Sevier County in southwestern Arkansas...
+  Northeastern McCurtain County in southeastern Oklahoma...
+
+* Until 630 PM CDT.
+
+* At 541 PM CDT, a severe thunderstorm was located 15 miles north of
+  Broken Bow, or 24 miles northwest of De Queen, moving east at 40
+  mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage to
+           roofs, siding, and trees.
+
+* Locations impacted include...
+  Gillham, Hochatown, Plunketville, Sherwood and Mount Herman.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Seek shelter inside a well-built structure and stay away from
+windows. This storm is capable of producing damaging winds and large
+hail.
+
+Tornadoes can develop quickly from severe thunderstorms. Seek shelter
+immediately in an interior room on the lowest floor of a well-built
+structure.
+
+A Tornado Watch remains in effect until 700 PM CDT Tuesday for
+portions of southwest Arkansas and southeast Oklahoma.
+
+&&
+
+LAT...LON 3409 9476 3435 9484 3444 9446 3419 9447
+      3419 9424 3427 9424 3427 9426 3435 9425
+      3435 9419 3406 9418
+TIME...MOT...LOC 2241Z 263DEG 34KT 3423 9469
+
+TORNADO...POSSIBLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Little Rock AR
 537 PM CDT Tue Apr 28 2026
 
