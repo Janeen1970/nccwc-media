@@ -1,4 +1,56 @@
-Climate Scientist Wayne Adams: As severe storm moved through west of Pocola I measured 11 mph winds and .43 of rainfall. BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Climate Scientist Wayne Adams: As severe storm moved through west of Pocola I measured 11 mph winds and .43 of rainfall....
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+453 PM CDT Tue Apr 28 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Central Washington County in northwestern Arkansas...
+
+* Until 545 PM CDT.
+
+* At 453 PM CDT, a severe thunderstorm was located 3 miles east of
+  Cincinnati, moving east at 50 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Fayetteville...                   Farmington...
+  Prairie Grove...                  Elkins...
+  West Fork...                      Lincoln...
+  Greenland...                      Cincinnati...
+  Drake Field Airport...            Brentwood...
+  Goshen...                         Walnut Grove...
+  Woolsey...                        Savoy...
+  Wedington...                      Rhea...
+  Wyola...                          Prairie Grove Battlefield
+  State...
+  Tuttle...                         Sulphur City...
+
+This includes Interstate 49 between mile markers 49 and 65.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3594 9452 3602 9454 3610 9452 3610 9439
+      3611 9439 3609 9395 3583 9395
+TIME...MOT...LOC 2153Z 279DEG 42KT 3603 9444 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH... BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 501 PM CDT Tue Apr 28 2026
