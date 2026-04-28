@@ -1,4 +1,50 @@
 Climate Scientist Wayne Adams: As severe storm moved through west of Pocola I measured 11 mph winds and .52 of rainfall
+...BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Shreveport LA
+617 PM CDT Tue Apr 28 2026
+
+The National Weather Service in Shreveport has issued a
+
+* Tornado Warning for...
+  Northwestern Little River County in southwestern Arkansas...
+  Southwestern Sevier County in southwestern Arkansas...
+  Southeastern McCurtain County in southeastern Oklahoma...
+
+* Until 700 PM CDT.
+
+* At 617 PM CDT, a severe thunderstorm capable of producing a tornado
+  was located 10 miles south of Broken Bow, or 19 miles west of
+  Horatio, moving east at 35 mph.
+
+  HAZARD...Tornado and quarter size hail.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without
+           shelter. Mobile homes will be damaged or destroyed. Damage
+           to roofs, windows and vehicles will occur. Tree damage is
+           likely.
+
+* Locations impacted include...
+  Horatio, Winthrop, Arkinda, Haworth, Shinewell, Cerrogordo,
+  America, Moon, West Otis, Bokhoma and Goodwater.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to an interior room on the lowest floor of a well-built building
+away from windows. If you are outdoors, in a mobile home, or in a
+vehicle, move to the closest substantial shelter and protect yourself
+from flying debris.
+
+&&
+
+LAT...LON 3385 9476 3395 9473 3395 9425 3370 9429
+TIME...MOT...LOC 2317Z 280DEG 32KT 3389 9469
+
+TORNADO...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+
 ...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Shreveport LA
