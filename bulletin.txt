@@ -119,53 +119,7 @@ PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 For your protection move to an interior room on the lowest floor of a
 building.
-....BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Tulsa OK
-458 PM CDT Tue Apr 28 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Tornado Warning for...
-  South central Pushmataha County in southeastern Oklahoma...
-  Northeastern Choctaw County in southeastern Oklahoma...
-
-* Until 545 PM CDT.
-
-* At 458 PM CDT, a severe thunderstorm capable of producing a tornado
-  was located 3 miles north of Messer, moving east at 30 mph.
-
-  HAZARD...Tornado and ping pong ball size hail.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations in or near the path include...
-  Fort Towson...                    Rattan...
-  Hugo Lake State Park...           Oleta...
-  Messer...                         Corinne...
-  Apple...                          Dela...
-  Sobol...                          Swink...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-TAKE COVER NOW! Move to a basement or an interior room on the lowest
-floor of a sturdy building. Avoid windows. If you are outdoors, in a
-mobile home, or in a vehicle, move to the closest substantial shelter
-and protect yourself from flying debris.
-
-&&
-
-LAT...LON 3406 9556 3424 9553 3423 9515 3416 9515
-      3416 9516 3399 9516
-TIME...MOT...LOC 2158Z 276DEG 28KT 3414 9546 
-
-TORNADO...RADAR INDICATED
-MAX HAIL SIZE...1.50 IN....BULLETIN - IMMEDIATE BROADCAST REQUESTED
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Shreveport LA
 456 PM CDT Tue Apr 28 2026
