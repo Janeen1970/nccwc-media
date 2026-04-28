@@ -84,65 +84,7 @@ The National Weather Service in Little Rock has issued a
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 For your protection move to an interior room on the lowest floor of a
-building....BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Little Rock AR
-1213 PM CDT Tue Apr 28 2026
-
-The National Weather Service in Little Rock has issued a
-
-* Severe Thunderstorm Warning for...
-  Southern Scott County in western Arkansas...
-  Northern Polk County in western Arkansas...
-  Northwestern Montgomery County in western Arkansas...
-
-* Until 100 PM CDT.
-
-* At 1212 PM CDT, a severe thunderstorm was located near Queen
-  Wilhelmina State Park, or near Mena, moving east at 35 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations impacted include...
-  Mena...                           Oden...
-  Queen Wilhelmina State Park...    Polk County Fairgrounds...
-  Mena Intermountain Airport...     Acorn...
-  Rocky...                          Cedar Creek...
-  Ink...                            Y City...
-  Pine Ridge...                     Rich Mountain...
-  Needmore...                       Cherry Hill in Polk County...
-  Potter...                         Boles...
-  Parks...                          Eagleton...
-  Shady Grove...                    
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-A Tornado Watch remains in effect until 700 PM CDT for western
-Arkansas.
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-A Tornado Watch remains in effect until 700 PM CDT for western
-Arkansas.
-
-&&
-
-LAT...LON 3453 9437 3474 9441 3487 9383 3459 9378
-TIME...MOT...LOC 1712Z 257DEG 29KT 3464 9430 
-
-TORNADO...POSSIBLE
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH...
-
-...URGENT - IMMEDIATE BROADCAST REQUESTED
+building....URGENT - IMMEDIATE BROADCAST REQUESTED
    Tornado Watch Number 170
    NWS Storm Prediction Center Norman OK
    1045 AM CDT Tue Apr 28 2026
