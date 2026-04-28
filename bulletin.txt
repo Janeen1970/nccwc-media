@@ -1,4 +1,36 @@
-BULLETIN - EAS ACTIVATION REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Norman OK
+257 PM CDT Tue Apr 28 2026
+
+The National Weather Service in Norman has issued a
+
+* Severe Thunderstorm Warning for...
+  Southern Seminole County in east central Oklahoma...
+  Northeastern Pontotoc County in east central Oklahoma...
+  Hughes County in southeastern Oklahoma...
+
+* Until 345 PM CDT.
+
+* At 257 PM CDT, a severe thunderstorm was located near Sasakwa,
+  moving northeast at 55 mph.
+
+  HAZARD...Golf ball size hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           wind damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Holdenville, Wewoka, Wetumka, Allen, Dustin, Francis, Calvin,
+  Lamar, Sasakwa, Horntown, Yeager, Atwood, and Spaulding.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building....BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Norman OK
 233 PM CDT Tue Apr 28 2026
