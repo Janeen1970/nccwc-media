@@ -1,4 +1,64 @@
 Climate Scientist Wayne Adams: As severe storm moved through west of Pocola I measured 11 mph winds and .52 of rainfall
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Little Rock AR
+704 PM CDT Tue Apr 28 2026
+
+The National Weather Service in Little Rock has issued a
+
+* Severe Thunderstorm Warning for...
+  Southwestern Perry County in central Arkansas...
+  Northwestern Garland County in central Arkansas...
+  Southwestern Yell County in central Arkansas...
+  Northeastern Montgomery County in western Arkansas...
+
+* Until 745 PM CDT.
+
+* At 704 PM CDT, a severe thunderstorm was located near Muddy Creek
+  WMA, or 16 miles north of Mount Ida, moving east at 45 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Hot Springs Village...            Mountain Pine...
+  Jessieville...                    Lake Ouachita State Park...
+  Muddy Creek WMA...                Avant...
+  Lena Landing Rec Area...          Chula...
+  Hamilton...                       Mt Tabor...
+  Fannie...                         Story...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+A Tornado Watch remains in effect until 100 AM CDT for central and
+western Arkansas.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 100 AM CDT for central and
+western Arkansas.
+
+&&
+
+LAT...LON 3487 9361 3478 9307 3477 9307 3477 9302
+      3452 9310 3476 9367
+TIME...MOT...LOC 0004Z 283DEG 38KT 3479 9358 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+
+65
+
+
 ...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Little Rock AR
