@@ -1,62 +1,63 @@
 WAL Model AI Date: 2026-05-06
 Storm Mode: SEVERE ORGANIZED. The top ten cities that have the best risk of severe weather.
 
-Pocola, OK
+Cameron, OK
 📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-
-Hartford, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-
-Mena, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-
-Harrison, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-
-Berryville, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-
-Smithville, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-
-Magazine, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%Magazine, AR
-
-Huntsville, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-
-West Fork, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
+🌪️ Tornado: 7%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
 
 Keota, OK
 📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
+🌪️ Tornado: 7%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
+
+Howe, OK
+📍 Impact: open edge
+🌪️ Tornado: 5%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
+
+Muse, OK
+📍 Impact: open edge
+🌪️ Tornado: 5%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
+
+Wilburton, OK
+📍 Impact: open edge
+🌪️ Tornado: 5%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
+
+Kansas, OK
+📍 Impact: open edge
+🌪️ Tornado: 5%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
+
+Altus, AR
+📍 Impact: open edge
+🌪️ Tornado: 5%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
+
+Mountainburg, AR
+📍 Impact: open edge
+🌪️ Tornado: 5%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
+
+West Fork, AR
+📍 Impact: open edge
+🌪️ Tornado: 5%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
+
+Berryville, AR
+📍 Impact: open edge
+🌪️ Tornado: 5%
+🌬️ Wind: HIGH (60–80 mph) — 17%
+🧊 Hail: MODERATE (Dime–quarter) — 12%
+
