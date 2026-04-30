@@ -1,4 +1,4 @@
-WAL Model AI Date: 2026-05-06
+WALT Model AI Date: 2026-05-06
 Storm Mode: SEVERE ORGANIZED. The top ten cities that have the best risk of severe weather.
 
 Cameron, OK
