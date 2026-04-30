@@ -1,508 +1,62 @@
 WAL Model AI Date: 2026-05-06
-Storm Mode: SEVERE ORGANIZED
+Storm Mode: SEVERE ORGANIZED. The top ten cities that have the best risk of severe weather.
 
-Panama, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Spiro, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
 Pocola, OK
 📍 Impact: open wind corridor
 🌪️ Tornado: 6%
 🌬️ Wind: EXTREME (60–80+ mph) — 20%
 🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Cameron, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Sallisaw, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Muldrow, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Gans, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Stigler, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Keota, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Kinta, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Red Oak, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Idabel, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Valliant, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Rattan, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Warner, OK
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Lavaca, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Alma, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Dyer, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Rudy, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Prairie Grove, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Siloam Springs, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Pea Ridge, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Centerton, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Lamar, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Atkins, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Danville, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Charleston, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Branch, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Denning, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Bellefonte, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Omaha, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Valley Springs, AR
-📍 Impact: open wind corridor
-🌪️ Tornado: 6%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Arkoma, OK
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Knot Hole, OK
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Roland, OK
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Gore, OK
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Muskogee, OK
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Fort Gibson, OK
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Fort Smith, AR
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Van Buren, AR
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Mulberry, AR
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Clarksville, AR
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Russellville, AR
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Dardanelle, AR
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Ozark, AR
-📍 Impact: river assist
-🌪️ Tornado: 5%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Poteau, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Heavener, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Shady Point, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Howe, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Wister, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Talihina, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Whitesboro, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Muse, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Hodgen, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Page, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Vian, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Wilburton, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Talihina area, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Broken Bow, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Wright City, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Smithville, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Eagletown, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Antlers, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Clayton, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Grove, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Jay, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Kansas, OK
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Greenwood, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Mansfield, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Hackett, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
+
 Hartford, AR
 📍 Impact: open edge
 🌪️ Tornado: 4%
 🌬️ Wind: EXTREME (60–80+ mph) — 20%
 🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Mountainburg, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Chester, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Fayetteville, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Springdale, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Farmington, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-West Fork, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Elkins, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Greenland, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Winslow, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Goshen, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Bentonville, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Rogers, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Bella Vista, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Booneville, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Paris, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Magazine, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
+
 Mena, AR
 📍 Impact: open edge
 🌪️ Tornado: 4%
 🌬️ Wind: EXTREME (60–80+ mph) — 20%
 🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Wickes, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Waldron, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Berryville, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Eureka Springs, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Huntsville, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Jasper, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Altus, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Wiederkehr Village, AR
-📍 Impact: open edge
-🌪️ Tornado: 4%
-🌬️ Wind: EXTREME (60–80+ mph) — 20%
-🧊 Hail: EXTREME (quarter–baseball+) — 20%
+
 Harrison, AR
 📍 Impact: open edge
 🌪️ Tornado: 4%
 🌬️ Wind: EXTREME (60–80+ mph) — 20%
 🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Bergman, AR
+
+Berryville, AR
 📍 Impact: open edge
 🌪️ Tornado: 4%
 🌬️ Wind: EXTREME (60–80+ mph) — 20%
 🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Diamond City, AR
+
+Smithville, OK
 📍 Impact: open edge
 🌪️ Tornado: 4%
 🌬️ Wind: EXTREME (60–80+ mph) — 20%
 🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Lead Hill, AR
+
+Magazine, AR
+📍 Impact: open edge
+🌪️ Tornado: 4%
+🌬️ Wind: EXTREME (60–80+ mph) — 20%
+🧊 Hail: EXTREME (quarter–baseball+) — 20%Magazine, AR
+
+Huntsville, AR
 📍 Impact: open edge
 🌪️ Tornado: 4%
 🌬️ Wind: EXTREME (60–80+ mph) — 20%
 🧊 Hail: EXTREME (quarter–baseball+) — 20%
-Zinc, AR
+
+West Fork, AR
 📍 Impact: open edge
 🌪️ Tornado: 4%
+🌬️ Wind: EXTREME (60–80+ mph) — 20%
+🧊 Hail: EXTREME (quarter–baseball+) — 20%
+
+Keota, OK
+📍 Impact: open wind corridor
+🌪️ Tornado: 6%
 🌬️ Wind: EXTREME (60–80+ mph) — 20%
 🧊 Hail: EXTREME (quarter–baseball+) — 20%
