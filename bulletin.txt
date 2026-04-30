@@ -1,2 +1,2 @@
 WALT Regional Model Forecast Eastern Oklahoma and Western Arkansas: Thursday High 70° / Low 50°, Friday High 70° / Low 50°, Saturday  High 70° / Low 50° Sunday High 75° / Low 55°, Monday High 80° / Low 60°, Tuesday High 85° / Low 65°, and Wednesday High 70° / Low 50°. Tuesday evening into Wednesday morning System Strength: Strength: MODERATE SYSTEM
-Severity: Strong Storms Possible Wind: 40–60 mph and Tornado low potential.
+Severity: Strong Storms Possible Wind: 40–60 mph and Tornado low potential. (Note WALT EVAPO model disagrees with WALT Regional Model...Both are in house models).
