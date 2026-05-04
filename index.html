@@ -206,14 +206,20 @@ const now=document.getElementById("now-title");
 let tracks=[];
 let index=0;
 
-function loadTrack(i){
+function loadTrack(i, autoplay=false){
   index=(i+tracks.length)%tracks.length;
   audio.src=tracks[index].url;
   now.textContent=tracks[index].title;
+
+  if(autoplay){
+    audio.play().catch(()=>{
+      document.getElementById("status").textContent = "Click Play to start audio.";
+    });
+  }
 }
 
-function next(){loadTrack(index+1);}
-function prev(){loadTrack(index-1);}
+function next(){loadTrack(index+1,true);}
+function prev(){loadTrack(index-1,true);}
 
 document.getElementById("btn-next").onclick=next;
 document.getElementById("btn-prev").onclick=prev;
@@ -239,7 +245,7 @@ async function loadTracks(){
     const li=document.createElement("li");
     li.className="track";
     li.textContent=t.title;
-    li.onclick=()=>loadTrack(i);
+    li.onclick=()=>loadTrack(i,true);
     playlist.appendChild(li);
   });
 
@@ -252,4 +258,5 @@ loadTracks();
 
 </body>
 </html>
+
 
