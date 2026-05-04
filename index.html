@@ -222,7 +222,7 @@ document.getElementById("btn-play").onclick=()=>{
   if(audio.paused){audio.play();}
   else{audio.pause();}
 };
-
+audio.addEventListener("ended", next);
 async function loadTracks(){
   const res=await fetch(API_URL);
   const data=await res.json();
