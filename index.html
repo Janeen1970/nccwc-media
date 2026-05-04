@@ -1,348 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <title>NCCWC Media — NCCWC Radio, Weather Tools & WALT Model Forecasting </title>
+<meta charset="utf-8"/>
+<title>NCCWC Media</title>
 
-  <meta name="description" content="NCCWC Media features NCCWC Radio, original music, radar tools, severe storm videos, tornado forecasting, and the WALT Model for Eastern Oklahoma and Western Arkansas.">
-  <meta name="keywords" content="NCCWC Media, NCCWC Radio, WALT Model, tornado forecast, Oklahoma weather, Arkansas storms, severe weather audio, Wayne Adams, GitHub radio, storm videos, music playlist">
-
-  <meta name="author" content="Wayne Adams">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="robots" content="index, follow">
-
-  <link rel="canonical" href="https://janeen1970.github.io/nccwc-media/">
-
-  <style>
-    :root {
-      --bg: #020617;
-      --card: #0b1120;
-      --muted: #9ca3af;
-      --text: #f9fafb;
-      --accent: #38bdf8;
-      --line: #1f2937;
-      --danger: #b91c1c;
-    }
-
-    body {
-      margin: 0;
-      padding-top: 110px;
-      background: radial-gradient(1200px 800px at 20% -10%, #111827 0, #020617 55%, #000 100%);
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Ubuntu, Arial;
-      color: var(--text);
-    }
-
-    /* ===== BULLETIN BAR ===== */
-    #live-bar {
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      height: 56px;
-      background: var(--danger);
-      color: #fee2e2;
-      display: flex;
-      align-items: center;
-      overflow: hidden;
-      z-index: 9999;
-    }
-    #live-bar-scroll {
-      white-space: nowrap;
-      display: inline-block;
-      padding-left: 100%;
-      animation: ticker 120s linear infinite;
-    }
-    #live-bar-text {
-      font-size: 18px;
-      font-weight: 700;
-      padding: 0 12px;
-    }
-
-    @keyframes ticker {
-      from { transform: translateX(0); }
-      to   { transform: translateX(-100%); }
-    }
-
-    /* ===== WALT TICKER ===== */
-    #walt-ticker {
-      position: fixed;
-      top: 56px;
-      left: 0;
-      right: 0;
-      background: #000;
-      color: #0f0;
-      display: flex;
-      align-items: center;
-      border-top: 1px solid #333;
-      border-bottom: 1px solid #333;
-      height: 40px;
-      z-index: 9998;
-    }
-
-    #walt-ticker-label {
-      padding: 4px 12px;
-      background: #111;
-      border-right: 1px solid #333;
-      font-weight: bold;
-    }
-
-    #walt-ticker-window {
-      flex: 1;
-      overflow: hidden;
-    }
-
-    #walt-ticker-scroll {
-      display: inline-block;
-      white-space: nowrap;
-      padding-left: 100%;
-      animation: waltTicker 300s linear infinite;
-    }
-
-    @keyframes waltTicker {
-      from { transform: translateX(0); }
-      to   { transform: translateX(-100%); }
-    }
-
-    /* ===== RADIO LAYOUT ===== */
-    .wrap {
-      max-width: 1100px;
-      margin: 40px auto;
-      padding: 0 16px;
-    }
-
-.grid {
-  display: flex;
-  gap: 16px;
+<style>
+body{
+  margin:0;
+  padding-top:260px;
+  background:#020617;
+  color:white;
+  font-family:Arial;
 }
 
-section.card {
-  width: 65%;
+/* ===== MAIN TICKER ANIMATION ===== */
+@keyframes ticker{
+  from{transform:translateX(0);}
+  to{transform:translateX(-100%);}
 }
 
-aside.card {
-  width: 35%;
+/* ===== BULLETIN ===== */
+#live-bar{
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  height:56px;
+  background:#b91c1c;
+  display:flex;
+  align-items:center;
+  z-index:9999;
+}
+#live-bar-scroll{
+  white-space:nowrap;
+  padding-left:100%;
+  animation:ticker 120s linear infinite;
 }
 
-    .playlist {
-      max-height: 460px;
-      overflow-y: auto;
-      padding: 0;
-      margin: 0;
-      list-style: none;
-    }
+/* ===== WALT ===== */
+#walt-ticker{
+  position:fixed;
+  top:56px;
+  left:0;
+  right:0;
+  height:40px;
+  background:black;
+  color:#00ff00;
+  display:flex;
+  align-items:center;
+  z-index:9998;
+}
+#walt-ticker-label{
+  padding:0 10px;
+  font-weight:bold;
+}
+#walt-ticker-scroll{
+  white-space:nowrap;
+  padding-left:100%;
+  animation:ticker 300s linear infinite;
+}
 
-    .track {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 8px 10px;
-      cursor: pointer;
-      border-bottom: 1px solid #0f172a;
-    }
+/* ===== GENERIC TICKER ===== */
+.ticker{
+  position:fixed;
+  left:0;
+  right:0;
+  height:36px;
+  display:flex;
+  align-items:center;
+  overflow:hidden;
+  z-index:9997;
+}
+.ticker .label{
+  padding:0 10px;
+  font-weight:bold;
+  min-width:90px;
+}
+.ticker .scroll{
+  flex:1;
+}
+.ticker .scroll div{
+  white-space:nowrap;
+  padding-left:100%;
+  animation:ticker 120s linear infinite;
+}
 
-    .track.badge-playing {
-      background: rgba(56,189,248,0.12);
-      border-left: 2px solid var(--accent);
-    }
-  </style>
+/* ===== STACK POSITIONS ===== */
+.watch   {top:96px;background:#111;color:#facc15;}
+.warning {top:132px;background:#3f0000;color:#ff4d4d;}
+.report  {top:168px;background:#001f3f;color:#66ccff;}
+.radar   {top:204px;background:#111827;color:#c084fc;}
+</style>
 </head>
 
 <body>
 
-<!-- BULLETIN BAR -->
+<!-- BULLETIN -->
 <div id="live-bar">
-  <div id="live-bar-scroll"><span id="live-bar-text">Loading NCCWC bulletin...</span></div>
+  <div id="live-bar-scroll">
+    <span id="live-bar-text">Loading bulletin...</span>
+  </div>
 </div>
 
-<!-- WALT TICKER -->
+<!-- WALT -->
 <div id="walt-ticker">
   <div id="walt-ticker-label">WALT</div>
-  <div id="walt-ticker-window">
-    <div id="walt-ticker-scroll">Loading WALT Model…</div>
-  </div>
+  <div id="walt-ticker-scroll">Loading WALT...</div>
 </div>
 
-<!-- ✅ FIXED LINK (now in correct place) -->
-<div style="text-align:center; margin-top:15px;">
-  <a href="https://payhip.com/WayneAdams" 
-     target="_blank" 
-     style="color:#38bdf8; font-size:20px; text-decoration:none;">
-    Adams Arcade
-Strategy, Simulation & Survival Games
-  </a>
+<!-- WATCH -->
+<div class="ticker watch">
+  <div class="label">WATCH</div>
+  <div class="scroll"><div id="watch-text">Loading watches...</div></div>
 </div>
 
-  </div>
-<div style="text-align:center; margin-top:15px;">
-  <a href="https://lesfeldick.com/watch/videos/book-1/" 
-     target="_blank" 
-     style="color:#38bdf8; font-size:20px; text-decoration:none;">
-    Through The Bible with Les Feldick
-  </a>
+<!-- WARNING -->
+<div class="ticker warning">
+  <div class="label">WARNING</div>
+  <div class="scroll"><div id="warning-text">Loading warnings...</div></div>
 </div>
-  </div>
-<div style="text-align:center; margin-top:15px;">
-  <a href="https://sites.google.com/view/nccwc/walt-model-far-east-oklahoma-and-western-arkansas?authuser=0" 
-     target="_blank" 
-     style="color:#38bdf8; font-size:20px; text-decoration:none;">
-     WALT Model Far East Oklahoma and Western Arkansas
-  </a>
+
+<!-- REPORT -->
+<div class="ticker report">
+  <div class="label">REPORTS</div>
+  <div class="scroll"><div id="report-text">Loading reports...</div></div>
 </div>
-<div class="wrap">
-  <div class="grid">
-    <!-- RADIO CARD -->
-    <section class="card">
-       <h2>Apple products will block ticker in auto play for any website. If you tap your screen it might work. If not, you must access the website with an Android phone or Windows device.</h2>
-      <h2>Now Playing</h2>
-      <small id="track-count-label">Loading playlist…</small>
 
-      <h3 id="now-title">—</h3>
-      <div id="now-sub">NCCWC Media • Auto playlist</div>
-
-      <audio id="audio" controls preload="none"></audio>
-
-      <div>
-        <button id="btn-prev">Prev</button>
-        <button id="btn-play">▶️ Play</button>
-        <button id="btn-next">Next</button>
-      </div>
-
-      <div id="status"></div>
-    </section>
-
-    <!-- PLAYLIST CARD -->
-    <aside class="card">
-      <h2>Playlist</h2>
-      <ul id="playlist"></ul>
-      <p>All MP3 files in repo root load automatically.</p>
-    </aside>
-
-  </div>
+<!-- RADAR -->
+<div class="ticker radar">
+  <div class="label">RADAR</div>
+  <div class="scroll"><div id="radar-text">Loading radar...</div></div>
 </div>
 
 <script>
-/* ===== BULLETIN ===== */
-async function loadLiveBulletin() {
-  const el = document.getElementById("live-bar-text");
-  try {
-    const res = await fetch("bulletin.txt?_=" + Date.now());
-    el.textContent = (await res.text()).trim() || "NCCWC: No active bulletin.";
-  } catch {
-    el.textContent = "NCCWC: Error loading bulletin.";
-  }
-}
-loadLiveBulletin();
-setInterval(loadLiveBulletin, 20000);
-
-/* ===== WALT ===== */
-async function loadWaltTicker() {
-  const el = document.getElementById("walt-ticker-scroll");
-  try {
-    const res = await fetch("walt.txt?_=" + Date.now());
-    el.textContent = (await res.text()).trim() || "WALT Model: No active alert.";
-  } catch {
-    el.textContent = "WALT Model: Error loading.";
-  }
-}
-loadWaltTicker();
-setInterval(loadWaltTicker, 20000);
-
-/* ===== RADIO ===== */
-
-const GH_OWNER = "Janeen1970";
-const GH_REPO  = "nccwc-media";
-const API_URL  = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`;
-
-const audioEl = document.getElementById("audio");
-const playlistEl = document.getElementById("playlist");
-const nowTitleEl = document.getElementById("now-title");
-const nowSubEl = document.getElementById("now-sub");
-const statusEl = document.getElementById("status");
-const trackCountEl = document.getElementById("track-count-label");
-
-let tracks = [];
-let currentIndex = 0;
-
-function niceTitle(name) {
-  return decodeURIComponent(
-    name.replace(/\.mp3$/i, "").replace(/[_]+/g, " ")
-  ).trim();
+function loadTicker(file,id,fallback){
+  const el=document.getElementById(id);
+  fetch(file+"?_="+Date.now())
+    .then(r=>r.text())
+    .then(t=>el.textContent=t.trim()||fallback)
+    .catch(()=>el.textContent=fallback);
 }
 
-function renderPlaylist() {
-  playlistEl.innerHTML = "";
-  tracks.forEach((t, i) => {
-    const li = document.createElement("li");
-    li.className = "track";
-    if (i === currentIndex) li.classList.add("badge-playing");
-
-    li.innerHTML = `<div>${i + 1}.</div> <div>${t.title}</div>`;
-
-    li.addEventListener("click", () => loadTrack(i, true));
-    playlistEl.appendChild(li);
-  });
+function loadAll(){
+  loadTicker("bulletin.txt","live-bar-text","No bulletin.");
+  loadTicker("walt.txt","walt-ticker-scroll","No WALT alert.");
+  loadTicker("watch.txt","watch-text","No watches.");
+  loadTicker("warning.txt","warning-text","No warnings.");
+  loadTicker("reports.txt","report-text","No reports.");
+  loadTicker("radar.txt","radar-text","Radar quiet.");
 }
 
-function updatePlaylistHighlight() {
-  Array.from(playlistEl.children).forEach((li, idx) => {
-    li.classList.toggle("badge-playing", idx === currentIndex);
-  });
-}
-
-function loadTrack(index, autoplay=false) {
-  currentIndex = (index + tracks.length) % tracks.length;
-  const t = tracks[currentIndex];
-
-  audioEl.src = t.url;
-  nowTitleEl.textContent = t.title;
-  nowSubEl.textContent = "NCCWC Media • GitHub Stream";
-  updatePlaylistHighlight();
-
-  if (autoplay) {
-    audioEl.play().catch(() => {
-      statusEl.textContent = "Tap ▶️ Play to allow audio.";
-    });
-  }
-}
-
-function nextTrack() { loadTrack(currentIndex + 1, true); }
-function prevTrack() { loadTrack(currentIndex - 1, true); }
-
-document.getElementById("btn-next").addEventListener("click", nextTrack);
-document.getElementById("btn-prev").addEventListener("click", prevTrack);
-
-document.getElementById("btn-play").addEventListener("click", () => {
-  if (audioEl.paused) {
-    audioEl.play();
-    document.getElementById("btn-play").textContent = "⏸ Pause";
-  } else {
-    audioEl.pause();
-    document.getElementById("btn-play").textContent = "▶️ Play";
-  }
-});
-
-audioEl.addEventListener("ended", nextTrack);
-
-async function loadTracks() {
-  statusEl.textContent = "Loading…";
-
-  const res = await fetch(API_URL);
-  const data = await res.json();
-
-  const mp3s = data.filter(x => x.name.toLowerCase().endsWith(".mp3"));
-
-  tracks = mp3s
-    .map(x => ({ name: x.name, title: niceTitle(x.name), url: x.download_url }))
-    .sort((a, b) => a.name.localeCompare(b.name));
-
-  trackCountEl.textContent = `${tracks.length} tracks loaded`;
-
-  renderPlaylist();
-  loadTrack(0);
-  statusEl.textContent = "";
-}
-
-loadTracks();
+loadAll();
+setInterval(loadAll,20000);
 </script>
 
 </body>
