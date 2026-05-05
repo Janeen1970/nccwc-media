@@ -15,9 +15,9 @@ body{
   font-family:Arial;
 }
 
-/* ===== CORRECT FAR RIGHT START ===== */
+/* ===== CORE ANIMATION ===== */
 @keyframes tickerMove{
-  from { transform: translateX(100vw); } /* 🔥 FAR RIGHT */
+  from { transform: translateX(100vw); }
   to   { transform: translateX(-100%); }
 }
 
@@ -28,9 +28,9 @@ body{
   display:flex; align-items:center;
   overflow:hidden; z-index:9999;
 }
-#live-bar-scroll{
+#live-bar-text{
   white-space:nowrap;
-  animation: tickerMove linear infinite;
+  animation:tickerMove linear infinite;
 }
 
 /* ===== WALT ===== */
@@ -42,9 +42,9 @@ body{
 }
 #walt-ticker-label{ padding:0 10px; font-weight:bold; }
 #walt-ticker-window{ flex:1; overflow:hidden; }
-#walt-ticker-scroll{
+#walt-text{
   white-space:nowrap;
-  animation: tickerMove linear infinite;
+  animation:tickerMove linear infinite;
 }
 
 /* ===== GENERIC TICKERS ===== */
@@ -66,11 +66,9 @@ body{
   overflow:hidden;
 }
 
-/* 🔥 FIXED ELEMENT */
 .ticker .scroll div{
-  display:inline-block;
   white-space:nowrap;
-  animation: tickerMove linear infinite;
+  animation:tickerMove linear infinite;
 }
 
 /* STACK */
@@ -99,14 +97,14 @@ aside.card{width:35%;}
 
 <!-- BULLETIN -->
 <div id="live-bar">
-  <div id="live-bar-scroll"><span id="live-bar-text"></span></div>
+  <div id="live-bar-text">Loading bulletin...</div>
 </div>
 
 <!-- WALT -->
 <div id="walt-ticker">
   <div id="walt-ticker-label">WALT</div>
   <div id="walt-ticker-window">
-    <div id="walt-ticker-scroll"><span id="walt-text"></span></div>
+    <div id="walt-text">Loading WALT...</div>
   </div>
 </div>
 
@@ -168,7 +166,7 @@ aside.card{width:35%;}
 
 <script>
 
-/* ===== FIXED TICKER LOADER ===== */
+/* ===== TICKERS ===== */
 function loadTicker(file,id,fallback){
   fetch(file+"?_="+Date.now())
     .then(r=>r.text())
@@ -178,8 +176,8 @@ function loadTicker(file,id,fallback){
 
       el.textContent = text + "   •   ";
 
-      /* 🔥 EACH TICKER SPEED */
-      const speed = Math.max(20, text.length * 0.35);
+      /* 🔥 PER-TICKER SPEED */
+      const speed = Math.max(20, text.length * 0.4);
       el.style.animationDuration = speed + "s";
     })
     .catch(()=>{
