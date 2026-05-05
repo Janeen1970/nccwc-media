@@ -11,16 +11,10 @@
 
 body{
   margin:0;
-  padding-top:340px; /* ✅ increased for more tickers */
+  padding-top:340px;
   background:#020617;
   color:#f9fafb;
   font-family:Arial;
-}
-
-/* ===== ANIMATION ===== */
-@keyframes ticker{
-  from{transform:translateX(0);}
-  to{transform:translateX(-100%);}
 }
 
 /* ===== BULLETIN ===== */
@@ -31,12 +25,13 @@ body{
   background:var(--danger);
   display:flex;
   align-items:center;
+  overflow:hidden;
   z-index:9999;
 }
 #live-bar-scroll{
   white-space:nowrap;
   padding-left:100%;
-  animation:ticker 120s linear infinite;
+  animation: tickerMove 60s linear infinite;
 }
 
 /* ===== WALT ===== */
@@ -58,10 +53,10 @@ body{
 #walt-ticker-scroll{
   white-space:nowrap;
   padding-left:100%;
-  animation:ticker 300s linear infinite;
+  animation: tickerMove 80s linear infinite;
 }
 
-/* ===== GENERIC TICKER ===== */
+/* ===== GENERIC TICKER FIXED ===== */
 .ticker{
   position:fixed;
   left:0;right:0;
@@ -71,24 +66,40 @@ body{
   overflow:hidden;
   z-index:9997;
 }
+
 .ticker .label{
   padding:0 10px;
   min-width:90px;
   font-weight:bold;
 }
-.ticker .scroll{flex:1;}
-.ticker .scroll div{
-  white-space:nowrap;
-  padding-left:100%;
-  animation:ticker 180s linear infinite;
+
+.ticker .scroll{
+  flex:1;
+  overflow:hidden;
+  position:relative;
 }
 
-/* ===== STACK POSITIONS ===== */
+/* 🔥 FIXED SCROLL SYSTEM */
+.ticker .scroll div{
+  position:absolute;
+  white-space:nowrap;
+  transform:translateX(100%);
+  animation: tickerMove linear infinite;
+  animation-duration: 40s;
+}
+
+/* NEW animation */
+@keyframes tickerMove{
+  from{ transform:translateX(100%); }
+  to{ transform:translateX(-100%); }
+}
+
+/* ===== STACK ===== */
 .watch{top:96px;background:#111;color:#facc15;}
 .warning{top:132px;background:#3f0000;color:#ff4d4d;}
 .report{top:168px;background:#001f3f;color:#66ccff;}
 .radar{top:204px;background:#111827;color:#c084fc;}
-.hackett{top:240px;background:#111827;color:#22c55e;} /* ✅ separated */
+.hackett{top:240px;background:#111827;color:#22c55e;}
 
 /* ===== RADIO ===== */
 .wrap{max-width:1100px;margin:auto;padding:20px;}
@@ -149,9 +160,7 @@ aside.card{width:35%;}
 <!-- HACKETT -->
 <div class="ticker hackett">
   <div class="label">HACKETT</div>
-  <div class="scroll">
-    <div id="hackett-text">Loading Hackett...</div>
-  </div>
+  <div class="scroll"><div id="hackett-text">Loading Hackett...</div></div>
 </div>
 
 <div class="wrap">
@@ -182,12 +191,20 @@ aside.card{width:35%;}
 
 <script>
 
-/* ===== BULLETIN ===== */
+/* ===== TICKERS ===== */
 function loadTicker(file,id,fallback){
   const el=document.getElementById(id);
+
   fetch(file+"?_="+Date.now())
     .then(r=>r.text())
-    .then(t=>el.textContent=t.trim()||fallback)
+    .then(t=>{
+      const text = t.trim()||fallback;
+      el.textContent=text;
+
+      /* 🔥 AUTO SPEED BASED ON LENGTH */
+      const speed = Math.max(20, text.length * 0.35);
+      el.style.animationDuration = speed + "s";
+    })
     .catch(()=>el.textContent=fallback);
 }
 
@@ -198,8 +215,6 @@ function loadAllTickers(){
   loadTicker("warning.txt","warning-text","No warnings.");
   loadTicker("reports.txt","report-text","No reports.");
   loadTicker("radar.txt","radar-text","Radar quiet.");
-
-  // ✅ Hackett feed
   loadTicker("hackett.txt","hackett-text","No Hackett data.");
 }
 
@@ -225,7 +240,7 @@ function loadTrack(i, autoplay=false){
 
   if(autoplay){
     audio.play().catch(()=>{
-      document.getElementById("status").textContent = "Click Play to start audio.";
+      document.getElementById("status").textContent="Click Play to start audio.";
     });
   }
 }
