@@ -146,10 +146,13 @@ aside.card{width:35%;}
 </div>
 
   <!-- Hacket -->
-<div class="ticker radar">
-  <div class="label">Hackett</div>
-  <div class="scroll"><div id="radar-text">Loading Hackett...</div></div>
+<div class="ticker radar" style="top:240px;background:#111827;color:#22c55e;">
+  <div class="label">HACKETT</div>
+  <div class="scroll">
+    <div id="hackett-text">Loading Hackett...</div>
+  </div>
 </div>
+
 <div class="wrap">
 <div class="grid">
 
@@ -194,8 +197,10 @@ function loadAllTickers(){
   loadTicker("warning.txt","warning-text","No warnings.");
   loadTicker("reports.txt","report-text","No reports.");
   loadTicker("radar.txt","radar-text","Radar quiet.");
-}
 
+  // ✅ NEW HACKETT FEED
+  loadTicker("hackett.txt","hackett-text","No Hackett data.");
+}
 loadAllTickers();
 setInterval(loadAllTickers,20000);
 
