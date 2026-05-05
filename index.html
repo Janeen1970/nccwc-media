@@ -186,13 +186,13 @@ function loadTicker(file,id,fallback){
       el.textContent = text + "   •   ";
 
       /* 🔥 MANUAL SPEED CONTROL (OPTION 2) */
-      if(id === "warning-text") el.style.setProperty("--speed","50s");
-      else if(id === "watch-text") el.style.setProperty("--speed","20s");
-      else if(id === "report-text") el.style.setProperty("--speed","25s");
-      else if(id === "radar-text") el.style.setProperty("--speed","30s");
-      else if(id === "walt-text") el.style.setProperty("--speed","120s");
-      else if(id === "live-bar-text") el.style.setProperty("--speed","35s");
-      else if(id === "hackett-text") el.style.setProperty("--speed","28s");
+      if(id === "warning-text") el.style.setProperty("--speed","150s");
+      else if(id === "watch-text") el.style.setProperty("--speed","150s");
+      else if(id === "report-text") el.style.setProperty("--speed","150s");
+      else if(id === "radar-text") el.style.setProperty("--speed","150s");
+      else if(id === "walt-text") el.style.setProperty("--speed","150s");
+      else if(id === "live-bar-text") el.style.setProperty("--speed","150s");
+      else if(id === "hackett-text") el.style.setProperty("--speed","150s");
     })
     .catch(()=>{
       document.getElementById(id).textContent = fallback;
