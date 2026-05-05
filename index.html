@@ -5,9 +5,7 @@
 <title>NCCWC Media</title>
 
 <style>
-:root {
-  --danger:#b91c1c;
-}
+:root { --danger:#b91c1c; }
 
 body{
   margin:0;
@@ -17,65 +15,48 @@ body{
   font-family:Arial;
 }
 
-/* ===== BASE TICKER ANIMATION ===== */
+/* ===== NEW RIGHT-START ANIMATION ===== */
 @keyframes ticker {
-  from { transform: translateX(0); }
-  to   { transform: translateX(-50%); }
+  from { transform: translateX(100%); }
+  to   { transform: translateX(-100%); }
 }
 
 /* ===== BULLETIN ===== */
 #live-bar{
-  position:fixed;
-  top:0;left:0;right:0;
-  height:56px;
-  background:var(--danger);
-  display:flex;
-  align-items:center;
-  overflow:hidden;
-  z-index:9999;
+  position:fixed; top:0; left:0; right:0;
+  height:56px; background:var(--danger);
+  display:flex; align-items:center;
+  overflow:hidden; z-index:9999;
 }
 #live-bar-scroll{
-  display:flex;
   white-space:nowrap;
   animation:ticker linear infinite;
 }
 
 /* ===== WALT ===== */
 #walt-ticker{
-  position:fixed;
-  top:56px;
-  left:0;right:0;
-  height:40px;
-  background:black;
-  color:#0f0;
-  display:flex;
-  align-items:center;
-  overflow:hidden;
-  z-index:9998;
+  position:fixed; top:56px; left:0; right:0;
+  height:40px; background:black; color:#0f0;
+  display:flex; align-items:center;
+  overflow:hidden; z-index:9998;
 }
 #walt-ticker-label{
-  padding:0 10px;
-  font-weight:bold;
+  padding:0 10px; font-weight:bold;
 }
 #walt-ticker-window{
-  flex:1;
-  overflow:hidden;
+  flex:1; overflow:hidden;
 }
 #walt-ticker-scroll{
-  display:flex;
   white-space:nowrap;
   animation:ticker linear infinite;
 }
 
 /* ===== GENERIC TICKERS ===== */
 .ticker{
-  position:fixed;
-  left:0;right:0;
+  position:fixed; left:0; right:0;
   height:36px;
-  display:flex;
-  align-items:center;
-  overflow:hidden;
-  z-index:9997;
+  display:flex; align-items:center;
+  overflow:hidden; z-index:9997;
 }
 
 .ticker .label{
@@ -85,12 +66,11 @@ body{
 }
 
 .ticker .scroll{
-  flex:1;
-  overflow:hidden;
+  flex:1; overflow:hidden;
 }
 
 .ticker .scroll div{
-  display:flex;
+  display:inline-block;
   white-space:nowrap;
   animation:ticker linear infinite;
 }
@@ -113,9 +93,7 @@ aside.card{width:35%;}
   border-bottom:1px solid #222;
   cursor:pointer;
 }
-.track.badge-playing{
-  background:#222;
-}
+.track.badge-playing{ background:#222; }
 </style>
 </head>
 
@@ -125,7 +103,6 @@ aside.card{width:35%;}
 <div id="live-bar">
   <div id="live-bar-scroll">
     <span id="live-bar-text"></span>
-    <span id="live-bar-text-dup"></span>
   </div>
 </div>
 
@@ -135,7 +112,6 @@ aside.card{width:35%;}
   <div id="walt-ticker-window">
     <div id="walt-ticker-scroll">
       <span id="walt-text"></span>
-      <span id="walt-text-dup"></span>
     </div>
   </div>
 </div>
@@ -143,56 +119,31 @@ aside.card{width:35%;}
 <!-- WATCH -->
 <div class="ticker watch">
   <div class="label">WATCH</div>
-  <div class="scroll">
-    <div>
-      <span id="watch-text"></span>
-      <span id="watch-text-dup"></span>
-    </div>
-  </div>
+  <div class="scroll"><div id="watch-text"></div></div>
 </div>
 
 <!-- WARNING -->
 <div class="ticker warning">
   <div class="label">WARNING</div>
-  <div class="scroll">
-    <div>
-      <span id="warning-text"></span>
-      <span id="warning-text-dup"></span>
-    </div>
-  </div>
+  <div class="scroll"><div id="warning-text"></div></div>
 </div>
 
 <!-- REPORT -->
 <div class="ticker report">
   <div class="label">REPORTS</div>
-  <div class="scroll">
-    <div>
-      <span id="report-text"></span>
-      <span id="report-text-dup"></span>
-    </div>
-  </div>
+  <div class="scroll"><div id="report-text"></div></div>
 </div>
 
 <!-- RADAR -->
 <div class="ticker radar">
   <div class="label">RADAR</div>
-  <div class="scroll">
-    <div>
-      <span id="radar-text"></span>
-      <span id="radar-text-dup"></span>
-    </div>
-  </div>
+  <div class="scroll"><div id="radar-text"></div></div>
 </div>
 
 <!-- HACKETT -->
 <div class="ticker hackett">
   <div class="label">HACKETT</div>
-  <div class="scroll">
-    <div>
-      <span id="hackett-text"></span>
-      <span id="hackett-text-dup"></span>
-    </div>
-  </div>
+  <div class="scroll"><div id="hackett-text"></div></div>
 </div>
 
 <div class="wrap">
@@ -223,30 +174,22 @@ aside.card{width:35%;}
 
 <script>
 
-/* ===== TICKER LOADER WITH INDEPENDENT SPEED ===== */
+/* ===== TICKERS (RIGHT START + INDEPENDENT SPEED) ===== */
 function loadTicker(file,id,fallback){
   fetch(file+"?_="+Date.now())
     .then(r=>r.text())
     .then(t=>{
-      const text = (t.trim()||fallback) + "   •   ";
-
+      const text = t.trim() || fallback;
       const el = document.getElementById(id);
-      const dup = document.getElementById(id+"-dup");
 
-      el.textContent = text;
-      dup.textContent = text;
+      el.textContent = text + "   •   ";
 
-      /* 🔥 EACH TICKER HAS ITS OWN SPEED */
-      const speed = Math.max(20, text.length * 0.4);
-
-      el.parentElement.style.animationDuration = speed + "s";
+      /* 🔥 speed per ticker */
+      const speed = Math.max(20, text.length * 0.35);
+      el.style.animationDuration = speed + "s";
     })
     .catch(()=>{
-      const el = document.getElementById(id);
-      const dup = document.getElementById(id+"-dup");
-
-      el.textContent = fallback;
-      dup.textContent = fallback;
+      document.getElementById(id).textContent = fallback;
     });
 }
 
