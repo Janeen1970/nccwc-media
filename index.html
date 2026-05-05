@@ -17,10 +17,10 @@ body{
   font-family:Arial;
 }
 
-/* ===== ANIMATION ===== */
-@keyframes ticker{
-  from{ transform:translateX(0); }
-  to{ transform:translateX(-50%); }
+/* ===== BASE TICKER ANIMATION ===== */
+@keyframes ticker {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
 }
 
 /* ===== BULLETIN ===== */
@@ -37,7 +37,7 @@ body{
 #live-bar-scroll{
   display:flex;
   white-space:nowrap;
-  animation:ticker 120s linear infinite;
+  animation:ticker linear infinite;
 }
 
 /* ===== WALT ===== */
@@ -64,10 +64,10 @@ body{
 #walt-ticker-scroll{
   display:flex;
   white-space:nowrap;
-  animation:ticker 180s linear infinite;
+  animation:ticker linear infinite;
 }
 
-/* ===== GENERIC TICKER FIX ===== */
+/* ===== GENERIC TICKERS ===== */
 .ticker{
   position:fixed;
   left:0;right:0;
@@ -92,7 +92,7 @@ body{
 .ticker .scroll div{
   display:flex;
   white-space:nowrap;
-  animation:ticker 120s linear infinite;
+  animation:ticker linear infinite;
 }
 
 /* STACK */
@@ -223,18 +223,30 @@ aside.card{width:35%;}
 
 <script>
 
-/* ===== TICKERS FIXED ===== */
+/* ===== TICKER LOADER WITH INDEPENDENT SPEED ===== */
 function loadTicker(file,id,fallback){
   fetch(file+"?_="+Date.now())
     .then(r=>r.text())
     .then(t=>{
       const text = (t.trim()||fallback) + "   •   ";
-      document.getElementById(id).textContent = text;
-      document.getElementById(id+"-dup").textContent = text;
+
+      const el = document.getElementById(id);
+      const dup = document.getElementById(id+"-dup");
+
+      el.textContent = text;
+      dup.textContent = text;
+
+      /* 🔥 EACH TICKER HAS ITS OWN SPEED */
+      const speed = Math.max(20, text.length * 0.4);
+
+      el.parentElement.style.animationDuration = speed + "s";
     })
     .catch(()=>{
-      document.getElementById(id).textContent = fallback;
-      document.getElementById(id+"-dup").textContent = fallback;
+      const el = document.getElementById(id);
+      const dup = document.getElementById(id+"-dup");
+
+      el.textContent = fallback;
+      dup.textContent = fallback;
     });
 }
 
