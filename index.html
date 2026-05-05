@@ -15,13 +15,13 @@ body{
   font-family:Arial;
 }
 
-/* ===== CORE ANIMATION (ONE DEFINITION, MANY SPEEDS) ===== */
+/* ===== CORE ANIMATION ===== */
 @keyframes tickerMove{
   from { transform: translateX(100vw); }
   to   { transform: translateX(-100%); }
 }
 
-/* ===== SHARED MOVEMENT BASE ===== */
+/* ===== MOVING ELEMENT ===== */
 .mover{
   white-space:nowrap;
   display:inline-block;
@@ -30,7 +30,6 @@ body{
   animation-timing-function:linear;
   animation-iteration-count:infinite;
 
-  /* each ticker overrides this */
   animation-duration: var(--speed, 40s);
 }
 
@@ -41,7 +40,6 @@ body{
   display:flex; align-items:center;
   overflow:hidden; z-index:9999;
 }
-#live-bar-text{}
 
 /* ===== WALT ===== */
 #walt-ticker{
@@ -98,14 +96,14 @@ aside.card{width:35%;}
 
 <!-- BULLETIN -->
 <div id="live-bar">
-  <div id="live-bar-text" class="mover">Loading bulletin...</div>
+  <div id="live-bar-text" class="mover"></div>
 </div>
 
 <!-- WALT -->
 <div id="walt-ticker">
   <div id="walt-ticker-label">WALT</div>
   <div id="walt-ticker-window">
-    <div id="walt-text" class="mover">Loading WALT...</div>
+    <div id="walt-text" class="mover"></div>
   </div>
 </div>
 
@@ -177,7 +175,7 @@ aside.card{width:35%;}
 
 <script>
 
-/* ===== PER-TICKER LOADING + SPEED ===== */
+/* ===== FIXED PER-TICKER SPEEDS ===== */
 function loadTicker(file,id,fallback){
   fetch(file+"?_="+Date.now())
     .then(r=>r.text())
@@ -187,9 +185,14 @@ function loadTicker(file,id,fallback){
 
       el.textContent = text + "   •   ";
 
-      /* 🔥 independent speed per ticker */
-      const speed = Math.max(15, text.length * 0.25);
-      el.style.setProperty("--speed", speed + "s");
+      /* 🔥 MANUAL SPEED CONTROL (OPTION 2) */
+      if(id === "warning-text") el.style.setProperty("--speed","15s");
+      else if(id === "watch-text") el.style.setProperty("--speed","20s");
+      else if(id === "report-text") el.style.setProperty("--speed","25s");
+      else if(id === "radar-text") el.style.setProperty("--speed","30s");
+      else if(id === "walt-text") el.style.setProperty("--speed","45s");
+      else if(id === "live-bar-text") el.style.setProperty("--speed","35s");
+      else if(id === "hackett-text") el.style.setProperty("--speed","28s");
     })
     .catch(()=>{
       document.getElementById(id).textContent = fallback;
