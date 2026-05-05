@@ -11,7 +11,7 @@
 
 body{
   margin:0;
-  padding-top:260px;
+  padding-top:340px; /* ✅ increased for more tickers */
   background:#020617;
   color:#f9fafb;
   font-family:Arial;
@@ -83,11 +83,12 @@ body{
   animation:ticker 20s linear infinite;
 }
 
-/* STACK */
+/* ===== STACK POSITIONS ===== */
 .watch{top:96px;background:#111;color:#facc15;}
 .warning{top:132px;background:#3f0000;color:#ff4d4d;}
 .report{top:168px;background:#001f3f;color:#66ccff;}
 .radar{top:204px;background:#111827;color:#c084fc;}
+.hackett{top:240px;background:#111827;color:#22c55e;} /* ✅ separated */
 
 /* ===== RADIO ===== */
 .wrap{max-width:1100px;margin:auto;padding:20px;}
@@ -145,8 +146,8 @@ aside.card{width:35%;}
   <div class="scroll"><div id="radar-text">Loading radar...</div></div>
 </div>
 
-  <!-- Hacket -->
-<div class="ticker radar" style="top:240px;background:#111827;color:#22c55e;">
+<!-- HACKETT -->
+<div class="ticker hackett">
   <div class="label">HACKETT</div>
   <div class="scroll">
     <div id="hackett-text">Loading Hackett...</div>
@@ -198,9 +199,10 @@ function loadAllTickers(){
   loadTicker("reports.txt","report-text","No reports.");
   loadTicker("radar.txt","radar-text","Radar quiet.");
 
-  // ✅ NEW HACKETT FEED
+  // ✅ Hackett feed
   loadTicker("hackett.txt","hackett-text","No Hackett data.");
 }
+
 loadAllTickers();
 setInterval(loadAllTickers,20000);
 
@@ -238,7 +240,9 @@ document.getElementById("btn-play").onclick=()=>{
   if(audio.paused){audio.play();}
   else{audio.pause();}
 };
+
 audio.addEventListener("ended", next);
+
 async function loadTracks(){
   const res=await fetch(API_URL);
   const data=await res.json();
@@ -268,5 +272,3 @@ loadTracks();
 
 </body>
 </html>
-
-
