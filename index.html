@@ -15,10 +15,23 @@ body{
   font-family:Arial;
 }
 
-/* ===== CORE ANIMATION ===== */
+/* ===== CORE ANIMATION (ONE DEFINITION, MANY SPEEDS) ===== */
 @keyframes tickerMove{
   from { transform: translateX(100vw); }
   to   { transform: translateX(-100%); }
+}
+
+/* ===== SHARED MOVEMENT BASE ===== */
+.mover{
+  white-space:nowrap;
+  display:inline-block;
+
+  animation-name:tickerMove;
+  animation-timing-function:linear;
+  animation-iteration-count:infinite;
+
+  /* each ticker overrides this */
+  animation-duration: var(--speed, 40s);
 }
 
 /* ===== BULLETIN ===== */
@@ -28,10 +41,7 @@ body{
   display:flex; align-items:center;
   overflow:hidden; z-index:9999;
 }
-#live-bar-text{
-  white-space:nowrap;
-  animation:tickerMove linear infinite;
-}
+#live-bar-text{}
 
 /* ===== WALT ===== */
 #walt-ticker{
@@ -42,10 +52,6 @@ body{
 }
 #walt-ticker-label{ padding:0 10px; font-weight:bold; }
 #walt-ticker-window{ flex:1; overflow:hidden; }
-#walt-text{
-  white-space:nowrap;
-  animation:tickerMove linear infinite;
-}
 
 /* ===== GENERIC TICKERS ===== */
 .ticker{
@@ -64,11 +70,6 @@ body{
 .ticker .scroll{
   flex:1;
   overflow:hidden;
-}
-
-.ticker .scroll div{
-  white-space:nowrap;
-  animation:tickerMove linear infinite;
 }
 
 /* STACK */
@@ -97,45 +98,55 @@ aside.card{width:35%;}
 
 <!-- BULLETIN -->
 <div id="live-bar">
-  <div id="live-bar-text">Loading bulletin...</div>
+  <div id="live-bar-text" class="mover">Loading bulletin...</div>
 </div>
 
 <!-- WALT -->
 <div id="walt-ticker">
   <div id="walt-ticker-label">WALT</div>
   <div id="walt-ticker-window">
-    <div id="walt-text">Loading WALT...</div>
+    <div id="walt-text" class="mover">Loading WALT...</div>
   </div>
 </div>
 
 <!-- WATCH -->
 <div class="ticker watch">
   <div class="label">WATCH</div>
-  <div class="scroll"><div id="watch-text"></div></div>
+  <div class="scroll">
+    <div id="watch-text" class="mover"></div>
+  </div>
 </div>
 
 <!-- WARNING -->
 <div class="ticker warning">
   <div class="label">WARNING</div>
-  <div class="scroll"><div id="warning-text"></div></div>
+  <div class="scroll">
+    <div id="warning-text" class="mover"></div>
+  </div>
 </div>
 
 <!-- REPORT -->
 <div class="ticker report">
   <div class="label">REPORTS</div>
-  <div class="scroll"><div id="report-text"></div></div>
+  <div class="scroll">
+    <div id="report-text" class="mover"></div>
+  </div>
 </div>
 
 <!-- RADAR -->
 <div class="ticker radar">
   <div class="label">RADAR</div>
-  <div class="scroll"><div id="radar-text"></div></div>
+  <div class="scroll">
+    <div id="radar-text" class="mover"></div>
+  </div>
 </div>
 
 <!-- HACKETT -->
 <div class="ticker hackett">
   <div class="label">HACKETT</div>
-  <div class="scroll"><div id="hackett-text"></div></div>
+  <div class="scroll">
+    <div id="hackett-text" class="mover"></div>
+  </div>
 </div>
 
 <div class="wrap">
@@ -166,7 +177,7 @@ aside.card{width:35%;}
 
 <script>
 
-/* ===== TICKERS ===== */
+/* ===== PER-TICKER LOADING + SPEED ===== */
 function loadTicker(file,id,fallback){
   fetch(file+"?_="+Date.now())
     .then(r=>r.text())
@@ -176,9 +187,9 @@ function loadTicker(file,id,fallback){
 
       el.textContent = text + "   •   ";
 
-      /* 🔥 PER-TICKER SPEED */
-      const speed = Math.max(20, text.length * 0.2);
-      el.style.animationDuration = speed + "s";
+      /* 🔥 independent speed per ticker */
+      const speed = Math.max(15, text.length * 0.25);
+      el.style.setProperty("--speed", speed + "s");
     })
     .catch(()=>{
       document.getElementById(id).textContent = fallback;
