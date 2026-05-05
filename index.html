@@ -177,7 +177,7 @@ function loadTicker(file,id,fallback){
       el.textContent = text + "   •   ";
 
       /* 🔥 PER-TICKER SPEED */
-      const speed = Math.max(20, text.length * 0.4);
+      const speed = Math.max(20, text.length * 0.2);
       el.style.animationDuration = speed + "s";
     })
     .catch(()=>{
