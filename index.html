@@ -17,6 +17,12 @@ body{
   font-family:Arial;
 }
 
+/* ===== ANIMATION ===== */
+@keyframes ticker{
+  from{ transform:translateX(0); }
+  to{ transform:translateX(-50%); }
+}
+
 /* ===== BULLETIN ===== */
 #live-bar{
   position:fixed;
@@ -29,9 +35,9 @@ body{
   z-index:9999;
 }
 #live-bar-scroll{
+  display:flex;
   white-space:nowrap;
-  padding-left:100%;
-  animation: tickerMove 60s linear infinite;
+  animation:ticker 120s linear infinite;
 }
 
 /* ===== WALT ===== */
@@ -44,19 +50,24 @@ body{
   color:#0f0;
   display:flex;
   align-items:center;
+  overflow:hidden;
   z-index:9998;
 }
 #walt-ticker-label{
   padding:0 10px;
   font-weight:bold;
 }
+#walt-ticker-window{
+  flex:1;
+  overflow:hidden;
+}
 #walt-ticker-scroll{
+  display:flex;
   white-space:nowrap;
-  padding-left:100%;
-  animation: tickerMove 80s linear infinite;
+  animation:ticker 180s linear infinite;
 }
 
-/* ===== GENERIC TICKER FIXED ===== */
+/* ===== GENERIC TICKER FIX ===== */
 .ticker{
   position:fixed;
   left:0;right:0;
@@ -76,25 +87,15 @@ body{
 .ticker .scroll{
   flex:1;
   overflow:hidden;
-  position:relative;
 }
 
-/* 🔥 FIXED SCROLL SYSTEM */
 .ticker .scroll div{
-  position:absolute;
+  display:flex;
   white-space:nowrap;
-  transform:translateX(100%);
-  animation: tickerMove linear infinite;
-  animation-duration: 40s;
+  animation:ticker 120s linear infinite;
 }
 
-/* NEW animation */
-@keyframes tickerMove{
-  from{ transform:translateX(100%); }
-  to{ transform:translateX(-100%); }
-}
-
-/* ===== STACK ===== */
+/* STACK */
 .watch{top:96px;background:#111;color:#facc15;}
 .warning{top:132px;background:#3f0000;color:#ff4d4d;}
 .report{top:168px;background:#001f3f;color:#66ccff;}
@@ -123,44 +124,75 @@ aside.card{width:35%;}
 <!-- BULLETIN -->
 <div id="live-bar">
   <div id="live-bar-scroll">
-    <span id="live-bar-text">Loading bulletin...</span>
+    <span id="live-bar-text"></span>
+    <span id="live-bar-text-dup"></span>
   </div>
 </div>
 
 <!-- WALT -->
 <div id="walt-ticker">
   <div id="walt-ticker-label">WALT</div>
-  <div id="walt-ticker-scroll">Loading WALT...</div>
+  <div id="walt-ticker-window">
+    <div id="walt-ticker-scroll">
+      <span id="walt-text"></span>
+      <span id="walt-text-dup"></span>
+    </div>
+  </div>
 </div>
 
 <!-- WATCH -->
 <div class="ticker watch">
   <div class="label">WATCH</div>
-  <div class="scroll"><div id="watch-text">Loading watches...</div></div>
+  <div class="scroll">
+    <div>
+      <span id="watch-text"></span>
+      <span id="watch-text-dup"></span>
+    </div>
+  </div>
 </div>
 
 <!-- WARNING -->
 <div class="ticker warning">
   <div class="label">WARNING</div>
-  <div class="scroll"><div id="warning-text">Loading warnings...</div></div>
+  <div class="scroll">
+    <div>
+      <span id="warning-text"></span>
+      <span id="warning-text-dup"></span>
+    </div>
+  </div>
 </div>
 
 <!-- REPORT -->
 <div class="ticker report">
   <div class="label">REPORTS</div>
-  <div class="scroll"><div id="report-text">Loading reports...</div></div>
+  <div class="scroll">
+    <div>
+      <span id="report-text"></span>
+      <span id="report-text-dup"></span>
+    </div>
+  </div>
 </div>
 
 <!-- RADAR -->
 <div class="ticker radar">
   <div class="label">RADAR</div>
-  <div class="scroll"><div id="radar-text">Loading radar...</div></div>
+  <div class="scroll">
+    <div>
+      <span id="radar-text"></span>
+      <span id="radar-text-dup"></span>
+    </div>
+  </div>
 </div>
 
 <!-- HACKETT -->
 <div class="ticker hackett">
   <div class="label">HACKETT</div>
-  <div class="scroll"><div id="hackett-text">Loading Hackett...</div></div>
+  <div class="scroll">
+    <div>
+      <span id="hackett-text"></span>
+      <span id="hackett-text-dup"></span>
+    </div>
+  </div>
 </div>
 
 <div class="wrap">
@@ -191,26 +223,24 @@ aside.card{width:35%;}
 
 <script>
 
-/* ===== TICKERS ===== */
+/* ===== TICKERS FIXED ===== */
 function loadTicker(file,id,fallback){
-  const el=document.getElementById(id);
-
   fetch(file+"?_="+Date.now())
     .then(r=>r.text())
     .then(t=>{
-      const text = t.trim()||fallback;
-      el.textContent=text;
-
-      /* 🔥 AUTO SPEED BASED ON LENGTH */
-      const speed = Math.max(20, text.length * 0.35);
-      el.style.animationDuration = speed + "s";
+      const text = (t.trim()||fallback) + "   •   ";
+      document.getElementById(id).textContent = text;
+      document.getElementById(id+"-dup").textContent = text;
     })
-    .catch(()=>el.textContent=fallback);
+    .catch(()=>{
+      document.getElementById(id).textContent = fallback;
+      document.getElementById(id+"-dup").textContent = fallback;
+    });
 }
 
 function loadAllTickers(){
   loadTicker("bulletin.txt","live-bar-text","No bulletin.");
-  loadTicker("walt.txt","walt-ticker-scroll","No WALT.");
+  loadTicker("walt.txt","walt-text","No WALT.");
   loadTicker("watch.txt","watch-text","No watches.");
   loadTicker("warning.txt","warning-text","No warnings.");
   loadTicker("reports.txt","report-text","No reports.");
@@ -221,7 +251,7 @@ function loadAllTickers(){
 loadAllTickers();
 setInterval(loadAllTickers,20000);
 
-/* ===== RADIO ===== */
+/* ===== RADIO (UNCHANGED) ===== */
 const GH_OWNER="Janeen1970";
 const GH_REPO="nccwc-media";
 const API_URL=`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/`;
