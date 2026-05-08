@@ -37,11 +37,6 @@ basement or small central room in a sturdy structure.
 This storm is producing large hail. SEEK SHELTER NOW inside a sturdy
 structure and stay away from windows!
 
-&&
-
-LAT...LON 3609 9569 3621 9564 3629 9556 3614 9516
-      3584 9537
-TIME...MOT...LOC 2324Z 300DEG 24KT 3615 9556 
 
 TORNADO...POSSIBLE
 THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
