@@ -48,47 +48,10 @@ Prepare immediately for large hail and damaging winds. People outside
 should move immediately to shelter inside a strong building. Stay
 away from windows.
 
-&&
-
-LAT...LON 3661 9581 3660 9581 3660 9568 3659 9558
-      3618 9561 3641 9632 3665 9621
-TIME...MOT...LOC 2152Z 289DEG 26KT 3648 9620 
-
 TORNADO...POSSIBLE
 THUNDERSTORM DAMAGE THREAT...DESTRUCTIVE
 HAIL THREAT...OBSERVED
 MAX HAIL SIZE...2.75 IN
 WIND THREAT...OBSERVED
 MAX WIND GUST...60 MPH
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Norman OK
-430 PM CDT Fri May 8 2026
-
-The National Weather Service in Norman has issued a
-
-* Severe Thunderstorm Warning for...
-  Southern Kingfisher County in central Oklahoma...
-  East central Blaine County in northwestern Oklahoma...
-  North central Canadian County in central Oklahoma...
-
-* Until 515 PM CDT.
-
-* At 430 PM CDT, a severe thunderstorm was located 4 miles east of
-  Watonga, moving east at 30 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations impacted include...
-  Watonga, Kingfisher, Okarche, Hitchcock, and Omega.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
 
