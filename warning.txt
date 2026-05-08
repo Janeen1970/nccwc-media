@@ -1,4 +1,66 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
+BULLETIN - EAS ACTIVATION REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+453 PM CDT Fri May 8 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Western Rogers County in northeastern Oklahoma...
+  East central Osage County in northeastern Oklahoma...
+  Southern Washington County in northeastern Oklahoma...
+  Northeastern Tulsa County in northeastern Oklahoma...
+
+* Until 545 PM CDT.
+
+* At 452 PM CDT, a severe thunderstorm was located 5 miles south of
+  Barnsdall, moving east at 30 mph.
+
+  THIS IS A DESTRUCTIVE STORM FOR Avant.
+
+  HAZARD...Baseball size hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be severely injured. 
+           Expect shattered windows, extensive damage to roofs, 
+           siding, and vehicles.
+
+* Locations in or near the path include...
+  Claremore...                      Owasso...
+  Skiatook...                       Collinsville...
+  Verdigris...                      Barnsdall...
+  Sperry...                         Oologah...
+  Ramona...                         Ochelata...
+  Avant...                          Talala...
+  Vera...                           Tallant...
+  Wolco...                          
+
+This includes Interstate 44 between mile markers 241 and 248.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
+
+Prepare immediately for large hail and damaging winds. People outside
+should move immediately to shelter inside a strong building. Stay
+away from windows.
+
+&&
+
+LAT...LON 3661 9581 3660 9581 3660 9568 3659 9558
+      3618 9561 3641 9632 3665 9621
+TIME...MOT...LOC 2152Z 289DEG 26KT 3648 9620 
+
+TORNADO...POSSIBLE
+THUNDERSTORM DAMAGE THREAT...DESTRUCTIVE
+HAIL THREAT...OBSERVED
+MAX HAIL SIZE...2.75 IN
+WIND THREAT...OBSERVED
+MAX WIND GUST...60 MPH
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Norman OK
 430 PM CDT Fri May 8 2026
@@ -30,37 +92,3 @@ PRECAUTIONARY/PREPAREDNESS ACTIONS...
 For your protection move to an interior room on the lowest floor of a
 building.
 
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-411 PM CDT Fri May 8 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Central Osage County in northeastern Oklahoma...
-
-* Until 500 PM CDT.
-
-* At 410 PM CDT, a severe thunderstorm was located 9 miles southwest
-  of Pawhuska, moving east at 25 mph.
-
-  HAZARD...Golf ball size hail and 60 mph wind gusts.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...People and animals outdoors will be injured. Expect hail 
-           damage to roofs, siding, windows, and vehicles. Expect 
-           wind damage to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Pawhuska...                       Hominy...
-  Fairfax...                        Barnsdall...
-  Wynona...                         Burbank...
-  Okesa...                          Pershing...
-  Nelagoney...                      Tallant...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-This storm is producing large hail. SEEK SHELTER NOW inside a sturdy
-structure and stay away from windows!
