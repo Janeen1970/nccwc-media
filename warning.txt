@@ -1,47 +1,17 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
-254 PM CDT Fri May 8 2026
+325 PM CDT Fri May 8 2026
 
 The National Weather Service in Tulsa has issued a
 
 * Severe Thunderstorm Warning for...
-  Northwestern Osage County in northeastern Oklahoma...
+  Central Osage County in northeastern Oklahoma...
 
-* Until 345 PM CDT.
+* Until 415 PM CDT.
 
-* At 253 PM CDT, a severe thunderstorm was located 3 miles southwest
-  of Kaw Lake, moving east at 25 mph.
-
-  HAZARD...Ping pong ball size hail and 60 mph wind gusts.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...People and animals outdoors will be injured. Expect hail 
-           damage to roofs, siding, windows, and vehicles. Expect 
-           wind damage to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Shidler...                        Burbank...
-  Webb City...                      Apperson...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building....BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Norman OK
-251 PM CDT Fri May 8 2026
-
-The National Weather Service in Norman has issued a
-
-* Severe Thunderstorm Warning for...
-  East central Kay County in northern Oklahoma...
-
-* Until 330 PM CDT.
-
-* At 251 PM CDT, a severe thunderstorm was located near Kaw Lake,
-  moving east at 25 mph.
+* At 325 PM CDT, a severe thunderstorm was located 4 miles southwest
+  of Burbank, moving southeast at 30 mph.
 
   HAZARD...Golf ball size hail and 60 mph wind gusts.
 
@@ -51,8 +21,10 @@ The National Weather Service in Norman has issued a
            damage to roofs, siding, windows, and vehicles. Expect 
            wind damage to roofs, siding, and trees.
 
-* Locations impacted include...
-  Ponca City, Kaw City, Kildare, and Kaw Lake.
+* Locations in or near the path include...
+  Pawhuska...                       Hominy...
+  Fairfax...                        Wynona...
+  Burbank...                        Apperson...
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
