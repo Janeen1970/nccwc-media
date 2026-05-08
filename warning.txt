@@ -1,17 +1,17 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
-325 PM CDT Fri May 8 2026
+411 PM CDT Fri May 8 2026
 
 The National Weather Service in Tulsa has issued a
 
 * Severe Thunderstorm Warning for...
   Central Osage County in northeastern Oklahoma...
 
-* Until 415 PM CDT.
+* Until 500 PM CDT.
 
-* At 325 PM CDT, a severe thunderstorm was located 4 miles southwest
-  of Burbank, moving southeast at 30 mph.
+* At 410 PM CDT, a severe thunderstorm was located 9 miles southwest
+  of Pawhuska, moving east at 25 mph.
 
   HAZARD...Golf ball size hail and 60 mph wind gusts.
 
@@ -23,10 +23,12 @@ The National Weather Service in Tulsa has issued a
 
 * Locations in or near the path include...
   Pawhuska...                       Hominy...
-  Fairfax...                        Wynona...
-  Burbank...                        Apperson...
+  Fairfax...                        Barnsdall...
+  Wynona...                         Burbank...
+  Okesa...                          Pershing...
+  Nelagoney...                      Tallant...
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-For your protection move to an interior room on the lowest floor of a
-building.
+This storm is producing large hail. SEEK SHELTER NOW inside a sturdy
+structure and stay away from windows!
