@@ -1,4 +1,63 @@
-BULLETIN - EAS ACTIVATION REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+847 PM CDT Fri May 8 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Eastern Haskell County in southeastern Oklahoma...
+  Northeastern McIntosh County in southeastern Oklahoma...
+  Southwestern Sequoyah County in east central Oklahoma...
+  Northwestern Le Flore County in southeastern Oklahoma...
+  Southeastern Muskogee County in east central Oklahoma...
+
+* Until 930 PM CDT.
+
+* At 847 PM CDT, a severe thunderstorm was located 3 miles southwest
+  of Warner, moving southeast at 40 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Stigler...                        Warner...
+  Gore...                           Porum...
+  Webbers Falls...                  Keota...
+  Mccurtain...                      Bokoshe...
+  Tamaha...                         Briartown...
+  Mc Curtain...                     Keefeton...
+  Cowlington...                     Kanima...
+  Milton...                         
+
+This includes Interstate 40 in Oklahoma between mile markers 268 and
+292.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3541 9550 3564 9530 3529 9466 3504 9486
+TIME...MOT...LOC 0147Z 303DEG 36KT 3545 9533 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+
+69
+
+
+...BULLETIN - EAS ACTIVATION REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 844 PM CDT Fri May 8 2026
