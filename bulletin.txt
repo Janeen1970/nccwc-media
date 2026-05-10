@@ -1,5 +1,4 @@
-NCCWC Regional Model Forecast Eastern Oklahoma and Western Arkansas: Saturday High 87° / Low 67° Strength: WEAK SYSTEM
-Severity: Showers / Weak Storms: Wind: 20–40 mph in Eastern Oklahoma, Latimer, Haskell, and Pushmataha counties. Sunday High 72° / Low 52° Strength: MODERATE SYSTEM
-Severity: Strong Storms Possible in Southeast Oklahoma and Southwest Arkansas. Wind: 40–60 mph winds, hail, low tornado risk. Monday High 71° / Low 51°, Tuesday High 79° / Low 59°, Wednesday High 88° / Low 68°, and Thursday High 89° / Low 69°, and Friday High 87° / Low 67°, Saturday High 87° / Low 67 Strength: WEAK SYSTEM
-Severity: Showers / Weak Storms Wind: 20–40 mph. Sunday High 82° / Low 62°.
+NCCWC Regional Model Forecast Eastern Oklahoma and Western Arkansas: Sunday High 77° / Low 57° Strength: MODERATE SYSTEM
+Severity: Strong Storms Possible in Southeast Oklahoma and Southwest Arkansas. Wind: 40–60 mph winds, hail, low tornado risk. Monday High 77° / Low 57°, Tuesday High 77° / Low 57°, Wednesday High 82° / Low 57°, and Thursday High 87° / Low 62°, and Friday High 92° / Low 67°, Saturday High 77° / Low 67 Strength: WEAK SYSTEM
+Severity: Showers / Weak Storms Wind: 20–40 mph. Sunday High 76° / Low 56°.
 
