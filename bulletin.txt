@@ -1,3 +1,2 @@
-NCCWC Regional Model Forecast Eastern Oklahoma and Western Arkansas: Monday High 84° / Low 57°, Tuesday High 84° / Low 64°, Wednesday High 87° / Low 67°, Thursday High 88° / Low 68°, Friday High 93° / Low 73°, Saturday High 92° / Low 72, and Sunday High 91° / Low 71° Strength: MODERATE SYSTEM Severity: Strong Storms Possible Wind: 40–60 mph winds, hail, low tornado risk.
-
+NCCWC Regional Model Forecast Eastern Oklahoma and Western Arkansas: Monday High 84° / Low 57°, Tuesday High 84° / Low 64°, Wednesday High 87° / Low 67°, Thursday High 88° / Low 68°, Friday High 93° / Low 73°, Saturday High 92° / Low 72, and Sunday High 91° / Low 71°The WALT Model AI detects a moderate system moving through the region Sunday. WALT Model AI suggests strong storms possible with 40–60 mph winds. Tornado potential is currently rated as low risk, while hail potential remains moderate.
 
