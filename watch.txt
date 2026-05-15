@@ -1,28 +1,70 @@
- URGENT - IMMEDIATE BROADCAST REQUESTED
-   Severe Thunderstorm Watch Number 202
+  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   345 PM CDT Thu May 14 2026
+   0100 AM CDT Fri May 15 2026
 
-   The NWS Storm Prediction Center has issued a
+   Valid 151200Z - 161200Z
 
-   * Severe Thunderstorm Watch for portions of 
-     Southwest and Central Kansas
-     Western Oklahoma
-     West Texas and Panhandle
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS OVER MUCH OF
+   IOWA...
 
-   * Effective this Thursday afternoon and evening from 345 PM until
-     1000 PM CDT.
+   ...SUMMARY...
+   Severe storms producing damaging winds and large hail are likely
+   from Iowa into northeast Kansas. Isolated hail or damaging wind
+   gusts are possible over a large area from western Texas into
+   Wisconsin and western Illinois.
 
-   * Primary threats include...
-     Scattered damaging winds and isolated significant gusts to 75
-       mph possible
-     Isolated large hail events to 1 inch in diameter possible
+   ...Synopsis...
+   Moderate westerly winds aloft will exist across the northern tier of
+   states today, with several waves from the Pacific Northwest to the
+   Great Lakes. The feature of interest will move across the Dakotas
+   and toward the upper MS Valley late in the day, aiding storm
+   development and severity from NE into WI. To the south, a weak
+   shortwave trough will move out of NM and into TX, with mid and high
+   level flow enhancement along with modest cooling aloft.
 
-   SUMMARY...Within a hot/well-mixed environment, high-based
-   thunderstorms will continue to intensify and progress eastward
-   through late afternoon and early evening. Severe-caliber wind gusts
-   may occur, along with some hail.
+   At the surface, low pressure will develop from southwest KS into the
+   TX Panhandle, with a front extending into NE, southern MN, and into
+   northern WI. Increasing southerly winds during the afternoon and
+   evening will bring 60s F dewpoints northward toward these
+   boundaries, with scattered severe storms likely late in the day and
+   centered near Iowa.
 
-   The severe thunderstorm watch area is approximately along and 75
-   statute miles east and west of a line from 30 miles west northwest
-   of Russell KS to 55 miles south southeast of Lubbock TX.
+   Farther south, very steep lapse rates and a subtle upper trough
+   should again result in widely scattered high-based storms producing
+   severe gusts over the southern High Plains.
+
+   ...IA into eastern NE and northeast KS...
+   Southerly winds and daytime heating will support moderate
+   instability this afternoon near a surface trough which will extend
+   from eastern NE into southern MN and northern WI. Dewpoints are
+   expected to reach into the lower 60s F, and perhaps approach 65 F
+   during the early evening. Meanwhile, midlevel temperatures will be
+   cool, resulting in steep lapse rates and robust CAPE profiles.
+
+   Storms are most likely to initiate during the late afternoon near
+   the IA/SD border, and extending northeastward into WI and perhaps
+   the central MI Upper Peninsula. Large hail will be possible with the
+   initial cells, supported by 60 kt deep-layer shear. Hail to 2.00"
+   diameter will be possible even into WI.
+
+   Farther south into IA, the deeper theta-e plume and increasing
+   low-level jet will enhance the severe wind risk, with an MCS
+   expected to develop and move east/southeast across the region.
+   Damaging winds with a few gusts over 70 mph are expected. Additional
+   clusters of severe storms are expected from southeast NE into
+   northeast KS as well, firmly within the low-level theta-e plume with
+   maximally deepened moist layer to 700 mb. Shear will not be as
+   strong, but the initial development is expected to be robust with
+   large hail and damaging wind gusts.
+
+   ...Southwest KS into western Texas...
+   Strong heating will yield very deep mixed layers near and south of
+   the Panhandles surface low, while midlevel temperatures remain cool
+   enough to support instability despite very low dewpoints. Meanwhile,
+   the aforementioned shortwave trough will enhance lift late in the
+   day. The result will be scattered high-based thunderstorms, with
+   severe wind gusts expected. Isolated gusts over 70 mph may occur.
+   Cells that develop into southwest TX may contain marginal hail as
+   well, with elongated hodographs in the mid to upper levels.
+
+   ..Jewell/Squitieri.. 05/15/2026
