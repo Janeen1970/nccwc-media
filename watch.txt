@@ -1,70 +1,66 @@
-  Day 1 Convective Outlook  
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0100 AM CDT Fri May 15 2026
+   1235 AM CDT Sat May 16 2026
 
-   Valid 151200Z - 161200Z
+   Valid 161200Z - 171200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS OVER MUCH OF
-   IOWA...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FROM NORTHEAST
+   COLORADO INTO WESTERN NEBRASKA AND KANSAS...
 
    ...SUMMARY...
-   Severe storms producing damaging winds and large hail are likely
-   from Iowa into northeast Kansas. Isolated hail or damaging wind
-   gusts are possible over a large area from western Texas into
-   Wisconsin and western Illinois.
+   Severe storms capable of large hail, wind damage and perhaps a
+   couple of tornadoes will be possible this afternoon and evening
+   across parts of the central Plains. Scattered thunderstorms will
+   also pose potential for strong to severe winds across the lower to
+   mid Missouri Valley.
 
    ...Synopsis...
-   Moderate westerly winds aloft will exist across the northern tier of
-   states today, with several waves from the Pacific Northwest to the
-   Great Lakes. The feature of interest will move across the Dakotas
-   and toward the upper MS Valley late in the day, aiding storm
-   development and severity from NE into WI. To the south, a weak
-   shortwave trough will move out of NM and into TX, with mid and high
-   level flow enhancement along with modest cooling aloft.
+   An upper trough will develop over the western states today, with
+   increasing southwest winds aloft late in the day and overnight
+   across the Rockies and into the High Plains. Preceding the western
+   trough, a progressive shortwave will move from the Great Lakes and
+   into the Northeast, allowing temporary height rises across the upper
+   Midwest/MS Valley. Behind this wave, high pressure will bring stable
+   conditions into the northern Plains.
 
-   At the surface, low pressure will develop from southwest KS into the
-   TX Panhandle, with a front extending into NE, southern MN, and into
-   northern WI. Increasing southerly winds during the afternoon and
-   evening will bring 60s F dewpoints northward toward these
-   boundaries, with scattered severe storms likely late in the day and
-   centered near Iowa.
+   At the surface, low pressure will develop over the central High
+   Plains, with a trough extending from eastern WY into western TX.
+   Meanwhile, a stalled front will be situated across northeast CO into
+   northern KS and toward IA/northern IL, with easterly winds across NE
+   and IA. A moist air mass will reside south of this boundary, with
+   60s F dewpoints prevalent. Backed winds will help bring this
+   moisture westward toward northeast CO and western NE by late
+   afternoon as 850 mb winds increase toward evening. Shear profiles
+   will thus become increasingly favorable from late afternoon through
+   evening for supercells, with large hail, damaging winds and perhaps
+   a couple tornadoes from CO into western NE/KS. 
 
-   Farther south, very steep lapse rates and a subtle upper trough
-   should again result in widely scattered high-based storms producing
-   severe gusts over the southern High Plains.
+   East of there, another concentration of strong to severe storms is
+   expected from eastern NE into IA, northern MO and northeast KS near
+   the boundary.
 
-   ...IA into eastern NE and northeast KS...
-   Southerly winds and daytime heating will support moderate
-   instability this afternoon near a surface trough which will extend
-   from eastern NE into southern MN and northern WI. Dewpoints are
-   expected to reach into the lower 60s F, and perhaps approach 65 F
-   during the early evening. Meanwhile, midlevel temperatures will be
-   cool, resulting in steep lapse rates and robust CAPE profiles.
+   Elsewhere, a broad fetch of 20-30 kt southerly 850 mb winds will
+   maintain a moist air mass across the lower to middle MS Valley and
+   across the OH Valley. Here, pockets of stronger instability will
+   support scattered strong storms during the afternoon.
 
-   Storms are most likely to initiate during the late afternoon near
-   the IA/SD border, and extending northeastward into WI and perhaps
-   the central MI Upper Peninsula. Large hail will be possible with the
-   initial cells, supported by 60 kt deep-layer shear. Hail to 2.00"
-   diameter will be possible even into WI.
+   ...Central Plains...
+   Storms are likely to form near the Front Range after 21Z, with
+   activity developing eastward into NE and KS. A few supercells appear
+   likely with time, producing damaging hail and severe wind gusts.
+   Westerly winds aloft atop the deep low-level easterlies will
+   elongate hodographs with over 50 kt effective shear, while SRH
+   values favor supercells and severe bows through evening.
 
-   Farther south into IA, the deeper theta-e plume and increasing
-   low-level jet will enhance the severe wind risk, with an MCS
-   expected to develop and move east/southeast across the region.
-   Damaging winds with a few gusts over 70 mph are expected. Additional
-   clusters of severe storms are expected from southeast NE into
-   northeast KS as well, firmly within the low-level theta-e plume with
-   maximally deepened moist layer to 700 mb. Shear will not be as
-   strong, but the initial development is expected to be robust with
-   large hail and damaging wind gusts.
+   Farther east, strong instability will develop near the east-west
+   boundary, with scattered severe storms developing around 21Z. Some
+   of these storms may produce hail over 2.00" diameter as lapse rates
+   aloft will remain steep, and with ample moisture. 
 
-   ...Southwest KS into western Texas...
-   Strong heating will yield very deep mixed layers near and south of
-   the Panhandles surface low, while midlevel temperatures remain cool
-   enough to support instability despite very low dewpoints. Meanwhile,
-   the aforementioned shortwave trough will enhance lift late in the
-   day. The result will be scattered high-based thunderstorms, with
-   severe wind gusts expected. Isolated gusts over 70 mph may occur.
-   Cells that develop into southwest TX may contain marginal hail as
-   well, with elongated hodographs in the mid to upper levels.
+   Additional isolated activity is possible along the dryline from
+   southwest KS into the eastern TX Panhandle and western OK. Here,
+   shear will be weak but a narrow zone of uncapped air mass with a
+   backing dryline may support isolated storms with locally severe hail
+   or wind gusts.
 
-   ..Jewell/Squitieri.. 05/15/2026
+   ..Jewell/Squitieri.. 05/16/2026
