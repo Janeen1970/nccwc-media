@@ -1,89 +1,45 @@
- Day 1 Convective Outlook  
+ Mesoscale Discussion 0755
    NWS Storm Prediction Center Norman OK
-   0110 AM CDT Sun May 17 2026
+   0338 PM CDT Sun May 17 2026
 
-   Valid 171200Z - 181200Z
+   Areas affected...portions of the central Great Plains
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE
-   CENTRAL PLAINS/MIDDLE MISSOURI VALLEY...
+   Concerning...Severe potential...Watch possible 
 
-   ...SUMMARY...
-   Severe storms are expected this afternoon into tonight across the
-   central Plains to the Upper Midwest. Supercells with very large hail
-   and strong tornadoes are possible, before one or more linear
-   clusters of storms leads to an increase in wind-damage potential by
-   evening.
+   Valid 172038Z - 172245Z
 
-   ...Colorado/Central Plains to Upper Midwest...
-   An active severe-weather day is expected regionally. A consequential
-   late-evening/overnight MCS and related outflow across
-   Nebraska/northern Kansas to southern Iowa and northern Missouri will
-   likely be a lingering factor for later today. For one, this includes
-   some southeastward regional adjustment in severe probabilities
-   across areas such as eastern Nebraska/western Iowa and northeast
-   Kansas/far northwest Missouri.
+   Probability of Watch Issuance...40 percent
 
-   One or more embedded disturbances will emerge this afternoon from
-   the central Rockies amid increasingly prevalent cyclonic flow aloft
-   in advance of an amplifying large-scale trough over the West. Lee
-   cyclogenesis will occur across the central High Plains, with a
-   northward advection of moisture, and post-MCS-related air mass
-   recovery across eastern portions of Kansas/Nebraska into Iowa
-   through late afternoon in association with a warm front, and ahead
-   of a southeast-progressing cold front across the north-central High
-   Plains.
+   SUMMARY...Isolated thunderstorm development is possible across the
+   eastern Texas Panhandle, northwest Oklahoma, and south-central
+   Kansas along a dryline this evening, with a conditional threat for
+   all severe hazards. Trends are being monitored for possible watch
+   issuance.
 
-   Initial thunderstorm development is expected across northeast
-   Colorado into southwest Nebraska within a low-level upslope flow
-   regime ahead of the approaching synoptic cold front. These storms
-   will be capable of large hail given very steep lapse rates, strong
-   vertical shear and elongated/straight hodographs.
+   DISCUSSION...Latest surface analysis depicts a surface low near the
+   Kansas/Nebraska border with a trailing dryline extending
+   south-southwestward through central Kansas into northwest Oklahoma
+   and the Texas Panhandle, with recent visible satellite imagery
+   depicting sporadic Cu developing along this boundary. East of the
+   dryline, steep mid-level lapse rates (8.5+ C/km) and rich low-level
+   moisture (as sampled by the 18z OUN/DDC observed soundings) are
+   supporting strong instability, with 2500-3500+ J/kg MLCAPE analyzed
+   via latest mesoanalysis. 
 
-   By late afternoon/early evening, quickly intensifying deep
-   convection is expected farther east within the warm sector and near
-   and east/northeast of a surface triple point across parts of eastern
-   Nebraska and far southeast South Dakota/northwest Iowa, initially
-   including intense supercells capable of very large hail and
-   tornadoes, some of which could be strong. Backed low-level winds
-   within the warm sector, veering with height, will contribute to
-   increasing low-level SRH and favorably curved low-level hodographs.
-   While the corridor for discrete supercells will be narrow, partly
-   due to capping as well as the advancing cold front resulting in
-   upscale growth, the expectation is for a few supercells capable of
-   producing strong tornadoes and large to very large hail, with a
-   somewhat longer duration for more discrete storms with southward
-   extent across eastern Nebraska into northeast Kansas.
+   Notable uncertainty remains regarding the development of sustained
+   thunderstorms owing to strong capping sampled by the 18z OUN
+   sounding and nebulous upper-level forcing. While effective shear is
+   forecast to remain modest (generally 25-35 kts), a conditional
+   severe threat exists should a storm develop. The aforementioned
+   steep mid-level lapse rates and modest effective shear would support
+   a threat for large hail, with a strengthening southerly low-level
+   jet also promoting an increasing tornado threat this evening with
+   any developing/persistent supercells. Some high-res guidance also
+   suggests some potential for the development of a linear segment,
+   which would favor a greater risk for severe/damaging wind gusts.
 
-   With time, one or more linear/bowing segments is expected to develop
-   near the east/southeast-advancing cold front and as the low-level
-   jet significantly increases during the evening. An attendant risk of
-   severe wind gusts will accompany this activity. The severe risk will
-   diminish with time and eastward extent during the nighttime hours as
-   instability weakens and capping increases.
+   Trends will continue to be monitored, and watch issuance could be
+   needed should convective initiation appear likely/imminent given
+   this conditional severe threat.
 
-   ...Kansas/Oklahoma and North Texas...
-   While there are some uncertainties related to capping, particularly
-   with southward extent, at least isolated high-based convection is
-   expected regionally late in the afternoon, particularly for the
-   Kansas and western Oklahoma/eastern Texas Panhandle portion of the
-   dryline. Given very steep low to mid-level lapse rates, moderate
-   instability, and supercell-supportive wind profiles, large to very
-   large hail and strong/severe wind gusts will be possible.
-
-   ...Northern Illinois and Wisconsin to Lower Michigan...
-   While the influences of the early morning MCS across the Corn Belt
-   are not certain, potentially including lingering cloud cover, there
-   is some potential for at least isolated strong/severe storm
-   development near the northward-shifting warm front. This could
-   potentially include a few supercells and related hazards through the
-   afternoon/early evening.
-
-   ...Southeast/Florida Peninsula...
-   On the western periphery of the western Atlantic anticyclone,
-   diurnally maximized thunderstorm development should focus from the
-   southern Appalachians across Georgia and interior/western Florida
-   Peninsula. Thermodynamic environment should be supportive of
-   strong/locally severe storms capable of wind damage/downbursts, and
-   possibly some hail.
-
-   ..Guyer/Squitieri.. 05/17/2026
+   ..Chalmers/Mosier.. 05/17/2026
