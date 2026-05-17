@@ -1,45 +1,41 @@
- Mesoscale Discussion 0755
+Mesoscale Discussion 0758
    NWS Storm Prediction Center Norman OK
-   0338 PM CDT Sun May 17 2026
+   0519 PM CDT Sun May 17 2026
 
-   Areas affected...portions of the central Great Plains
+   Areas affected...extreme eastern Texas Panhandle...northwest
+   Oklahoma into south-central Kansas
 
-   Concerning...Severe potential...Watch possible 
+   Concerning...Severe potential...Watch likely 
 
-   Valid 172038Z - 172245Z
+   Valid 172219Z - 180045Z
 
-   Probability of Watch Issuance...40 percent
+   Probability of Watch Issuance...80 percent
 
-   SUMMARY...Isolated thunderstorm development is possible across the
-   eastern Texas Panhandle, northwest Oklahoma, and south-central
-   Kansas along a dryline this evening, with a conditional threat for
-   all severe hazards. Trends are being monitored for possible watch
-   issuance.
+   SUMMARY...At least isolated supercells are possible later this
+   afternoon and into the early evening. The conditional risk of very
+   large damaging hail is high, along with a risk of a couple
+   tornadoes. The area is being monitored for initial deep convection.
 
-   DISCUSSION...Latest surface analysis depicts a surface low near the
-   Kansas/Nebraska border with a trailing dryline extending
-   south-southwestward through central Kansas into northwest Oklahoma
-   and the Texas Panhandle, with recent visible satellite imagery
-   depicting sporadic Cu developing along this boundary. East of the
-   dryline, steep mid-level lapse rates (8.5+ C/km) and rich low-level
-   moisture (as sampled by the 18z OUN/DDC observed soundings) are
-   supporting strong instability, with 2500-3500+ J/kg MLCAPE analyzed
-   via latest mesoanalysis. 
+   DISCUSSION...High based convection currently exists within the
+   low-level lapse rates plume west of the dryline from the TX
+   Panhandle into far southwest KS where temperatures have reached 100
+   F. Meanwhile, mid 90s F extend into much of northwest OK, where
+   little convective inhibition remains.
 
-   Notable uncertainty remains regarding the development of sustained
-   thunderstorms owing to strong capping sampled by the 18z OUN
-   sounding and nebulous upper-level forcing. While effective shear is
-   forecast to remain modest (generally 25-35 kts), a conditional
-   severe threat exists should a storm develop. The aforementioned
-   steep mid-level lapse rates and modest effective shear would support
-   a threat for large hail, with a strengthening southerly low-level
-   jet also promoting an increasing tornado threat this evening with
-   any developing/persistent supercells. Some high-res guidance also
-   suggests some potential for the development of a linear segment,
-   which would favor a greater risk for severe/damaging wind gusts.
+   Low-level moisture is in the process of increasing from the
+   southeast. GPS PWAT values around 1.25" are moving across central
+   OK, while values near 1.60" are noted near the Red River. This
+   suggests higher-quality boundary layer moisture will eventually
+   spread northwestward into the strongly heated zone from the TX
+   Panhandle into northwest OK later this afternoon into the early
+   evening.
 
-   Trends will continue to be monitored, and watch issuance could be
-   needed should convective initiation appear likely/imminent given
-   this conditional severe threat.
+   Modified 18Z OUN sounding indicates low to mid 90s F temperatures
+   are needed to remove inhibition. This will become more likely as the
+   moisture spreads northwestward. Steep midlevel lapse rates over 8.0
+   C/km along with about 40 kt deep-layer shear oriented west-east
+   across the dryline suggest supercells with very large hail potential
+   will be possible. A tornado, even strong, cannot be ruled out with
+   any longer tracked supercell.
 
-   ..Chalmers/Mosier.. 05/17/2026
+   ..Jewell/Smith.. 05/17/2026
