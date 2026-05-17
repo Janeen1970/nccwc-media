@@ -1,66 +1,89 @@
  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1235 AM CDT Sat May 16 2026
+   0110 AM CDT Sun May 17 2026
 
-   Valid 161200Z - 171200Z
+   Valid 171200Z - 181200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FROM NORTHEAST
-   COLORADO INTO WESTERN NEBRASKA AND KANSAS...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE
+   CENTRAL PLAINS/MIDDLE MISSOURI VALLEY...
 
    ...SUMMARY...
-   Severe storms capable of large hail, wind damage and perhaps a
-   couple of tornadoes will be possible this afternoon and evening
-   across parts of the central Plains. Scattered thunderstorms will
-   also pose potential for strong to severe winds across the lower to
-   mid Missouri Valley.
+   Severe storms are expected this afternoon into tonight across the
+   central Plains to the Upper Midwest. Supercells with very large hail
+   and strong tornadoes are possible, before one or more linear
+   clusters of storms leads to an increase in wind-damage potential by
+   evening.
 
-   ...Synopsis...
-   An upper trough will develop over the western states today, with
-   increasing southwest winds aloft late in the day and overnight
-   across the Rockies and into the High Plains. Preceding the western
-   trough, a progressive shortwave will move from the Great Lakes and
-   into the Northeast, allowing temporary height rises across the upper
-   Midwest/MS Valley. Behind this wave, high pressure will bring stable
-   conditions into the northern Plains.
+   ...Colorado/Central Plains to Upper Midwest...
+   An active severe-weather day is expected regionally. A consequential
+   late-evening/overnight MCS and related outflow across
+   Nebraska/northern Kansas to southern Iowa and northern Missouri will
+   likely be a lingering factor for later today. For one, this includes
+   some southeastward regional adjustment in severe probabilities
+   across areas such as eastern Nebraska/western Iowa and northeast
+   Kansas/far northwest Missouri.
 
-   At the surface, low pressure will develop over the central High
-   Plains, with a trough extending from eastern WY into western TX.
-   Meanwhile, a stalled front will be situated across northeast CO into
-   northern KS and toward IA/northern IL, with easterly winds across NE
-   and IA. A moist air mass will reside south of this boundary, with
-   60s F dewpoints prevalent. Backed winds will help bring this
-   moisture westward toward northeast CO and western NE by late
-   afternoon as 850 mb winds increase toward evening. Shear profiles
-   will thus become increasingly favorable from late afternoon through
-   evening for supercells, with large hail, damaging winds and perhaps
-   a couple tornadoes from CO into western NE/KS. 
+   One or more embedded disturbances will emerge this afternoon from
+   the central Rockies amid increasingly prevalent cyclonic flow aloft
+   in advance of an amplifying large-scale trough over the West. Lee
+   cyclogenesis will occur across the central High Plains, with a
+   northward advection of moisture, and post-MCS-related air mass
+   recovery across eastern portions of Kansas/Nebraska into Iowa
+   through late afternoon in association with a warm front, and ahead
+   of a southeast-progressing cold front across the north-central High
+   Plains.
 
-   East of there, another concentration of strong to severe storms is
-   expected from eastern NE into IA, northern MO and northeast KS near
-   the boundary.
+   Initial thunderstorm development is expected across northeast
+   Colorado into southwest Nebraska within a low-level upslope flow
+   regime ahead of the approaching synoptic cold front. These storms
+   will be capable of large hail given very steep lapse rates, strong
+   vertical shear and elongated/straight hodographs.
 
-   Elsewhere, a broad fetch of 20-30 kt southerly 850 mb winds will
-   maintain a moist air mass across the lower to middle MS Valley and
-   across the OH Valley. Here, pockets of stronger instability will
-   support scattered strong storms during the afternoon.
+   By late afternoon/early evening, quickly intensifying deep
+   convection is expected farther east within the warm sector and near
+   and east/northeast of a surface triple point across parts of eastern
+   Nebraska and far southeast South Dakota/northwest Iowa, initially
+   including intense supercells capable of very large hail and
+   tornadoes, some of which could be strong. Backed low-level winds
+   within the warm sector, veering with height, will contribute to
+   increasing low-level SRH and favorably curved low-level hodographs.
+   While the corridor for discrete supercells will be narrow, partly
+   due to capping as well as the advancing cold front resulting in
+   upscale growth, the expectation is for a few supercells capable of
+   producing strong tornadoes and large to very large hail, with a
+   somewhat longer duration for more discrete storms with southward
+   extent across eastern Nebraska into northeast Kansas.
 
-   ...Central Plains...
-   Storms are likely to form near the Front Range after 21Z, with
-   activity developing eastward into NE and KS. A few supercells appear
-   likely with time, producing damaging hail and severe wind gusts.
-   Westerly winds aloft atop the deep low-level easterlies will
-   elongate hodographs with over 50 kt effective shear, while SRH
-   values favor supercells and severe bows through evening.
+   With time, one or more linear/bowing segments is expected to develop
+   near the east/southeast-advancing cold front and as the low-level
+   jet significantly increases during the evening. An attendant risk of
+   severe wind gusts will accompany this activity. The severe risk will
+   diminish with time and eastward extent during the nighttime hours as
+   instability weakens and capping increases.
 
-   Farther east, strong instability will develop near the east-west
-   boundary, with scattered severe storms developing around 21Z. Some
-   of these storms may produce hail over 2.00" diameter as lapse rates
-   aloft will remain steep, and with ample moisture. 
+   ...Kansas/Oklahoma and North Texas...
+   While there are some uncertainties related to capping, particularly
+   with southward extent, at least isolated high-based convection is
+   expected regionally late in the afternoon, particularly for the
+   Kansas and western Oklahoma/eastern Texas Panhandle portion of the
+   dryline. Given very steep low to mid-level lapse rates, moderate
+   instability, and supercell-supportive wind profiles, large to very
+   large hail and strong/severe wind gusts will be possible.
 
-   Additional isolated activity is possible along the dryline from
-   southwest KS into the eastern TX Panhandle and western OK. Here,
-   shear will be weak but a narrow zone of uncapped air mass with a
-   backing dryline may support isolated storms with locally severe hail
-   or wind gusts.
+   ...Northern Illinois and Wisconsin to Lower Michigan...
+   While the influences of the early morning MCS across the Corn Belt
+   are not certain, potentially including lingering cloud cover, there
+   is some potential for at least isolated strong/severe storm
+   development near the northward-shifting warm front. This could
+   potentially include a few supercells and related hazards through the
+   afternoon/early evening.
 
-   ..Jewell/Squitieri.. 05/16/2026
+   ...Southeast/Florida Peninsula...
+   On the western periphery of the western Atlantic anticyclone,
+   diurnally maximized thunderstorm development should focus from the
+   southern Appalachians across Georgia and interior/western Florida
+   Peninsula. Thermodynamic environment should be supportive of
+   strong/locally severe storms capable of wind damage/downbursts, and
+   possibly some hail.
+
+   ..Guyer/Squitieri.. 05/17/2026
