@@ -1,70 +1,78 @@
- Day 2 Convective Outlook  
+  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1230 PM CDT Sun May 17 2026
+   1255 AM CDT Mon May 18 2026
 
    Valid 181200Z - 191200Z
 
-   ...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS FROM CENTRAL
-   KANSAS TO SOUTHEAST NEBRASKA...
+   ...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS ACROSS
+   EASTERN/SOUTH-CENTRAL KANSAS AND SOUTHEAST NEBRASKA/FAR NORTHWEST
+   MISSOURI...
 
    ...SUMMARY...
-   Numerous severe thunderstorms are expected to develop Monday along a
-   cold front and dryline extending from the Great Lakes into the
-   central/southern Plains. Supercells capable of very large hail and
-   strong to intense tornadoes are most likely from central Kansas into
-   southeast Nebraska.
+   Numerous severe thunderstorms are expected this afternoon and
+   evening across the south-central Plains and Middle Missouri Valley.
+   Supercells capable of very large hail and strong to intense
+   tornadoes are most likely from central Kansas and southeast Nebraska
+   into Iowa and northwest Missouri.
 
-   ...Synopsis...
-   A midlevel shortwave trough, now approaching the northern Great
-   Basin, will move to near the Four Corners by Monday morning and then
-   eject northeastward over northwest KS/NE during the afternoon and to
-   the upper MS Valley by early Tuesday.  This path will be along and
-   just northwest of a stalled baroclinic zone from the central Plains
-   into the upper MS Valley, such that the primary height falls and
-   forcing for ascent will brush the northwest side of the surface warm
-   sector from KS to IA.  A remnant lee cyclone will persist through
-   the afternoon near the southwest KS/OK Panhandle border, prior to a
-   surge of the cold front in the immediate wake of the midlevel
-   trough.  Downstream from the ejecting trough, surface cyclogenesis
-   is expected Monday night from IA into WI along a stalled front.
+   ...Central Plains and Midwest...
+   A regional outbreak of severe storms, potentially including
+   strong/intense tornadoes (EF2/EF3+), is expected across the central
+   Plains during the late afternoon and evening, although some
+   uncertainties persist regarding the upper-end magnitude/spatial
+   details of the heightened tornado potential. An extensive MCS exists
+   early in the overnight from eastern/central Iowa southwestward into
+   northeast/central Kansas, where regenerative/repetitive storms
+   persist. 
 
-   ...KS to IA...
-   There are a few questions surrounding the forecast for Monday
-   afternoon/night.  The northeast extent of the unstable warm sector
-   will depend on the persistence of rain-cooled air with morning
-   convection across IA/northern MO/northwest IL.  This convection and
-   an associated MCV could continue eastward through the day across
-   central/northern IL, northern IN, northwest OH and Lower MI with the
-   potential for occasional wind damage and isolated large hail.  The
-   west edge of the remnant cold pool should modify by
-   afternoon/evening from the MO/KS/NE border area into IA, prior to
-   thunderstorm development along the stalled front (and immediately in
-   advance of glancing influence of the ejecting midlevel trough)
-   21-00z from central KS into southeast NE and western IA.
+   This MCS should weaken/lose integrity through the early morning,
+   although convection may regenerate and intensify again along
+   composite outflow, eastward across the middle Mississippi Valley and
+   lower Ohio Valley and potentially parts of the Great Lakes within a
+   destabilizing air mass this afternoon. Damaging winds should be the
+   most probable risk, although some tornado and hail potential will
+   exist as well.
 
-   Rich low-level moisture (boundary-layer dewpoints 68-72 F) is
-   spreading northward now from TX to OK and will be established in the
-   warm sector Monday.  The moisture will reside beneath an elevated
-   mixed layer with 8-9 C/km midlevel lapse rates and will combine with
-   daytime heating to drive MLCAPE of 3000-4000 J/kg.  Mass response to
-   the ejecting wave and the typical evening ramp up of a low-level jet
-   will result in favorable wind profiles/hodographs for supercells
-   capable of producing strong-intense tornadoes and very large hail. 
-   The duration of a semi-discrete storm mode is another question,
-   given the parallel orientation of the stalled front and the
-   deep-layer shear vectors, in combination with focused ascent.  Thus,
-   the strong tornado threat will peak prior to upscale growth into
-   line segments along the front, with severe outflow gusts and
-   embedded circulations becoming the main concerns into Monday night.
+   The western fringe of this remnant cold pool will modify early today
+   with a steady northward flux of low-level moisture, with a very
+   unstable environment unfolding by mid/late afternoon across
+   south-central/eastern Kansas into far west/northwest Missouri and
+   Iowa/far southeast Nebraska. As a shortwave trough/speed max emerges
+   from the central Rockies, deep convective development is expected
+   along the initially stalled or slow-moving
+   northeast/southwest-oriented front across central/northeast Kansas
+   and southeast Nebraska and western Iowa by late afternoon.
 
-   ...OK/northwest TX...
-   Storm development along the dryline to the south in OK/northwest TX
-   is more uncertain given little forcing for ascent.  If storms do
-   form, there will be a conditional threat for tornadoes and very
-   large hail.  A consistent forecast weakness in the flow above 500 mb
+   This increasingly rich low-level moisture will reside beneath an
+   elevated mixed layer characterized by 8-9 C/km mid-level lapse
+   rates, resulting in MLCAPE 3000-4000 J/kg. Mass response to the
+   ejecting wave, along with a northeastward-translating 60-70 kt
+   mid-level jet, and a significantly strengthening low-level jet by
+   sunset, will yield increasingly favorable wind profiles for intense
+   supercells capable of very large hail and tornadoes. This may
+   includes strong and potentially intense tornadoes (EF2/EF3+). That
+   said, the duration of a semi-discrete storm mode remains a key
+   question, given the parallel orientation of the stalled front and
+   the deep-layer shear vectors, and that the front will trend more
+   southeastward-progressive during the evening. Thus, the
+   strong/potentially intense tornado threat will peak prior to upscale
+   growth into line segments along the front, with severe outflow gusts
+   and embedded circulations becoming the main concerns over time
+   tonight as storms progress east-southeastward across the Lower
+   Missouri Valley and middle Mississippi Valley.
+
+   ...Oklahoma and western North Texas...
+   Storm development along the dryline across western Oklahoma into
+   western North Texas/Lower Rolling Plains is more uncertain given
+   more limited forcing for ascent. If/where storms do form, there is
+   the potential for very large hail and a conditional risk for
+   tornadoes. A consistently forecast flow weakness above 400 mb
    by late afternoon/evening does not appear favorable for particularly
-   long-lived storms if they do form.  The more probable scenario
-   remains a back-building line of storms along the cold front with
-   occasional hail/wind Monday night.
+   long-lived storms if they do form.
 
-   ..Thompson.. 05/17/2026
+   ...Mid-Atlantic/Northeast States...
+   Influenced by terrain and a surface trough, isolated strong to
+   locally severe storms capable of wind damage could occur this
+   afternoon within a moderately unstable environment.
+
+   ..Guyer/Squitieri.. 05/18/2026
