@@ -1,2 +1,2 @@
-NCCWC in-house live radarRun Time: 5/18/2026, 5:05:40 PM
-Mode: SEVERE MODE...Severe storm detected in Southwest Oklahoma.
+NCCWC in-house live radar Run Time: 5/18/2026, 5:36:25 PM
+Mode: NORMAL RAIN MODE...No rain detected in East Oklahoma or West Arkansas. 
