@@ -1,41 +1,70 @@
-Mesoscale Discussion 0758
+ Day 2 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0519 PM CDT Sun May 17 2026
+   1230 PM CDT Sun May 17 2026
 
-   Areas affected...extreme eastern Texas Panhandle...northwest
-   Oklahoma into south-central Kansas
+   Valid 181200Z - 191200Z
 
-   Concerning...Severe potential...Watch likely 
+   ...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS FROM CENTRAL
+   KANSAS TO SOUTHEAST NEBRASKA...
 
-   Valid 172219Z - 180045Z
+   ...SUMMARY...
+   Numerous severe thunderstorms are expected to develop Monday along a
+   cold front and dryline extending from the Great Lakes into the
+   central/southern Plains. Supercells capable of very large hail and
+   strong to intense tornadoes are most likely from central Kansas into
+   southeast Nebraska.
 
-   Probability of Watch Issuance...80 percent
+   ...Synopsis...
+   A midlevel shortwave trough, now approaching the northern Great
+   Basin, will move to near the Four Corners by Monday morning and then
+   eject northeastward over northwest KS/NE during the afternoon and to
+   the upper MS Valley by early Tuesday.  This path will be along and
+   just northwest of a stalled baroclinic zone from the central Plains
+   into the upper MS Valley, such that the primary height falls and
+   forcing for ascent will brush the northwest side of the surface warm
+   sector from KS to IA.  A remnant lee cyclone will persist through
+   the afternoon near the southwest KS/OK Panhandle border, prior to a
+   surge of the cold front in the immediate wake of the midlevel
+   trough.  Downstream from the ejecting trough, surface cyclogenesis
+   is expected Monday night from IA into WI along a stalled front.
 
-   SUMMARY...At least isolated supercells are possible later this
-   afternoon and into the early evening. The conditional risk of very
-   large damaging hail is high, along with a risk of a couple
-   tornadoes. The area is being monitored for initial deep convection.
+   ...KS to IA...
+   There are a few questions surrounding the forecast for Monday
+   afternoon/night.  The northeast extent of the unstable warm sector
+   will depend on the persistence of rain-cooled air with morning
+   convection across IA/northern MO/northwest IL.  This convection and
+   an associated MCV could continue eastward through the day across
+   central/northern IL, northern IN, northwest OH and Lower MI with the
+   potential for occasional wind damage and isolated large hail.  The
+   west edge of the remnant cold pool should modify by
+   afternoon/evening from the MO/KS/NE border area into IA, prior to
+   thunderstorm development along the stalled front (and immediately in
+   advance of glancing influence of the ejecting midlevel trough)
+   21-00z from central KS into southeast NE and western IA.
 
-   DISCUSSION...High based convection currently exists within the
-   low-level lapse rates plume west of the dryline from the TX
-   Panhandle into far southwest KS where temperatures have reached 100
-   F. Meanwhile, mid 90s F extend into much of northwest OK, where
-   little convective inhibition remains.
+   Rich low-level moisture (boundary-layer dewpoints 68-72 F) is
+   spreading northward now from TX to OK and will be established in the
+   warm sector Monday.  The moisture will reside beneath an elevated
+   mixed layer with 8-9 C/km midlevel lapse rates and will combine with
+   daytime heating to drive MLCAPE of 3000-4000 J/kg.  Mass response to
+   the ejecting wave and the typical evening ramp up of a low-level jet
+   will result in favorable wind profiles/hodographs for supercells
+   capable of producing strong-intense tornadoes and very large hail. 
+   The duration of a semi-discrete storm mode is another question,
+   given the parallel orientation of the stalled front and the
+   deep-layer shear vectors, in combination with focused ascent.  Thus,
+   the strong tornado threat will peak prior to upscale growth into
+   line segments along the front, with severe outflow gusts and
+   embedded circulations becoming the main concerns into Monday night.
 
-   Low-level moisture is in the process of increasing from the
-   southeast. GPS PWAT values around 1.25" are moving across central
-   OK, while values near 1.60" are noted near the Red River. This
-   suggests higher-quality boundary layer moisture will eventually
-   spread northwestward into the strongly heated zone from the TX
-   Panhandle into northwest OK later this afternoon into the early
-   evening.
+   ...OK/northwest TX...
+   Storm development along the dryline to the south in OK/northwest TX
+   is more uncertain given little forcing for ascent.  If storms do
+   form, there will be a conditional threat for tornadoes and very
+   large hail.  A consistent forecast weakness in the flow above 500 mb
+   by late afternoon/evening does not appear favorable for particularly
+   long-lived storms if they do form.  The more probable scenario
+   remains a back-building line of storms along the cold front with
+   occasional hail/wind Monday night.
 
-   Modified 18Z OUN sounding indicates low to mid 90s F temperatures
-   are needed to remove inhibition. This will become more likely as the
-   moisture spreads northwestward. Steep midlevel lapse rates over 8.0
-   C/km along with about 40 kt deep-layer shear oriented west-east
-   across the dryline suggest supercells with very large hail potential
-   will be possible. A tornado, even strong, cannot be ruled out with
-   any longer tracked supercell.
-
-   ..Jewell/Smith.. 05/17/2026
+   ..Thompson.. 05/17/2026
