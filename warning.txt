@@ -1,1 +1,49 @@
-No weather warnings for East Oklahoma or West Arkansas.
+Flood Advisory
+National Weather Service Tulsa OK
+840 AM CDT Tue May 19 2026
+
+ARC007-143-191645-
+/O.NEW.KTSA.FA.Y.0050.260519T1340Z-260519T1645Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Benton AR-Washington AR-
+840 AM CDT Tue May 19 2026
+
+...FLOOD ADVISORY IN EFFECT UNTIL 1145 AM CDT THIS MORNING...
+
+* WHAT...Flooding caused by excessive rainfall is expected.
+
+* WHERE...A portion of northwest Arkansas, including the following
+  counties, Benton and Washington AR.
+
+* WHEN...Until 1145 AM CDT.
+
+* IMPACTS...Minor flooding in low-lying and poor drainage areas.
+  Ponding of water in urban or other areas is occurring or is
+  imminent.
+
+* ADDITIONAL DETAILS...
+  - At 839 AM CDT, Doppler radar indicated heavy rain due to
+    thunderstorms. Minor flooding is ongoing or expected to begin
+    shortly in the advisory area. Estimates of up to 1.5 inches
+    of rain have fallen.
+  - Additional rainfall amounts up to 1 inch and locally higher
+    are expected over the area. This additional rain will result
+    in minor flooding.
+  - Some locations that will experience flooding include...
+    Fayetteville...                    Springdale...
+    Rogers...                          Bentonville...
+    Bella Vista...                     Lowell...
+    Pea Ridge...                       Tontitown...
+    Cave Springs...                    Highfill...
+    Gateway...                         War Eagle...
+    Northwest Arkansas Regional Airport...Miller...
+    Centerton...                       Elm Springs...
+    Avoca...                           Monte Ne...
+    Walnut Hill...                     Hill Top...
+  - http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around, don`t drown when encountering flooded roads. Most flood
+deaths occur in vehicles.
+
