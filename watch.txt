@@ -1,30 +1,56 @@
- URGENT - IMMEDIATE BROADCAST REQUESTED
-   Severe Thunderstorm Watch Number 229
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1135 PM CDT Mon May 18 2026
+   1243 AM CDT Tue May 19 2026
 
-   The NWS Storm Prediction Center has issued a
+   Valid 191200Z - 201200Z
 
-   * Severe Thunderstorm Watch for portions of 
-     Southeast Kansas
-     Far Southwest Missouri
-     North-Central and Far Northeast Oklahoma
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM PARTS OF THE
+   SOUTHERN PLAINS INTO THE MID MISSISSIPPI VALLEY...AND LOWER GREAT
+   LAKES...
 
-   * Effective this Monday night and Tuesday morning from 1135 PM
-     until 700 AM CDT.
+   ...SUMMARY...
+   Widely scattered severe thunderstorms will be possible today from
+   the southern Plains northeastward into the mid Mississippi Valley
+   and lower Great Lakes. Damaging winds and hail will be the primary
+   threats. A greater threat for large hail is expected in the southern
+   High Plains.
 
-   * Primary threats include...
-     Scattered damaging wind gusts to 70 mph possible
-     Isolated large hail events to 1.5 inches in diameter possible
-     A tornado or two possible
+   ...Ozarks/Mid Mississippi and Ohio Valleys/Lower Great Lakes...
+   At mid-levels today, a shortwave trough and an associated 75 to 90
+   knot jet streak will move northeastward into the upper Mississippi
+   Valley. At the surface, a cold front will advance southeastward
+   through the lower Missouri Valley and Great Lakes. Along and ahead
+   of the front, surface dewpoints will mostly be in the mid to upper
+   60s F. This will contribute to the development of moderate
+   instability over much of the pre-frontal airmass. Increasing
+   low-level convergence near the front and warming surface
+   temperatures will support scattered thunderstorm development by
+   afternoon. Along much of the front, 0-6 km shear is forecast to be
+   between 25 to 35 knots, suggesting that enough shear will be present
+   for organized storms. The potential for severe wind gusts will be
+   greatest along the leading edge of line segments that form in areas
+   that heat up the most. The severe threat is expected to persist into
+   the evening.
 
-   SUMMARY...Strong to severe thunderstorms will remain possible along
-   a cold front as it slowly drifts southeastward into
-   north-central/far northeast Oklahoma, southeast Kansas, and
-   southwest Missouri. Damaging gusts are the primary severe hazards,
-   although isolated hail is possible as well. There is also a
-   low-probability risk of a brief line-embedded tornado.
+   ...Southern Plains...
+   A mid-level shortwave trough will move northeastward into the
+   southern High Plains today. Ahead of the trough, a moist and
+   unstable airmass will be located over much of the southern Plains
+   with surface dewpoints the upper 60s and lower 70s F. In response to
+   surface heating, moderate instability will develop over much of the
+   moist sector, with MLCAPE likely peaking in the 3000 to 4000 J/kg
+   range in many areas. Increasing low-level convergence near the front
+   will lead to thunderstorm development during the afternoon. The
+   greatest convective coverage is forecast across west-central and
+   north-central Texas, where low-level flow will be maximized. Ahead
+   of the developing storms, forecast soundings by late afternoon show
+   moderate deep-layer shear and steep mid-level lapse rates. This
+   environment will support a potential for supercells with large hail,
+   mainly with cells in the stronger instability that can remain
+   discrete. A threat for severe wind gusts is also expected, with this
+   threat increasing if a cold pool can organize during the late
+   afternoon or evening. The severe threat could impact parts of the
+   Texas Hill Country and east Texas later in the evening, before the
+   threat becomes more isolated.
 
-   The severe thunderstorm watch area is approximately along and 35
-   statute miles north and south of a line from 20 miles west of Enid
-   OK to 35 miles north northeast of Monett MO.
+   ..Broyles/Squitieri.. 05/19/2026
