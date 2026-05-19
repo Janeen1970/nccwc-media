@@ -1,1 +1,54 @@
-No weather warnings for East Oklahoma and West Arkansas. 
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Topeka KS
+728 PM CDT Mon May 18 2026
+
+The National Weather Service in Topeka has issued a
+
+* Severe Thunderstorm Warning for...
+  Eastern Geary County in east central Kansas...
+  Southeastern Riley County in northeastern Kansas...
+  Northwestern Shawnee County in east central Kansas...
+  Central Wabaunsee County in east central Kansas...
+  Southeastern Pottawatomie County in northeastern Kansas...
+  Southwestern Jackson County in northeastern Kansas...
+
+* Until 815 PM CDT.
+
+* At 728 PM CDT, severe thunderstorms were located along a line
+  extending from near Delia to near Alta Vista, moving east at 30
+  mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Wamego, Rossville, Alma, St. Marys, Silver Lake, Maple Hill,
+  McFarland, Paxico, Belvue, Louisville, Delia, Willard, Keene, and
+  Volland.
+
+This includes Interstate 70 between mile markers 319 and 351.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 800 PM CDT for northeastern
+and east central Kansas. A Tornado Watch also remains in effect until
+100 AM CDT for east central Kansas.
+
+&&
+
+LAT...LON 3923 9561 3890 9604 3892 9656 3925 9632
+TIME...MOT...LOC 0028Z 266DEG 26KT 3928 9596 3889 9646 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
