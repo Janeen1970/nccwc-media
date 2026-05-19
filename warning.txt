@@ -1,34 +1,5 @@
-BULLETIN - EAS ACTIVATION REQUESTED
-Tornado Warning
-National Weather Service Topeka KS
-808 PM CDT Mon May 18 2026
 
-The National Weather Service in Topeka has issued a
-
-* Tornado Warning for...
-  South central Shawnee County in east central Kansas...
-  Southeastern Wabaunsee County in east central Kansas...
-  Northwestern Osage County in east central Kansas...
-
-* Until 830 PM CDT.
-
-* At 808 PM CDT, a severe thunderstorm capable of producing a tornado
-  was located near Harveyville, moving east at 55 mph.
-
-  HAZARD...Tornado and quarter size hail.
-
-  SOURCE...Radar indicated rotation.
-
-  IMPACT...Flying debris will be dangerous to those caught without 
-           shelter. Mobile homes will be damaged or destroyed. 
-           Damage to roofs, windows, and vehicles will occur.  Tree 
-           damage is likely.
-
-* Locations impacted include...
-  Carbondale, Auburn, Burlingame, Scranton, and Harveyville.
-
-This includes Kansas Turnpike between mile markers 155 and 170.
- ...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Topeka KS
 753 PM CDT Mon May 18 2026
