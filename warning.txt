@@ -2,41 +2,39 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Topeka KS
-753 PM CDT Mon May 18 2026
+828 PM CDT Mon May 18 2026
 
 The National Weather Service in Topeka has issued a
 
 * Severe Thunderstorm Warning for...
-  Southwestern Jefferson County in northeastern Kansas...
-  Shawnee County in east central Kansas...
-  Eastern Wabaunsee County in east central Kansas...
+  Franklin County in east central Kansas...
+  Jefferson County in northeastern Kansas...
+  Eastern Shawnee County in east central Kansas...
+  Douglas County in east central Kansas...
   Osage County in east central Kansas...
-  Northern Coffey County in east central Kansas...
-  Lyon County in east central Kansas...
 
-* Until 845 PM CDT.
+* Until 915 PM CDT.
 
-* At 753 PM CDT, severe thunderstorms were located along a line
-  extending from 7 miles southeast of Alma to 3 miles north of
-  Bushong to 3 miles northwest of Americus, moving east at 65 mph.
+* At 828 PM CDT, severe thunderstorms were located along a line
+  extending from 4 miles northwest of Winchester to near Berryton to
+  near Lebo, moving east at 60 mph.
 
-  HAZARD...60 mph wind gusts and quarter size hail.
+  HAZARD...70 mph wind gusts and nickel size hail.
 
   SOURCE...Radar indicated.
 
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
+  IMPACT...Expect considerable tree damage. Damage is likely to 
+           mobile homes, roofs, and outbuildings.
 
 * Locations impacted include...
-  Topeka, Emporia, Osage City, Carbondale, Rossville, Eskridge,
-  Tecumseh, Richland, Dover, Silver Lake, Auburn, Overbrook, Lyndon,
-  Lebo, Burlingame, Americus, Meriden, Scranton, Maple Hill, and
-  Waverly.
+  Eastern Topeka, Lawrence, Ottawa, Baldwin City, Carbondale, Valley
+  Falls, Oskaloosa, Tecumseh, Eudora, Richland, Wellsville,
+  Overbrook, Lyndon, Centropolis, Perry, McLouth, Pomona, Meriden,
+  Scranton, and Ozawkie.
 
 This includes the following highways...
- Interstate 35 between mile markers 128 and 168.
- Interstate 70 between mile markers 338 and 355.
- Kansas Turnpike between mile markers 123 and 188.
+ Interstate 35 between mile markers 156 and 198.
+ Kansas Turnpike between mile markers 179 and 205.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
