@@ -1,2 +1,1 @@
-NCCWC in-house live radar Run Time: 5/18/2026, 11:15:54 PM
-Mode: SEVERE MODE...No rain detected in East Oklahoma or West Arkansas. Severe storms were noted in Southern Kansas. Severe storm near Blackwell, Oklahoma, | Wind: 54 mph | Hail: Quarter | SEVERE.
+NCCWC in-house live radar indicates no storms in East Oklahoma and West Arkansas.
