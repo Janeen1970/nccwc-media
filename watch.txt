@@ -1,1 +1,47 @@
-No weather watches for East Oklahoma or West Arkansas. 
+Day 1 Convective Outlook  
+   NWS Storm Prediction Center Norman OK
+   0743 PM CDT Tue May 19 2026
+
+   Valid 200100Z - 201200Z
+
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE SOUTHERN PLAINS AND FROM THE OHIO VALLEY INTO THE LOWER GREAT
+   LAKES...
+
+   ...SUMMARY...
+   Isolated to scattered severe thunderstorms will be possible this
+   evening from the southern Plains northeastward into mid Mississippi
+   Valley and Lower Great Lakes. A greater threat for large hail will
+   exist across parts of west-central Texas.
+
+   ...Southern Plains...
+   Southwest flow aloft is evident on water vapor imagery over the
+   southern Plains. At the surface, an east-to-west oriented cold front
+   is located across west and central Texas. Several strong
+   thunderstorms are ongoing along the front. To the south of the
+   front, surface dewpoints near 70 F are contributing to strong
+   instability over the southern third of Texas, with the RAP showing
+   MLCAPE in the 3000 to 4500 J/kg range. In addition, the RAP has
+   steep mid-level lapse rates and moderate deep-layer shear analyzed
+   across much of central and south Texas. This will be favorable for
+   organized storms this evening capable of hail and severe wind gusts.
+   Large hail will be most likely with any supercell that can develop.
+   The severe threat is expected to move southward into south-central
+   Texas by late evening. MCS development appears to be underway. As
+   the convective coverage continues to increase, a transition to
+   severe wind gusts as the primary threat is expected...see MCD 795.
+
+   ...Mid Mississippi and Ohio Valleys/Lower Great Lakes...
+   At mid-levels, a shortwave trough is evident on water vapor imagery
+   over the Ohio Valley. A cold front is located from southern Indiana
+   northeastward across central Ohio into the lower Great Lakes. A line
+   of strong thunderstorms is ongoing near the front. Ahead of the
+   front, surface dewpoints are in the 60s F which is enough for
+   sufficient instability to support severe storm development. The RAP
+   suggests that 0-3 km level lapse rates are still in the 7 to 7.5
+   C/km ahead of the front from Ohio into northwest Pennsylvania. This
+   could support isolated damaging wind gusts with the stronger cells
+   embedded in the line...see MCD 797.
+
+   ..Broyles.. 05/20/2026
+
