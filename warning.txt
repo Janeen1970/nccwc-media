@@ -1,1 +1,37 @@
-No weather warnings for East Oklahoma or West Arkansas. 
+Flood Advisory
+National Weather Service Tulsa OK
+417 PM CDT Thu May 21 2026
+
+OKC091-107-111-121-220030-
+/O.NEW.KTSA.FA.Y.0058.260521T2117Z-260522T0030Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+McIntosh OK-Okfuskee OK-Okmulgee OK-Pittsburg OK-
+417 PM CDT Thu May 21 2026
+
+...FLOOD ADVISORY IN EFFECT UNTIL 730 PM CDT THIS EVENING...
+
+* WHAT...Flooding caused by excessive rainfall is expected.
+
+* WHERE...Portions of east central, northeast, and southeast
+  Oklahoma, including the following counties, in east central
+  Oklahoma, Okfuskee. In northeast Oklahoma, Okmulgee. In southeast
+  Oklahoma, McIntosh and Pittsburg.
+
+* WHEN...Until 730 PM CDT.
+
+* IMPACTS...Minor flooding in low-lying and poor drainage areas.
+
+* ADDITIONAL DETAILS...
+  - At 417 PM CDT, Doppler radar indicated heavy rain due to
+    thunderstorms. Minor flooding is ongoing or expected to begin
+    shortly in the advisory area. Between 0.5 and 1.5 inches of
+    rain have fallen.
+  - Additional rainfall amounts of 0.5 to 1 inch are expected
+    over the area. This additional rain will result in minor
+    flooding.
+  - Some locations that will experience flooding include...
+    Henryetta...                       Dewar...
+    Grayson...                         Hanna...
+    Hoffman...                         Ashland...
+    Scipio...                          Haywood...
+    Vernon...                          Arpelar...
