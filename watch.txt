@@ -1,85 +1,38 @@
-  Day 2 Convective Outlook  
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1224 PM CDT Wed May 20 2026
+   1252 AM CDT Thu May 21 2026
 
    Valid 211200Z - 221200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN
-   COLORADO...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   EASTERN COLORADO...
 
    ...SUMMARY...
-   Widely scattered severe storms are expected to develop across
-   eastern Colorado Thursday afternoon and evening. Large hail will be
-   the predominant hazard, with locally severe wind gusts and perhaps a
-   brief tornado or two also possible.
+   Thunderstorms with a threat for large hail, isolated severe gusts
+   and possibly a tornado are expected in parts of eastern Colorado
+   from mid afternoon to early evening. Isolated large hail will also
+   be possible in parts of the southern High Plains this afternoon.
 
-   ...Synopsis...
+   ...Central and Southern High Plains...
+   An upper-level trough will move eastward into the central Rockies
+   today. Ahead of the trough, a lee surface low will form over eastern
+   Colorado. As surface temperatures warm, convection will initiate in
+   the higher terrain near Denver and Colorado Springs. From this
+   convection, storms will develop and move eastward into the central
+   High Plains during the afternoon. In eastern Colorado, a
+   north-to-south axis of instability will be in place by afternoon,
+   where model forecasts have MLCAPE peaking around 1500 J/kg. In
+   addition, late afternoon RAP forecast soundings in eastern Colorado
+   have 0-6 km shear in the 45 to 55 knot range with 700-500 mb lapse
+   rates near 8 C/km. This will be favorable for supercells with large
+   hail and isolated severe gusts. If a supercell can become locally
+   dominant, then a tornado will also be possible. The severe threat
+   will likely persist into early evening.
 
-   A short-wave trough and associated jet streak initially over the
-   northern Rockies Thursday morning will progress southeast into the
-   central Rockies by Thursday night. Farther to the south, a
-   short-wave trough will translate from the southern Plains into lower
-   MS Valley. 
+   Further south into the southern High Plains, an axis of instability
+   will be in place by afternoon. The strongest instability is forecast
+   on the Caprock of west Texas, where 0-6 km shear is forecast to be
+   around 30 knots. This, along with 700-500 mb lapse rates near 7
+   C/km, may be enough for an isolated large hail threat.
 
-   At the surface, a weak surface low is expected to develop from
-   southeast WY into western SD by Thursday evening, along a front
-   advancing through the northern High Plains. A lee trough will deepen
-   from the vicinity of low south through eastern parts of CO and NM.
-   Elsewhere, a cold front will push south from VA into the Carolinas
-   with the western extension of that boundary lifting north through
-   the lower MS Valley Thursday night in response to weak cyclogenesis
-   in that area.
-
-
-   ...Central High Plains...
-
-   While low-level moisture will remain somewhat limited, the presence
-   of steep low/mid-level lapse rates will contribute to MLCAPE of
-   750-1000+ J/kg during the peak of the diurnal heating cycle.
-   Low-level upslope flow will be augmented by increased forcing for
-   ascent downstream from the approaching short-wave trough to foster
-   widely scattered thunderstorm development along favored terrain by
-   mid to late afternoon. 
-
-   Strengthening mid-level flow coupled with the southeasterly
-   low-level wind component will yield effective bulk shear of 40-50
-   kt, supportive of supercell storm modes with the predominant hazard
-   being large hail. A brief tornado or two is possible, owing to
-   strengthening low-level shear by early evening. however, the 
-   marginal moisture content is expected to limit a more robust threat.
-
-
-   ...Western Dakotas...
-
-   At least a marginally unstable air mass is expected to develop ahead
-   of the front, supporting widely scattered thunderstorm development
-   by afternoon. Stronger vertical shear is expected to reside to the
-   south of the area, limiting the potential for organized storm modes.
-   Nonetheless, locally strong wind gusts and sub-severe hail appear
-   possible with the strongest storms.
-
-
-   ...West Texas...
-
-   There is some model signal that a broken band of thunderstorms may
-   evolve near the NM/TX state line by late afternoon or evening,
-   amidst a steep lapse rate environment. Some potential will exist for
-   locally strong wind gusts and/or hail with that activity.
-
-
-   ...Eastern Oklahoma into Northeast Texas...
-
-   The 12z convection-allowing models indicate a broader-scale complex
-   of storms evolving across the area Thursday. Weak vertical shear and
-   poor lapses are expected to limit the potential for storm
-   organization. However, the presence of a moist and moderately
-   unstable air mass will support briefly vigorous up/downdrafts
-   capable of locally strong wind gusts.
-
-
-   ...Deep South Texas...
-
-   Remnants of overnight storms may be ongoing Thursday morning with
-   another round of thunderstorms potentially moving through the area
-   late Thursday night into Friday morning. Some potential will exist
-   for a few strong storms capable of gusty winds and hail.
+   ..Broyles/Squitieri.. 05/21/2026
