@@ -1,5 +1,45 @@
 Flood Advisory
 National Weather Service Tulsa OK
+625 PM CDT Thu May 21 2026
+
+ARC007-143-OKC001-220300-
+/O.NEW.KTSA.FA.Y.0059.260521T2325Z-260522T0300Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Benton AR-Washington AR-Adair OK-
+625 PM CDT Thu May 21 2026
+
+...FLOOD ADVISORY IN EFFECT UNTIL 10 PM CDT THIS EVENING...
+
+* WHAT...Flooding caused by excessive rainfall is expected.
+
+* WHERE...Portions of northwest Arkansas, including the following
+  counties, Benton and Washington AR and northeast Oklahoma,
+  including the following county, Adair.
+
+* WHEN...Until 1000 PM CDT.
+
+* IMPACTS...Minor flooding in low-lying and poor drainage areas.
+
+* ADDITIONAL DETAILS...
+  - At 625 PM CDT, Doppler radar indicated heavy rain due to
+    thunderstorms. Minor flooding is ongoing or expected to begin
+    shortly in the advisory area. Between 1 and 2 inches of rain
+    have fallen.
+  - Additional rainfall amounts of 0.5 to 1.5 inches are expected
+    over the area. This additional rain will result in minor
+    flooding.
+  - Some locations that will experience flooding include...
+    Fayetteville...                    Springdale...
+    Rogers...                          Siloam Springs...
+    Lowell...                          Farmington...
+    Prairie Grove...                   Elkins...
+    Tontitown...                       West Fork...
+    Lincoln...                         Cave Springs...
+    Westville...                       Greenland...
+    Highfill...                        Watts...
+    Drake Field Airport...             Cincinnati...
+    Johnson...                         Elm Springs......Flood Advisory
+National Weather Service Tulsa OK
 417 PM CDT Thu May 21 2026
 
 OKC091-107-111-121-220030-
