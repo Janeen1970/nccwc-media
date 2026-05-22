@@ -1,40 +1,40 @@
-Flash Flood Warning
-OKC077-221230-
-/O.NEW.KTSA.FF.W.0007.260522T0839Z-260522T1230Z/
-/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
-
-BULLETIN - EAS ACTIVATION REQUESTED
-Flash Flood Warning
+Flood Warning
+Flood Warning
 National Weather Service Tulsa OK
-339 AM CDT Fri May 22 2026
+928 AM CDT Fri May 22 2026
 
-The National Weather Service in Tulsa has issued a
+OKC077-222030-
+/O.NEW.KTSA.FA.W.0002.260522T1428Z-260522T2030Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Latimer OK-
+928 AM CDT Fri May 22 2026
 
-* Flash Flood Warning for...
-  Northeastern Latimer County in southeastern Oklahoma...
+...FLOOD WARNING IN EFFECT UNTIL 330 PM CDT THIS AFTERNOON...
+...REPLACES FLASH FLOOD WARNING...
 
-* Until 730 AM CDT.
+* WHAT...Flooding caused by excessive rainfall is expected.
 
-* At 339 AM CDT, Doppler radar indicated thunderstorms producing
-  heavy rain across the warned area. Between 2 and 4 inches of rain
-  have fallen. Flash flooding is ongoing or expected to begin
-  shortly.
+* WHERE...A portion of southeast Oklahoma, including the following
+  county, Latimer.
 
-  HAZARD...Flash flooding caused by thunderstorms.
+* WHEN...Until 330 PM CDT Friday.
 
-  SOURCE...Radar.
+* IMPACTS...Flooding of rivers, creeks, streams, and other low-lying
+  and flood-prone locations is imminent or occurring.
 
-  IMPACT...Flash flooding of small creeks and streams, urban
-           areas, highways, streets and underpasses as well as
-           other poor drainage and low-lying areas.
+* ADDITIONAL DETAILS...
+  - At 928 AM CDT, Doppler radar and automated rain gauges
+    indicated heavy rain due to thunderstorms. Flooding is likely
+    ongoing in the warned area. Between 3 and 8 inches of rain
+    have fallen.
+  - Some locations that will experience flooding include...
+    Wilburton...                       Red Oak...
+    Damon...                           Robbers Cave State Park...
+    Bengal...                          Higgins...
+    Panola...                          Gowen...
+ 
 
-* Some locations that will experience flash flooding include...
-  Red Oak...                         Bengal...
 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Turn around, don`t drown when encountering flooded roads. Most flood
-deaths occur in vehicles.
 
-Be especially cautious at night when it is harder to recognize the
-dangers of flooding.
+
