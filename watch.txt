@@ -1,38 +1,71 @@
-   Day 1 Convective Outlook  
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1252 AM CDT Thu May 21 2026
+   1259 AM CDT Fri May 22 2026
 
-   Valid 211200Z - 221200Z
+   Valid 221200Z - 231200Z
 
    ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   EASTERN COLORADO...
+   THE SOUTHERN HIGH PLAINS...
 
    ...SUMMARY...
-   Thunderstorms with a threat for large hail, isolated severe gusts
-   and possibly a tornado are expected in parts of eastern Colorado
-   from mid afternoon to early evening. Isolated large hail will also
-   be possible in parts of the southern High Plains this afternoon.
+   Thunderstorms with large hail and severe wind gusts will be possible
+   from late this afternoon into the evening in parts of the southern
+   High Plains. Isolated severe gusts and hail may occur in parts of
+   the mid Missouri Valley. A few severe gusts and a marginal tornado
+   threat will also be possible from the central Gulf Coast States into
+   the Tennessee and southern Ohio Valleys.
 
-   ...Central and Southern High Plains...
-   An upper-level trough will move eastward into the central Rockies
-   today. Ahead of the trough, a lee surface low will form over eastern
-   Colorado. As surface temperatures warm, convection will initiate in
-   the higher terrain near Denver and Colorado Springs. From this
-   convection, storms will develop and move eastward into the central
-   High Plains during the afternoon. In eastern Colorado, a
-   north-to-south axis of instability will be in place by afternoon,
-   where model forecasts have MLCAPE peaking around 1500 J/kg. In
-   addition, late afternoon RAP forecast soundings in eastern Colorado
-   have 0-6 km shear in the 45 to 55 knot range with 700-500 mb lapse
-   rates near 8 C/km. This will be favorable for supercells with large
-   hail and isolated severe gusts. If a supercell can become locally
-   dominant, then a tornado will also be possible. The severe threat
-   will likely persist into early evening.
+   ...Southern High Plains...
+   A mid-level shortwave trough will move eastward into the southern
+   High Plains today. Ahead of the trough, a moist and unstable airmass
+   will be located across most of Texas and Oklahoma. Thunderstorms are
+   expected to develop late this afternoon on the moisture gradient
+   from the western Texas Panhandle southward into west Texas. These
+   storms will move eastward across the southern High Plains during the
+   late afternoon and evening.
 
-   Further south into the southern High Plains, an axis of instability
-   will be in place by afternoon. The strongest instability is forecast
-   on the Caprock of west Texas, where 0-6 km shear is forecast to be
-   around 30 knots. This, along with 700-500 mb lapse rates near 7
-   C/km, may be enough for an isolated large hail threat.
+   The strongest instability is forecast to develop this afternoon over
+   the low Rolling Plains of northwest Texas, where model forecasts
+   have MLCAPE peaking in the 2000 to 3000 J/kg range. Late afternoon
+   forecast soundings in northwest Texas have 0-6 km shear around 30
+   knots with 700-500 mb lapse rates near 8 C/km. This environment will
+   support the development of supercells with large hail and severe
+   wind gusts. Hailstones greater than 2 inches in diameter will be
+   possible with supercells that become dominant. The greatest severe
+   threat is expected to be in the evening as a broken line of storms
+   moves into the stronger instability from the eastern Texas Panhandle
+   southward into northwest Texas.
 
-   ..Broyles/Squitieri.. 05/21/2026
+   ...Mid Missouri Valley...
+   An upper-level trough and an associated mid-level jet streak will
+   move northeastward today across the north-central U.S. At the
+   surface, an axis of low-level moisture will be in place from eastern
+   Kansas northward into eastern Nebraska. Ahead of the trough,
+   scattered thunderstorms will develop in the afternoon along and near
+   the moist axis. Surface dewpoints in the lower to mid 60s F will
+   contribute to weak instability with MLCAPE likely peaking in the 500
+   to 1000 J/kg range across eastern Nebraska. RAP forecast soundings
+   near Omaha suggest that 0-6 km shear will reach 35 knots as the
+   trough approaches this afternoon, which would support the
+   development of low-topped supercells capable of isolated severe wind
+   gusts and hail. The severe threat is expected to persist into the
+   early evening. 
+
+   ...Central Gulf Coast States/Ohio and Tennessee Valleys...
+   A negatively-tilted mid-level shortwave trough will move
+   northeastward today across the east-central U.S. Ahead of the
+   trough, low-level moisture advection will take place. By early
+   afternoon, surface dewpoints will be from the mid 60s to lower 70s F
+   from the central Gulf Coast states northward into the southern Ohio
+   Valley. Moderate instability is expected by afternoon across much of
+   the region with MLCAPE peaking between 1500 and 2500 J/kg. Locally
+   stronger instability is expected across central Mississippi,
+   east-central Kentucky, eastern Tennessee and northeast Georgia. As
+   surface temperatures warm during the day, scattered thunderstorms
+   will develop and move northeastward across the moist airmass.
+   Steepening low-level lapse rates will support a potential for
+   isolated severe wind gusts. In addition, hodographs across this
+   unstable airmass are forecast to be somewhat curved, which should
+   also support a marginal tornado threat.
+
+   ..Broyles/Chalmers.. 05/22/2026
