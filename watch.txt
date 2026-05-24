@@ -1,73 +1,51 @@
- Day 1 Convective Outlook  
+ 
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0750 AM CDT Sat May 23 2026
+   0741 AM CDT Sun May 24 2026
 
-   Valid 231300Z - 241200Z
+   Valid 241300Z - 251200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE SOUTHERN PLAINS AND CENTRAL HIGH PLAINS...WESTERN AND CENTRAL
-   GULF COAST...GEORGIA INTO SOUTH CAROLINA...AND ACROSS OHIO...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS TODAY ACROSS
+   PARTS OF THE SOUTHEAST AND LATE THIS AFTERNOON AND EVENING FROM
+   KANSAS INTO MINNESOTA...
 
    ...SUMMARY...
-   Isolated severe thunderstorms are possible today across the lower
-   Mississippi Valley and into parts of Texas.  Other isolated severe
-   storms are possible in portions of the Southeast, Ohio, and the
-   central High Plains.
+   Isolated severe thunderstorms are possible from Kansas into
+   Minnesota and across portions of the Southeast today into tonight,
+   accompanied by at least some risk for severe weather.
 
-   ...Southern High Plains...
-   Weak mid-level flow and an ill-defined surface pattern aptly
-   characterize the severe-potential setup for later today into the
-   evening across this region.  Residual low-level moisture and steep
-   700-500 mb lapse rates (reference the 12 UTC Midland, TX raob; 8.7
-   deg C/km) in combination with strong heating will result in moderate
-   instability developing by mid-late afternoon.  Scattered
-   thunderstorms are forecast to develop from near the CO/OK-TX
-   Panhandles border region southward into the Edwards Plateau. 
-   Isolated large hail and severe gusts will be the primary severe
-   hazards with the stronger storms.  Some clustering is expected
-   during the evening before this activity diminishes by late evening.
+   ...Central Great Plains into MN...
+   An upper trough over the Upper Midwest will move east into the Great
+   Lakes with zonal flow extending east from the northern Rockies into
+   the north-central states.  The 12 UTC raob at Norman, OK sampled
+   only a modestly moist airmass (10.5 g/kg lowest 100-mb mean mixing
+   ratio) with surface stations farther north in the central Plains
+   observing lower surface dewpoints than in OK.  The moisture quality
+   and weak forcing regime will probably limit overall storm
+   coverage/intensity.  However, isolated to widely scattered storms
+   are forecast near a weak surface trough later this afternoon and
+   evening.  Vertical wind shear will support organized storms
+   including the possibility for a few supercells, mainly from NE into
+   MN.  Large hail appears to be the primary hazard but severe gusts
+   are also possible.  Farther south into KS where deep-layer shear is
+   forecast to be weaker, steep lapse rates will yield potential for
+   isolated severe gusts with the stronger evaporatively cooled
+   downdrafts.
 
-   ...South-central and Southeast Texas/Southern Louisiana...
-   In the coastal areas of the western and central Gulf, very moist air
-   will be in place. Surface dewpoints in the lower to mid 70s F will
-   contribute to moderate instability by midday. Thunderstorms will
-   form along sea breeze boundaries during the early to mid afternoon. 
-   A few severe wind gusts and a brief tornado will be possible. 
-   Farther north over the Ark-La-Miss, some heating ahead of a
-   north-south band of showers/thunderstorms associated with an MCV
-   over OK, will contribute to a marginally supportive wind-damage
-   risk.  Have expanded low-wind probabilities to account for
-   observational trends of a semi-organized band of storms continuing
-   east into the Ark-La-Miss during peak heating.
+   ...Southeast...
+   Water-vapor imagery this morning shows upper troughing extending
+   from the Upper Midwest southward into the northwest Gulf Coast. 
+   Downstream of this eastward-migrating upper feature, an MCV over
+   southern AL will move northeast into GA later today and serve as the
+   primary impetus for severe-weather potential.  The WSR-88D VAD in
+   Mobile, AL (KMOB) this morning sampled a belt of stronger 3-6 km
+   flow (30-40 kt) associated with the disturbance.  Seasonably rich
+   low-level moisture and heating ahead of the ongoing convective
+   band/cloud shield will result in moderate buoyancy by midday.  This
+   buoyancy and forcing for ascent will promote scattered thunderstorms
+   developing in the form of linear clusters.  The stronger
+   water-loaded downdrafts will be capable of localized 50-65 mph gusts
+   and isolated wind damage through the early evening before this
+   activity subsides.
 
-   ...Georgia/South Carolina...
-   A weak mid-level disturbance over MS/AL this morning will move
-   east-northeastward today.  Adequate heating of a moist boundary
-   layer will yield 500-1000 J/kg MLCAPE by early afternoon and
-   scattered showers/thunderstorms are forecast.  Deep-layer shear will
-   support some multicellular organization in the form of a few
-   thunderstorm clusters.  The stronger water-loaded downdrafts will
-   potentially yield a localized wind-damage risk during the afternoon
-   before this threat wanes by early evening.  
-
-   ...Central High Plains...
-   Latest model guidance shows isolated thunderstorms developing late
-   this afternoon within a belt of stronger cyclonic mid-level flow
-   associated with a north-central U.S. larger-scale mid-level trough. 
-   The 30-40 kt 500-mb flow and steepened surface to 400-mb lapse rates
-   may support a couple of locally stronger thunderstorms to develop
-   towards early evening.  Locally severe hail/wind will be the threat
-   with these storms.
-
-   ...Ohio...
-   Southwesterly mid-level flow will be in place over the Ohio Valley
-   and lower Great Lakes today. At the surface, an axis of low-level
-   moisture will be located from eastern Kentucky into central and
-   northern Ohio, where dewpoints will be in the mid to upper 60s F. As
-   instability increases during the day, scattered thunderstorms are
-   expected to develop and move northeastward across the instability
-   corridor. RAP forecast soundings in central Ohio at 21Z have 0-6 km
-   shear near 30 knots with 0-3 km storm-relative helicity around 150
-   m2/s2. This could be enough for an isolated tornado threat.
-
-   ..Smith/Weinman.. 05/23/2026
+   ..Smith/Weinman.. 05/24/2026
