@@ -1,51 +1,71 @@
- 
-   Day 1 Convective Outlook  
+ Day 2 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0741 AM CDT Sun May 24 2026
+   1232 PM CDT Sun May 24 2026
 
-   Valid 241300Z - 251200Z
+   Valid 251200Z - 261200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS TODAY ACROSS
-   PARTS OF THE SOUTHEAST AND LATE THIS AFTERNOON AND EVENING FROM
-   KANSAS INTO MINNESOTA...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR THE MN
+   ARROWHEAD REGION...PARTS OF THE CENTRAL PLAINS AND MIDWEST...PARTS
+   OF NM/FAR WEST TX...AND PARTS OF THE SOUTHEAST...
 
    ...SUMMARY...
-   Isolated severe thunderstorms are possible from Kansas into
-   Minnesota and across portions of the Southeast today into tonight,
-   accompanied by at least some risk for severe weather.
+   Isolated strong to severe storms will be possible across parts of
+   the Minnesota Arrowhead region, central Plains and Midwest,
+   Southeast, and New Mexico/Far West Texas on Monday.
 
-   ...Central Great Plains into MN...
-   An upper trough over the Upper Midwest will move east into the Great
-   Lakes with zonal flow extending east from the northern Rockies into
-   the north-central states.  The 12 UTC raob at Norman, OK sampled
-   only a modestly moist airmass (10.5 g/kg lowest 100-mb mean mixing
-   ratio) with surface stations farther north in the central Plains
-   observing lower surface dewpoints than in OK.  The moisture quality
-   and weak forcing regime will probably limit overall storm
-   coverage/intensity.  However, isolated to widely scattered storms
-   are forecast near a weak surface trough later this afternoon and
-   evening.  Vertical wind shear will support organized storms
-   including the possibility for a few supercells, mainly from NE into
-   MN.  Large hail appears to be the primary hazard but severe gusts
-   are also possible.  Farther south into KS where deep-layer shear is
-   forecast to be weaker, steep lapse rates will yield potential for
-   isolated severe gusts with the stronger evaporatively cooled
-   downdrafts.
+   ...MN Arrowhead region...
+   While large-scale ascent will be nebulous at best amidst modest
+   midlevel height rises, most guidance depicts strong heating and
+   potential for at least isolated storm development in the vicinity of
+   a cold front across parts of MN Arrowhead region during the
+   afternoon. Deep-layer flow will be modest, but southwesterly surface
+   winds veering to west-northwesterly aloft will result in 30-35 kt of
+   effective shear, sufficient for storm organization. Relatively steep
+   lapse rates and moderate buoyancy will support isolated hail and
+   localized strong/damaging gusts, if storms can mature across this
+   region. 
+
+   ...Central Plains into southwest MN/northwest IA...
+   While forcing will generally be weak, strong diurnal heating may
+   support isolated storm development in the vicinity of a weak surface
+   trough/confluence zone from northern NE/southern SD into northwest
+   IA/southwest MN. Deep-layer flow will be weak, but modest midlevel
+   west-northwesterlies may provide sufficient deep-layer shear for
+   some storm organization. Favorable lapse rates and buoyancy will
+   support potential for isolated hail and localized damaging gusts.  
+
+   ...NM into Far West Texas...
+   Relatively widespread convection is expected on Monday across parts
+   of NM into Far West TX, in association with mid/upper-level trough
+   over the Southwest. Buoyancy is expected to remain relatively modest
+   across NM, but generally unidirectional southerly flow within a
+   relatively well-mixed environment will support outflow-driven
+   clusters capable of localized severe gusts. Strong storms may spread
+   into parts of Far West TX Monday night, with a continued threat of
+   strong to localized severe gusts. 
 
    ...Southeast...
-   Water-vapor imagery this morning shows upper troughing extending
-   from the Upper Midwest southward into the northwest Gulf Coast. 
-   Downstream of this eastward-migrating upper feature, an MCV over
-   southern AL will move northeast into GA later today and serve as the
-   primary impetus for severe-weather potential.  The WSR-88D VAD in
-   Mobile, AL (KMOB) this morning sampled a belt of stronger 3-6 km
-   flow (30-40 kt) associated with the disturbance.  Seasonably rich
-   low-level moisture and heating ahead of the ongoing convective
-   band/cloud shield will result in moderate buoyancy by midday.  This
-   buoyancy and forcing for ascent will promote scattered thunderstorms
-   developing in the form of linear clusters.  The stronger
-   water-loaded downdrafts will be capable of localized 50-65 mph gusts
-   and isolated wind damage through the early evening before this
-   activity subsides.
+   A similar regime to previous days is expected across the Gulf
+   Coast/Southeast, with widespread convection expected to the east of
+   a persistent mid/upper-level trough over east TX. Water-loaded
+   downdrafts will again be capable producing localized wind damage,
+   with any more organized potential tied to uncertain MCV development.
+   A Marginal Risk has been included from the FL Panhandle into GA,
+   where there appears to be the greatest potential for preconvective
+   heating/destabilization. If organized MCV development occurs, then
+   there may be some severe potential to the west and north of this
+   Marginal Risk area. 
 
-   ..Smith/Weinman.. 05/24/2026
+   ...Interior Northwest/Northern Rockies...
+   Thunderstorm development is expected by afternoon from far eastern
+   OR/WA into ID/western MT/northwest WY, in advance of a vigorous
+   mid/upper-level shortwave trough moving into the Pacific Northwest.
+   Much of this activity may be relatively high-based and disorganized,
+   with strong outflow gusts possible. The most aggressive guidance
+   regarding moistening and destabilization suggests some marginal
+   supercell potential across northern ID and far western MT. Severe
+   probabilities may eventually be needed across parts of the region,
+   if guidance consensus trends towards a greater potential for
+   organized convection.
+
+   ..Dean.. 05/24/2026
