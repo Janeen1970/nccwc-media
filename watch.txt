@@ -1,71 +1,80 @@
- Day 2 Convective Outlook  
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1232 PM CDT Sun May 24 2026
+   1248 AM CDT Mon May 25 2026
 
    Valid 251200Z - 261200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR THE MN
-   ARROWHEAD REGION...PARTS OF THE CENTRAL PLAINS AND MIDWEST...PARTS
-   OF NM/FAR WEST TX...AND PARTS OF THE SOUTHEAST...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS LATE THIS
+   AFTERNOON INTO TONIGHT ACROSS PARTS OF THE RIO GRANDE
+   VALLEY...CENTRAL GREAT PLAINS AND UPPER GREAT LAKES REGION...
 
    ...SUMMARY...
-   Isolated strong to severe storms will be possible across parts of
-   the Minnesota Arrowhead region, central Plains and Midwest,
-   Southeast, and New Mexico/Far West Texas on Monday.
+   The risk for organized severe thunderstorm development appears low
+   across much of the U.S. today through tonight.
 
-   ...MN Arrowhead region...
-   While large-scale ascent will be nebulous at best amidst modest
-   midlevel height rises, most guidance depicts strong heating and
-   potential for at least isolated storm development in the vicinity of
-   a cold front across parts of MN Arrowhead region during the
-   afternoon. Deep-layer flow will be modest, but southwesterly surface
-   winds veering to west-northwesterly aloft will result in 30-35 kt of
-   effective shear, sufficient for storm organization. Relatively steep
-   lapse rates and moderate buoyancy will support isolated hail and
-   localized strong/damaging gusts, if storms can mature across this
-   region. 
+   ...Discussion...
+   Amplification within the westerlies across the northern mid-latitude
+   Pacific is ongoing.  Near the leading edge of this regime, a
+   significant short wave trough and embedded mid-level cyclone are now
+   digging toward the Pacific Northwest coast, and forecast to progress
+   inland across coastal areas later today through tonight.  As this
+   occurs, the center of broad, weak troughing emerging from the
+   subtropical eastern Pacific is forecast to sharpen some, along a
+   negatively tilted axis across the southern Great Basin through
+   northern Mexican Plateau by daybreak Tuesday.  
 
-   ...Central Plains into southwest MN/northwest IA...
-   While forcing will generally be weak, strong diurnal heating may
-   support isolated storm development in the vicinity of a weak surface
-   trough/confluence zone from northern NE/southern SD into northwest
-   IA/southwest MN. Deep-layer flow will be weak, but modest midlevel
-   west-northwesterlies may provide sufficient deep-layer shear for
-   some storm organization. Favorable lapse rates and buoyancy will
-   support potential for isolated hail and localized damaging gusts.  
+   Downstream, weak troughing across eastern Texas and the western Gulf
+   Basin will tend to slowly shift north-northeastward toward the lower
+   Mississippi Valley, as a high remains prominent across the
+   subtropical western Atlantic.  In higher latitudes, mid-level
+   ridging is forecast to continue to build to the east the Canadian
+   and northern U.S. Rockies.  This will include further mid-level
+   height rises across the Missouri Valley through Upper Midwest and
+   adjacent Great Lakes region.
 
-   ...NM into Far West Texas...
-   Relatively widespread convection is expected on Monday across parts
-   of NM into Far West TX, in association with mid/upper-level trough
-   over the Southwest. Buoyancy is expected to remain relatively modest
-   across NM, but generally unidirectional southerly flow within a
-   relatively well-mixed environment will support outflow-driven
-   clusters capable of localized severe gusts. Strong storms may spread
-   into parts of Far West TX Monday night, with a continued threat of
-   strong to localized severe gusts. 
+   In lower levels, a cold front likely will advance inland across
+   Washington, Oregon and much of northern California, while surface
+   troughing deepens across much of the Great Basin and northern
+   Rockies through northern Great Plains.  However, seasonably moist
+   boundary-layer air appears likely to generally remain confined to
+   portions of the southern Great Plains and lower Mississippi Valley
+   through Southeast and Mid Atlantic.
 
-   ...Southeast...
-   A similar regime to previous days is expected across the Gulf
-   Coast/Southeast, with widespread convection expected to the east of
-   a persistent mid/upper-level trough over east TX. Water-loaded
-   downdrafts will again be capable producing localized wind damage,
-   with any more organized potential tied to uncertain MCV development.
-   A Marginal Risk has been included from the FL Panhandle into GA,
-   where there appears to be the greatest potential for preconvective
-   heating/destabilization. If organized MCV development occurs, then
-   there may be some severe potential to the west and north of this
-   Marginal Risk area. 
+   ...Minnesota Arrowhead/adjacent Upper Great Lakes...
+   Mid-level heights are forecast to continue to rise across the region
+   today, even as a fairly significant short wave trough and associated
+   forcing for ascent dig across northwestern Ontario, generally well
+   to the north of the upper Great Lakes region.  Even so, convection
+   allowing and related machine learning guidance continue to suggest
+   that isolated thunderstorm development is possible as far south as
+   the Minnesota Arrowhead vicinity, in an environment that could
+   become supportive of a supercell.  As a result, 5 percent severe
+   weather probabilities will be maintained.  However, given the lack
+   of better available low-level moisture and the spread evident within
+   guidance concerning potential destabilization, these may be too
+   high.
 
-   ...Interior Northwest/Northern Rockies...
-   Thunderstorm development is expected by afternoon from far eastern
-   OR/WA into ID/western MT/northwest WY, in advance of a vigorous
-   mid/upper-level shortwave trough moving into the Pacific Northwest.
-   Much of this activity may be relatively high-based and disorganized,
-   with strong outflow gusts possible. The most aggressive guidance
-   regarding moistening and destabilization suggests some marginal
-   supercell potential across northern ID and far western MT. Severe
-   probabilities may eventually be needed across parts of the region,
-   if guidance consensus trends towards a greater potential for
-   organized convection.
+   ...Central Great Plains and adjacent Middle Missouri Valley...
+   Calibrated thunderstorm probabilities from most ensemble output
+   suggest that widely scattered thunderstorm development is probable
+   by late this afternoon, in a corridor of stronger potential
+   boundary-layer destabilization within the lee surface troughing,
+   from portions of southwestern Nebraska through southwestern
+   Minnesota/northwestern Iowa.  If inhibition associated with
+   continuing mid-level height rises and more substantive
+   lower/mid-tropospheric warming is overcome, thermodynamic profiles
+   may be conducive to locally strong to severe surface gusts and some
+   hail, particularly where a narrow corridor of better low-level
+   moisture is maintained across the northeastern Nebraska through
+   southern Minnesota vicinity.
 
-   ..Dean.. 05/24/2026
+   ...Parts of southwestern Texas into south central New Mexico...
+   Stronger deep-layer layer shear and forcing for ascent, within the
+   exit region of a strong subtropical jet nosing into the northern
+   Mexican Plateau, may support and enhance thunderstorm development
+   across parts of northeastern Chihuahua into adjacent portions of the
+   Rio Grande Valley by late this afternoon.  This probably will be
+   rooted within a weakly unstable, but deeply mixed boundary layer
+   supportive of at least a risk for strong to severe wind gusts.
+
+   ..Kerr/Chalmers.. 05/25/2026
