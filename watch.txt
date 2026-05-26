@@ -1,80 +1,85 @@
- Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1248 AM CDT Mon May 25 2026
+   0100 AM CDT Tue May 26 2026
 
-   Valid 251200Z - 261200Z
+   Valid 261200Z - 271200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS LATE THIS
-   AFTERNOON INTO TONIGHT ACROSS PARTS OF THE RIO GRANDE
-   VALLEY...CENTRAL GREAT PLAINS AND UPPER GREAT LAKES REGION...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   WEST AND SOUTHWEST TEXAS...
 
    ...SUMMARY...
-   The risk for organized severe thunderstorm development appears low
-   across much of the U.S. today through tonight.
+   Thunderstorms with large hail, severe wind gusts and a couple
+   tornadoes are expected this afternoon and evening across parts of
+   west and southwest Texas. Isolated severe gusts and a marginal
+   tornado threat will be possible in parts of Kentucky. Isolated
+   severe gusts and hail may also occur in parts of the Upper Midwest
+   and northern Rockies.
 
-   ...Discussion...
-   Amplification within the westerlies across the northern mid-latitude
-   Pacific is ongoing.  Near the leading edge of this regime, a
-   significant short wave trough and embedded mid-level cyclone are now
-   digging toward the Pacific Northwest coast, and forecast to progress
-   inland across coastal areas later today through tonight.  As this
-   occurs, the center of broad, weak troughing emerging from the
-   subtropical eastern Pacific is forecast to sharpen some, along a
-   negatively tilted axis across the southern Great Basin through
-   northern Mexican Plateau by daybreak Tuesday.  
+   ...West and Southwest Texas...
+   A mid-level shortwave trough will move eastward today across far
+   west Texas. At the surface, a low will deepen near Big Bend as an
+   axis of low-level moisture sharpens from the Rio Grande Valley
+   northward into west Texas. Along this axis, surface dewpoints will
+   be in the upper 60s and lower 70s F, which will contribute to
+   moderate instability by afternoon. Near the moist axis, a
+   north-to-south corridor of low-level convergence is forecast, along
+   which thunderstorm development is expected by late morning. Storm
+   coverage is forecast to expand and move eastward from west Texas
+   into southwest Texas this afternoon.
 
-   Downstream, weak troughing across eastern Texas and the western Gulf
-   Basin will tend to slowly shift north-northeastward toward the lower
-   Mississippi Valley, as a high remains prominent across the
-   subtropical western Atlantic.  In higher latitudes, mid-level
-   ridging is forecast to continue to build to the east the Canadian
-   and northern U.S. Rockies.  This will include further mid-level
-   height rises across the Missouri Valley through Upper Midwest and
-   adjacent Great Lakes region.
+   Along the instability axis, MLCAPE is forecast to peak in the 2000
+   to 3000 J/kg range during the mid to late afternoon. RAP forecast
+   soundings near the instability axis at 21Z have 0-6 km shear in the
+   30 to 40 knot range with 700-500 mb lapse rates around 7.5 C/km.
+   This will be favorable for supercells with large hail. Hailstones
+   greater than 2 inches in diameter will be possible with the more
+   intense storms. In addition, forecast hodographs are curved and 0-3
+   km storm-relative helicity is forecast to increase to above 200
+   m2/s2, which will support a tornado threat. Cells are expected to
+   merge into a line during the late afternoon, potentially increasing
+   the threat for severe gusts. This line is forecast to move across
+   southwest Texas during the early evening.
 
-   In lower levels, a cold front likely will advance inland across
-   Washington, Oregon and much of northern California, while surface
-   troughing deepens across much of the Great Basin and northern
-   Rockies through northern Great Plains.  However, seasonably moist
-   boundary-layer air appears likely to generally remain confined to
-   portions of the southern Great Plains and lower Mississippi Valley
-   through Southeast and Mid Atlantic.
+   ...Kentucky...
+   South-southwesterly mid-level flow will be in place over the Ohio
+   and Tennessee Valleys today. At the surface, a mesolow is forecast
+   to develop over far western Kentucky this afternoon. To the east of
+   the low, moisture advection will increase surface dewpoints to near
+   70 F across much of Kentucky, where MLCAPE is forecast to peak
+   around 1000 J/kg. Within this unstable airmass, low-level flow over
+   southern and central Kentucky will be backed to the south-southeast.
+   This, combined with increasing low-level flow, will create curved
+   hodographs. Forecast soundings at 21Z south of Lexington have 0-3 km
+   storm-relative helicity increasing to 150 m2/s2 by mid afternoon,
+   which should support a marginal tornado threat. Isolated severe wind
+   gusts will also be possible.
 
-   ...Minnesota Arrowhead/adjacent Upper Great Lakes...
-   Mid-level heights are forecast to continue to rise across the region
-   today, even as a fairly significant short wave trough and associated
-   forcing for ascent dig across northwestern Ontario, generally well
-   to the north of the upper Great Lakes region.  Even so, convection
-   allowing and related machine learning guidance continue to suggest
-   that isolated thunderstorm development is possible as far south as
-   the Minnesota Arrowhead vicinity, in an environment that could
-   become supportive of a supercell.  As a result, 5 percent severe
-   weather probabilities will be maintained.  However, given the lack
-   of better available low-level moisture and the spread evident within
-   guidance concerning potential destabilization, these may be too
-   high.
+   ...Upper Midwest...
+   Mid-level flow will be westerly today across much of the Upper
+   Midwest. At the surface, a quasi-stationary frontal boundary will be
+   in place from eastern North Dakota to northern Wisconsin. South of
+   this front, surface dewpoints in the 60s F will contribute to
+   pockets of moderate instability by afternoon. Scattered
+   thunderstorms will develop across this unstable airmass and move
+   east-southeastward during the afternoon. MLCAPE in some areas are
+   forecast to peak in the 1500 to 2500 J/kg range, with low-level
+   lapse rates becoming steep. This will be sufficient for isolated
+   severe gusts. Hail will also be possible, mainly from southeast
+   Minnesota into Wisconsin, where some models suggest instability will
+   be stronger.
 
-   ...Central Great Plains and adjacent Middle Missouri Valley...
-   Calibrated thunderstorm probabilities from most ensemble output
-   suggest that widely scattered thunderstorm development is probable
-   by late this afternoon, in a corridor of stronger potential
-   boundary-layer destabilization within the lee surface troughing,
-   from portions of southwestern Nebraska through southwestern
-   Minnesota/northwestern Iowa.  If inhibition associated with
-   continuing mid-level height rises and more substantive
-   lower/mid-tropospheric warming is overcome, thermodynamic profiles
-   may be conducive to locally strong to severe surface gusts and some
-   hail, particularly where a narrow corridor of better low-level
-   moisture is maintained across the northeastern Nebraska through
-   southern Minnesota vicinity.
+   ...Northern Rockies...
+   A mid-level low will move southward across northern California
+   today. To the northwest of the low across the northern U.S., flow
+   will be from the south-southeast. At the surface, a low will deepen
+   across western Montana with upslope easterly flow located over much
+   of western Montana. As surface heating takes place today, an axis of
+   instability is forecast from northwest Montana extending
+   southeastward into far northwest Wyoming. Scattered thunderstorms
+   will develop in the higher terrain and move northward along and near
+   this axis of instability. Low-level lapse rates will be very steep,
+   which will contribute to a potential for severe wind gusts. Hail
+   will also be possible, mainly over western Montana where instability
+   is forecast to be the strongest.
 
-   ...Parts of southwestern Texas into south central New Mexico...
-   Stronger deep-layer layer shear and forcing for ascent, within the
-   exit region of a strong subtropical jet nosing into the northern
-   Mexican Plateau, may support and enhance thunderstorm development
-   across parts of northeastern Chihuahua into adjacent portions of the
-   Rio Grande Valley by late this afternoon.  This probably will be
-   rooted within a weakly unstable, but deeply mixed boundary layer
-   supportive of at least a risk for strong to severe wind gusts.
-
-   ..Kerr/Chalmers.. 05/25/2026
+   ..Broyles/Chalmers.. 05/26/2026
