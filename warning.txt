@@ -1,2 +1,53 @@
+BULLETIN - EAS ACTIVATION REQUESTED
+Flash Flood Warning
+National Weather Service Little Rock AR
+909 PM CDT Wed May 27 2026
 
-No weather warnings for East Oklahoma or West Arkansas. 
+The National Weather Service in Little Rock has issued a
+
+* Flash Flood Warning for...
+  Southwestern Pope County in central Arkansas...
+
+* Until 1215 AM CDT.
+
+* At 909 PM CDT, Doppler radar indicated thunderstorms producing 
+  heavy rain across the warned area. Between 2 and 3 inches of rain 
+  have fallen. The expected rainfall rate is 1 to 2 inches in 1 
+  hour. Additional rainfall amounts of 0.5 to 1 inch are possible in 
+  the warned area. Flash flooding is ongoing or expected to begin 
+  shortly.
+
+  HAZARD...Flash flooding caused by thunderstorms.
+
+  SOURCE...Radar.
+
+  IMPACT...Flash flooding of small creeks and streams, urban
+           areas, highways, streets and underpasses as well as
+           other poor drainage and low-lying areas.
+
+* Some locations that will experience flash flooding include...
+  Russellville...                    Atkins...
+  Pottsville...                      London...
+  Galla Creek WMA...                 Taral...
+  Lake Dardanelle...                 Gum Log...
+  Holla Bend...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the 
+dangers of flooding.
+
+Be aware of your surroundings and do not drive on flooded roads.
+
+&&
+
+LAT...LON 3518 9288 3517 9301 3516 9305 3519 9309
+      3519 9313 3524 9315 3527 9320 3534 9327
+      3537 9319 3534 9301
+
+FLASH FLOOD...RADAR INDICATED
+EXPECTED RAINFALL RATE...1-2 INCHES IN 1 HOUR
+
