@@ -1,56 +1,59 @@
-Day 1 Convective Outlook  
-   NWS Storm Prediction Center Norman OK
-   1254 AM CDT Wed May 27 2026
 
-   Valid 271200Z - 281200Z
+   Day 1 Convective Outlook  
+   NWS Storm Prediction Center Norman OK
+   1258 AM CDT Thu May 28 2026
+
+   Valid 281200Z - 291200Z
 
    ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE MID-ATLANTIC...
+   THE PACIFIC NORTHWEST...
 
    ...SUMMARY...
-   Thunderstorms with severe wind gusts will be possible today across
-   parts of the Mid-Atlantic and Ohio Valley. Isolated wind gusts and
-   hail will also be possible in the western Great Lakes and from the
-   southern Texas Panhandle into west Texas and far western Oklahoma.
+   Thunderstorms with severe wind gusts, large hail and an isolated
+   tornado threat are expected across parts of the Pacific Northwest
+   this afternoon and evening.
 
-   ...Mid-Atlantic/Ohio Valley...
-   An upper-level trough will move southeastward today across the Great
-   Lakes. Flow ahead of the trough will be westerly over the Ohio
-   Valley and Mid-Atlantic. At the surface, a cold front will move
-   southward into the Ohio Valley. South of the front, dewpoints in the
-   60s F will contribute to pockets of moderate instability by
-   afternoon. As low-level convergence and instability maximizes near
-   the front, thunderstorms are expected to form and move
-   east-southeastward across the Ohio Valley and Mid-Atlantic.
+   ...Pacific Northwest...
+   An upper-level low will remain over central California today. On the
+   northern periphery of the system, bands of large-scale ascent will
+   move westward across the Pacific Northwest, providing support for
+   thunderstorm development. At the surface, a low will deepen and move
+   northwestward from eastern Oregon into southern Washington. A
+   surface trough will extend southward from the low into north-central
+   and west-central Oregon. Thunderstorms are forecast to first develop
+   across southern Oregon around midday, with convective coverage
+   gradually increasing over much of Oregon during the afternoon. A
+   larger-scale line segment is expected to organize and move
+   northwestward across Oregon late this afternoon and into southern
+   Washington early this evening.
 
-   RAP forecast soundings just ahead of the front in northern Virginia
-   at 21Z have MLCAPE near 1200 J/kg with 0-6 km shear around 40 knots.
-   This will support organized thunderstorms, potentially in the form
-   of multiple short severe line segments. During the mid to late
-   afternoon, low-level lapse rates are forecast to peak near 7.5 C/km,
-   which will be favorable for a wind-damage threat. Hail will also be
-   possible within the stronger cores.
+   As surface temperatures warm today, instability will increase along
+   the surface trough with MLCAPE expected to peak in the 1200 to 1500
+   J/kg range. The instability combined with 30 to 40 knots of
+   mid-level east-southeasterly flow, along with low to mid-level lapse
+   rates in the 8 to 8.5 C/km range, will support severe thunderstorm
+   development. This environment will be favorable for severe wind
+   gusts and isolated large hail within the stronger parts of an
+   extensive line segment. Near the surface trough, 0-3 km
+   storm-relative helicity is forecast to increase into the 200 to 250
+   m2/s2 range by late afternoon, which could also support an isolated
+   tornado threat. Any tornado threat would mainly be associated with
+   rotating elements embedded in the line. As the line moves
+   north-northwestward and expands, a severe threat is expected to move
+   into southern Washington by early evening. A marginal severe threat
+   could impact parts of central and northern Washington later in the
+   evening.
 
-   ...Western Great Lakes...
-   Northwesterly mid-level flow will be in place across the western
-   Great Lakes today, as a shortwave trough moves southeastward across
-   the region. At the surface, a pocket of maximized low-level moisture
-   will be located over Wisconsin, where MLCAPE is expected to peak in
-   the 1500 to 2500 J/kg range. Thunderstorms that form during the
-   afternoon that have access to moderate instability and steep
-   low-level lapse rates could have potential for isolated wind gusts.
-   Hail could also occur.
+   ...East-central Colorado...
+   A mid-level trough will move northward across the central Plains
+   today. At the surface, upslope east-southeasterly flow will be in
+   place across eastern Colorado. Along the Front Range, the Denver
+   Cyclone is expected to develop by afternoon. Topographic lift and
+   increasing low-level convergence will result in scattered
+   thunderstorm development from the Palmer Divide northward into
+   north-central Colorado. Forecast soundings along this corridor by
+   late afternoon have 0-6 km shear in the 20 to 30 knot range with
+   700-500 mb lapse rates around 8 C/km. This should support a hail
+   threat with the stronger cells.
 
-   ...Southern Texas Panhandle/West Texas/Far Western Oklahoma...
-   At low-levels, a moist and unstable airmass is forecast to advect
-   northward across west Texas into the southern Texas Panhandle today.
-   A zone of low-level convergence will likely develop over the
-   southern Texas Panhandle, with upslope flow to the north of this
-   feature. As surface temperatures warm during the day, scattered
-   thunderstorm development is expected near the convergence zone. RAP
-   forecast soundings to the south and east of Amarillo at 21Z have
-   steep low to mid-level lapse rates with large surface
-   temperature-dewpoint spreads. This may be enough for isolated severe
-   wind gusts and hail.
-
-   ..Broyles/Chalmers.. 05/27/2026
+   ..Broyles/Chalmers.. 05/28/2026
