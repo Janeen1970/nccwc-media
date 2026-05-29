@@ -1,2 +1,2 @@
-NCCWC Regional Model Forecast for Eastern Oklahoma and Western Arkansas: Thursday High 81° / Low 57°, Friday High 82° / Low 54°, Saturday High 82° / Low 62°. The WALT Model AI detects that heavy rain is possible today.
+NCCWC Regional Model Forecast for Eastern Oklahoma and Western Arkansas: Friday High 82° / Low 62°, Saturday High 86° / Low 66°, Sunday High 87° / Low 67°, Monday High 84° / Low 64°, Tuesday High 81° / Low 61°, Wednesday High 78° / Low 58°, and Thursday High 75° / Low 55°. The WALT Model AI detects that heavy rain is possible today.
 
