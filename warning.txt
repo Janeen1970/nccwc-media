@@ -1,1 +1,52 @@
-No warnings.
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Little Rock AR
+524 PM CDT Sat May 30 2026
+
+The National Weather Service in Little Rock has issued a
+
+* Severe Thunderstorm Warning for...
+  Southwestern Searcy County in north central Arkansas...
+  Southeastern Newton County in north central Arkansas...
+  Eastern Johnson County in western Arkansas...
+  Northern Pope County in central Arkansas...
+
+* Until 600 PM CDT.
+
+* At 524 PM CDT, a severe thunderstorm was located near Holman, or 11
+  miles northeast of Clarksville, moving northeast at 35 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Dillen...                         Moore...
+  Solo...                           Bertha...
+  Smyrna...                         Holman...
+  Ben Hur...                        Fort Douglas...
+  Lutherville...                    Long Pool Campground...
+  Haw Creek Falls Campground...     Nogo...
+  Treat...                          Sand Gap...
+  Lurton...                         Mineral Springs Recreation
+  Area...
+  Simpson...                        Hillcrest in Johnson County...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3557 9281 3542 9333 3557 9345 3587 9301
+TIME...MOT...LOC 2224Z 236DEG 32KT 3555 9330 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
