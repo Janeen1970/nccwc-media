@@ -1,82 +1,90 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1253 AM CDT Fri May 29 2026
+   1249 AM CDT Sat May 30 2026
 
-   Valid 291200Z - 301200Z
+   Valid 301200Z - 311200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
-   WESTERN TEXAS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE CENTRAL
+   HIGH PLAINS INTO CENTRAL KANSAS AND NORTH-CENTRAL OKLAHOMA...
 
    ...SUMMARY...
-   Scattered strong to severe storms capable of sporadic large hail and
-   scattered severe winds are expected this afternoon and evening
-   across portions of western Texas. More isolated severe thunderstorms
-   are likely across parts of the central High Plains, southern Utah,
-   and the northern Rockies.
+   Thunderstorms with large hail and severe wind gusts are expected on
+   this afternoon and evening from parts of the central High Plains
+   into central Kansas and north-central Oklahoma. Isolated severe
+   gusts and hail will also be possible in the northern High Plains,
+   and across parts of western Texas.
 
    ...Synopsis...
-   Late-evening water-vapor imagery reveals an upper low over central
-   CA with a subtropic jet emanating out of Baja CA into the southern
-   Rockies. Over the next 24 hours both of these features will migrate
-   east/northeast into the central and southern High Plains. Despite
-   some weakening of the upper wave, 25-35 knot mid-level flow will
-   overspread the central and southern High Plains where low-level
-   moisture is gradually increasing within a weak east/southeasterly
-   flow regime. The combination of modest broad-scale ascent and
-   strengthening deep-layer shear atop a moistening low-level air mass
-   should support the potential for a few strong to severe
-   thunderstorms during and after peak heating from southern TX
-   northward across the southern Plains and into parts of the central
-   High Plains.
+   Latest GOES imagery depicts a pronounced mid-level low over southern
+   UT with a modest (25-35 knot) subtropical jet emanating from
+   northern Mexico into the southern Plains. Several shortwave
+   vorticity maximum are noted along the MS River Valley and across the
+   Southeast within a broad upper-level deformation zone. Over the next
+   12-24 hours, the low over southern UT will drift northeast, likely
+   overspreading the central High Plains by late afternoon/early
+   evening. As this occurs, more focused surface pressure falls and lee
+   cyclone development will become apparent across eastern WY/CO and
+   into portions of western KS/OK and the TX Panhandle. 
 
-   Elsewhere, orographic ascent within the northern Rockies will
-   support another day of isolated to widely scattered thunderstorms,
-   including a few severe storms. A migratory upper trough over the
-   central CONUS will continue to support scattered, but weak,
-   thunderstorms across the OH Valley and Southeast states this
-   afternoon. 
+   00 UTC RAOBs across the central to southern Rockies sampled very
+   steep (8-9 C/km) lapse rates, which should advect eastward in the
+   wake of ongoing convection through this afternoon given the
+   southwesterly mid-level flow regime. Additionally, late-evening
+   surface observations across the central CONUS reveal an expansive
+   reservoir of rich low-level moisture with dewpoints in the upper 60s
+   to mid 70s spanning from central OK into the Southeast. This
+   moisture will advect west/northwest through the morning and
+   afternoon hours in response to the surface pressure
+   falls/cyclogenesis over the central High Plains. 
 
-   ...Southern Plains and central High Plains...
-   Thunderstorm development is expected by mid-afternoon across western
-   TX into eastern CO along a modestly deepening lee surface trough
-   where ascent should be focused and mixed-layer inhibition minimized.
-   Slightly stronger synoptic ascent across the southern High Plains
-   should promote higher thunderstorm coverage across western TX/TX
-   Panhandle region with more isolated coverage with northward extent.
-   15% wind probabilities were introduced across portions of western TX
-   to reflect the potential for higher storm coverage. 
+   The combination of destabilizing thermal profiles aloft and
+   increasing low-level moisture content will promote a broad swath of
+   moderate to very high buoyancy from the central High Plains
+   southward into the southern Plains. Thunderstorm development within
+   this unstable air mass appears likely as ascent increases through
+   the day along the surface trough/sharpening dryline. 
 
-   Across both the southern and central High Plains warm low-level
-   conditions/deep boundary-layer mixing combined with weak flow within
-   the lowest 1-3 km will likely promote outflow dominant storms with
-   an attendant threat for severe gusts. Stronger mid-level flow across
-   western TX may support a more prolonged severe threat, and possibly
-   a few transient supercells capable of large hail and/or organized
-   bands capable of gusts upwards of 75 mph. Through the late evening,
-   isentropic ascent near the terminus of the nocturnal jet may support
-   elevated, loosely organized convection across portions of northwest
-   OK and western KS.  
+   ...Central High Plains...
+   35-45 knot southerly mid-level flow across the central High Plains
+   will yield elongated hodographs with deep-layer shear vectors
+   oriented off the dryline/surface trough. This will result in
+   high-based supercell development initially across northeast
+   CO/western NE into western SD with an attendant threat for large
+   hail and strong outflow winds. With time, upscale growth is
+   anticipated as convection spreads north/northeast across NE and SD
+   with an increasing threat for severe winds. 
 
-   ...Northern Rockies/Montana...
-   Diurnally-driven orographic ascent within the terrain of northern ID
-   and southwest MT will likely support isolated thunderstorm
-   development by late afternoon given weak capping and northward
-   advection of steep mid-level lapse rates. Residual low-level
-   moisture across north-central MT (dewpoints in the upper 40s to low
-   50s) coupled with 30-35 knot southerly mid-level flow will likely
-   promote intensification and some degree of organization (possibly
-   into transient supercells and/or organized bands) through the early
-   evening hours. Sporadic large hail and severe gusts appear possible
-   with the most intense convection as it spreads north towards the
-   Canadian border. 
+   ...Central/Southern Plains...
+   Most guidance depicts a sharpening dryline across western/central
+   KS, western OK, and into western TX through the afternoon hours.
+   More focused forcing for ascent across central KS to northern OK
+   ahead of a subtle low-amplitude upper wave will likely favor
+   scattered thunderstorm coverage with more isolated thunderstorms
+   likely with southward extent into western TX. Although ample
+   buoyancy will be in place (MLCAPE values between 3500-4500 J/kg),
+   the primary limiting factor across the central/southern Plains will
+   be modest deep-layer wind shear. Consensus among forecast guidance
+   suggests effective bulk shear values on the order of 25-35 knots are
+   likely, which will promote a combination of supercells and
+   multicells. However, the steep lapse-rate environment coupled with
+   sufficient deep-layer wind shear will support the potential for
+   large hail along with severe wind gusts. 
 
-   ...Southern Utah...
-   5% wind probabilities were introduced across southern to southeast
-   UT where weak, high-based convection may support a few strong to
-   severe dry downbursts. Although latest CAM ensemble guidance depicts
-   scant buoyancy (MUCAPE between 100-250 J/kg) and very transient
-   convection, a very deep boundary layer (LCL values upwards of 3 km)
-   featuring 25-35 knot flow will likely promote sporadic strong to
-   severe wind gusts.
+   A focused corridor for a tornado threat may emerge across northern
+   OK to central KS where southeasterly low-level flow should support
+   effective SRH on the order of 150-200 m2/s2. However, the tornado
+   threat will likely be highly conditional on achieving a sustained
+   supercell with balanced inflow/outflow. Given the increased
+   convective signal across northern OK/KS, 15% hail/wind
+   probabilities, as well as 2% tornado probabilities, have been
+   introduced. 
 
-   ..Moore/Marsh.. 05/29/2026
+   ...Southwest Missouri into central Arkansas...
+   A zone of isentropic ascent near 850 mb will become established
+   across the Ozark Plateau by late afternoon. Isolated to scattered
+   thunderstorms are likely within this corridor given MUCAPE values
+   upwards of 3000 J/kg, and sufficient deep-layer wind shear should be
+   in place for a few organized cells capable of large hail and perhaps
+   strong/severe downburst winds.
+
+   ..Moore/Marsh.. 05/30/2026
