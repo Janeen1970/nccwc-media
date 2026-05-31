@@ -1,90 +1,68 @@
-Day 1 Convective Outlook  
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1249 AM CDT Sat May 30 2026
+   0103 AM CDT Sun May 31 2026
 
-   Valid 301200Z - 311200Z
+   Valid 311200Z - 011200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE CENTRAL
-   HIGH PLAINS INTO CENTRAL KANSAS AND NORTH-CENTRAL OKLAHOMA...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE GREAT PLAINS INTO THE OZARKS...
 
    ...SUMMARY...
-   Thunderstorms with large hail and severe wind gusts are expected on
-   this afternoon and evening from parts of the central High Plains
-   into central Kansas and north-central Oklahoma. Isolated severe
-   gusts and hail will also be possible in the northern High Plains,
-   and across parts of western Texas.
+   A few strong to locally severe storms are possible across the
+   central U.S. on Sunday, from the Dakotas into the Ozarks, and across
+   southwest Texas.
 
    ...Synopsis...
-   Latest GOES imagery depicts a pronounced mid-level low over southern
-   UT with a modest (25-35 knot) subtropical jet emanating from
-   northern Mexico into the southern Plains. Several shortwave
-   vorticity maximum are noted along the MS River Valley and across the
-   Southeast within a broad upper-level deformation zone. Over the next
-   12-24 hours, the low over southern UT will drift northeast, likely
-   overspreading the central High Plains by late afternoon/early
-   evening. As this occurs, more focused surface pressure falls and lee
-   cyclone development will become apparent across eastern WY/CO and
-   into portions of western KS/OK and the TX Panhandle. 
+   A relatively weak upper trough will lift northward through the
+   central/northern Plains. To the south of this feature, mid-level
+   heights will modestly rise during the day. Weak surface lows are
+   expected within the northern Plains and Kansas. Rich moisture will
+   be present as far north as the Mid-Missouri Valley.
 
-   00 UTC RAOBs across the central to southern Rockies sampled very
-   steep (8-9 C/km) lapse rates, which should advect eastward in the
-   wake of ongoing convection through this afternoon given the
-   southwesterly mid-level flow regime. Additionally, late-evening
-   surface observations across the central CONUS reveal an expansive
-   reservoir of rich low-level moisture with dewpoints in the upper 60s
-   to mid 70s spanning from central OK into the Southeast. This
-   moisture will advect west/northwest through the morning and
-   afternoon hours in response to the surface pressure
-   falls/cyclogenesis over the central High Plains. 
+   ...Kansas/Missouri...
+   Convection is likely to be ongoing in parts of the Mid-Missouri
+   Valley during the morning. This activity is likely to leave an
+   outflow boundary within Missouri. Dewpoints in the upper 60s to low
+   70s F will promote strong to extreme MLCAPE values (3500-5000 J/kg).
+   Despite the trough generally lifting northward, a band of 30-40 kt
+   of mid-level flow will remain across the region. Storm development
+   along the surface trough/dryline is uncertain given the rising
+   mid-level heights. However, it is possible that a storm or two could
+   form along this boundary or where it intersects outflow from the
+   early day activity. Deep-layer shear would be sufficient for
+   supercell structures capable of large hail, severe winds, and
+   perhaps a tornado given the locally enhanced SRH along the outflow
+   boundary. The potential for very-large hail is less clear given weak
+   upper-level flow.
 
-   The combination of destabilizing thermal profiles aloft and
-   increasing low-level moisture content will promote a broad swath of
-   moderate to very high buoyancy from the central High Plains
-   southward into the southern Plains. Thunderstorm development within
-   this unstable air mass appears likely as ascent increases through
-   the day along the surface trough/sharpening dryline. 
+   Model guidance also suggests a subtle shortwave, coupled with weak
+   low-level lift, could initiate convection in the vicinity of
+   northeast Kansas/northwest Missouri. With the very moist airmass
+   present, nocturnal cooling would be rather gradual. Should a strong
+   enough cold pool develop, this activity could develop
+   south/southeast along the outflow boundary where a reservoir of
+   strong buoyancy would exist. Damaging winds would be the main threat
+   with this potential MCS. With the timing of this development
+   expected to be after 03Z, it is not clear how intense storms will
+   be. Should confidence increase in either scenario, a categorical
+   Slight would be warranted.
 
-   ...Central High Plains...
-   35-45 knot southerly mid-level flow across the central High Plains
-   will yield elongated hodographs with deep-layer shear vectors
-   oriented off the dryline/surface trough. This will result in
-   high-based supercell development initially across northeast
-   CO/western NE into western SD with an attendant threat for large
-   hail and strong outflow winds. With time, upscale growth is
-   anticipated as convection spreads north/northeast across NE and SD
-   with an increasing threat for severe winds. 
+   ...Oklahoma/Texas...
+   Strong heating to the west of a dryline will promote at least
+   isolated storms during the afternoon. Higher confidence in greater
+   storm coverage exists in Southwest Texas given the moist upslope
+   flow into the Davis Mountains. Coverage into Rolling Plains and
+   Oklahoma is less certain as mid-level heights will be slowly rising
+   during the day. Moderate to strong buoyancy will be in place
+   (2000-4000 J/kg MLCAPE. Deep layer shear will be weak, however.
+   Severe wind gusts will be the main hazard, though isolated large
+   hail is possible in the areas of larger buoyancy.
 
-   ...Central/Southern Plains...
-   Most guidance depicts a sharpening dryline across western/central
-   KS, western OK, and into western TX through the afternoon hours.
-   More focused forcing for ascent across central KS to northern OK
-   ahead of a subtle low-amplitude upper wave will likely favor
-   scattered thunderstorm coverage with more isolated thunderstorms
-   likely with southward extent into western TX. Although ample
-   buoyancy will be in place (MLCAPE values between 3500-4500 J/kg),
-   the primary limiting factor across the central/southern Plains will
-   be modest deep-layer wind shear. Consensus among forecast guidance
-   suggests effective bulk shear values on the order of 25-35 knots are
-   likely, which will promote a combination of supercells and
-   multicells. However, the steep lapse-rate environment coupled with
-   sufficient deep-layer wind shear will support the potential for
-   large hail along with severe wind gusts. 
+   ...Nebraska into the Dakotas...
+   Forcing for ascent from the weak, negatively tilted upper trough
+   will be greater here than areas to the south. That said, shear will
+   not be overly strong. Daytime heating will support widely scattered
+   to scattered storms capable of locally damaging winds and perhaps
+   some hail.
 
-   A focused corridor for a tornado threat may emerge across northern
-   OK to central KS where southeasterly low-level flow should support
-   effective SRH on the order of 150-200 m2/s2. However, the tornado
-   threat will likely be highly conditional on achieving a sustained
-   supercell with balanced inflow/outflow. Given the increased
-   convective signal across northern OK/KS, 15% hail/wind
-   probabilities, as well as 2% tornado probabilities, have been
-   introduced. 
-
-   ...Southwest Missouri into central Arkansas...
-   A zone of isentropic ascent near 850 mb will become established
-   across the Ozark Plateau by late afternoon. Isolated to scattered
-   thunderstorms are likely within this corridor given MUCAPE values
-   upwards of 3000 J/kg, and sufficient deep-layer wind shear should be
-   in place for a few organized cells capable of large hail and perhaps
-   strong/severe downburst winds.
-
-   ..Moore/Marsh.. 05/30/2026
+   ..Wendt/Moore.. 05/31/2026
