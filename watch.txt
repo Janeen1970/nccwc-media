@@ -1,68 +1,71 @@
- Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0103 AM CDT Sun May 31 2026
+   0103 AM CDT Mon Jun 01 2026
 
-   Valid 311200Z - 011200Z
+   Valid 011200Z - 021200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE GREAT PLAINS INTO THE OZARKS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE CENTRAL PLAINS...AND THE MID-SOUTH...
 
    ...SUMMARY...
-   A few strong to locally severe storms are possible across the
-   central U.S. on Sunday, from the Dakotas into the Ozarks, and across
-   southwest Texas.
+   Thunderstorms with large hail and severe wind gusts are expected
+   Monday afternoon and evening across parts of the central Plains.
+   Scattered strong to severe wind gusts will also be possible from the
+   Ozarks southeastward into parts of the Southeast.
 
    ...Synopsis...
-   A relatively weak upper trough will lift northward through the
-   central/northern Plains. To the south of this feature, mid-level
-   heights will modestly rise during the day. Weak surface lows are
-   expected within the northern Plains and Kansas. Rich moisture will
-   be present as far north as the Mid-Missouri Valley.
+   An upper low over the northern Rockies will remain roughly in place
+   during the period. Moderate mid-level flow will extend into the
+   central Rockies. Rich moisture will be present from the Ozarks into
+   the Mid-South/Southeast.
 
-   ...Kansas/Missouri...
-   Convection is likely to be ongoing in parts of the Mid-Missouri
-   Valley during the morning. This activity is likely to leave an
-   outflow boundary within Missouri. Dewpoints in the upper 60s to low
-   70s F will promote strong to extreme MLCAPE values (3500-5000 J/kg).
-   Despite the trough generally lifting northward, a band of 30-40 kt
-   of mid-level flow will remain across the region. Storm development
-   along the surface trough/dryline is uncertain given the rising
-   mid-level heights. However, it is possible that a storm or two could
-   form along this boundary or where it intersects outflow from the
-   early day activity. Deep-layer shear would be sufficient for
-   supercell structures capable of large hail, severe winds, and
-   perhaps a tornado given the locally enhanced SRH along the outflow
-   boundary. The potential for very-large hail is less clear given weak
-   upper-level flow.
+   ...Colorado into western Nebraska and western Kansas...
+   Moderate mid-level flow is expected to persist across the central
+   Rockies along the southeastern flank of the upper low. This flow
+   will gradually diminish into southwest Kansas. With a surface low
+   developing in the vicinity of the Raton Mesa, moist upslope flow
+   will occur within the Front Range. Storms will initially develop
+   within the higher terrain and progress east. Storms near the surface
+   low will develop by late afternoon. Initial supercells can be
+   expected with a large to very-large hail risk. Hail around 2 inches
+   is more probable in northeast Colorado into southwest Nebraska where
+   upper-level flow will be stronger. A tornado or two will also be
+   possible with initial discrete storms given the backed surface winds
+   east of the Front Range. With time, upscale growth of activity can
+   be expected, particularly in Kansas where strong heating will
+   promote larger temperature-dewpoint spreads and steep low-level
+   lapse rates. Where clustering can occur, a greater severe wind
+   threat will develop. Given the somewhat narrow corridor of moderate
+   to strong buoyancy and enough deep-layer shear that may limit
+   duration of linear organization, confidence is low in placement of
+   greater wind probabilities.
 
-   Model guidance also suggests a subtle shortwave, coupled with weak
-   low-level lift, could initiate convection in the vicinity of
-   northeast Kansas/northwest Missouri. With the very moist airmass
-   present, nocturnal cooling would be rather gradual. Should a strong
-   enough cold pool develop, this activity could develop
-   south/southeast along the outflow boundary where a reservoir of
-   strong buoyancy would exist. Damaging winds would be the main threat
-   with this potential MCS. With the timing of this development
-   expected to be after 03Z, it is not clear how intense storms will
-   be. Should confidence increase in either scenario, a categorical
-   Slight would be warranted.
+   ...Mid-South...
+   Convection that is currently ongoing in eastern Kansas/western
+   Missouri is expected to track south and east with time. Ahead of
+   this activity, a reservoir of 70+ F dewpoints will exist across the
+   Mid-South into parts of the Southeast. Depending on the timing of
+   the convection, some strengthening of this activity can be expected
+   into the afternoon. Mid-level flow across the region will not be
+   overly strong, but around 30 kt of effective shear appears
+   reasonable. Wind probabilities were increased within the Mid-South
+   to account for the anticipated MCS. There still remains some
+   question over the timing/placement of convection early this morning.
+   Adjustments to the Slight risk may be needed depending on
+   observational trends.
 
-   ...Oklahoma/Texas...
-   Strong heating to the west of a dryline will promote at least
-   isolated storms during the afternoon. Higher confidence in greater
-   storm coverage exists in Southwest Texas given the moist upslope
-   flow into the Davis Mountains. Coverage into Rolling Plains and
-   Oklahoma is less certain as mid-level heights will be slowly rising
-   during the day. Moderate to strong buoyancy will be in place
-   (2000-4000 J/kg MLCAPE. Deep layer shear will be weak, however.
-   Severe wind gusts will be the main hazard, though isolated large
-   hail is possible in the areas of larger buoyancy.
+   ...Arkansas...
+   Model trends show potential for convection to develop along outflow
+   and move into strong/extreme buoyancy in Arkansas. As in the
+   Mid-South, timing of when this occur will play a role in the
+   intensity of the activity, especially given the weaker shear with
+   southwestward extent. Damaging winds and isolated large hail are
+   possible with the strongest activity.
 
-   ...Nebraska into the Dakotas...
-   Forcing for ascent from the weak, negatively tilted upper trough
-   will be greater here than areas to the south. That said, shear will
-   not be overly strong. Daytime heating will support widely scattered
-   to scattered storms capable of locally damaging winds and perhaps
-   some hail.
+   ...Northern Plains...
+   Stronger mid-level flow around the upper low will be present in this
+   region. Moisture/buoyancy will be more limited, however. Cold
+   temperatures aloft will promote an isolated hail risk with storms
+   that develop in the surface trough.
 
-   ..Wendt/Moore.. 05/31/2026
+   ..Wendt/Moore.. 06/01/2026
