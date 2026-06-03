@@ -1,69 +1,46 @@
 
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1256 AM CDT Wed Jun 03 2026
+   0651 AM CDT Wed Jun 03 2026
 
-   Valid 031200Z - 041200Z
+   Valid 031300Z - 041200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
-   THE EASTERN DAKOTAS INTO WESTERN MINNESOTA...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
+   EVENING FROM NORTHERN NEBRASKA INTO THE EASTERN DAKOTAS AND WESTERN
+   MINNESOTA...
 
    ...SUMMARY...
-   Thunderstorms with large to very large hail and severe wind gusts
-   will be possible Wednesday afternoon into night in parts of the
-   northern Plains into upper Mississippi Valley. More sporadic
+   Thunderstorms with large hail, severe wind gusts, and a few
+   tornadoes will be possible this afternoon and evening in parts of
+   the northern Plains into upper Mississippi Valley. More sporadic
    occurrences of large hail and severe wind gusts appear possible
    across parts of the central High Plains and southwest Texas into
-   southeast New Mexico.
-
-   ...Synopsis...
-   The upper low will move into the Canadian Prairie today. A modest
-   mid-level jet will overspread North Dakota into northern South
-   Dakota. A cold front will move south and east through the Dakotas. A
-   surface high in the Great Lakes region will promote moisture
-   advection into the High Plains.
+   southern New Mexico.
 
    ...Northern Plains...
-   A modest low-level jet (45 kt at KLNX) is promoting a small cluster
-   of convection along the Nebraska/South Dakota border early this
-   morning. The duration of this activity is not certain, but it is
-   possible that it could last until daybreak when the low-level jet is
-   forecast to weaken. At a minimum, cloud cover from this activity may
-   delay heating in some areas. Models still bring low 60s F dewpoints
-   into South Dakota by the afternoon. Forcing for ascent will be
-   strongest in North Dakota where the upper low will be. Modest ascent
-   will still occur into South Dakota along the surface trough/front.
-   40-50 kt of shear will promote organized supercells, at least
-   initially. There does appear to be a small corridor where a discrete
-   mode could be maintained longer where the shear vectors will be more
-   orthogonal the surface trough. There, very-large hail would be more
-   probable. Overall, a transition to a linear mode is expected to
-   occur within a couple of hours of initiation as the front moves
-   southeast. Severe winds would become more likely as this occurs. The
-   tornado threat will be greatest with the initial discrete storms.
-   The low-level jet does modestly increase during the evening when a
-   linear mode should dominate. A QLCS circulation or two is possible,
-   but the wind threat should be the main concern.
+   Morning water vapor loop shows an upper low over southern Alberta,
+   with several shortwave troughs embedded in the southwesterly flow
+   over MT/WY/ID.  At the surface, the primary cold front will move
+   eastward into the central Dakotas and northwest NE by afternoon,
+   providing the focus for scattered thunderstorm development.
 
-   ...Central into southern Plains...
-   Weak convectively generated MCVs are apparent in water vapor imagery
-   in the Southwest. As these move slowly eastward  into this
-   afternoon, perhaps congealing, they will interact with a surface
-   trough/stalled boundary in the High Plains. Deep-layer winds will
-   otherwise be weak, but the MCV may locally enhance shear. Low to mid
-   60s F dewpoints will contribute to 1500-2000 J/kg despite fairly
-   modest mid-level lapse rates. The strongest storms will be capable
-   of isolated large hail and severe gusts. Some clustering may occur
-   which would locally increase the threat for strong/severe winds.
+   A broad cluster of weakening thunderstorms is occurring this morning
+   near the NE/SD border.  This activity has resulted in an outflow
+   boundary that will lift northward into SD this afternoon.  Dewpoints
+   in the upper 60s and MLCAPE over 3000 J/kg are expected in the
+   region along/north of the outflow boundary, with forecast soundings
+   showing favorable deep-layer shear for supercell storms.  These
+   storms will persist through the evening, affecting eastern SD,
+   southeast ND, and western MN.  Large hail is the primary risk early,
+   with a transition to more linear structures during the evening and
+   an attendant damaging wind risk.  Recent model guidance suggests a
+   notable low-level jet in this region during the late
+   afternoon/evening, supportive of some risk of maintaining discrete
+   modes and increasing the risk of a few tornadoes.
 
-   ...Southwest Texas...
-   Early morning convection appears possible within the region. The
-   spatial extent/intensity of this activity will play a large role in
-   whether stronger convection can develop later in the afternoon/early
-   evening. Should cloud cover/outflow influence be minimal, strong
-   heating southwest of the region along with moist influx from the
-   southeast will promote thunderstorms within the Davis Mountains/Big
-   Bend. Deep-layer flow will only be modest, but isolated large hail
-   and severe gusts would be possible.
+   ...Elsewhere...
+   Farther south, widely scattered strong storms are expected later
+   today across the central High Plains, and southwest TX/southern NM. 
+   Locally damaging wind gusts are the main risk.
 
-   ..Wendt/Moore.. 06/03/2026
+   ..Hart/Kerr.. 06/03/2026
