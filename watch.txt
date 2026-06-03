@@ -1,57 +1,69 @@
 
-   Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0649 AM CDT Tue Jun 02 2026
+   1256 AM CDT Wed Jun 03 2026
 
-   Valid 021300Z - 031200Z
+   Valid 031200Z - 041200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PARTS OF THE
-   NORTHERN PLAINS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
+   THE EASTERN DAKOTAS INTO WESTERN MINNESOTA...
 
    ...SUMMARY...
-   Thunderstorms with large hail, severe wind gusts and potentially a
-   couple of tornadoes are expected this afternoon and evening in parts
-   of the northern Plains. Strong wind gusts and marginal hail will
-   also be possible in parts of the southern and central High Plains. A
-   few severe wind gusts may also occur from southern Georgia into
-   northern and eastern Florida.
+   Thunderstorms with large to very large hail and severe wind gusts
+   will be possible Wednesday afternoon into night in parts of the
+   northern Plains into upper Mississippi Valley. More sporadic
+   occurrences of large hail and severe wind gusts appear possible
+   across parts of the central High Plains and southwest Texas into
+   southeast New Mexico.
+
+   ...Synopsis...
+   The upper low will move into the Canadian Prairie today. A modest
+   mid-level jet will overspread North Dakota into northern South
+   Dakota. A cold front will move south and east through the Dakotas. A
+   surface high in the Great Lakes region will promote moisture
+   advection into the High Plains.
 
    ...Northern Plains...
-   The upper low that has affected the western U.S. for the last
-   several days has lifted into Alberta, with broad 40-60 knot
-   southwesterly mid-level flow across much of the northern Plains.  A
-   cold front currently extends from eastern WY into western ND, which
-   will provide the primary focus for thunderstorm development later
-   this afternoon.  Forecast soundings across this area show strong
-   deep-layer shear, steep lapse rates, and MLCAPE values around 2500
-   J/kg.  This suggests the potential for several supercells storms
-   capable of large hail, damaging winds, and a tornado or two.
+   A modest low-level jet (45 kt at KLNX) is promoting a small cluster
+   of convection along the Nebraska/South Dakota border early this
+   morning. The duration of this activity is not certain, but it is
+   possible that it could last until daybreak when the low-level jet is
+   forecast to weaken. At a minimum, cloud cover from this activity may
+   delay heating in some areas. Models still bring low 60s F dewpoints
+   into South Dakota by the afternoon. Forcing for ascent will be
+   strongest in North Dakota where the upper low will be. Modest ascent
+   will still occur into South Dakota along the surface trough/front.
+   40-50 kt of shear will promote organized supercells, at least
+   initially. There does appear to be a small corridor where a discrete
+   mode could be maintained longer where the shear vectors will be more
+   orthogonal the surface trough. There, very-large hail would be more
+   probable. Overall, a transition to a linear mode is expected to
+   occur within a couple of hours of initiation as the front moves
+   southeast. Severe winds would become more likely as this occurs. The
+   tornado threat will be greatest with the initial discrete storms.
+   The low-level jet does modestly increase during the evening when a
+   linear mode should dominate. A QLCS circulation or two is possible,
+   but the wind threat should be the main concern.
 
-   Numerous thunderstorms over western KS this morning have overturned
-   most of this air mass, and will likely suppress strong storms
-   through the evening.  However, ample moisture has surged westward
-   into the foothills of CO where isolated strong storms may occur.
+   ...Central into southern Plains...
+   Weak convectively generated MCVs are apparent in water vapor imagery
+   in the Southwest. As these move slowly eastward  into this
+   afternoon, perhaps congealing, they will interact with a surface
+   trough/stalled boundary in the High Plains. Deep-layer winds will
+   otherwise be weak, but the MCV may locally enhance shear. Low to mid
+   60s F dewpoints will contribute to 1500-2000 J/kg despite fairly
+   modest mid-level lapse rates. The strongest storms will be capable
+   of isolated large hail and severe gusts. Some clustering may occur
+   which would locally increase the threat for strong/severe winds.
 
-   ...Southeast TX...
-   An outflow boundary associated with convective clusters over OK has
-   surged southward into the Red River valley.  A hot and humid air
-   mass over southeast TX will be supportive of re-development of
-   afternoon thunderstorms along this outflow boundary.  Storms will
-   likely track southward through the early evening, posing a risk of
-   locally damaging wind gusts.
+   ...Southwest Texas...
+   Early morning convection appears possible within the region. The
+   spatial extent/intensity of this activity will play a large role in
+   whether stronger convection can develop later in the afternoon/early
+   evening. Should cloud cover/outflow influence be minimal, strong
+   heating southwest of the region along with moist influx from the
+   southeast will promote thunderstorms within the Davis Mountains/Big
+   Bend. Deep-layer flow will only be modest, but isolated large hail
+   and severe gusts would be possible.
 
-   ...Southwest TX/Southeast NM...
-   Southeasterly low-level winds are present this morning over much of
-   southwest TX and southeast NM, maintaining 50s dewpoints in the
-   region and encouraging thunderstorms later today over the terrain. 
-   The storms that form will spread northeastward for a few hours,
-   posing a risk of locally damaging wind gusts.
-
-   ...FL/GA...
-   An upper trough will track southward across the eastern states
-   today.  A moist and moderately unstable airmass will develop over
-   much of FL and southern GA, with isolated afternoon thunderstorm
-   development expected.  The strongest cells may produce
-   gusty/damaging winds.
-
-   ..Hart/Kerr.. 06/02/2026
+   ..Wendt/Moore.. 06/03/2026
