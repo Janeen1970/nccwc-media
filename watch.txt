@@ -1,46 +1,82 @@
 
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0651 AM CDT Wed Jun 03 2026
+   0100 AM CDT Thu Jun 04 2026
 
-   Valid 031300Z - 041200Z
+   Valid 041200Z - 051200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
-   EVENING FROM NORTHERN NEBRASKA INTO THE EASTERN DAKOTAS AND WESTERN
-   MINNESOTA...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
+   THE NORTHERN PLAINS...
 
    ...SUMMARY...
-   Thunderstorms with large hail, severe wind gusts, and a few
-   tornadoes will be possible this afternoon and evening in parts of
-   the northern Plains into upper Mississippi Valley. More sporadic
-   occurrences of large hail and severe wind gusts appear possible
-   across parts of the central High Plains and southwest Texas into
-   southern New Mexico.
+   Severe thunderstorms capable of large to very large hail and
+   damaging winds are possible today from parts of the northern High
+   Plains across northern Nebraska and much of South Dakota. More
+   isolated occurrences of large hail and damaging winds appear
+   possible farther south across portions of the central Plains.
 
-   ...Northern Plains...
-   Morning water vapor loop shows an upper low over southern Alberta,
-   with several shortwave troughs embedded in the southwesterly flow
-   over MT/WY/ID.  At the surface, the primary cold front will move
-   eastward into the central Dakotas and northwest NE by afternoon,
-   providing the focus for scattered thunderstorm development.
+   ...Synopsis...
 
-   A broad cluster of weakening thunderstorms is occurring this morning
-   near the NE/SD border.  This activity has resulted in an outflow
-   boundary that will lift northward into SD this afternoon.  Dewpoints
-   in the upper 60s and MLCAPE over 3000 J/kg are expected in the
-   region along/north of the outflow boundary, with forecast soundings
-   showing favorable deep-layer shear for supercell storms.  These
-   storms will persist through the evening, affecting eastern SD,
-   southeast ND, and western MN.  Large hail is the primary risk early,
-   with a transition to more linear structures during the evening and
-   an attendant damaging wind risk.  Recent model guidance suggests a
-   notable low-level jet in this region during the late
-   afternoon/evening, supportive of some risk of maintaining discrete
-   modes and increasing the risk of a few tornadoes.
+   Broadly zonal mid-level flow across the northern CONUS will persist
+   on Thursday, with a subtropical ridge located across the northern
+   Gulf. Additionally, a weak mid-level vorticity maximum/short-wave
+   trough across the southern/central Plains will continue to
+   weaken/open and begin merging into the main belt of westerlies
+   across the north-central US.
 
-   ...Elsewhere...
-   Farther south, widely scattered strong storms are expected later
-   today across the central High Plains, and southwest TX/southern NM. 
-   Locally damaging wind gusts are the main risk.
+   At the surface, a weak surface low will develop during the day
+   across the central High Plains. This low will move south and east
+   into north-central Kansas/south-central Nebraska overnight.
 
-   ..Hart/Kerr.. 06/03/2026
+
+   ... Portions of the Northern Plains ...
+
+   Embedded within the broadly zonal flow are several subtle short-wave
+   troughs. One of these troughs will move from the northern Rockies
+   across the northern Plains. Ahead of this feature, moderate
+   instability will develop, with surface-based CAPE between 1500-2000
+   J/kg likely. As weak height falls overspread the region, a surface
+   low across eastern Wyoming will move south and east into northeast
+   Colorado and eventually into the central Plains. To the north of
+   this low, easterly/southeasterly upslope flow and increasing
+   large-scale ascent will combine for thunderstorms to develop during
+   the afternoon. Supercells will be possible as the southeasterly
+   surface winds and westerly mid-level flow results in 40-50 knots of
+   vertical shear. Steep mid-level lapse rates will support large to
+   very large hail and the potential for damaging thunderstorm winds. A
+   tornado or two will be possible with any storm that can interact
+   with the synoptic front.
+
+   Another area for storms will likely occur farther east, across
+   eastern South Dakota along a residual/slow-moving cold front.
+   Moderate instability and weak-to-moderate shear will support some
+   thunderstorm organization. Large hail will be possible with initial
+   development, with a tendency for storms to grow upscale and
+   transition to a damaging wind threat.
+
+
+   ... Central Kansas northeast into Central Iowa...
+
+   A remnant MCV/sub-synoptic low/mid-level trough located across the
+   Southern Plains this morning will slowly lift north/northeast across
+   the Central Plains during the day. Ahead of this feature, surface
+   dewpoints will rise into the upper-60Fs to low-70Fs, resulting.
+   Diurnal heating should result in increasing instability during the
+   day, as suggested by the HREF mean surface-based CAPE reaching
+   between 1000-1500 J/kg and localized areas approaching 2000-2500
+   J/kg.
+
+   With several days of convection upstream of northeast Kansas into
+   southwest Iowa in the elevated mixed layer source region, forecast
+   soundings across the region reflect a largely uncapped environment
+   during the afternoon. The result should be multiple areas/rounds of
+   convective development during the afternoon and evening hours. The
+   moist environment and potential for moderate instability will result
+   in a potential for strong thunderstorm winds and marginally severe
+   hail. Additionally, forecast guidance shows an increasing low-level
+   mass field response during the evening hours, resulting in
+   increasing low-level curvature/shear. Thus, a tornado threat may
+   materialize during the late afternoon/evening hours, especially with
+   any thunderstorms that can remain discrete.
+
+   ..Marsh/Moore.. 06/04/2026
