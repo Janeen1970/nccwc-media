@@ -1,64 +1,79 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0230 AM CDT Fri Jun 05 2026
+   1129 AM CDT Fri Jun 05 2026
 
-   Valid 051200Z - 061200Z
+   Valid 051630Z - 061200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE CENTRAL PLAINS...AND MID MISSOURI AND MID MISSISSIPPI VALLEYS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
+   EVENING FROM NEBRASKA/KANSAS INTO NORTHERN ILLINOIS...AND FROM
+   CENTRAL MINNESOTA INTO CENTRAL WISCONSIN...
 
    ...SUMMARY...
    Thunderstorms with large hail and severe wind gusts are expected to
    develop late this afternoon and evening from parts of the central
-   Plains into the mid Missouri and mid Mississippi Valleys. Isolated
+   Plains into the mid Missouri and mid Mississippi Valleys. Strong to
    severe wind gusts and hail will also be possible in parts of the
-   upper Mississippi Valley from this afternoon into the early evening.
+   upper Mississippi Valley.
 
-   ...Central Plains/Mid Missouri and Mid Mississippi Valleys...
-   At mid-levels, a shortwave trough and an associated jet streak will
-   move eastward today from the northern Plains into the upper
-   Mississippi Valley. At the surface, a low will deepen across
-   northeast Kansas, with a trough in place from the low northeastward
-   into western Iowa. Moisture advection will occur to the east of the
-   low across the mid Missouri Valley, where surface dewpoints will
-   increase into the upper 60s and lower 70s F. As surface temperatures
-   warm today, a pocket of strong instability will develop from
-   northeast Kansas and southeast Nebraska into southwest Iowa.
-   Convective initiation will be hampered by a capping inversion in
-   place throughout much of the afternoon. The cap is forecast to
-   weaken during the late afternoon or early evening, which will allow
-   for convective initiation. Thunderstorms are expected to develop
-   along the northern edge of the stronger instability near the surface
-   trough. This convection will likely move east-southeastward across
-   eastern Nebraska and south-central Iowa during the early to mid
-   evening. Storms will eventually affect parts of northern Missouri
-   and north-central Illinois.
+   ...Central Plains into the Mid MS Valley...
+   Morning surface analysis places a low over northwest KS, near the
+   intersection of weak lee troughing and the western edge of a remnant
+   outflow boundary extending across southern NE. Upper 60s/low 70s
+   dewpoints are already in place east/southeast of this surface low
+   and outflow boundary. Southerly/southeasterly flow will persist
+   throughout the day, maintaining a large fetch of low-level moisture
+   advection from the southern Plains into the Mid MS Valley. Steeper
+   mid-level lapse rates are also emerging out of the central High
+   Plains, spreading gradually eastward over these moist low-levels
+   throughout the day. As a result, a corridor of strong to very strong
+   buoyancy is anticipated from south-central NE/north-central KS along
+   the IA/MO border into far west-central IL by the late afternoon. 
 
-   RAP forecast soundings in the early evening to the south of Omaha
-   and Des Moines have MLCAPE in the 3000 to 4000 J/kg range with 0-6
-   km shear around 35 knots, and 500-700 mb lapse rates near 7.5 C/km.
-   This environment will support supercells with large hail. Hailstones
-   greater than 2 inches in diameter will be possible with the more
-   dominant supercells. Cell coverage is expected to steadily increase
-   during the early to mid evening. This should result in a transition
-   to linear mode with a line gradually becoming organized. During this
-   process, the potential for wind damage is expected to increase, and
-   a few wind gusts could exceed 70 mph along the more intense parts of
-   the line. The wind-damage threat will likely develop eastward across
-   parts of the mid Mississippi Valley during the mid to late evening,
-   as either the line approaches from the west or more storms initiate.
+   Expectation is that the outflow boundary will gradually retreat
+   northward while the cold front progresses slowly southeastward
+   across SD and NE. Convective initiation is anticipated along both of
+   these boundaries, beginning over north-central KS/south-central NE
+   near the surface low at the outflow boundary/cold front
+   intersection. Most guidance indicates this initiation will occur
+   after 00Z, but earlier initiation appears possible given moist
+   low-levels, robust heating, and mesoscale convergence. Recent RAP
+   soundings indicate minimal convective initiation by 21Z. 
 
+   Once initiation occurs, strong buoyancy (i.e. MLCAPE over 2500 J/kg)
+   will support intense updrafts capable of large to isolated very
+   large hail. Modest deep-layer shear (i.e. effective bulk shear less
+   than 30 kt) could limit storm organization, with a trend towards a
+   more outflow-dominant mode. The generally modest mid-level flow also
+   suggests upscale growth into an organized convective line is low.
+   Even so, a combination of convergence along the outflow and/or cold
+   front, as well as modest warm-air advection, will contribute to
+   additional storm development eastward into the Mid MS Valley. 
 
-   ...Upper Mississippi Valley...
-   A mid-level shortwave trough will move eastward into the upper
-   Mississippi Valley today, where a moist and unstable airmass will be
-   in place. Scattered thunderstorms are expected to develop ahead of
-   the trough during the afternoon across parts of central Minnesota
-   and central to northern Wisconsin. These storms will move eastward
-   toward the Great Lakes during the late afternoon and early evening.
-   MLCAPE in the 1500 to 2500 J/kg range, along with 0-6 km shear of 30
-   to 35 knots will support an isolated severe threat. A potential for
-   severe wind gusts and hail will be possible with the stronger short
-   multicell line segments.
+   ...Upper Midwest...
+   Recent surface analysis shows a cold front extending from
+   north-central WI southwestward through central SD. A low exists
+   along this boundary near the ND/SD/WI border intersection. This low
+   is forecast to track eastward along the front as it gradually shifts
+   southeastward, moving in tandem with a shortwave trough moving
+   through the northern Plains into the Upper Midwest. Buoyancy will be
+   more limited here than areas farther south, but still sufficient for
+   a few stronger, more organized storms, particularly since the
+   deep-layer vertical shear will be stronger. Discrete storms with
+   large hail as the primary risk are possible early in the convective
+   cycle. Thereafter, a trend towards more bowing segments with
+   damaging gusts is expected. Multiple rounds of storms are possible,
+   and the overall coverage is expected to be high enough to merit
+   introducing 15% hail and wind probabilities.
 
-   ..Broyles/Lyons.. 06/05/2026
+   ...Lower MI...
+   An MCV (associated with an overnight MCS) is moving across northern
+   IL/far southern WI this morning. Activity associated with this MCV
+   is currently weak and non-severe, but potential for
+   re-intensification exists this afternoon as activity moves into
+   northern IN and southern lower MI. Cloud cover introduces some
+   uncertainty regarding daytime heating and resultant buoyancy.
+   However, if sufficient daytime heating can occur, steep lapse rates
+   and mesoscale organization of the MCS could result in sporadic
+   damaging winds.
+
+   ..Mosier/Chalmers.. 06/05/2026
