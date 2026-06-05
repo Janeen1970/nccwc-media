@@ -1,81 +1,64 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0100 AM CDT Thu Jun 04 2026
+   0230 AM CDT Fri Jun 05 2026
 
-   Valid 041200Z - 051200Z
+   Valid 051200Z - 061200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
-   THE NORTHERN PLAINS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE CENTRAL PLAINS...AND MID MISSOURI AND MID MISSISSIPPI VALLEYS...
 
    ...SUMMARY...
-   Severe thunderstorms capable of large to very large hail and
-   damaging winds are possible today from parts of the northern High
-   Plains across northern Nebraska and much of South Dakota. More
-   isolated occurrences of large hail and damaging winds appear
-   possible farther south across portions of the central Plains.
+   Thunderstorms with large hail and severe wind gusts are expected to
+   develop late this afternoon and evening from parts of the central
+   Plains into the mid Missouri and mid Mississippi Valleys. Isolated
+   severe wind gusts and hail will also be possible in parts of the
+   upper Mississippi Valley from this afternoon into the early evening.
 
-   ...Synopsis...
+   ...Central Plains/Mid Missouri and Mid Mississippi Valleys...
+   At mid-levels, a shortwave trough and an associated jet streak will
+   move eastward today from the northern Plains into the upper
+   Mississippi Valley. At the surface, a low will deepen across
+   northeast Kansas, with a trough in place from the low northeastward
+   into western Iowa. Moisture advection will occur to the east of the
+   low across the mid Missouri Valley, where surface dewpoints will
+   increase into the upper 60s and lower 70s F. As surface temperatures
+   warm today, a pocket of strong instability will develop from
+   northeast Kansas and southeast Nebraska into southwest Iowa.
+   Convective initiation will be hampered by a capping inversion in
+   place throughout much of the afternoon. The cap is forecast to
+   weaken during the late afternoon or early evening, which will allow
+   for convective initiation. Thunderstorms are expected to develop
+   along the northern edge of the stronger instability near the surface
+   trough. This convection will likely move east-southeastward across
+   eastern Nebraska and south-central Iowa during the early to mid
+   evening. Storms will eventually affect parts of northern Missouri
+   and north-central Illinois.
 
-   Broadly zonal mid-level flow across the northern CONUS will persist
-   on Thursday, with a subtropical ridge located across the northern
-   Gulf. Additionally, a weak mid-level vorticity maximum/short-wave
-   trough across the southern/central Plains will continue to
-   weaken/open and begin merging into the main belt of westerlies
-   across the north-central US.
-
-   At the surface, a weak surface low will develop during the day
-   across the central High Plains. This low will move south and east
-   into north-central Kansas/south-central Nebraska overnight.
-
-
-   ... Portions of the Northern Plains ...
-
-   Embedded within the broadly zonal flow are several subtle short-wave
-   troughs. One of these troughs will move from the northern Rockies
-   across the northern Plains. Ahead of this feature, moderate
-   instability will develop, with surface-based CAPE between 1500-2000
-   J/kg likely. As weak height falls overspread the region, a surface
-   low across eastern Wyoming will move south and east into northeast
-   Colorado and eventually into the central Plains. To the north of
-   this low, easterly/southeasterly upslope flow and increasing
-   large-scale ascent will combine for thunderstorms to develop during
-   the afternoon. Supercells will be possible as the southeasterly
-   surface winds and westerly mid-level flow results in 40-50 knots of
-   vertical shear. Steep mid-level lapse rates will support large to
-   very large hail and the potential for damaging thunderstorm winds. A
-   tornado or two will be possible with any storm that can interact
-   with the synoptic front.
-
-   Another area for storms will likely occur farther east, across
-   eastern South Dakota along a residual/slow-moving cold front.
-   Moderate instability and weak-to-moderate shear will support some
-   thunderstorm organization. Large hail will be possible with initial
-   development, with a tendency for storms to grow upscale and
-   transition to a damaging wind threat.
+   RAP forecast soundings in the early evening to the south of Omaha
+   and Des Moines have MLCAPE in the 3000 to 4000 J/kg range with 0-6
+   km shear around 35 knots, and 500-700 mb lapse rates near 7.5 C/km.
+   This environment will support supercells with large hail. Hailstones
+   greater than 2 inches in diameter will be possible with the more
+   dominant supercells. Cell coverage is expected to steadily increase
+   during the early to mid evening. This should result in a transition
+   to linear mode with a line gradually becoming organized. During this
+   process, the potential for wind damage is expected to increase, and
+   a few wind gusts could exceed 70 mph along the more intense parts of
+   the line. The wind-damage threat will likely develop eastward across
+   parts of the mid Mississippi Valley during the mid to late evening,
+   as either the line approaches from the west or more storms initiate.
 
 
-   ... Central Kansas northeast into Central Iowa...
+   ...Upper Mississippi Valley...
+   A mid-level shortwave trough will move eastward into the upper
+   Mississippi Valley today, where a moist and unstable airmass will be
+   in place. Scattered thunderstorms are expected to develop ahead of
+   the trough during the afternoon across parts of central Minnesota
+   and central to northern Wisconsin. These storms will move eastward
+   toward the Great Lakes during the late afternoon and early evening.
+   MLCAPE in the 1500 to 2500 J/kg range, along with 0-6 km shear of 30
+   to 35 knots will support an isolated severe threat. A potential for
+   severe wind gusts and hail will be possible with the stronger short
+   multicell line segments.
 
-   A remnant MCV/sub-synoptic low/mid-level trough located across the
-   Southern Plains this morning will slowly lift north/northeast across
-   the Central Plains during the day. Ahead of this feature, surface
-   dewpoints will rise into the upper-60Fs to low-70Fs, resulting.
-   Diurnal heating should result in increasing instability during the
-   day, as suggested by the HREF mean surface-based CAPE reaching
-   between 1000-1500 J/kg and localized areas approaching 2000-2500
-   J/kg.
-
-   With several days of convection upstream of northeast Kansas into
-   southwest Iowa in the elevated mixed layer source region, forecast
-   soundings across the region reflect a largely uncapped environment
-   during the afternoon. The result should be multiple areas/rounds of
-   convective development during the afternoon and evening hours. The
-   moist environment and potential for moderate instability will result
-   in a potential for strong thunderstorm winds and marginally severe
-   hail. Additionally, forecast guidance shows an increasing low-level
-   mass field response during the evening hours, resulting in
-   increasing low-level curvature/shear. Thus, a tornado threat may
-   materialize during the late afternoon/evening hours, especially with
-   any thunderstorms that can remain discrete.
-
-   ..Marsh/Moore.. 06/04/2026
+   ..Broyles/Lyons.. 06/05/2026
