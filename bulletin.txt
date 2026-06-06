@@ -1,4 +1,4 @@
-NCCWC Regional Model Forecast for Eastern Oklahoma and Western Arkansas: Saturday High 81° / Low 71°, Sunday High 91° / Low 71°, Monday High 91° / Low 71,  Tuesday 94° / Low 74, Wednesday 96° / Low 76, Thursday 93° / Low 73. The WALT Model AI detects rain and thunderstorms are possible through the next seven days. Strength: MODERATE SYSTEM
+NCCWC Regional Model Forecast for Eastern Oklahoma and Western Arkansas: Saturday High 81° / Low 71° (Rain likely and thunderstorms possible), Sunday High 91° / Low 71°, Monday High 91° / Low 71,  Tuesday 94° / Low 74, Wednesday 96° / Low 76, Thursday 93° / Low 73. The WALT Model AI detects rain and thunderstorms are possible through the next seven days. Strength: MODERATE SYSTEM
 Severity: Strong storms possible
 Wind Forecast: 40–60 mph winds
 Tornado Risk: Low tornado risk
