@@ -1,52 +1,95 @@
-Day 1 Convective Outlook  
-   NWS Storm Prediction Center Norman OK
-   0700 AM CDT Sat Jun 06 2026
+Flood Watch
+National Weather Service Tulsa OK
+1146 PM CDT Sat Jun 6 2026
 
-   Valid 061300Z - 071200Z
+OKZ055>067-154-254-354-071300-
+/O.EXT.KTSA.FA.A.0002.260607T1200Z-260608T0600Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Washington OK-Nowata-Craig-Ottawa-Pawnee-Tulsa-Rogers-Mayes-
+Delaware-Creek-Okfuskee-Okmulgee-Wagoner-Western Osage-Northeast
+Osage-Southeast Osage-
+Including the cities of Fairfax, Vinita, Nowata, Grove, Pawhuska,
+Hominy, Wagoner, Jay, Sapulpa, Shidler, Pryor, Pawnee, Miami,
+Tulsa, Bartlesville, Okmulgee, Okemah, and Claremore
+1146 PM CDT Sat Jun 6 2026
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
-   EVENING FROM INDIANA INTO THE UPPER OHIO VALLEY AND SOUTHERN NEW
-   ENGLAND...AND OVER PARTS OF EASTERN MONTANA AND WESTERN NORTH
-   DAKOTA...
+...FLOOD WATCH NOW IN EFFECT FROM 7 AM CDT SUNDAY THROUGH LATE
+SUNDAY NIGHT...
 
-   ...SUMMARY...
-   Thunderstorms with damaging wind gusts and isolated large hail are
-   expected to develop later today from parts of the lower Great Lakes
-   and Ohio Valley into southern New England. Large hail and severe
-   wind gusts are also expected in the northern High Plains and
-   southern Plains.
+* WHAT...Flash flooding caused by excessive rainfall is possible.
 
-   ...Indiana to Southern New England...
-   Morning water vapor loop shows a deepening upper trough over the
-   Great Lakes region.  This trough and an associated mid-level speed
-   max will spread across the upper Ohio Valley into New England this
-   afternoon and tonight.  Strengthening large-scale ascent ahead of
-   the trough has led to multiple clusters of ongoing thunderstorms
-   from eastern IL into parts of OH/PA/NY.  One or more of these
-   clusters, along with new development by early afternoon, is expected
-   to intensify and spread across the SLGT risk region.  Forecast
-   soundings suggest sufficient CAPE and low-level lapse rates to
-   support a risk of damaging wind gusts with this activity.  Overnight
-   CAM solutions continue to vary on the likely corridor of greatest
-   concern.  However, there is the potential for a rather widespread
-   damaging wind event across parts of PA/NY/NJ this afternoon/evening
-   if sufficient heating and mesoscale organization of the clusters
-   occur.
+* WHERE...Portions of east central and northeast Oklahoma, including
+  the following counties, in east central Oklahoma, Okfuskee. In
+  northeast Oklahoma, Craig, Creek, Delaware, Mayes, Northeast
+  Osage, Nowata, Okmulgee, Ottawa, Pawnee, Rogers, Southeast Osage,
+  Tulsa, Wagoner, Washington OK and Western Osage.
 
-   ...Northern High Plains...
-   A large upper ridge is in place today over the High Plains region. 
-   A southerly low-level jet is expected to intensify by early evening
-   as an upper trough approaches and low-level cyclogenesis occurs over
-   southeast MT.  This should encourage the development of evening
-   thunderstorms across eastern MT tracking into western ND overnight. 
-   It is unclear whether the bulk of these storms will be just west of
-   the warm sector and elevated, or will be surface-based.  Regardless,
-   large hail is the primary concern.
+* WHEN...From 7 AM CDT Sunday through late Sunday night.
 
-   ...Southern Plains...
-   A weak upper low is tracking northeastward from west TX into
-   Oklahoma this morning. A band of stronger winds aloft to the east of
-   the low, coupled with pockets of daytime heating and ample moisture,
-   will promote damaging wind gusts and hail in the strongest storms.
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+  creeks, streams, and other low-lying and flood-prone locations.
 
-   ..Hart/Wendt.. 06/06/2026
+* ADDITIONAL DETAILS...
+  - Widespread showers with embedded thunderstorms are expected
+    Sunday, with areas of heavy rainfall likely. Rainfall totals
+    may locally reach 3 to 4 inches, and in combination with
+    Saturday`s rainfall, may lead to flash flooding.
+  - http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be prepared to take action
+should Flash Flood Warnings be issued.
+
+&&
+
+$$
+
+MAB
+Flood Watch
+National Weather Service Tulsa OK
+1146 PM CDT Sat Jun 6 2026
+
+ARZ001-002-010-011-119-120-129-219-220-229-OKZ068>071-073>075-172-
+176-272-276-376-071300-
+/O.EXB.KTSA.FA.A.0002.260607T1200Z-260608T0600Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Benton-Carroll-Washington AR-Madison-Northern Crawford-Northern
+Franklin-North and Central Sebastian-Southern Crawford-Central
+and Southern Franklin-Southern Sebastian-Cherokee-Adair-Muskogee-
+McIntosh-Pittsburg-Haskell-Latimer-Northern Sequoyah-Northern Le
+Flore-Central and Southern Sequoyah-Central Le Flore-Southern Le
+Flore-
+Including the cities of Hartford, Berryville, Pocola, Jethro,
+Lonelm, Charleston, Sallisaw, Talihina, Bentonville, Patterson,
+Van Buren, Springdale, Stilwell, Panama, Ozark, Mansfield,
+McAlester, Spiro, Muskogee, Stigler, Barnes, Fort Smith, Rogers,
+Eureka Springs, Paradise, Tahlequah, Mountainburg, Fayetteville,
+Poteau, Huntington, Checotah, Marble City, Cravens, Wilburton,
+Huntsville, Liberty, Arkoma, Watalula, and Cecil
+1146 PM CDT Sat Jun 6 2026
+
+...FLOOD WATCH IN EFFECT FROM 7 AM CDT SUNDAY THROUGH LATE SUNDAY
+NIGHT...
+
+* WHAT...Flash flooding caused by excessive rainfall is possible.
+
+* WHERE...Portions of Arkansas, including the following counties,
+  Benton, Carroll, Central and Southern Franklin, Madison, North and
+  Central Sebastian, Northern Crawford, Northern Franklin, Southern
+  Crawford, Southern Sebastian and Washington AR and Oklahoma,
+  including the following counties, Adair, Central Le Flore, Central
+  and Southern Sequoyah, Cherokee, Haskell, Latimer, McIntosh,
+  Muskogee, Northern Le Flore, Northern Sequoyah, Pittsburg and
+  Southern Le Flore.
+
+* WHEN...From 7 AM CDT Sunday through late Sunday night.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+  creeks, streams, and other low-lying and flood-prone locations.
+
+* ADDITIONAL DETAILS...
+  - Widespread showers with embedded thunderstorms are expected
+    Sunday, with areas of heavy rainfall likely. Rainfall totals
+    may locally reach 3 to 4 inches, and in combination with
+    Saturday`s rainfall, may lead to flash flooding.
