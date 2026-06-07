@@ -92,4 +92,76 @@ NIGHT...
   - Widespread showers with embedded thunderstorms are expected
     Sunday, with areas of heavy rainfall likely. Rainfall totals
     may locally reach 3 to 4 inches, and in combination with
-    Saturday`s rainfall, may lead to flash flooding.
+    Saturday`s rainfall, may lead to flash flooding...Day 1 Convective Outlook  
+   NWS Storm Prediction Center Norman OK
+   1246 AM CDT Sun Jun 07 2026
+
+   Valid 071200Z - 081200Z
+
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE NORTHERN PLAINS...
+
+   ...SUMMARY...
+   Severe thunderstorms with large hail, damaging wind gusts and an
+   isolated tornado threat are expected today across parts of the
+   northern Plains. An isolated threat for tornadoes and severe wind
+   gusts will be possible from parts of eastern Oklahoma and
+   southeastern Kansas eastward across the Ozarks. Strong wind gusts
+   will also be possible in the mid Mississippi Valley and in the
+   Mid-Atlantic.
+
+   ...Northern Plains...
+   An upper-level trough will move eastward across the northern Rockies
+   today. Ahead of the trough, mid-level heights will gradually fall
+   across the northern Plains. At the surface, a trough of low pressure
+   will deepen in the western Dakotas as a cold front advances eastward
+   across the northern High Plains. Surface dewpoints near the surface
+   trough will be in the lower to mid 60s F which will enable moderate
+   instability to develop around midday. During the afternoon,
+   thunderstorms are expected to form along the front and further east
+   near the surface trough as low-level convergence increases. Although
+   cells will initially be discrete, convection is expected to grow
+   upscale into a line during the evening.
+
+   At 21Z, RAP forecast soundings near the surface trough in western
+   North Dakota have 0-6 km shear in the 40 to 50 knot range with
+   700-500 mb lapse rates near 8.5 C/km. This environment will be
+   favorable for supercells with large hail. The more dominant
+   supercells may be capable of producing hailstones greater than 2
+   inches in diameter. Low-level shear may be strong enough for an
+   isolated tornado threat as well. Supercells will be favored in the
+   late afternoon when cells will likely be discrete. In the early
+   evening, a quick transition to linear mode is expected, although
+   rotating elements will continue to be possible in the line itself.
+   As the line develops, severe wind gusts will become more likely.
+   Intense parts of the line could be capable of producing wind gusts
+   above 75 mph.
+
+   ...Eastern Oklahoma/Southeast Kansas/Ozarks/Mid Mississippi
+   Valley...
+   An upper-level trough will move northeastward across the central
+   U.S. today, over the top of a moist and unstable airmass. Surface
+   dewpoints from eastern parts of the southern and central Plains into
+   the mid Mississippi Valley will be in the upper 60s and lower 70s F.
+   This will contribute to the development of moderate instability by
+   afternoon. Random areas of maximized low-level convergence are
+   expected this afternoon which will lead to the formation of
+   scattered thunderstorms. Deep-layer shear of 25 to 30 knots should
+   be sufficient for isolated supercells. Storm-relative helicity could
+   reach 200 m2/s2 in a few areas, which would support an isolated
+   tornado threat. Strong wind gusts will also be possible with this
+   threat extending eastward into the mid Mississippi Valley. The
+   wind-damage threat will be greatest in the mid to late afternoon as
+   low-level lapse rates become steep.
+
+   ...Mid-Atlantic...
+   An upper-level trough and an associated cold front will move across
+   the Mid-Atlantic today. Ahead of the front, surface dewpoints in the
+   mid 60s F will contribute to moderate instability by afternoon.
+   Thunderstorms will develop near and to the south of the front during
+   the mid to late afternoon. RAP forecast soundings ahead of the front
+   suggest that 0-3 km lapse rates will peak near 8 C/km, which should
+   support a potential for isolated severe wind gusts.
+
+   ..Broyles/Supinie.. 06/07/2026
+
