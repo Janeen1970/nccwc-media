@@ -1,75 +1,54 @@
-BULLETIN - EAS ACTIVATION REQUESTED
-Flash Flood Warning
+792 
+WWUS54 KTSA 070233
+SVSTSA
+
+Severe Weather Statement
 National Weather Service Tulsa OK
-522 PM CDT Sat Jun 6 2026
+933 PM CDT Sat Jun 6 2026
 
-The National Weather Service in Tulsa has issued a
+ARC047-070300-
+/O.CON.KTSA.TO.W.0050.000000T0000Z-260607T0300Z/
+Franklin AR-
+933 PM CDT Sat Jun 6 2026
 
-* Flash Flood Warning for...
-  Le Flore County in southeastern Oklahoma...
+...A TORNADO WARNING REMAINS IN EFFECT UNTIL 1000 PM CDT FOR WEST
+CENTRAL FRANKLIN COUNTY...
 
-* Until 830 PM CDT.
+At 933 PM CDT, a severe thunderstorm capable of producing a tornado
+was located 8 miles north of Branch, moving north at 15 mph.
 
-* At 522 PM CDT, Doppler radar indicated thunderstorms producing 
-  heavy rain across the warned area. Between 1 and 2 inches of rain 
-  have fallen. Additional rainfall amounts of 1 to 3 inches are 
-  possible in the warned area. Flash flooding is ongoing or expected 
-  to begin shortly.
+HAZARD...Tornado.
 
-  HAZARD...Flash flooding caused by thunderstorms.
+SOURCE...Radar indicated rotation.
 
-  SOURCE...Radar.
+IMPACT...Flying debris will be dangerous to those caught without 
+         shelter. Mobile homes will be damaged or destroyed. Damage 
+         to roofs, windows, and vehicles will occur.  Tree damage is 
+         likely.
 
-  IMPACT...Flash flooding of small creeks and streams, urban
-           areas, highways, streets and underpasses as well as
-           other poor drainage and low-lying areas.
+Locations in or near the path include...
+Ozark...                          Cecil...
+Lonelm...                         Toney...
+Cravens...                        Meg...
 
-* Some locations that will experience flash flooding include...
-  Poteau...                          Heavener...
-  Wister...                          Howe...
-  Fanshawe...                        Muse...
-  Big Cedar...                       Lake Wister State Park...
-  Whitesboro...                      Octavia...
-  Talimena State Park...             Hodgen...
-  Summerfield...
-
+This includes Interstate 40 in Arkansas between mile markers 24 and
+36.
+ 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Turn around, don't drown when encountering flooded roads. Most flood 
-deaths occur in vehicles.
-...BULLETIN - EAS ACTIVATION REQUESTED
-Flash Flood Warning
-National Weather Service Tulsa OK
-511 PM CDT Sat Jun 6 2026
+TAKE COVER NOW! Move to a basement or an interior room on the lowest
+floor of a sturdy building. Avoid windows. If you are outdoors, in a
+mobile home, or in a vehicle, move to the closest substantial shelter
+and protect yourself from flying debris.
 
-The National Weather Service in Tulsa has issued a
+&&
 
-* Flash Flood Warning for...
-  Eastern Latimer County in southeastern Oklahoma...
-  West Central Le Flore County in southeastern Oklahoma...
+LAT...LON 3535 9390 3540 9405 3546 9405 3546 9403
+      3547 9405 3548 9404 3550 9404 3550 9403
+      3552 9404 3560 9400 3556 9380
+TIME...MOT...LOC 0233Z 201DEG 15KT 3542 9397 
 
-* Until 815 PM CDT.
+TORNADO...RADAR INDICATED
+MAX HAIL SIZE...<.75 IN
 
-* At 511 PM CDT, Doppler radar indicated thunderstorms producing 
-  heavy rain across the warned area. Between 2 and 3 inches of rain 
-  have fallen. Additional rainfall amounts of 1 to 2 inches are 
-  possible in the warned area. Flash flooding is ongoing or expected 
-  to begin shortly.
-
-  HAZARD...Flash flooding caused by thunderstorms.
-
-  SOURCE...Radar.
-
-  IMPACT...Flash flooding of small creeks and streams, urban
-           areas, highways, streets and underpasses as well as
-           other poor drainage and low-lying areas.
-
-* Some locations that will experience flash flooding include...
-  Talihina...                        Red Oak...
-  Bengal...                          Panola...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Turn around, don't drown when encountering flooded roads. Most flood 
-deaths occur in vehicles.
-
+$$
