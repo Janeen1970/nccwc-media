@@ -1,4 +1,38 @@
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
+he National Weather Service in Shreveport has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern McCurtain County in southeastern Oklahoma...
+
+* Until 145 PM CDT.
+
+* At 120 PM CDT, a severe thunderstorm was located 28 miles northwest
+  of Gillham, or 34 miles northwest of De Queen, moving northeast at
+  35 mph.
+
+  HAZARD...60 mph wind gusts and small hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Smithville and Watson.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Seek shelter inside a well-built structure and stay away from
+windows. This storm is capable of producing damaging winds.
+
+&&
+
+LAT...LON 3429 9470 3449 9482 3451 9479 3451 9446
+      3445 9446
+TIME...MOT...LOC 1820Z 232DEG 31KT 3446 9465
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...<1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Shreveport LA
 108 PM CDT Sun Jun 7 2026
