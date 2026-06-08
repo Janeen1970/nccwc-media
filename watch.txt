@@ -1,66 +1,68 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0703 AM CDT Mon Jun 08 2026
+   1152 AM CDT Mon Jun 08 2026
 
-   Valid 081300Z - 091200Z
+   Valid 081630Z - 091200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
-   EVENING FROM NORTHEAST COLORADO AND SOUTHEAST WYOMING INTO PARTS OF
-   NEBRASKA AND KANSAS....
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR PARTS OF
+   EASTERN COLORADO AND FROM NORTHERN INTO EASTERN KANSAS...
 
    ...SUMMARY...
-   Scattered thunderstorms with large to very large hail, severe wind
-   gusts potentially above 70 mph, and a few tornadoes will be possible
-   today from the Front Range east-southeastward into the central
-   Plains. Isolated severe gusts and hail will also be possible in
-   parts of the southern High Plains, northern Plains and mid
-   Mississippi Valley. An isolated hail threat may develop toward the
-   end of the period in the northern High Plains.
+   Severe thunderstorms potentially capable of large to giant hail and
+   a couple of tornadoes are possible over the plains of eastern
+   Colorado.  Scattered to numerous severe thunderstorms are possible
+   farther east over northern Kansas late this afternoon through the
+   late evening.  Severe gusts ranging from 60-100 mph are possible
+   along with a risk for a couple of tornadoes.
 
    ...Eastern CO into Western NE/KS...
-   Relatively fast southwest flow aloft is present today from the
-   southwest states into the central Rockies.  A surface low will
-   remain over southwest KS through the day, maintaining a stream of
-   easterly low-level winds and moist advection into eastern CO and
-   northwest KS.  Daytime heating will further aid the westward
-   transport of moisture, resulting in an unstable air mass over the
-   foothills near Denver/CO Springs.  Thunderstorms are expected to
-   develop in this corridor this afternoon, in an environment of steep
-   mid-level lapse rates, CAPE around 1000 J/kg, and favorable
-   deep-layer shear.  Supercell structures capable of large hail will
-   be the main early threat.  As this activity moves/builds eastward
-   into the Plains, it will encounter increasingly moist/unstable air
-   and strengthening low-level shear profiles by early evening.  This
-   will promote a risk of a few supercell tornadoes, large hail, and
-   damaging winds. An upgrade to ENH risk may be needed in later
-   updates as clouds/daytime heating and affects of ongoing NE
-   convection is assessed.
+   A belt of moderate southwesterly mid-level flow will be maintained
+   over the central High Plains to the downstream of a western U.S.
+   upper trough.  A surface low near Dodge City, KS and moist easterly
+   low-level flow to its north, will contribute to upslope flow into
+   eastern CO and the CO Front Range.  Strong heating and 50s to lower
+   60s deg F dewpoints and steep 700-500 mb lapse rates will result in
+   moderate to large buoyancy by mid afternoon.  Elongated hodographs
+   will favor supercells with the more intense updrafts.  Some increase
+   in low-level hodographs towards early evening coupled with a moist
+   boundary layer may aid in the risk for supercell tornadoes, in
+   addition to the risk for hail.  Some of the latest model forecast
+   soundings suggest giant hail (3.0-4.5 inches in diameter) with the
+   more intense supercells over eastern CO late this afternoon into the
+   early evening.  Severe gusts will also be possible with the stronger
+   storms with this activity diminishing by late evening.
 
-   By mid-evening, the activity is expected to be organizing upscale
-   into linear structures as it moves into southwest NE and northwest
-   KS.  An increasing risk of damaging winds will likely develop, with
-   storms spreading eastward into the overnight hours.  
+   ...KS vicinity...
+   A very moist surface was analyzed this morning across the central
+   Great Plains to the south of a front across central and northern KS
+   to the east of a triple point.  Model guidance shows lowest 100-mb
+   mean mixing ratios of 16-18 g/kg later this afternoon.  This very
+   rich moisture coupled with heating to the south of the front and
+   early day outflow from storm activity over southwest NE, will result
+   in a very unstable airmass by late afternoon.  Model guidance has
+   trended towards a severe MCS developing across northern KS and
+   moving east-southeastward into the lower MO Valley by late evening. 
+   Although it remains unclear exactly how this will evolve, confidence
+   has increased with regard to a storm cluster and upscale growth
+   occurring on the northern rim of very rich moisture and a modest
+   southerly LLJ.  Some indication exists for a couple of supercells to
+   develop ahead of the evolving cluster and eventual squall line. 
+   Large hail and perhaps a tornado risk could accompany this activity.
+   Have increased severe-wind probabilities and intensity levels, with
+   the most intense phase of the squall line likely where the overlap
+   of greater effective shear (30-35 kt) and the large buoyancy
+   resides.  A bow potentially capable of a swath of 60-80 mph gusts
+   (locally peaking 80-100 mph) is forecast, along with the possibility
+   for a couple of mesovortices capable of these locally higher gusts
+   and/or tornadoes.  A gradual weakening is expected as this MCS moves
+   into western parts of MO late.
 
-   ...Northwest AR...
-   A cluster of intense thunderstorms is ongoing this morning over
-   southwest MO/northeast OK.  This activity could continue to pose a
-   risk of isolated damaging wind gusts through the morning into
-   northwest AR before weakening later today.
-
-   ...Southern KS/Northwest OK/TX Panhandle...
+   ...Southern KS/Northwest OK...
    A dryline will become established this afternoon from the eastern TX
-   Panhandle to the surface low in south-central KS.  Hot conditions
-   along/west of the dryline will help to initiate isolated
-   thunderstorms.  These high-based cells could pose an occasional
-   threat of hail and damaging winds for a few hours.
-
-   ...Eastern KS...
-   A moist and very unstable air mass will lie across eastern KS today
-   with CAPE values of 3000-4000 J/kg, but with a weak cap.  CAM
-   guidance varies on the potential for afternoon/early evening
-   thunderstorms in this area, but enough 00z runs suggested a threat
-   to maintain the SLGT.  Any storm that can form would pose a risk of
-   large hail and damaging winds.
+   Panhandle into south-central KS.  Hot conditions along/west of the
+   dryline will help to initiate isolated thunderstorms.  These
+   high-based supercells could pose an occasional threat of hail and
+   damaging winds for a few hours.
 
    ...Southern IL/Western KY...
    An upper trough continues to lift northeastward across the mid MS
@@ -70,4 +72,4 @@ Day 1 Convective Outlook
    winds-with-height and sufficient CAPE will pose an occasional risk
    of strong storms capable of gusty winds or a tornado today.
 
-   ..Hart/Wendt.. 06/08/2026.
+   ..Smith/Chalmers.. 06/08/2026
