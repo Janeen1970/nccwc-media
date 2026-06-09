@@ -1,75 +1,85 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1152 AM CDT Mon Jun 08 2026
+   1254 AM CDT Tue Jun 09 2026
 
-   Valid 081630Z - 091200Z
+   Valid 091200Z - 101200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR PARTS OF
-   EASTERN COLORADO AND FROM NORTHERN INTO EASTERN KANSAS...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE CENTRAL AND NORTHERN PLAINS...
 
    ...SUMMARY...
-   Severe thunderstorms potentially capable of large to giant hail and
-   a couple of tornadoes are possible over the plains of eastern
-   Colorado.  Scattered to numerous severe thunderstorms are possible
-   farther east over northern Kansas late this afternoon through the
-   late evening.  Severe gusts ranging from 60-100 mph are possible
-   along with a risk for a couple of tornadoes.
+   Numerous severe thunderstorms with a potential for 60 to 80 mph
+   winds with locally higher gusts, along with tornadoes (some
+   potentially strong), and large to very large hail are expected to
+   develop in parts of the central and northern Plains from this
+   afternoon into tonight. Severe wind gusts and hail will also be
+   possible from north-central and west-central Kansas southwestward
+   into the Texas Panhandle.
 
-   ...Eastern CO into Western NE/KS...
-   A belt of moderate southwesterly mid-level flow will be maintained
-   over the central High Plains to the downstream of a western U.S.
-   upper trough.  A surface low near Dodge City, KS and moist easterly
-   low-level flow to its north, will contribute to upslope flow into
-   eastern CO and the CO Front Range.  Strong heating and 50s to lower
-   60s deg F dewpoints and steep 700-500 mb lapse rates will result in
-   moderate to large buoyancy by mid afternoon.  Elongated hodographs
-   will favor supercells with the more intense updrafts.  Some increase
-   in low-level hodographs towards early evening coupled with a moist
-   boundary layer may aid in the risk for supercell tornadoes, in
-   addition to the risk for hail.  Some of the latest model forecast
-   soundings suggest giant hail (3.0-4.5 inches in diameter) with the
-   more intense supercells over eastern CO late this afternoon into the
-   early evening.  Severe gusts will also be possible with the stronger
-   storms with this activity diminishing by late evening.
+   ...Central and Northern Plains...
+   An upper-level trough will move eastward across the western U.S.
+   today. Ahead of the system, mid-level heights will fall over the
+   central and northern Plains. At the surface, a moist airmass will be
+   in place over the Great Plains, with a dryline located from far
+   western North Dakota southward into western Nebraska. To the east of
+   the dryline, surface dewpoints will be in the upper 60s and lower
+   70s F. As surface temperatures warm today, an axis of moderate
+   instability is expected to develop over the central Dakotas.
+   Thunderstorms will form near and to the east of the dryline in the
+   mid afternoon. Strong low-level convergence near the instability
+   axis will result in a relatively rapid transition to linear mode
+   with a large MCS expected to develop during the late afternoon and
+   early evening. The severe MCS will move eastward across the central
+   and eastern Dakotas, with the southern part of the line located in
+   central Nebraska.
 
-   ...KS vicinity...
-   A very moist surface was analyzed this morning across the central
-   Great Plains to the south of a front across central and northern KS
-   to the east of a triple point.  Model guidance shows lowest 100-mb
-   mean mixing ratios of 16-18 g/kg later this afternoon.  This very
-   rich moisture coupled with heating to the south of the front and
-   early day outflow from storm activity over southwest NE, will result
-   in a very unstable airmass by late afternoon.  Model guidance has
-   trended towards a severe MCS developing across northern KS and
-   moving east-southeastward into the lower MO Valley by late evening. 
-   Although it remains unclear exactly how this will evolve, confidence
-   has increased with regard to a storm cluster and upscale growth
-   occurring on the northern rim of very rich moisture and a modest
-   southerly LLJ.  Some indication exists for a couple of supercells to
-   develop ahead of the evolving cluster and eventual squall line. 
-   Large hail and perhaps a tornado risk could accompany this activity.
-   Have increased severe-wind probabilities and intensity levels, with
-   the most intense phase of the squall line likely where the overlap
-   of greater effective shear (30-35 kt) and the large buoyancy
-   resides.  A bow potentially capable of a swath of 60-80 mph gusts
-   (locally peaking 80-100 mph) is forecast, along with the possibility
-   for a couple of mesovortices capable of these locally higher gusts
-   and/or tornadoes.  A gradual weakening is expected as this MCS moves
-   into western parts of MO late.
+   Late afternoon RAP forecast soundings in the central Dakotas near
+   the instability axis have MLCAPE in the 4000 to 5000 J/kg range with
+   0-6 km shear between 30 to 40 knots. Low to mid-level lapse rates
+   are forecast to be in the 7 to 8 C/km range. This will be very
+   favorable for large hail and severe wind gusts. Hailstones greater
+   than 2 inches in diameter and wind gusts above 80 mph will be
+   possible with supercells early, and along the more intense parts of
+   the line as it develops. 
 
-   ...Southern KS/Northwest OK...
-   A dryline will become established this afternoon from the eastern TX
-   Panhandle into south-central KS.  Hot conditions along/west of the
-   dryline will help to initiate isolated thunderstorms.  These
-   high-based supercells could pose an occasional threat of hail and
-   damaging winds for a few hours.
+   Concerning the tornado threat, a mid-level jet will become
+   juxtaposed with a low-level jet in the late afternoon across central
+   and northern North Dakota. Storms that can remain discrete for a few
+   hours after initiation will have potential to become supercells and
+   produce tornadoes. The strongest low-level shear is forecast in
+   northeastern North Dakota, where RAP forecast soundings increase 0-3
+   km storm-relative helicity into the 250 to 300 m2/s2 range by early
+   evening. This will be favorable for a few strong tornadoes. Further
+   south from central South Dakota into Nebraska, there will be
+   potential for supercells with tornadoes near gaps in the line. The
+   threat for strong tornadoes may be greatest in the early to mid
+   evening as the line interacts with a 45 to 55 knot low-level jet
+   from far southeastern South Dakota southward into eastern Nebraska.
 
-   ...Southern IL/Western KY...
-   An upper trough continues to lift northeastward across the mid MS
-   valley today, with a moist/moderately unstable air mass present from
-   southern IL southward.  Mid-level lapse rates are marginal for
-   severe storms, and winds aloft are modest.  Nevertheless, veering
-   winds-with-height and sufficient CAPE will pose an occasional risk
-   of strong storms capable of gusty winds or a tornado today.
+   From late evening into the early overnight period, the severe threat
+   associated with the severe MCS is expected to gradually downtrend as
+   it moves into the upper Mississippi Valley.
 
-   ..Smith/Chalmers.. 06/08/2026
+   ...North-central and Western Kansas/Texas and Oklahoma Panhandles...
+
+   At mid-levels today, heights will fall within southwesterly flow
+   over the southern and central High Plains. At the surface, a moist
+   and unstable airmass will be located over much of the region. By
+   afternoon, a focused zone of maximized low-level convergence is
+   forecast to develop. This axis will move eastward toward the western
+   edge of the stronger instability, with thunderstorms forming in the
+   mid to late afternoon. Near the axis, MLCAPE is forecast to be
+   around 2000 J/kg with 0-3 km lapse rates near 8 C/km. In addition,
+   surface temperature-dewpoint spreads will be large, which will be
+   favorable for severe wind gusts in the late afternoon and early
+   evening.
+
+   ...Upper Mississippi and Lower Ohio Valleys...
+   A mid-level ridge will move eastward toward the upper Mississippi
+   and lower Ohio Valleys today. Ahead of the ridge, moderate
+   instability will be in place by afternoon. Scattered thunderstorms
+   that form within this moist and unstable airmass will have potential
+   for isolated severe gusts, mainly as low-level lapse rates become
+   steep in the afternoon.
+
+   ..Broyles/Thornton.. 06/09/2026
