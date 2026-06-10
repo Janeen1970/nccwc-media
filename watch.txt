@@ -1,68 +1,73 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0253 PM CDT Tue Jun 09 2026
+   1259 AM CDT Wed Jun 10 2026
 
-   Valid 092000Z - 101200Z
+   Valid 101200Z - 111200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE
-   CENTRAL TO NORTHERN HIGH PLAINS...
-
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PARTS OF THE
-   LOWER OHIO VALLEY...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE UPPER MISSISSIPPI VALLEY AND MIDWEST...
 
    ...SUMMARY...
-   Numerous severe thunderstorms with a potential for 60-80 mph winds
-   with locally higher gusts, along with tornadoes (some potentially
-   strong), and large to very large hail are expected across the
-   northern and central Plains this afternoon and tonight. Severe wind
-   gusts and large hail will also be possible from north-central and
-   west-central Kansas southwestward into the Texas Panhandle.
+   Scattered to numerous severe thunderstorms with potential for large
+   hail in excess of two inches in diameter, a few strong tornadoes and
+   damaging winds with gusts over 75 mph are expected this afternoon
+   and evening across parts of the Upper Mississippi Valley and
+   Midwest.
 
-   ...20z Update...
-   The previous forecast largely remains on track with only minor
-   modifications made based on recent trends in observations and model
-   guidance.
+   ...Upper Mississippi Valley/Midwest...
+   At mid-levels, a trough will move eastward into the central and
+   northern Plains today, as the exit region of a jet streak
+   overspreads the upper Mississippi Valley and Midwest. At the
+   surface, a cold front will advance eastward across the northern
+   Plains with a warm front moving into the western Great Lakes.
+   Between these two fronts, a very moist airmass will be in place with
+   surface dewpoints in the lower to mid 70s F. Early in the day, a
+   line of strong thunderstorms is expected to develop in western Iowa
+   near the western edge of the moist airmass. A potential for severe
+   wind gusts will be possible with this line. Eastward across the
+   moist sector, moderate to strong instability is expected to develop
+   by midday as surface temperatures warm. This will help the line to
+   grow upscale, potentially into a linear MCS, as it moves across
+   southern Wisconsin and northern Illinois early this afternoon.
+   Severe wind gusts and QLCS tornadoes will be possible along the
+   stronger parts of this line segment.
 
-   ...Kansas/Nebraska...
-   VWP observations and 18z RAOBs from Grand Junction, CO sampled a
-   60-70 knot speed maxima embedded within the mid-level flow at about
-   6 km MSL. Recent mesoanalysis estimates and model guidance appear to
-   be under-analyzing this feature and show a more diffuse mid-level
-   jet of around 50 knots. As this stronger flow spreads east into the
-   Plains it will not only yield stronger deep-layer shear, but will
-   also promote faster storm motions downstream across the central
-   Plains. With convective initiation well underway across the High
-   Plains of NM and CO, confidence is fairly high in the development of
-   one or more convective bands across KS/NE later this
-   afternoon/evening. With the expectation for stronger mid-level
-   flow/deep-layer shear, it appears the potential for severe gusts is
-   just as high across north-central KS/south-central NE as it is
-   further north/south and warrants a unification of the 30% wind
-   probabilities.
+   In the wake of the initial line segment, instability is expected to
+   increase as moisture advection and surface heating take place. An
+   instability axis is forecast to develop in the afternoon from
+   eastern Missouri northward into eastern Iowa, where MLCAPE should
+   increase into the 3000 to 3500 J/kg range. Thunderstorm development
+   will be likely during the mid to late afternoon along a zone of
+   low-level convergence from northern Missouri into central and
+   eastern Iowa. Additional storms are expected to form further north
+   into parts of far eastern Minnesota and western Wisconsin. RAP
+   forecast soundings in the late afternoon from eastern Iowa into
+   southwest Wisconsin have curved hodographs, with 0-6 km shear near
+   40 knots, and 0-3 km storm-relative helicity around 225 m2/s2. This
+   environment will support supercells with tornado potential. A strong
+   tornado or two will be possible as supercells move eastward in a
+   strengthening low-level jet during the late afternoon and early
+   evening. Large hail and wind damage will also be possible with
+   supercells. From this cluster, a second severe line segment with
+   damaging wind gusts is expected to develop. This line will likely
+   impact parts of northeast Missouri and north-central Illinois.
 
-   ...Eastern Dakotas/western Minnesota...
-   Latest GOES imagery and surface observations show a band of
-   deepening cumulus within a plume of rich low-level moisture
-   (dewpoints in the upper 60s to low 70s) through the upper Red River
-   Valley of the North. Additionally, a subtle MCV - the remnants of
-   prior convection over NE - is currently overspreading the region and
-   may provide adequate forcing for ascent for initiation within the
-   weakly capped and highly buoyant air mass this afternoon. While
-   conditional, discrete convection that can develop within this zone
-   could pose a tornado threat as low-level winds strengthen through
-   the day. The 10% tornado contour was expanded eastward into western
-   MN to better address this potential. 
+   Further southwest across parts of northwest/north-central Missouri
+   and northeast Kansas, scattered thunderstorm development is expected
+   during the late afternoon and early evening. These storms will be
+   located near an axis of strong instability, along which RAP
+   forecasts suggest that 0-6 km shear will be in around 40 knots. In
+   addition 700-500 mb lapse rates are forecast to be near 7.5 C/km.
+   The environment should support large hail and severe wind gusts.
 
-   ...Indiana/Ohio...
-   Latest HRRR/RRFS time-lagged ensemble guidance suggests a
-   semi-organized convective band may emerge across northern IN into
-   western OH later this afternoon and into the evening hours ahead of
-   an MCV (currently noted over central IL). Regional radars show the
-   early stages of cluster development across central to eastern IL
-   ahead of the MCV, which lends credibility to this scenario. However,
-   outflow boundaries are noted ahead of some of this convection,
-   hinting that the overall intensity of this activity may remain
-   somewhat modest. Nonetheless, 5% wind probabilities were expanded
-   downstream to highlight the potential for sporadic damaging winds.
+   ...Ohio Valley/Central Appalachians...
+   A moist and unstable airmass will be in place today across much of
+   the region, with surface dewpoints in the lower to mid 70s F.
+   Although large-scale ascent will be weak, isolated thunderstorms
+   appear likely to develop in areas where low-level convergence
+   becomes maximized. Forecast soundings across the Ohio Valley show
+   steep low-level lapse rates during the afternoon and have enough
+   deep-layer shear for a localized severe threat. A few of the
+   stronger cells could produce isolated severe gust and hail.
 
-   ..Moore.. 06/09/2026
+   ..Broyles/Lyons.. 06/10/2026
