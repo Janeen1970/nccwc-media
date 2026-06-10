@@ -1,11 +1,14 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0759 AM CDT Tue Jun 09 2026
+   0253 PM CDT Tue Jun 09 2026
 
-   Valid 091300Z - 101200Z
+   Valid 092000Z - 101200Z
 
    ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE
-   NORTHERN AND CENTRAL PLAINS...
+   CENTRAL TO NORTHERN HIGH PLAINS...
+
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PARTS OF THE
+   LOWER OHIO VALLEY...
 
    ...SUMMARY...
    Numerous severe thunderstorms with a potential for 60-80 mph winds
@@ -15,56 +18,51 @@ Day 1 Convective Outlook
    gusts and large hail will also be possible from north-central and
    west-central Kansas southwestward into the Texas Panhandle.
 
-   ...Central and Northern Plains...
-   A prominent upper trough will shift east-northeastward from the
-   northern Rockies toward the northern High Plains and Canadian
-   Prairies through tonight, with height falls overspreading much of
-   the northern/central Plains toward the Upper Midwest. This will be
-   atop a moist airmass near/east of a dryline/front located from far
-   western North Dakota southward into western Nebraska. Warm sector
-   surface dewpoints will be in the upper 60s and lower 70s F. 
+   ...20z Update...
+   The previous forecast largely remains on track with only minor
+   modifications made based on recent trends in observations and model
+   guidance.
 
-   Thunderstorms are expected to form near the front/dryline by
-   mid/late afternoon, initially spanning the west-central Dakotas
-   southward into western Nebraska. Some semi-discrete storms including
-   supercells may also form farther east within the warm sector,
-   enhanced as the mid-level jet phases with a significantly
-   strengthening low-level jet primarily focused across eastern North
-   Dakota/northeast South Dakota. Aside from large hail, a few
-   tornadoes are expected, some of which could be strong especially
-   during the early/mid-afternoon hours. Over time and farther west,
-   strong low-level convergence near the instability axis will result
-   in a relatively rapid transition to linear mode with multiple linear
-   clusters/possible MCS expected to develop by evening. The severe MCS
-   will move eastward across the central and eastern Dakotas, with
-   damaging wind and some hail/tornado potential continuing eastward
-   tonight toward Minnesota/part of Iowa. 
+   ...Kansas/Nebraska...
+   VWP observations and 18z RAOBs from Grand Junction, CO sampled a
+   60-70 knot speed maxima embedded within the mid-level flow at about
+   6 km MSL. Recent mesoanalysis estimates and model guidance appear to
+   be under-analyzing this feature and show a more diffuse mid-level
+   jet of around 50 knots. As this stronger flow spreads east into the
+   Plains it will not only yield stronger deep-layer shear, but will
+   also promote faster storm motions downstream across the central
+   Plains. With convective initiation well underway across the High
+   Plains of NM and CO, confidence is fairly high in the development of
+   one or more convective bands across KS/NE later this
+   afternoon/evening. With the expectation for stronger mid-level
+   flow/deep-layer shear, it appears the potential for severe gusts is
+   just as high across north-central KS/south-central NE as it is
+   further north/south and warrants a unification of the 30% wind
+   probabilities.
 
-   Aside from North Dakota/northern South Dakota and northwest
-   Minnesota, another supercell/tornado-favorable zone could
-   materialize by evening farther southeast from southeast South Dakota
-   into eastern Nebraska and western Iowa/southwest Minnesota.
-   Mid-level temperatures will be a bit warmer and storm
-   coverage/certainty will likely be lesser across this region.
-   However, a rather favorable and potentially volatile environment
-   will exist as a secondary low-level jet branch increases and
-   interfaces with an effective warm frontal zone this evening, with
-   initial intense supercells plausible if/where storms develop.
+   ...Eastern Dakotas/western Minnesota...
+   Latest GOES imagery and surface observations show a band of
+   deepening cumulus within a plume of rich low-level moisture
+   (dewpoints in the upper 60s to low 70s) through the upper Red River
+   Valley of the North. Additionally, a subtle MCV - the remnants of
+   prior convection over NE - is currently overspreading the region and
+   may provide adequate forcing for ascent for initiation within the
+   weakly capped and highly buoyant air mass this afternoon. While
+   conditional, discrete convection that can develop within this zone
+   could pose a tornado threat as low-level winds strengthen through
+   the day. The 10% tornado contour was expanded eastward into western
+   MN to better address this potential. 
 
-   ...Western and central Kansas and Texas and Oklahoma Panhandles...
-   Higher-based storms are expected to develop regionally by late
-   afternoon/early evening with moderate buoyancy and very steep lapse
-   rates favorable for large hail and severe-caliber wind gusts, some
-   of which could be significant.
+   ...Indiana/Ohio...
+   Latest HRRR/RRFS time-lagged ensemble guidance suggests a
+   semi-organized convective band may emerge across northern IN into
+   western OH later this afternoon and into the evening hours ahead of
+   an MCV (currently noted over central IL). Regional radars show the
+   early stages of cluster development across central to eastern IL
+   ahead of the MCV, which lends credibility to this scenario. However,
+   outflow boundaries are noted ahead of some of this convection,
+   hinting that the overall intensity of this activity may remain
+   somewhat modest. Nonetheless, 5% wind probabilities were expanded
+   downstream to highlight the potential for sporadic damaging winds.
 
-   ...Middle Mississippi Valley/Lower Ohio Valley...
-   As a byproduct of several decayed MCS, multiple MCVs will are
-   expected to drift east-southeastward across the region today and
-   interface with a moist/unstable environment influenced by outflow
-   and differential heating. A rejuvenated round of severe storms is
-   expected by mid/late afternoon, and some supercells are plausible if
-   MCV-related mid-level flow diurnally persists. Multicells capable of
-   damaging winds are the most probable hazard, but some
-   supercell-related tornado potential may also exist.
-
-   ..Guyer/Wendt.. 06/09/2026
+   ..Moore.. 06/09/2026
