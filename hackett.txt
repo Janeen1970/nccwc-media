@@ -1,3 +1,8 @@
 Hackett Forecast
-No severe weather currently. 
+
+Type: WIND FIELD
+📍 Areas: City-wide
+
+🌪️ Tornado: VERY LOW
+🌬️ Wind: 58–74 mph
  
