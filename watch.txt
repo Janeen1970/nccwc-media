@@ -1,106 +1,92 @@
-URGENT - IMMEDIATE BROADCAST REQUESTED
-   Tornado Watch Number 303
+Day 2 Convective Outlook CORR 1
    NWS Storm Prediction Center Norman OK
-   210 PM CDT Wed Jun 10 2026
+   1250 PM CDT Wed Jun 10 2026
 
-   The NWS Storm Prediction Center has issued a
+   Valid 111200Z - 121200Z
 
-   * Tornado Watch for portions of 
-     Southern Iowa
-     Central and Eastern Kansas
-     Northwest and North-Central Missouri
-     Extreme Southeast Nebraska
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THURSDAY INTO
+   THURSDAY NIGHT ACROSS PARTS OF SOUTHERN AMD EASTERN
+   IOWAS....NORTHEASTERN MISSOURI....NORTHERN AND CENTRAL
+   ILLINOIS...SOUTHERN WISCONSIN...NORTHERN INDIANA AND CENTRAL AND
+   SOUTHERN LOWER MICHIGAN...
 
-   * Effective this Wednesday afternoon and evening from 210 PM
-     until 900 PM CDT.
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THURSDAY AFTERNOON
+   ACROSS THE ALLEGHENY MOUNTAINS THROUGH NORTHERN MID ATLANTIC
+   VICINITY...
 
-   * Primary threats include...
-     A few tornadoes likely with a couple intense tornadoes possible
-     Scattered damaging winds and isolated significant gusts to 75
-       mph likely
-     Scattered large hail and isolated very large hail events to 3
-       inches in diameter likely
-
-   SUMMARY...Thunderstorm development is anticipated this afternoon
-   within the warm and very unstable airmass across the region.
-   Deep-layer shear is strong enough for supercells capable of all
-   hazards, including very large hail to 3" in diameter and tornadoes.
-   A strong tornado (EF2+) is possible. Strong downbursts are
-   anticipated as well, with one or more severe bowing clusters
-   possible as the mode trends more linear with time.
-
-   The tornado watch area is approximately along and 60 statute miles
-   north and south of a line from 45 miles southwest of Manhattan KS to
-   35 miles south southeast of Ottumwa IA....Day 1 Convective Outlook  
-   NWS Storm Prediction Center Norman OK
-   1259 AM CDT Wed Jun 10 2026
-
-   Valid 101200Z - 111200Z
-
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE UPPER MISSISSIPPI VALLEY AND MIDWEST...
+   CORRECTED FOR A FEW TYPOS/WORDING
 
    ...SUMMARY...
-   Scattered to numerous severe thunderstorms with potential for large
-   hail in excess of two inches in diameter, a few strong tornadoes and
-   damaging winds with gusts over 75 mph are expected this afternoon
-   and evening across parts of the Upper Mississippi Valley and
-   Midwest.
+   Strong to severe thunderstorm development, including one or two
+   organizing clusters, will probably be accompanied by the potential
+   for large hail, damaging wind gusts and perhaps a couple of strong
+   tornadoes in a corridor across the Midwest into Great Lakes region
+   Thursday through Thursday night.
 
-   ...Upper Mississippi Valley/Midwest...
-   At mid-levels, a trough will move eastward into the central and
-   northern Plains today, as the exit region of a jet streak
-   overspreads the upper Mississippi Valley and Midwest. At the
-   surface, a cold front will advance eastward across the northern
-   Plains with a warm front moving into the western Great Lakes.
-   Between these two fronts, a very moist airmass will be in place with
-   surface dewpoints in the lower to mid 70s F. Early in the day, a
-   line of strong thunderstorms is expected to develop in western Iowa
-   near the western edge of the moist airmass. A potential for severe
-   wind gusts will be possible with this line. Eastward across the
-   moist sector, moderate to strong instability is expected to develop
-   by midday as surface temperatures warm. This will help the line to
-   grow upscale, potentially into a linear MCS, as it moves across
-   southern Wisconsin and northern Illinois early this afternoon.
-   Severe wind gusts and QLCS tornadoes will be possible along the
-   stronger parts of this line segment.
+   ...Discussion...
+   Models indicate that mid-level subtropical ridging will be
+   maintained across much of the southern tier of the U.S. through this
+   period, while the westerlies begin to trend a bit more zonal across
+   the northern tier, in the wake of a broad, deep occluding cyclone
+   slowly migrating northeastward toward southwestern Hudson Bay.  A
+   significant short wave trough turning to the east of the northern
+   Rockies, to the south of the cyclone, at the outset of the period,
+   is still forecast to pivot across southern portions of the mid
+   Missouri Valley through the upper Great Lakes Thursday through
+   Thursday night.  This is likely to be accompanied by the
+   northeastward migration of an associated secondary surface frontal
+   low, from the central Great Plains across and northeast of the Upper
+   Midwest/Great Lakes region by 12Z Friday.
 
-   In the wake of the initial line segment, instability is expected to
-   increase as moisture advection and surface heating take place. An
-   instability axis is forecast to develop in the afternoon from
-   eastern Missouri northward into eastern Iowa, where MLCAPE should
-   increase into the 3000 to 3500 J/kg range. Thunderstorm development
-   will be likely during the mid to late afternoon along a zone of
-   low-level convergence from northern Missouri into central and
-   eastern Iowa. Additional storms are expected to form further north
-   into parts of far eastern Minnesota and western Wisconsin. RAP
-   forecast soundings in the late afternoon from eastern Iowa into
-   southwest Wisconsin have curved hodographs, with 0-6 km shear near
-   40 knots, and 0-3 km storm-relative helicity around 225 m2/s2. This
-   environment will support supercells with tornado potential. A strong
-   tornado or two will be possible as supercells move eastward in a
-   strengthening low-level jet during the late afternoon and early
-   evening. Large hail and wind damage will also be possible with
-   supercells. From this cluster, a second severe line segment with
-   damaging wind gusts is expected to develop. This line will likely
-   impact parts of northeast Missouri and north-central Illinois.
+   Downstream, mid-level ridging appears likely to build through the
+   day across the lower Great Lakes/upper Ohio Valley vicinity, with
+   one or two  perturbations digging within weak northwesterly flow
+   further downstream, across the Allegheny Mountains and northern Mid
+   Atlantic vicinity.
 
-   Further southwest across parts of northwest/north-central Missouri
-   and northeast Kansas, scattered thunderstorm development is expected
-   during the late afternoon and early evening. These storms will be
-   located near an axis of strong instability, along which RAP
-   forecasts suggest that 0-6 km shear will be in around 40 knots. In
-   addition 700-500 mb lapse rates are forecast to be near 7.5 C/km.
-   The environment should support large hail and severe wind gusts.
+   A seasonably moist air mass, supportive of moderate to large
+   potential instability, is likely to be maintained within the warm
+   sector of the cyclone, to the north of the subtropical ridge. 
+   However, it appears that this may be substantively modified, at
+   least initially, by outflow from thunderstorm development today
+   across a large portion of the Upper Midwest into Great Lakes region.
+    There have been some adjustments of categorical and probabilistic
+   thunder/severe lines to account for associated uncertainties, and
+   also attempt to better account for consensus of varying model
+   output.
 
-   ...Ohio Valley/Central Appalachians...
-   A moist and unstable airmass will be in place today across much of
-   the region, with surface dewpoints in the lower to mid 70s F.
-   Although large-scale ascent will be weak, isolated thunderstorms
-   appear likely to develop in areas where low-level convergence
-   becomes maximized. Forecast soundings across the Ohio Valley show
-   steep low-level lapse rates during the afternoon and have enough
-   deep-layer shear for a localized severe threat. A few of the
-   stronger cells could produce isolated severe gust and hail.
+   ...Upper Midwest/Great Lakes into southern Great Plains...
+   Downstream of the approaching short wave impulse and secondary low,
+   low-level warm advection on the nose of a 40-50 kt southerly 850 mb
+   jet may be providing support for an evolving convective cluster
+   along/north of an outflow boundary across southwestern Iowa at the
+   outset of the period.  This may include storms with potential to
+   produce severe hail, before perhaps becoming rooted in a
+   destabilizing boundary layer while spreading with forcing across
+   Iowa through southern Wisconsin/northern Illinois through Thursday
+   afternoon.  This could include increasing potential for convection
+   capable of producing damaging wind gust and perhaps a few tornadoes.
 
-   ..Broyles/Lyons.. 06/10/2026
+
+   Thereafter, the primary forcing for stronger destabilization and
+   lift to support strong/severe thunderstorm development seems  likely
+   to shift to the intersection of the trailing outflow/secondary
+   surface low/cold front across southeastern Iowa by late afternoon. 
+   This may include supercell development initially, before convection
+   grows upscale and organizes in the  presence of strong low-level and
+   deep-layer shear, then propagates into and across the lower Lake
+   Michigan/Michigan vicinities through Thursday evening, with
+   potential for strong, damaging wind gusts and tornadoes.
+
+   Scattered additional strong/severe storm development is possible in
+   the corridor of stronger pre-frontal instability, but weaker
+   mid/upper support and shear, southwestward through portions of the
+   southern Great Plains.
+
+   ...Alleghenies/northern Mid Atlantic...
+   Moderate to locally strong potentially instability probably will
+   become sufficient to support widely scattered strong to severe
+   thunderstorm development with potential to produce damaging wind
+   gusts Thursday afternoon and evening.
+
+   ..Kerr.. 06/10/2026
