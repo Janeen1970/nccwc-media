@@ -8,7 +8,7 @@ Craig, OK; Nowata, OK; Ottawa, OK
 
 Expires: 2026-06-11T19:00:00-05:00...SEVERE THUNDERSTORM WARNING
 
-Creek, OK; Pawnee, OK
+Creek, OK
 
-Expires: 2026-06-11T18:45:00-05:00.
+Expires: 2026-06-11T19:15:00-05:00
 
