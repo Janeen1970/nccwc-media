@@ -1,1 +1,50 @@
-NO WARNINGS.
+ TORNADO WARNING
+
+Logan, IL; Macon, IL; Menard, IL; Sangamon, IL
+
+Expires: 2026-06-10T23:45:00-05:00
+FLASH FLOOD WARNING
+
+Adair, MO; Grundy, MO; Mercer, MO; Putnam, MO; Schuyler, MO; Sullivan, MO
+
+Expires: 2026-06-11T00:15:00-05:00
+TORNADO WATCH
+
+Anderson, KS; Coffey, KS; Franklin, KS; Lyon, KS; Morris, KS; Osage, KS
+
+Expires: 2026-06-11T00:00:00-05:00
+FLASH FLOOD WARNING
+
+Dickinson, KS; Ottawa, KS
+
+Expires: 2026-06-11T00:15:00-05:00
+TORNADO WATCH
+
+Chase, KS; Harvey, KS; McPherson, KS; Marion, KS; Rice, KS
+
+Expires: 2026-06-10T23:45:00-05:00
+FLASH FLOOD WARNING
+
+Fulton, IL; Knox, IL; Marshall, IL; Peoria, IL; Stark, IL; Woodford, IL
+
+Expires: 2026-06-11T02:00:00-05:00
+TORNADO WATCH
+
+Adair, MO; Andrew, MO; Daviess, MO; DeKalb, MO; Gentry, MO; Grundy, MO; Harrison, MO; Holt, MO; Linn, MO; Livingston, MO; Macon, MO; Mercer, MO; Nodaway, MO; Putnam, MO; Schuyler, MO; Sullivan, MO; Worth, MO
+
+Expires: 2026-06-10T23:00:00-05:00
+FLASH FLOOD WARNING
+
+Adair, MO; Schuyler, MO
+
+Expires: 2026-06-11T02:45:00-05:00
+TORNADO WATCH
+
+Adams, IL; Brown, IL; Pike, IL; Knox, MO; Lewis, MO; Marion, MO; Monroe, MO; Ralls, MO; Shelby, MO
+
+Expires: 2026-06-10T23:00:00-05:00
+TORNADO WATCH
+
+Cass, IL; De Witt, IL; Fulton, IL; Knox, IL; Logan, IL; McLean, IL; Marshall, IL; Mason, IL; Menard, IL; Peoria, IL; Schuyler, IL; Stark, IL; Tazewell, IL; Woodford, IL
+
+Expires: 2026-06-10T23:00:00-05:00 
