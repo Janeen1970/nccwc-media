@@ -1,1 +1,48 @@
-NO WARNINGS.
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Topeka KS
+723 PM CDT Wed Jun 10 2026
+
+The National Weather Service in Topeka has issued a
+
+* Severe Thunderstorm Warning for...
+  Northwestern Shawnee County in east central Kansas...
+  Northeastern Wabaunsee County in east central Kansas...
+  Southeastern Pottawatomie County in northeastern Kansas...
+  Southwestern Jackson County in northeastern Kansas...
+
+* Until 815 PM CDT.
+
+* At 723 PM CDT, a severe thunderstorm was located over Louisville,
+  moving east at 35 mph.
+
+  HAZARD...70 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect considerable 
+           tree damage. Wind damage is also likely to mobile homes, 
+           roofs, and outbuildings.
+
+* Locations impacted include...
+  Wamego, Rossville, St. Marys, Maple Hill, Belvue, Emmett,
+  Louisville, Delia, and Willard.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 900 PM CDT for northeastern
+and east central Kansas.
+
+&&
+
+LAT...LON 3916 9639 3937 9636 3934 9585 3906 9589
+TIME...MOT...LOC 0023Z 281DEG 29KT 3925 9633 
+
+THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...70 MPH
