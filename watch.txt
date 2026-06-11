@@ -1,106 +1,90 @@
-Day 1 Convective Outlook  
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0119 AM CDT Thu Jun 11 2026
+   0758 AM CDT Thu Jun 11 2026
 
-   Valid 111200Z - 121200Z
+   Valid 111300Z - 121200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THURSDAY INTO
-   THURSDAY NIGHT ACROSS PARTS OF SOUTHERN AMD EASTERN IOWA
-   ...NORTHEASTERN MISSOURI...NORTHERN AND CENTRAL ILLINOIS...SOUTHERN
-   WISCONSIN...NORTHERN INDIANA AND CENTRAL AND SOUTHERN LOWER
-   MICHIGAN...
+   ...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN
+   IOWA AND NORTHERN ILLINOIS...
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THURSDAY AFTERNOON
-   ACROSS THE ALLEGHENY MOUNTAINS THROUGH NORTHERN MID ATLANTIC 
-   VICINITY...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE NORTHEAST/MID-ATLANTIC STATES...
 
    ...SUMMARY...
-   Strong to severe thunderstorm development, including one or two
-   organizing clusters, will probably be accompanied by the potential
-   for large hail, damaging wind gusts and perhaps a couple of strong
-   tornadoes in a corridor across the Midwest into Great Lakes region
-   Thursday through Thursday night.
+   Widespread severe thunderstorms are expected across parts of the
+   Midwest and Great Lakes region, including Iowa, northern Missouri,
+   northern Illinois and southern Wisconsin to Lower Michigan and
+   northern Indiana. This includes the potential for widespread/intense
+   damaging winds, large hail, and tornadoes, some of which may be
+   strong.
 
-   ...Synopsis...
-   A potent mid-level trough will eject across the Upper Midwest into
-   the Great Lakes region today, with unseasonably strong 80-100 kt
-   southwesterly mid-level flow over spreading portions of the
-   upper-Midwest. An attendant surface low will deepen lift northward
-   out of the central Plains into the Midwest and Great Lakes, with a
-   trailing cold front extending into the central/southern Plains and
-   warm front/modifying outflow lifting northward into the upper
-   Midwest/Great Lakes. Elsewhere, northwest flow is expected in the
-   mid levels across the Mid-Atlantic, with a series of weaker
-   disturbances moving through that region.
+   ...Midwest/Great Lakes...
+   Portions of the region have been upgraded to a Moderate Risk.
+   Another very active day with widespread/intense severe storms is
+   expected regionally. A consequential severe risk is already ongoing
+   this morning across Iowa/far northern Missouri, and will continue
+   east-northeastward and become more prominent regionally during the
+   day. A well-organized/eastward-accelerating bowing cluster of
+   storms, now supported by an apparent MCV, has had a history of
+   measured severe-caliber wind gusts overnight and in the predawn
+   hours from southeast Nebraska into southern Iowa. A similar severe
+   risk should continue east-northeastward through midday across
+   eastern Iowa/far northeast Missouri toward northern Illinois, with
+   more of a surface-based/tornado risk potentially unfolding
+   relatively early today aside from a continued prominent damaging
+   wind threat.
 
-   A severe MCS is expected to be ongoing at the start of the D1 period
-   across portions of southern Iowa into western Illinois, posing a
-   risk for strong to potential significant wind gusts. Additional
-   development is expected behind the morning MCS along the cold front
-   and in the vicinity of remnant outflow from the morning MCS.
-   Supercells capable of large to very large hail, damaging wind, and
-   tornadoes (a few strong) will be possible before upscale growth and
-   eventual evolution to a damaging wind threat into the evening.
+   Scenario is supported by a robust southwesterly low-level
+   jet/moisture transport, even with some diurnal weakening of the
+   low-level jet possible. Also influential is a prominent/increasingly
+   neutral-tilt-shortwave trough and jet streak crossing the Corn Belt,
+   notably strong features by mid-June standards.
 
-   ...Mid/lower Missouri Valley into the Mid Mississippi Valley and
-   upper Great Lakes...
-   The low-level jet is expected to strengthen this morning across the
-   central Plains, with convection developing across southeastern
-   Nebraska early this morning. This initial development will likely be
-   supercellular and initially elevated, given strong deep layer shear
-   and returning moisture. Large hail will be the main concern before
-   cells cluster and beginning to organize along outflow. Hi-res
-   guidance trends have been for an organized MCS to develop and spread
-   eastward into portions of southern/central Iowa and northern
-   Illinois. Given the strengthening upper level flow and increasing
-   moisture, this will become surface based with the potential to
-   produce strong to significant wind gusts (some 70-75+ mph) in the
-   morning to mid-afternoon possibly extending into portions of
+   Convective overturning/outflow from last evening's MCS are still
+   residual factors evident this morning in observational
+   data/supplemental 3D mesoanalysis across far eastern Iowa, far
+   northeast Missouri into central Illinois. This is sampled by the 12z
+   observed sounding from KILX/Lincoln, IL. These residual factors may
+   somewhat southward-focus the peak/most-intense severe weather later
+   today, with more uncertainty progressively northward in general
+   proximity to Lake Michigan latitudinally, including parts of
+   Wisconsin/Michigan. The timing/residual impacts of this morning's
+   MCS across Iowa/northern Missouri into northern Illinois and severe
+   potential in its wake near the surface low and front, and/or to its
+   (MCS) north-northeast are a bit less uncertain. That said, mass
+   response/fluxes related to the dynamic shortwave trough/speed max
+   will be notable and consistent with heightened severe-potential even
+   if outflow/cloud debris exists and sub-regional areas of
+   destabilization are sub-optimal.
+
+   Details of later-afternoon severe potential is somewhat contingent
+   on how the morning MCS further evolves, but a window for
+   redevelopment in its immediate wake will probably exist. This will
+   lead to a renewed round of severe storms as development occurs near
+   the cold front, and perhaps preferentially favors prior outflow,
+   with a damaging wind and tornado risk continuing eastward this
+   evening as the low-level jet re=intensifies and as storms gradually
+   grow upscale toward Lake Michigan and across Illinois/Indiana/Lower
    Michigan. 
 
-   Much of the afternoon severe potential remains contingent on how the
-   morning MCS evolves. It is likely that a modifying outflow/warm
-   front will lift northward and settle into northern Illinois/southern
-   Wisconsin by the afternoon with the cold front further west. The
-   continued strong low-level jet should support strong warm air
-   advection and quick air mass recovery into northern
-   Illinois/southern Wisconsin. Additional thunderstorms are expected
-   to develop along the front and near the modifying boundary. Strongly
-   sheared profiles will support initial supercells capable of large
-   hail and tornadoes (a few of which may be strong to intense). There
-   remains some uncertainty in where the placement of the boundary will
-   be and how long discrete supercell storm modes can be maintained. It
-   is possible that a corridor of higher tornado potential will become
-   clear with need to include higher probabilities as details become
-   clearer in further outlook updates. 
-
-   Eventual upscale growth is anticipated as the frontal forcing shifts
-   eastward. Bowing segments capable of strong to significant gusts
-   will likely emerge. Wind probabilities were increased (with addition
-   of a 45% area) with this outlook to account for the morning MCS and
-   for potential for a secondary round of severe to significant wind
-   gusts. It is possible that higher probabilities may be needed with
-   further outlook updates.
-
-   ...Eastern Kansas into the Southern Plains...
+   ...Eastern Kansas and Southern Plains...
    Additional thunderstorm development is expected along the trailing
    cold front into portions of the central/southern Plains. Deep layer
-   shear will remain mostly post-frontal, however, around 20-30 kts
-   effective bulk shear and moderate to strong instability will support
-   some supercell structures capable of large hail and damaging wind.
-   Storm motions and boundary parallel shear will likely lead to
-   clustering and messy modes through time. 
+   shear will be maximized in the post-frontal environment; however,
+   around 20-30 kt of effective bulk shear and moderate to strong
+   instability will support some supercell structures capable of large
+   hail and damaging winds. Storm motions and boundary parallel shear
+   will likely lead to clustering and messy modes over time.
 
-   ...Mid-Atlantic into central Appalachians...
-   Forcing for ascent from multiple short-wave disturbances across the
-   northeast and dew points in the 60s to 70s will support development
-   of widely scattered thunderstorm activity by the afternoon across
-   the Mid-Atlantic into the central Appalachians. Though shear will be
-   generally weak, moderate to strong instability will be in place will
-   support stronger updrafts capable of damaging wind. It is likely
-   that several clusters will emerge with potential for organizing
-   along cold pools and more focused corridors of damaging wind
-   potential. A 30% area was added with this outlook to cover this
-   potential.
+   ...Mid-Atlantic ad central Appalachians...
+   Forcing for ascent from multiple shortwave disturbances across the
+   northeast and dewpoints in the 60s to 70s F will support development
+   of widely scattered thunderstorms by afternoon across the
+   Mid-Atlantic into the central Appalachians. Though vertical shear
+   will be generally weak, moderate to strong instability will be in
+   place will support stronger updrafts capable of damaging winds. It
+   is likely that several clusters will emerge with potential for
+   organizing along cold pools and more focused corridors of damaging
+   wind potential.
 
-   ..Thornton/Lyons.. 06/11/2026
+   ..Guyer/Wendt.. 06/11/2026
