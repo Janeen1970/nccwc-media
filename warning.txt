@@ -1,48 +1,86 @@
 
-BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Topeka KS
-808 PM CDT Wed Jun 10 2026
+ SEVERE THUNDERSTORM WARNING
 
-The National Weather Service in Topeka has issued a
+Osage, KS; Shawnee, KS; Wabaunsee, KS
 
-* Severe Thunderstorm Warning for...
-  Southwestern Shawnee County in east central Kansas...
-  Eastern Wabaunsee County in east central Kansas...
+Expires: 2026-06-10T21:30:00-05:00
+SEVERE THUNDERSTORM WARNING
 
-* Until 845 PM CDT.
+McLean, IL; Marshall, IL; Tazewell, IL; Woodford, IL
 
-* At 808 PM CDT, a severe thunderstorm was located near Paxico,
-  moving southeast at 25 mph.
+Expires: 2026-06-10T21:15:00-05:00
+FLASH FLOOD WARNING
 
-  HAZARD...60 mph wind gusts and nickel size hail.
+Dickinson, KS; Ottawa, KS
 
-  SOURCE...Radar indicated.
+Expires: 2026-06-10T23:00:00-05:00
+SEVERE THUNDERSTORM WARNING
 
-  IMPACT...Expect damage to roofs, siding, and trees.
+Shawnee, KS; Wabaunsee, KS
 
-* Locations impacted include...
-  Rossville, Eskridge, Dover, Silver Lake, Maple Hill, Willard, and
-  Keene.
+Expires: 2026-06-10T20:45:00-05:00
+SEVERE THUNDERSTORM WATCH
 
-This includes Interstate 70 between mile markers 336 and 353.
- 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
+Ford, IL; Iroquois, IL; Kankakee, IL; Will, IL; Benton, IN; Jasper, IN; Newton, IN
 
-For your protection move to an interior room on the lowest floor of a
-building.
+Expires: 2026-06-11T01:00:00-05:00
+TORNADO WATCH
 
-A Tornado Watch remains in effect until 900 PM CDT for northeastern
-and east central Kansas.
+Adams, IL; Brown, IL; Pike, IL; Knox, MO; Lewis, MO; Marion, MO; Monroe, MO; Ralls, MO; Shelby, MO
 
-&&
+Expires: 2026-06-10T23:00:00-05:00
+TORNADO WATCH
 
-LAT...LON 3887 9594 3887 9595 3886 9595 3878 9600
-      3898 9624 3914 9605 3914 9604 3916 9604
-      3916 9603 3907 9579
-TIME...MOT...LOC 0108Z 312DEG 21KT 3908 9613 
+Cass, IL; De Witt, IL; Fulton, IL; Knox, IL; Logan, IL; McLean, IL; Marshall, IL; Mason, IL; Menard, IL; Peoria, IL; Schuyler, IL; Stark, IL; Tazewell, IL; Woodford, IL
 
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...0.88 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH
+Expires: 2026-06-10T23:00:00-05:00
+FLASH FLOOD WARNING
+
+Adair, MO; Grundy, MO; Mercer, MO; Putnam, MO; Schuyler, MO; Sullivan, MO
+
+Expires: 2026-06-10T23:15:00-05:00
+TORNADO WATCH
+
+Chase, KS; Harvey, KS; McPherson, KS; Marion, KS; Rice, KS; Saline, KS
+
+Expires: 2026-06-10T21:15:00-05:00
+SEVERE THUNDERSTORM WATCH
+
+Ashland, WI; Bayfield, WI; Burnett, WI; Douglas, WI; Iron, WI; Price, WI; Sawyer, WI; Washburn, WI
+
+Expires: 2026-06-10T21:00:00-05:00
+FLASH FLOOD WARNING
+
+Caledonia, VT; Lamoille, VT; Orleans, VT; Washington, VT
+
+Expires: 2026-06-10T22:30:00-04:00
+TORNADO WATCH
+
+Brown, KS; Dickinson, KS; Douglas, KS; Geary, KS; Jackson, KS; Jefferson, KS; Lyon, KS; Morris, KS; Nemaha, KS; Osage, KS; Pottawatomie, KS; Riley, KS; Shawnee, KS; Wabaunsee, KS
+
+Expires: 2026-06-10T21:00:00-05:00
+SEVERE THUNDERSTORM WATCH
+
+Goodhue, MN; Barron, WI; Chippewa, WI; Dunn, WI; Eau Claire, WI; Pepin, WI; Pierce, WI; Polk, WI; Rusk, WI; St. Croix, WI
+
+Expires: 2026-06-10T21:00:00-05:00
+SEVERE THUNDERSTORM WATCH
+
+Allamakee, IA; Clayton, IA; Fayette, IA; Winneshiek, IA; Fillmore, MN; Houston, MN; Olmsted, MN; Wabasha, MN; Winona, MN; Adams, WI; Buffalo, WI; Clark, WI; Crawford, WI; Grant, WI; Jackson, WI; Juneau, WI; La Crosse, WI; Monroe, WI; Richland, WI; Taylor, WI; Trempealeau, WI; Vernon, WI
+
+Expires: 2026-06-10T21:00:00-05:00
+TORNADO WATCH
+
+Des Moines, IA; Henry, IA; Iowa, IA; Jefferson, IA; Johnson, IA; Keokuk, IA; Lee, IA; Louisa, IA; Van Buren, IA; Washington, IA; Hancock, IL; Henderson, IL; McDonough, IL; Warren, IL; Clark, MO; Scotland, MO
+
+Expires: 2026-06-10T23:00:00-05:00
+TORNADO WATCH
+
+Cedar, IA; Clinton, IA; Jackson, IA; Jones, IA; Linn, IA; Muscatine, IA; Scott, IA; Henry, IL; Mercer, IL; Rock Island, IL; Whiteside, IL
+
+Expires: 2026-06-10T23:00:00-05:00
+TORNADO WATCH
+
+Atchison, KS; Doniphan, KS; Johnson, KS; Leavenworth, KS; Wyandotte, KS; Adair, MO; Andrew, MO; Atchison, MO; Buchanan, MO; Caldwell, MO; Carroll, MO; Chariton, MO; Clay, MO; Clinton, MO; Daviess, MO; DeKalb, MO; Gentry, MO; Grundy, MO; Harrison, MO; Holt, MO; Jackson, MO; Lafayette, MO; Linn, MO; Livingston, MO; Macon, MO; Mercer, MO; Nodaway, MO; Platte, MO; Putnam, MO; Randolph, MO; Ray, MO; Saline, MO; Schuyler, MO; Sullivan, MO; Worth, MO
+
+Expires: 2026-06-10T21:00:00-05:00 
