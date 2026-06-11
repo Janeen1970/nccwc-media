@@ -4,11 +4,5 @@ Type: WIND FIELD
 📍 Areas: City-wide
 
 🌪️ Tornado: VERY LOW
-🌬️ Wind: 58–74 mph... Cameron Forecast
-
-Type: LOW IMPACT
-📍 Areas: Minimal activity
-
-🌪️ Tornado: VERY LOW
-🌬️ Wind: Below 50 mph
+🌬️ Wind: 58–74 mph.
  
