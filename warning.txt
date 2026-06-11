@@ -1,33 +1,32 @@
+
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Topeka KS
-723 PM CDT Wed Jun 10 2026
+808 PM CDT Wed Jun 10 2026
 
 The National Weather Service in Topeka has issued a
 
 * Severe Thunderstorm Warning for...
-  Northwestern Shawnee County in east central Kansas...
-  Northeastern Wabaunsee County in east central Kansas...
-  Southeastern Pottawatomie County in northeastern Kansas...
-  Southwestern Jackson County in northeastern Kansas...
+  Southwestern Shawnee County in east central Kansas...
+  Eastern Wabaunsee County in east central Kansas...
 
-* Until 815 PM CDT.
+* Until 845 PM CDT.
 
-* At 723 PM CDT, a severe thunderstorm was located over Louisville,
-  moving east at 35 mph.
+* At 808 PM CDT, a severe thunderstorm was located near Paxico,
+  moving southeast at 25 mph.
 
-  HAZARD...70 mph wind gusts and quarter size hail.
+  HAZARD...60 mph wind gusts and nickel size hail.
 
   SOURCE...Radar indicated.
 
-  IMPACT...Hail damage to vehicles is expected. Expect considerable 
-           tree damage. Wind damage is also likely to mobile homes, 
-           roofs, and outbuildings.
+  IMPACT...Expect damage to roofs, siding, and trees.
 
 * Locations impacted include...
-  Wamego, Rossville, St. Marys, Maple Hill, Belvue, Emmett,
-  Louisville, Delia, and Willard.
+  Rossville, Eskridge, Dover, Silver Lake, Maple Hill, Willard, and
+  Keene.
 
+This includes Interstate 70 between mile markers 336 and 353.
+ 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 For your protection move to an interior room on the lowest floor of a
@@ -38,11 +37,12 @@ and east central Kansas.
 
 &&
 
-LAT...LON 3916 9639 3937 9636 3934 9585 3906 9589
-TIME...MOT...LOC 0023Z 281DEG 29KT 3925 9633 
+LAT...LON 3887 9594 3887 9595 3886 9595 3878 9600
+      3898 9624 3914 9605 3914 9604 3916 9604
+      3916 9603 3907 9579
+TIME...MOT...LOC 0108Z 312DEG 21KT 3908 9613 
 
-THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
 HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
+MAX HAIL SIZE...0.88 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...70 MPH
+MAX WIND GUST...60 MPH
