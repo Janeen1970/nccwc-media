@@ -1,37 +1,58 @@
- URGENT - IMMEDIATE BROADCAST REQUESTED
-   Severe Thunderstorm Watch Number 314
+  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   245 PM CDT Thu Jun 11 2026
+   0800 PM CDT Thu Jun 11 2026
 
-   The NWS Storm Prediction Center has issued a
+   Valid 120100Z - 121200Z
 
-   * Severe Thunderstorm Watch for portions of 
-     Northwest Arkansas
-     Western Illinois
-     Southeast Kansas
-     Missouri
-     Northeast Oklahoma
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE MIDWEST/GREAT LAKES...
 
-   * Effective this Thursday afternoon and evening from 245 PM until
-     1100 PM CDT.
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
+   MID ATLANTIC...
 
-   * Primary threats include...
-     Scattered damaging winds likely with isolated significant gusts
-       to 75 mph possible
-     Scattered large hail and isolated very large hail events to 2.5
-       inches in diameter possible
-     A tornado or two possible
+   ...SUMMARY...
+   Severe thunderstorms will continue this evening across parts of the
+   Midwest and Great Lakes region. This includes the potential for
+   tornadoes (possibly strong), widespread/intense damaging winds (some
+   75+ mph), and isolated hail.
 
-   SUMMARY...Thunderstorms will continue to increase in coverage and
-   intensity along/ahead of a cold front this afternoon and evening.
-   The strongest convection may become supercellular and pose a threat
-   for large to very large hail, and perhaps a tornado or two.
-   Otherwise, scattered severe/damaging winds appear likely as
-   thunderstorms grow upscale into one or more bowing clusters through
-   the evening.
+   ...Parts of the Midwest/Great Lakes...
+   A rather volatile environment remains in place this evening across
+   parts of IL/IN and southwest Lower MI, especially in the vicinity of
+   a modified outflow across northern IL/IN. Rich low-level moisture,
+   moderate to strong buoyancy, and strong low-level shear/SRH will
+   continue to support all severe hazards through much of the evening.
+   Convection has largely taken on a linear or cluster mode, with an
+   attendant threat of severe/damaging gusts and line-embedded
+   tornadoes. Any discrete cells that can be maintained within or ahead
+   of ongoing convection will continue to pose a conditional
+   strong-tornado threat, along with isolated hail potential. See MCD
+   1101 and MCD 1102 for more information regarding the short-term
+   threat in this area. 
 
-   The severe thunderstorm watch area is approximately along and 100
-   statute miles east and west of a line from 75 miles northwest of
-   Saint Louis MO to 10 miles southwest of Muskogee OK...SEVERE THUNDERSTORM WATCH
+   Increasing CINH and decreasing MLCAPE with eastward extent should
+   eventually result in a weakening trend, though an organized severe
+   threat may reach parts of southeast MI and western OH later tonight.
 
-Benton, AR; Carroll, AR; Crawford, AR; Madison, AR; Washington, AR; Adair, OK; Cherokee, OK; Craig, OK; Creek, OK; Delaware, OK; McIntosh, OK; Mayes, OK; Muskogee, OK; Nowata, OK; Okfuskee, OK; Okmulgee, OK; Osage, OK; Ottawa, OK; Pawnee, OK; Rogers, OK; Sequoyah, OK; Tulsa, OK; Wagoner, OK; Washington, OK
+
+   ...OK/TX into MO/northern AR...
+   Scattered strong to locally severe storms are ongoing from parts of
+   western/central OK into MO, generally along or just behind a
+   southward moving cold front. Moderate to strong buoyancy and
+   deep-layer shear of around 25-35 kt near the front will continue to
+   support occasional storm organization and a continued threat of hail
+   and localized severe gusts, though convection may increasingly
+   become undercut by the front with time. An isolated severe threat
+   may eventually spread toward the Red River into western/northern AR
+   late tonight. 
+
+   ...Mid Atlantic vicinity...
+   Loosely organized storm clusters with a history of producing wind
+   damage are approaching the Mid Atlantic coast this evening. While
+   deep-layer shear will continue to be modest at best, a very
+   warm/moist boundary layer and moderate buoyancy will continue to
+   support potential for strong to locally severe gusts and scattered
+   wind damage, before convection weakens and/or moves offshore later
+   tonight.
+
+   ..Dean.. 06/12/2026
