@@ -2,5 +2,9 @@ SEVERE THUNDERSTORM WARNING
 
 Craig, OK; Delaware, OK; Mayes, OK; Ottawa, OK
 
+Expires: 2026-06-11T20:45:00-05:00...SEVERE THUNDERSTORM WARNING
+
+Cherokee, KS; Newton, MO
+
 Expires: 2026-06-11T20:45:00-05:00
 
