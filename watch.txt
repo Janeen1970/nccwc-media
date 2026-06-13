@@ -30,59 +30,116 @@ URGENT - IMMEDIATE BROADCAST REQUESTED
    north and south of a line from 25 miles north northwest of Salina KS
    to 20 miles southeast of Kansas City MO. ...Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1259 AM CDT Sat Jun 13 2026
+   0302 PM CDT Sat Jun 13 2026
 
-   Valid 131200Z - 141200Z
+   Valid 132000Z - 141200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN
-   KANSAS...MUCH OF WESTERN AND CENTRAL MISSOURI...AND NORTHEASTERN
-   OKLAHOMA...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS CENTRAL
+   TO EASTERN KANSAS AND WESTERN MISSOURI AND ADJACENT PORTIONS OF
+   NORTHEAST OKLAHOMA AND FAR NORTHWEST ARKANSAS...
 
    ...SUMMARY...
-   Scattered severe thunderstorms are expected across parts of the
-   central and southern Plains into the Missouri Valley. Swaths of
-   damaging wind gusts, large hail, and a couple of tornadoes are all
-   possible.
+   Scattered severe thunderstorms are likely today and tonight from
+   parts of the central and southern Plains to the Lower Missouri and
+   Middle Mississippi Valleys. Swaths of damaging wind gusts, large
+   hail, and a few tornadoes are all possible.
 
-   ...Synopsis...
-   Within the base of a broad large-scale trough and accompanying belt
-   of strong midlevel westerlies over the northern CONUS, an embedded
-   positive-tilt midlevel trough will overspread the northern Plains
-   through the period. In the low-levels, a weak surface low will move
-   slowly eastward across western/central KS during the day, before
-   being overtaken by a cold front into the evening hours.  
+   ...20z Update...
+   Only minor modifications were needed to the ongoing forecast based
+   on recent convective trends. The primary hazard continues to be
+   initially hail along the front with the onset of convection followed
+   by rapid upscale growth with an attendant severe wind threat across
+   eastern KS into adjacent portions of AR, MO, and OK.  Given the
+   prevalence of outflow boundaries intersecting the front per recent
+   surface observations, there will likely be one or more mesoscale
+   corridors of higher tornado potential as one or more MCSs develop,
+   however, confidence is limited in how productive these corridors
+   will be give the expectation of upscale growth.  For additional
+   short-term details see MCDs #1122, #1123, and #1124.
 
-   ...Central/Southern Plains into the Missouri Valley...
-   At the start of the period, a cluster of elevated thunderstorms
-   should be tracking eastward from NE into IA -- along the nose of a
-   gradually weakening nocturnal low-level jet. Steep midlevel lapse
-   rates and 40-50 kt of effective shear will favor large hail with
-   this activity. At the same time, a convectively augmented midlevel
-   impulse and lingering convection should be advancing eastward from
-   eastern KS into MO. Diurnal heating of a moist air mass should favor
-   a gradual increase in convective coverage and intensity along
-   related outflow into the afternoon hours. Moderate surface-based
-   buoyancy and 30-40 kt of effective shear will support organized
-   clusters and potentially supercells structures, with a risk of
-   damaging wind gusts and large hail. Some guidance suggests that this
-   activity may grow upscale into one or more organized clusters while
-   moving east-southeastward into the evening hours. 
+   ..Moore.. 06/13/2026
 
-   Farther west, strong diurnal heating/steepening low-level lapse
-   rates preceding the surface low will result in scattered
-   thunderstorm development from the central Plains into the lower MO
-   Valley. Steep midlevel lapse rates atop rich boundary-layer moisture
-   will yield a strongly unstable air mass, which combined with around
-   40 kt of effective shear, will favor organized clusters and
-   semi-discrete supercells. Large hail and locally severe wind gusts
-   will be the main concerns with initially semi-discrete storms. With
-   time, additional thunderstorm development is expected along the
-   southeastward-moving cold front. As a result, several
-   intense/organized clusters will spread east-southeastward through a
-   corridor of strong surface-based buoyancy -- posing an increasing
-   risk of scattered severe wind gusts (some 75+ mph). Despite the
-   expectation for upscale growth, embedded supercells will remain
-   possible, and given ample low-level shear and rich moisture, a
-   couple tornadoes will also be possible.
+   .PREV DISCUSSION... /ISSUED 1130 AM CDT Sat Jun 13 2026/
+
+   ...Central/Southern Plains to Middle Mississippi Valley...
+   Several different areas are already convectively active this
+   morning, including south-central IA/north-central MO where a bowing
+   segment is moving southeastward through the region, and farther
+   south from central/southern MO into far west-central IL, where
+   elevated thunderstorm are being maintained by modest warm-air
+   advection. Most immediate severe potential is downstream of the
+   bowing segment in south-central IA/north-central MO where damaging
+   wind gusts and isolated hail are possible over the next few hours.
+   Thereafter, expansive coverage of the ongoing storms in
+   central/southern MO introduces notable uncertainty regarding the
+   extent and strength of afternoon destabilization. 
+
+   General expectation is for the ongoing showers and thunderstorms to
+   persist, aided by mesoscale ascent attendant to an MCV traversing
+   the region. Cloud cover will limit heating, but ample low-level
+   moisture will still support moderate buoyancy. Moderate deep-layer
+   shear is anticipated over this area as well, with perhaps some more
+   mesoscale enhancement attendant to the MCV. As a result, a few
+   stronger embedded multicells and isolated supercells are possible.
+   Isolated large hail and damaging gusts could occur with the
+   strongest storms embedded within this likely broad area of showers
+   and thunderstorms.
+
+   A more complex scenario is anticipated along the western edge of the
+   MO cluster, extending back further westward into north-central KS.
+   Current surface analysis shows an outflow boundary over extreme
+   southeast NE arcing back through north-central KS to a low over far
+   northwest KS. A more substantial surface low exists over southwest
+   KS. Surface analysis also places a cold front from northwest IA
+   southwestward to just north of the northwest KS low in far southwest
+   NE. These boundaries should all influence convective evolution
+   today, with the outflow/differential heating boundary along the
+   western edge of the MO cluster likely playing a part as well.
+
+   Strong diurnal heating/steepening low-level lapse rates preceding
+   the surface lows will result in scattered thunderstorm development
+   near/ahead of the southeast-moving cold front, with the most intense
+   development likely favoring where the front intercepts the western
+   periphery of the outflow boundary. This intersection will most
+   likely be over central into northeast KS. Strong buoyancy and
+   moderate deep-layer shear will support robust updrafts capable of
+   large to very large hail early in the convective cycle, before
+   transitioning to a more linear mode as the front continues
+   southeastward. 
+
+   Another area of afternoon thunderstorm development is anticipated
+   from southern MO into west-central MO and far southeast KS, along
+   the western edge of the outflow/differential heating associated with
+   the ongoing MO cluster. Like the area farther northwest, large to
+   isolated very large hail is anticipated initially. Additionally,
+   this region could act as a corridor for upscale growth as the
+   development along the cold front begins to interact with the more
+   in-situ development along this boundary. Damaging winds will be the
+   most prominent risk within this corridor this evening, potentially
+   including some significant (75+ mph) wind gusts.
+
+   Despite numerous boundaries, the environmental conditions (i.e. high
+   LCLs and modest surface wind) and anticipated convective evolution
+   (i.e. outflow-dominant storms with quick evolution towards a linear
+   mode) only suggest a low-probability tornado threat from discrete
+   storms. A somewhat higher tornado risk could materialize within any
+   more robust convective line that develops, particularly during
+   evening as the low-level jet increases.
+
+   ...Lower MI...
+   Scattered thunderstorms are expected along and ahead of a cold front
+   moving through the region today. Strong low to mid-level flow could
+   support a few more organized storms, beginning across northern Lower
+   MI now and then extending back southwestward with time this
+   afternoon/evening. Primary risks are isolated large hail and
+   damaging gusts, but a brief tornado is possible as well.
+
+   ...Carolinas/Coastal Southeast...
+   Ample heating within a moist environment south of a weak front will
+   result in moderately strong diurnal destabilization, with convective
+   development aided by the front and coastal sea breeze. Some
+   pulse-type locally severe storms capable of downbursts/wind damage
+   may occur this afternoon through around sunset.
+
 
    ..Weinman.. 06/13/2026
