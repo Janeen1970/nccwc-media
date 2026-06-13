@@ -1,45 +1,58 @@
- Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0800 PM CDT Fri Jun 12 2026
+   1259 AM CDT Sat Jun 13 2026
 
-   Valid 130100Z - 131200Z
+   Valid 131200Z - 141200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE SOUTHERN HIGH PLAINS...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN
+   KANSAS...MUCH OF WESTERN AND CENTRAL MISSOURI...AND NORTHEASTERN
+   OKLAHOMA...
 
    ...SUMMARY...
-   Severe storms capable of producing large hail and scattered severe
-   wind gusts will spread east-southeastward across parts of the
-   south-central High Plains into the overnight hours. Locally damaging
-   gusts will remain possible across parts of the Mid-Atlantic tonight.
+   Scattered severe thunderstorms are expected across parts of the
+   central and southern Plains into the Missouri Valley. Swaths of
+   damaging wind gusts, large hail, and a couple of tornadoes are all
+   possible.
 
-   ...South-central High Plains...
-   Between a broad large-scale trough over the northern CONUS and an
-   upper ridge over the southern Plains, water-vapor imagery indicates
-   a subtle/low-amplitude impulse tracking eastward across the
-   central/southern High Plains -- embedded within a belt of enhanced
-   midlevel westerly flow. This feature and accompanying 40-50 kt of
-   effective shear will maintain an upscale-growing cluster of storms
-   as is tracks east-southeastward across the southern/central High
-   Plains into the overnight hours. In the near-term, large hail and
-   locally severe gusts will be the main concerns, especially with the
-   more separated updrafts/supercell structures evolving along the
-   southern flank of the convective cluster in northeastern NM. With
-   time, strengthening outflow and a nocturnal low-level jet will
-   promote further upscale growth and scattered severe/damaging gusts.
-   See Severe Thunderstorm Watch #323 for more information. 
+   ...Synopsis...
+   Within the base of a broad large-scale trough and accompanying belt
+   of strong midlevel westerlies over the northern CONUS, an embedded
+   positive-tilt midlevel trough will overspread the northern Plains
+   through the period. In the low-levels, a weak surface low will move
+   slowly eastward across western/central KS during the day, before
+   being overtaken by a cold front into the evening hours.  
 
-   ...Mid-Atlantic...
-   A cluster of thunderstorms tracking east-southeastward across the
-   Mid-Atlantic will continue to weaken over the next couple hours as
-   the boundary layer nocturnally stabilizes toward the coast. 
+   ...Central/Southern Plains into the Missouri Valley...
+   At the start of the period, a cluster of elevated thunderstorms
+   should be tracking eastward from NE into IA -- along the nose of a
+   gradually weakening nocturnal low-level jet. Steep midlevel lapse
+   rates and 40-50 kt of effective shear will favor large hail with
+   this activity. At the same time, a convectively augmented midlevel
+   impulse and lingering convection should be advancing eastward from
+   eastern KS into MO. Diurnal heating of a moist air mass should favor
+   a gradual increase in convective coverage and intensity along
+   related outflow into the afternoon hours. Moderate surface-based
+   buoyancy and 30-40 kt of effective shear will support organized
+   clusters and potentially supercells structures, with a risk of
+   damaging wind gusts and large hail. Some guidance suggests that this
+   activity may grow upscale into one or more organized clusters while
+   moving east-southeastward into the evening hours. 
 
-   ...Eastern Nebraska and eastern Kansas/western Missouri...
-   Positive low-level theta-e advection at the nose of a strengthening
-   low-level jet will promote isolated thunderstorm development late in
-   the period. Steep midlevel lapse rates atop a statically stable
-   boundary layer will mostly favor elevated storms. Sufficient
-   deep-layer shear will support convective organization, and severe
-   hail will be possible with the stronger storms that evolve.
+   Farther west, strong diurnal heating/steepening low-level lapse
+   rates preceding the surface low will result in scattered
+   thunderstorm development from the central Plains into the lower MO
+   Valley. Steep midlevel lapse rates atop rich boundary-layer moisture
+   will yield a strongly unstable air mass, which combined with around
+   40 kt of effective shear, will favor organized clusters and
+   semi-discrete supercells. Large hail and locally severe wind gusts
+   will be the main concerns with initially semi-discrete storms. With
+   time, additional thunderstorm development is expected along the
+   southeastward-moving cold front. As a result, several
+   intense/organized clusters will spread east-southeastward through a
+   corridor of strong surface-based buoyancy -- posing an increasing
+   risk of scattered severe wind gusts (some 75+ mph). Despite the
+   expectation for upscale growth, embedded supercells will remain
+   possible, and given ample low-level shear and rich moisture, a
+   couple tornadoes will also be possible.
 
    ..Weinman.. 06/13/2026
