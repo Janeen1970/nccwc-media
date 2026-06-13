@@ -1,2 +1,8 @@
-Hackett Forecast: No severe weather forecast.
+Hackett Forecast
+
+Type: WIND FIELD
+📍 Areas: City-wide
+
+🌪️ Tornado: VERY LOW
+🌬️ Wind: 58–74 mph
  
