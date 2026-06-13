@@ -1,1 +1,54 @@
-NO WARNINGS.
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Little Rock AR
+408 PM CDT Sat Jun 13 2026
+
+The National Weather Service in Little Rock has issued a
+
+* Severe Thunderstorm Warning for...
+  Southeastern Johnson County in western Arkansas...
+  Central Pope County in central Arkansas...
+
+* Until 500 PM CDT.
+
+* At 408 PM CDT, a severe thunderstorm was located near Holman, or 12
+  miles east of Clarksville, moving northeast at 15 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Dover...                          London...
+  Hector...                         Broomfield...
+  Taral...                          Holman...
+  Lake Dardanelle...                Augsburg...
+  Lutherville...                    Long Pool Campground...
+  Piney Bay Recreation Area...      Pleasant Valley in Pope County...
+  Caglesville...                    Scottsville...
+  Simpson...                        Treat...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3533 9330 3545 9338 3568 9306 3539 9290
+TIME...MOT...LOC 2108Z 246DEG 14KT 3542 9327 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+
+62
+
+
+
