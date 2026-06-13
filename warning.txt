@@ -1,4 +1,49 @@
 BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Tulsa OK
+655 PM CDT Sat Jun 13 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Tornado Warning for...
+  Northwestern Benton County in northwestern Arkansas...
+  East central Delaware County in northeastern Oklahoma...
+
+* Until 800 PM CDT.
+
+* At 655 PM CDT, a severe thunderstorm with strong low level rotation
+  that could produce a tornado at any time was located 4 miles east
+  of Jay, moving east at 20 mph.
+
+  HAZARD...Tornado and ping pong ball size hail.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
+
+* Locations in or near the path include...
+  Gravette...                       Decatur...
+  Maysville...                      
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+TAKE COVER NOW! Move to a basement or an interior room on the lowest
+floor of a sturdy building. Avoid windows. If you are outdoors, in a
+mobile home, or in a vehicle, move to the closest substantial shelter
+and protect yourself from flying debris.
+
+&&
+
+LAT...LON 3650 9462 3650 9459 3648 9440 3628 9437
+      3635 9468 3651 9467
+TIME...MOT...LOC 2355Z 279DEG 19KT 3643 9472 
+
+TORNADO...RADAR INDICATED
+MAX HAIL SIZE...1.50 IN
+...BULLETIN - EAS ACTIVATION REQUESTED
 Flash Flood Warning
 National Weather Service Little Rock AR
 458 PM CDT Sat Jun 13 2026
