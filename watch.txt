@@ -1,94 +1,45 @@
  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1259 AM CDT Fri Jun 12 2026
+   0800 PM CDT Fri Jun 12 2026
 
-   Valid 121200Z - 131200Z
+   Valid 130100Z - 131200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
-   APPALACHIANS...MID ATLANTIC...AND NORTHEAST...AND ALSO FOR PARTS OF
-   THE SOUTH-CENTRAL HIGH PLAINS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE SOUTHERN HIGH PLAINS...
 
    ...SUMMARY...
-   Strong to severe storms capable of damaging winds are possible
-   across parts of the Appalachians, Mid Atlantic, and Northeast,
-   mainly this afternoon and evening. Severe storms with a threat of
-   hail and severe gusts will also be possible across parts of the
-   south-central High Plains.
+   Severe storms capable of producing large hail and scattered severe
+   wind gusts will spread east-southeastward across parts of the
+   south-central High Plains into the overnight hours. Locally damaging
+   gusts will remain possible across parts of the Mid-Atlantic tonight.
 
-   ...Appalachians into the Mid Atlantic and Northeast...
-   A vigorous mid/upper-level shortwave trough is forecast to move
-   across Quebec later today, with weak midlevel height falls forecast
-   to extend south of this shortwave into parts of the Appalachians,
-   Northeast, and Mid Atlantic. The strongest deep-layer flow will
-   remain north of the international border, but modest effective shear
-   (generally 20-30 kt) will overlap relatively strong heating and
-   modest buoyancy across parts of the Northeast/Mid Atlantic.
-   Scattered outflow-driven clusters may develop with time and move
-   eastward, with an attendant threat of damaging wind and perhaps
-   isolated hail.
+   ...South-central High Plains...
+   Between a broad large-scale trough over the northern CONUS and an
+   upper ridge over the southern Plains, water-vapor imagery indicates
+   a subtle/low-amplitude impulse tracking eastward across the
+   central/southern High Plains -- embedded within a belt of enhanced
+   midlevel westerly flow. This feature and accompanying 40-50 kt of
+   effective shear will maintain an upscale-growing cluster of storms
+   as is tracks east-southeastward across the southern/central High
+   Plains into the overnight hours. In the near-term, large hail and
+   locally severe gusts will be the main concerns, especially with the
+   more separated updrafts/supercell structures evolving along the
+   southern flank of the convective cluster in northeastern NM. With
+   time, strengthening outflow and a nocturnal low-level jet will
+   promote further upscale growth and scattered severe/damaging gusts.
+   See Severe Thunderstorm Watch #323 for more information. 
 
-   Deep-layer flow/shear will be even weaker into parts of the southern
-   Mid Atlantic/Carolinas vicinity. However, very strong heating of a
-   moist airmass will support potential for scattered thunderstorms
-   with downburst potential, and eventual evolution into loosely
-   organized clusters capable of damaging outflow winds from afternoon
-   into at least the early evening. 
+   ...Mid-Atlantic...
+   A cluster of thunderstorms tracking east-southeastward across the
+   Mid-Atlantic will continue to weaken over the next couple hours as
+   the boundary layer nocturnally stabilizes toward the coast. 
 
-   ...South-central High Plains vicinity...
-   Moist southerly low-level flow beneath steepening midlevel lapse
-   rates will result in robust destabilization from the Raton Mesa
-   vicinity into the adjacent south-central High Plains, with MLCAPE
-   increasing to near/above 2000 J/kg by late afternoon. Modest
-   westerly mid/upper-level flow will support effective shear of 30-35
-   kt, conditionally supportive of organized convection. Large-scale
-   ascent will remain subtle, but eventual storms may develop by late
-   afternoon near the higher terrain, and spread east-southeastward
-   with time. 
+   ...Eastern Nebraska and eastern Kansas/western Missouri...
+   Positive low-level theta-e advection at the nose of a strengthening
+   low-level jet will promote isolated thunderstorm development late in
+   the period. Steep midlevel lapse rates atop a statically stable
+   boundary layer will mostly favor elevated storms. Sufficient
+   deep-layer shear will support convective organization, and severe
+   hail will be possible with the stronger storms that evolve.
 
-   Initial storms could evolve into isolated supercells, with a threat
-   of hail, localized severe gusts, and possibly a tornado.
-   Consolidating outflow and a nocturnally strengthening low-level jet
-   will support some upscale growth during the evening, with an
-   attendant severe-wind threat expected to spread across parts of the
-   south-central High Plains. 
-
-   Farther south, more isolated strong to severe storms will be
-   possible across parts of central/eastern NM into Far West TX, with a
-   threat of isolated hail and localized severe gusts. 
-
-   ...Upper Midwest...
-   Relatively low-topped convection may develop late this afternoon
-   from the eastern Dakotas into MN, as low-level lapse rates steepen
-   beneath seasonably cool temperatures aloft. Robust
-   west-northwesterly flow aloft will conditionally favor some storm
-   organization, if sufficient buoyancy can develop. However, most
-   guidance depicts MLCAPE generally below 500 J/kg, with an
-   inconsistent signal for where the deepest convection might develop.
-   Some threat for marginal hail and/or locally damaging wind could
-   evolve across some part of this region, and probabilities may be
-   needed if confidence increases regarding sufficient destabilization
-   and storm coverage. 
-
-   ...Parts of NE into western IA...
-   Elevated convection may develop late in the period from parts of NE
-   into western IA, within a warm-advection regime to the north of a
-   warm front. Guidance continues to vary regarding the magnitude of
-   elevated moistening/destabilization (which may be affected by MCS
-   development to the south across KS) and coverage of storms prior to
-   the end of the forecast period. Effective shear will be sufficient
-   for at least modest storm organization and an isolated hail threat,
-   if sufficient destabilization can occur. The aforementioned
-   uncertainties and likely very late timing of any severe threat
-   preclude the addition of hail probabilities at this time. 
-
-   ...Parts of OK/north TX...
-   In the wake of morning convection, robust redevelopment cannot be
-   ruled out across parts of OK/north TX, near a outflow-influenced
-   surface boundary. Guidance varies substantially regarding the
-   coverage/location of storms through mid morning, resulting in
-   considerable uncertainty. Moderate to strong buoyancy and modest
-   deep-layer shear could result in localized hail/wind potential, but
-   confidence in boundary placement and diurnal storm coverage is too
-   low for probabilities at this time.
-
-   ..Dean/Weinman.. 06/12/2026
+   ..Weinman.. 06/13/2026
