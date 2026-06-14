@@ -1,5 +1,65 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+757 PM CDT Sat Jun 13 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Southwestern Benton County in northwestern Arkansas...
+  North central Washington County in northwestern Arkansas...
+
+* Until 845 PM CDT.
+
+* At 757 PM CDT, a severe thunderstorm was located near Springtown,
+  moving southeast at 20 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Springdale...                     Rogers...
+  Bentonville...                    Siloam Springs...
+  Lowell...                         Farmington...
+  Gentry...                         Tontitown...
+  Cave Springs...                   Decatur...
+  Highfill...                       Springtown...
+  Northwest Arkansas Regional Air...Centerton...
+  Elm Springs...                    Fairmount...
+  Vaughn...                         Savoy...
+  Healing Springs...                Gallitin...
+
+This includes Interstate 49 between mile markers 74 and 83.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 1100 PM CDT for northwestern
+Arkansas.
+
+&&
+
+LAT...LON 3624 9456 3636 9457 3640 9446 3630 9411
+      3605 9427
+TIME...MOT...LOC 0057Z 296DEG 18KT 3629 9443 
+
+TORNADO...POSSIBLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Topeka KS
 735 PM CDT Sat Jun 13 2026
 
