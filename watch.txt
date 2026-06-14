@@ -1,29 +1,69 @@
-URGENT - IMMEDIATE BROADCAST REQUESTED
-   Severe Thunderstorm Watch Number 332
-   NWS Storm Prediction Center Norman OK
-   935 PM CDT Sat Jun 13 2026
 
-   The NWS Storm Prediction Center has issued a
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+1253 AM CDT Sun Jun 14 2026
 
-   * Severe Thunderstorm Watch for portions of 
-     Western Arkansas
-     Central and Eastern Oklahoma
+The National Weather Service in Tulsa has issued a
 
-   * Effective this Saturday night and Sunday morning from 935 PM
-     until 500 AM CDT.
+* Severe Thunderstorm Warning for...
+  Southern Benton County in northwestern Arkansas...
+  Madison County in northwestern Arkansas...
+  Northern Franklin County in west central Arkansas...
+  Northern Crawford County in northwestern Arkansas...
+  Washington County in northwestern Arkansas...
+  Southern Delaware County in northeastern Oklahoma...
+  Northeastern Sequoyah County in east central Oklahoma...
+  Mayes County in northeastern Oklahoma...
+  Adair County in northeastern Oklahoma...
+  Eastern Wagoner County in northeastern Oklahoma...
+  Cherokee County in east central Oklahoma...
+  Northeastern Muskogee County in east central Oklahoma...
 
-   * Primary threats include...
-     Widespread damaging winds and isolated significant gusts to 80
-       mph likely
-     Isolated large hail events to 1.5 inches in diameter possible
-     A tornado or two possible
+* Until 130 AM CDT.
 
-   SUMMARY...An intense bowing thunderstorm cluster will likely produce
-   numerous to potentially widespread severe/damaging winds tonight
-   into early Sunday morning as it moves quickly east-southeastward.
-   Peak gusts may reach up to 70-80 mph. An embedded tornado or two and
-   isolated hail may also occur.
+* At 1253 AM CDT, severe thunderstorms were located along a line
+  extending from 2 miles south of Marble to 4 miles northeast of
+  Strickler to 8 miles west of Peggs, moving south at 35 mph.
 
-   The severe thunderstorm watch area is approximately along and 125
-   statute miles east and west of a line from 30 miles east northeast
-   of Bartlesville OK to 30 miles east southeast of Mcalester OK.
+  HAZARD...70 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect considerable tree damage. Damage is likely to 
+           mobile homes, roofs, and outbuildings.
+
+* Locations in or near the path include...
+  Fayetteville...                   Springdale...
+  Rogers...                         Muskogee...
+  Bentonville...                    Tahlequah...
+  Siloam Springs...                 Wagoner...
+  Stilwell...                       Huntsville...
+  Cedarville...                     Mountainburg...
+  Pryor...                          Natural Dam...
+  Pryor Creek...                    Lowell...
+  Farmington...                     Prairie Grove...
+  Fort Gibson...                    Gentry...
+
+This includes Interstate 49 between mile markers 25 and 84.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+Torrential rainfall is occurring with these storms, and may lead to
+flash flooding. Do not drive your vehicle through flooded roadways.
+
+&&
+
+LAT...LON 3577 9370 3573 9370 3555 9423 3578 9556
+      3607 9548 3608 9544 3636 9543 3633 9386
+      3592 9352 3590 9356 3582 9352 3576 9352
+TIME...MOT...LOC 0553Z 356DEG 29KT 3610 9358 3589 9428 3607 9526 
+
+THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...<.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...70 MPH
