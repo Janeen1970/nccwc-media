@@ -1,29 +1,62 @@
-URGENT - IMMEDIATE BROADCAST REQUESTED
-   Severe Thunderstorm Watch Number 332
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   935 PM CDT Sat Jun 13 2026
+   1258 AM CDT Sun Jun 14 2026
 
-   The NWS Storm Prediction Center has issued a
+   Valid 141200Z - 151200Z
 
-   * Severe Thunderstorm Watch for portions of 
-     Western Arkansas
-     Central and Eastern Oklahoma
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM NORTHERN
+   GEORGIA NORTHWARD INTO PORTIONS OF SOUTHERN NEW ENGLAND...
 
-   * Effective this Saturday night and Sunday morning from 935 PM
-     until 500 AM CDT.
+   ...SUMMARY...
+   Scattered severe thunderstorms capable of damaging wind gusts are
+   expected across the Mid-Atlantic vicinity during the afternoon and
+   evening. Additional strong to severe storms are expected across the
+   upper Ohio Valley and Lower Great Lakes area.
 
-   * Primary threats include...
-     Widespread damaging winds and isolated significant gusts to 80
-       mph likely
-     Isolated large hail events to 1.5 inches in diameter possible
-     A tornado or two possible
+   ...Synopsis...
+   A broad large-scale trough and accompanying belt of strong midlevel
+   west-southwesterly flow will move eastward from the Great
+   Lakes/upper OH Valley region into the Northeast through the period.
+   At the same time, a related cold front will advance eastward across
+   the OH Valley during the afternoon, before reaching the Mid-Atlantic
+   and southern New England coast during the overnight hours. 
 
-   SUMMARY...An intense bowing thunderstorm cluster will likely produce
-   numerous to potentially widespread severe/damaging winds tonight
-   into early Sunday morning as it moves quickly east-southeastward.
-   Peak gusts may reach up to 70-80 mph. An embedded tornado or two and
-   isolated hail may also occur.
+   ...Southern Appalachians into the Mid-Atlantic...
+   Widely scattered thunderstorms are expected ahead of the cold front
+   during the afternoon, focused within a pre-frontal trough extending
+   from the Mid-Atlantic southward into the lee of the southern
+   Appalachians. From roughly southern/eastern VA southward, upper 60s
+   to lower 70s dewpoints and steepening boundary-layer lapse rates
+   will yield a corridor of strong surface-based buoyancy ahead of
+   storms. Despite weaker deep-layer shear and limited midlevel height
+   falls with southward extent, the strongly unstable air mass will
+   favor eastward-moving thunderstorm clusters capable of producing
+   damaging wind gusts. Over the Mid-Atlantic region, stronger midlevel
+   westerly flow will contribute to 30-40 kt of effective shear amid
+   moderate surface-based buoyancy. This environment will support
+   several loosely organized clusters capable of scattered damaging
+   wind gusts. Here, 30-percent wind probabilities remain in place, and
+   while a locally higher concentration of wind damage will be possible
+   with any longer-lived clusters that may evolve, this will be largely
+   dependent on mesoscale factors.  
 
-   The severe thunderstorm watch area is approximately along and 125
-   statute miles east and west of a line from 30 miles east northeast
-   of Bartlesville OK to 30 miles east southeast of Mcalester OK.
+   ...Upper OH Valley into southern New England...
+   Along the cold front, a broken band of thunderstorms will spread
+   eastward from the lower Great Lakes into the upper OH Valley and
+   southern New England during the afternoon into the evening hours.
+   Stronger midlevel height falls and around 40 kt of front-parallel
+   effective shear should favor a linear mode, with the primary concern
+   being strong-severe wind gusts.
+
+   ...Southern High Plains...
+   Along the tail-end of a composite cold front/outflow boundary
+   extending westward into the southern Rockies/High Plains, widely
+   scattered thunderstorms will spread southeastward during the
+   afternoon. Given moist easterly low-level flow and 30-40 kt of
+   effective shear along the boundary, a couple loosely organized
+   storms will pose a risk of locally severe gusts and hail. Additional
+   storms are expected along the boundary extending eastward across
+   northern/central TX to the ArkLaTex, though weaker deep-layer shear
+   should limit storm longevity/organization here.
+
+   ..Weinman/Halbert.. 06/14/2026
