@@ -129,5 +129,9 @@ The National Weather Service in Little Rock has issued a
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Turn around, don't drown when encountering flooded roads. Most flood 
-deaths occur in vehicles.
+deaths occur in vehicles. SEVERE THUNDERSTORM WARNING
+
+Douglas, KS; Jackson, KS; Jefferson, KS; Osage, KS; Pottawatomie, KS; Shawnee, KS; Wabaunsee, KS
+
+Expires: 2026-06-13T20:00:00-05:00
 
