@@ -1,4 +1,62 @@
-The National Weather Service in Tulsa has issued a
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Topeka KS
+735 PM CDT Sat Jun 13 2026
+
+The National Weather Service in Topeka has issued a
+
+* Severe Thunderstorm Warning for...
+  Northwestern Franklin County in east central Kansas...
+  Southern Jefferson County in northeastern Kansas...
+  Southeastern Shawnee County in east central Kansas...
+  East central Wabaunsee County in east central Kansas...
+  Douglas County in east central Kansas...
+  Northern Osage County in east central Kansas...
+
+* Until 830 PM CDT.
+
+* At 734 PM CDT, severe thunderstorms were located along a line
+  extending from 3 miles west of Keene to near Meriden to near Valley
+  Falls, moving southeast at 55 mph.
+
+  HAZARD...70 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated. This storm has a history of producing 60-
+           65 MPH wind gusts.
+
+  IMPACT...Hail damage to vehicles is expected. Expect considerable 
+           tree damage. Wind damage is also likely to mobile homes, 
+           roofs, and outbuildings.
+
+* Locations impacted include...
+  Topeka, Lawrence, Baldwin City, Carbondale, Oskaloosa, Tecumseh,
+  Eudora, Richland, Auburn, Overbrook, Lyndon, Centropolis,
+  Burlingame, Perry, McLouth, Scranton, Lecompton, Clinton, Lone
+  Star, and Harveyville.
+
+This includes Kansas Turnpike between mile markers 156 and 205.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+A Tornado Watch remains in effect until 1100 PM CDT for northeastern
+and east central Kansas.
+
+&&
+
+LAT...LON 3856 9567 3887 9609 3908 9556 3927 9524
+      3925 9518 3897 9519 3896 9517 3898 9516
+      3897 9513 3897 9511 3895 9509 3896 9508
+      3898 9508 3899 9506 3876 9506
+TIME...MOT...LOC 0034Z 304DEG 48KT 3895 9611 3915 9555 3933 9549 
+
+THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...70 MPH...The National Weather Service in Tulsa has issued a
 
 * Tornado Warning for...
   West central Benton County in northwestern Arkansas...
