@@ -1,4 +1,46 @@
-BULLETIN - EAS ACTIVATION REQUESTED
+The National Weather Service in Tulsa has issued a
+
+* Tornado Warning for...
+  West central Benton County in northwestern Arkansas...
+  East central Delaware County in northeastern Oklahoma...
+
+* Until 800 PM CDT.
+
+* At 711 PM CDT, a severe thunderstorm capable of producing a tornado
+  was located 3 miles east of Jay, moving east at 20 mph.
+
+  HAZARD...Tornado and half dollar size hail.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
+
+* Locations in or near the path include...
+  Jay...                            Maysville...
+  Lake Eucha State Park...          Cherokee City...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+TAKE COVER NOW! Move to a basement or an interior room on the lowest
+floor of a sturdy building. Avoid windows. If you are outdoors, in a
+mobile home, or in a vehicle, move to the closest substantial shelter
+and protect yourself from flying debris.
+
+&&
+
+LAT...LON 3634 9483 3650 9482 3645 9451 3623 9455
+TIME...MOT...LOC 0011Z 278DEG 17KT 3641 9474 
+
+TORNADO...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+
+$$
+
+
+...BULLETIN - EAS ACTIVATION REQUESTED
 Tornado Warning
 National Weather Service Tulsa OK
 655 PM CDT Sat Jun 13 2026
