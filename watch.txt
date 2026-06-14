@@ -66,4 +66,58 @@ THUNDERSTORM DAMAGE THREAT...CONSIDERABLE
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...<.75 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...70 MPH
+MAX WIND GUST...70 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+109 AM CDT Sun Jun 14 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Central Madison County in northwestern Arkansas...
+  Eastern Carroll County in northwestern Arkansas...
+
+* Until 145 AM CDT.
+
+* At 109 AM CDT, severe thunderstorms were located along a line
+  extending from 2 miles northeast of Roberson Hollow to 5 miles
+  southeast of Osage to near Witter, moving southeast at 30 mph.
+
+  HAZARD...60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Huntsville...                     Green Forest...
+  Carrollton...                     Rudd...
+  Pettigrew...                      Kingston...
+  Witter...                         Marble...
+  Aurora...                         Osage...
+  Rule...                           Boston...
+  Dutton...                         Dryfork...
+  Red Star...                       Metalton...
+  Weathers...                       Connor...
+  Coin...                           Alabam...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+Torrential rainfall is occurring with these storms, and may lead to
+flash flooding. Do not drive your vehicle through flooded roadways.
+
+&&
+
+LAT...LON 3612 9348 3608 9348 3608 9345 3597 9345
+      3595 9349 3588 9351 3588 9352 3576 9352
+      3577 9368 3610 9386 3625 9348 3650 9340
+      3650 9330 3612 9330
+TIME...MOT...LOC 0609Z 332DEG 26KT 3651 9325 3613 9333 3595 9371 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...<.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
