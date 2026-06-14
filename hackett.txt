@@ -1,8 +1,8 @@
 Hackett Forecast
 
-Type: WIND FIELD
-📍 Areas: City-wide
+Type: LOW IMPACT
+📍 Areas: Minimal activity
 
 🌪️ Tornado: VERY LOW
-🌬️ Wind: 58–74 mph
+🌬️ Wind: Below 50 mph
  
