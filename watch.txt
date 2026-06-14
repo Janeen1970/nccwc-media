@@ -1,4 +1,53 @@
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Little Rock AR
+115 AM CDT Sun Jun 14 2026
 
+The National Weather Service in Little Rock has issued a
+
+* Severe Thunderstorm Warning for...
+  Newton County in north central Arkansas...
+
+* Until 200 AM CDT.
+
+* At 115 AM CDT, severe thunderstorms were located along a line
+  extending from near Osage to Witter, moving southeast at 20 mph.
+
+  HAZARD...60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Jasper...                         Lost Valley State Park...
+  Upper Buffalo Wilderness Area...  Walnut...
+  Wayton...                         Mossville...
+  Boxley...                         Compton...
+  Crossroad...                      Low Gap...
+  Fallsville...                     Swain...
+  Parthenon...                      Gum Springs in Newton County...
+  Deer...                           Dixon Ridge...
+  Cowell...                         Nail...
+  Ponca...                          Arbaugh...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3612 9330 3578 9296 3573 9303 3574 9351
+      3576 9352 3587 9353 3588 9352 3588 9350
+      3592 9351 3593 9349 3597 9347 3597 9345
+      3608 9345 3608 9348 3612 9348
+TIME...MOT...LOC 0615Z 320DEG 20KT 3614 9336 3594 9369 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...<.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
 National Weather Service Tulsa OK
