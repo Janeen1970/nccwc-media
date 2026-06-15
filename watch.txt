@@ -1,62 +1,56 @@
- Day 1 Convective Outlook  
+Day 3 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1258 AM CDT Sun Jun 14 2026
+   0227 AM CDT Mon Jun 15 2026
 
-   Valid 141200Z - 151200Z
+   Valid 171200Z - 181200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM NORTHERN
-   GEORGIA NORTHWARD INTO PORTIONS OF SOUTHERN NEW ENGLAND...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+   OF THE MID-MISSISSIPPI VALLEY INTO INDIANA...
 
    ...SUMMARY...
-   Scattered severe thunderstorms capable of damaging wind gusts are
-   expected across the Mid-Atlantic vicinity during the afternoon and
-   evening. Additional strong to severe storms are expected across the
-   upper Ohio Valley and Lower Great Lakes area.
+   An all-hazards severe thunderstorm episode is expected across
+   portions of the Middle Mississippi Valley into Indiana on Wednesday.
+   Intense thunderstorms may produce swaths of damaging wind, as well
+   as strong tornadoes and large hail.
 
-   ...Synopsis...
-   A broad large-scale trough and accompanying belt of strong midlevel
-   west-southwesterly flow will move eastward from the Great
-   Lakes/upper OH Valley region into the Northeast through the period.
-   At the same time, a related cold front will advance eastward across
-   the OH Valley during the afternoon, before reaching the Mid-Atlantic
-   and southern New England coast during the overnight hours. 
+   ...Midwest...
 
-   ...Southern Appalachians into the Mid-Atlantic...
-   Widely scattered thunderstorms are expected ahead of the cold front
-   during the afternoon, focused within a pre-frontal trough extending
-   from the Mid-Atlantic southward into the lee of the southern
-   Appalachians. From roughly southern/eastern VA southward, upper 60s
-   to lower 70s dewpoints and steepening boundary-layer lapse rates
-   will yield a corridor of strong surface-based buoyancy ahead of
-   storms. Despite weaker deep-layer shear and limited midlevel height
-   falls with southward extent, the strongly unstable air mass will
-   favor eastward-moving thunderstorm clusters capable of producing
-   damaging wind gusts. Over the Mid-Atlantic region, stronger midlevel
-   westerly flow will contribute to 30-40 kt of effective shear amid
-   moderate surface-based buoyancy. This environment will support
-   several loosely organized clusters capable of scattered damaging
-   wind gusts. Here, 30-percent wind probabilities remain in place, and
-   while a locally higher concentration of wind damage will be possible
-   with any longer-lived clusters that may evolve, this will be largely
-   dependent on mesoscale factors.  
+   A midlevel shortwave trough is forecast to move from the northern
+   Plains through the Upper Midwest and Great Lakes region on
+   Wednesday. As this occurs, very strong deep-layer flow, especially
+   for this time of year, will move across portions of the Mid-MS
+   Valley into the Ohio Valley. A westerly 500 mb jet streak
+   characterized by at least 70-80 kt will overspread parts of
+   IA/MO/IL/IN in the afternoon and evening. Meanwhile, a 50+ kt
+   southwesterly 850 mb low-level jet will spread across the same area
+   during the afternoon/evening, just ahead of an
+   east/southeast-advancing surface cold front. These strong wind
+   fields, in conjunction with a surface low moving eastward across MN
+   and the Upper Great Lakes, will aid in northward transport of rich
+   boundary layer moisture (upper 60s to near 70 F surface dewpoints).
+   Cooling aloft will steepen midlevel lapse rates, and moderate to
+   strong destabilization is expected across the warm sector. Overall,
+   this pattern should support numerous severe storms. While convective
+   evolution remains uncertain, it is likely that at least some initial
+   supercell risk will unfold during the afternoon and early evening
+   (particularly across MO/IL), with potential for one or more bowing
+   MCSs developing with time. This environment will support a risk for
+   all severe hazards, and particularly swaths of damaging winds, and
+   strong tornadoes.
 
-   ...Upper OH Valley into southern New England...
-   Along the cold front, a broken band of thunderstorms will spread
-   eastward from the lower Great Lakes into the upper OH Valley and
-   southern New England during the afternoon into the evening hours.
-   Stronger midlevel height falls and around 40 kt of front-parallel
-   effective shear should favor a linear mode, with the primary concern
-   being strong-severe wind gusts.
+   Some uncertainty remains regarding the northward extent of the
+   severe risk. Most medium range guidance indicates a lead shortwave
+   impulse may move across IA/IL early in the day. Coupled with strong
+   warm advection across the region, morning thunderstorm develop
+   near/north of a warm front oriented from southeast MN into northeast
+   IL at midday could suppress northward development of the warm front.
+   Likewise, the southwest extent of the risk area into portions of
+   KS/OK may be limited by capping concerns, and weaker forcing for
+   ascent. Meanwhile, the southward extent of the severe risk across
+   the Ohio Valley will be modulated by the stronger westerly component
+   of mid/upper flow overnight and slow southward movement of the
+   surface cold front. The risk area may shift some in coming days as
+   surface boundaries and other mesoscale details become better
+   resolved.
 
-   ...Southern High Plains...
-   Along the tail-end of a composite cold front/outflow boundary
-   extending westward into the southern Rockies/High Plains, widely
-   scattered thunderstorms will spread southeastward during the
-   afternoon. Given moist easterly low-level flow and 30-40 kt of
-   effective shear along the boundary, a couple loosely organized
-   storms will pose a risk of locally severe gusts and hail. Additional
-   storms are expected along the boundary extending eastward across
-   northern/central TX to the ArkLaTex, though weaker deep-layer shear
-   should limit storm longevity/organization here.
-
-   ..Weinman/Halbert.. 06/14/2026
+   ..Leitman.. 06/15/2026
