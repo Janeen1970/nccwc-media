@@ -1,185 +1,85 @@
- Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1250 AM CDT Tue Jun 16 2026
+   1249 AM CDT Thu Jun 18 2026
 
-   Valid 161200Z - 171200Z
+   Valid 181200Z - 191200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS TODAY THROUGH
-   TONIGHT ACROSS PARTS OF THE NORTHERN GREAT PLAINS INTO MIDWEST AND
-   NEAR THE GULF COAST...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM KENTUCKY INTO
+   THE MID ATLANTIC...OVER MUCH OF THE NORTHEAST...AND ALONG THE
+   NORTHERN GULF COAST...
 
    ...SUMMARY...
-   Areas of mainly widely scattered strong thunderstorm development,
-   accompanied by at least some risk for severe weather, are possible
-   across parts of the northern Great Plains into Midwest and near the
-   Gulf Coast vicinity today through tonight.
+   Isolated to scattered severe thunderstorms will be possible from
+   Kentucky to the Mid-Atlantic, with primarily damaging wind gusts or
+   marginal hail. Scattered severe storms are possible from upstate New
+   York into New England, with damaging gusts or even a tornado. A few
+   tornadoes may occur over parts of the Gulf Coast states, and
+   scattered storms may produce gusty winds or marginal hail from
+   Oklahoma into northwest Texas.
 
-   ...Discussion...
-   Higher latitude blocking appears likely to maintain a broad area of
-   cyclonic mid-level flow with anomalously low heights to the lee of
-   the northern Rockies through the northern and middle Atlantic
-   Seaboard.  Within this regime, models suggest that an initially
-   vigorous short wave trough (now digging into the Upper Midwest) may
-   maintain strength into and across the Lake Michigan vicinity, before
-   undergoing considerable deformation while turning eastward and
-   northeastward, to the southeast of a mid-level becoming centered
-   near the northern Manitoba/northwestern Ontario border.  After
-   rounding the crest of mid-level ridging centered over the northern
-   mid-latitude eastern Pacific, it appears that another significant
-   short wave perturbation will dig through the broadly confluent
-   regime to the southwest of the low, across the northern Rockies
-   through northern Great Plains by late tonight.
+   ...From KY into the Mid Atlantic...
+   Moderate mid to high level westerlies will exist from the OH Valley
+   to Mid Atlantic, south of the primary wave over the Northeast. This
+   region will be south of the midlevel drying, with ample low-level
+   moisture remaining in place ahead of the slower moving portion of
+   the front. Scattered storms may be ongoing early in the day from KY
+   into WV, with perhaps wind or even tornado potential as SRH will be
+   high at that time. As heating occurs during the day, boundary layer
+   mixing as well as veering and weakening winds at 850 mb may reduce
+   tornado risk. However, ample deep-layer shear and nearly
+   unidirectional wind profiles will favor both cells and fast-moving
+   clusters of storms producing damaging gusts and locally severe hail
+   throughout the day. 
 
-   In lower latitudes, mid/upper ridging emanating from the subtropical
-   Atlantic may maintain considerable influence across the Florida
-   peninsula today, while weak troughing, perhaps with a developing
-   mid-level cyclonic circulation, slowly pivots across the lower Texas
-   and Mexican Gulf coast.
+   ...Northeast...
+   Within a broader area of cyclonic flow aloft, a leading shortwave
+   trough will move from the Lower Great Lakes into the Northeast, with
+   a 90 kt midlevel speed max and cooling aloft moving across NY and
+   parts of New England during the day. Low pressure will develop into
+   southern Quebec, with a cold front extending southward into the
+   region.
 
-   In lower levels, seasonably high boundary-layer moisture content has
-   generally been maintained across much of the Gulf coastal plain.  It
-   appears that strengthening southerly low-level flow may support more
-   substantive moisture return to the southeast of deepening surface
-   troughing across the northern into central Great Plains by late
-   tonight.
+   Surface heating and gusty south winds will bring 60s F dewpoints
+   into the area with up to 1000 J/kg MUCAPE expected. Relatively warm
+   profiles will develop near 300 mb, somewhat limiting storm depth.
+   However, ample midlevel cooling will still support sufficient
+   destabilization. Strong deep-layer shear and backed surface winds
+   ahead of the cold front will favor low-topped supercells. Cells
+   should develop over northern NY by 18Z, and will move quickly east,
+   producing marginal hail and sporadic damaging gusts initially. The
+   low EL height may mitigate hail production somewhat. By late
+   afternoon, a tornado or two will be possible as storms encounter a
+   stronger SRH environment farther east.
 
-   ...Midwest/Great Lakes...
-   Weak convection accompanying forcing for ascent associated with the
-   lead short wave trough appears likely to persist and perhaps
-   increase across the Upper Midwest through Great Lakes and Ohio
-   Valley during the day.  Coinciding low-level cooling is likely to at
-   least slow, if not inhibit, boundary layer warming in the wake of
-   this activity.  However, various model output suggests that
-   associated low-level moistening, coupled with a period of insolation
-   beneath a developing mid-level dry slot, may be sufficient to
-   support a corridor of modest destabilization as the mid-level cold
-   pool (including 500 mb temperatures around -18 to -20C) overspreads
-   the southern Lake Michigan vicinity late this afternoon.  This
-   environment might become sufficient for a developing broken band of
-   vigorous convection, perhaps including supercells, posing a risk for
-   severe hail/wind and possibly a tornado or two, before weakening
-   later this evening.
+   ...Parts of MS/AL/GA/FL...
+   Wind fields associated with the remnants of Arthur will increase
+   from LA into GA today, as a weak surface low and midlevel wave move
+   across MS/AL/GA. This system will provide a focus for storms which
+   will spread northeast out of LA/MS into AL, the FL Panhandle, and
+   eventually into GA. Although temperatures aloft are warm, areas of
+   strong low-level shear and mid 70s F dewpoints will support
+   organized bands of storms, some with embedded stronger cells.
+   Transient supercells will be possible with localized tornado risk.
+   Storms are likely to be ongoing over southeast LA and southern MS at
+   the start of the period, and these will develop northeastward
+   throughout the day.
 
-   ...Central Great Plains...
-   Forcing for ascent to support convective development along the
-   stalling cold front, trailing the short wave trough progressing into
-   the Great Lakes/Ohio Valley, remains unclear.  However, there
-   appears a general consensus within model output that boundary-layer
-   moistening may support CAPE on the order of 1000-2000 J/kg across
-   parts of southern Kansas into southwestern Missouri, where mid-level
-   inhibition may remain weak enough through late afternoon/early
-   evening to allow for isolated/widely scattered thunderstorm
-   initiation.  If this occurs, guidance indicates sufficient shear for
-   supercell development, before increasing inhibition suppresses
-   convection later this evening.
+   ...OK into northwest TX...
+   An east-west oriented cold front will move southward across the TX
+   Panhandle, Oklahoma and northwest today, pushing well south of the
+   stronger westerlies aloft over the central Plains. The air mass
+   ahead of the front will feature 70s F dewpoints, while daytime
+   heating brings MUCAPE values into the 3000-4000 J/kg range. South of
+   this cold front, low pressure is forecast to develop over western TX
+   where the strongest heating will occur.
 
-   ...Gulf Coast...
-   Models indicate modest strengthening of westerly flow (including
-   20-40 kt in the 850-500 mb layer) in a belt across the north central
-   through northeastern Gulf coast vicinity today.  Coinciding with
-   destabilization driven by daytime heating of the seasonably moist
-   boundary layer, this may support modestly organizing convection,
-   perhaps transient supercell structures, posing a risk for damaging
-   wind gusts and perhaps an isolated tornado or two.
+   Isolated morning thunderstorms may be present from the KS/OK border
+   area eastward toward the Ozarks, and marginal hail cannot be ruled
+   out due to substantial elevated CAPE. Any storms that form near the
+   boundary as it moves south during the day may produce locally strong
+   gusts. The greatest risk of locally severe gusts or marginal hail
+   appears to be across southwest OK into northwest TX, where the front
+   will be more favorably timed with peak heating. Shear will be weak,
+   but extensive outflow is possible.
 
-   ...Northern Great Plains into Midwest...
-   Models suggest that a corridor of fairly deep boundary-layer mixing
-   will precede the vigorous short wave trough digging across and
-   east-southeast of the Canadian/northern U.S. Rockies.  It appears
-   that associated mid-level forcing for ascent will contribute to
-   sufficient destabilization to support scattered thunderstorm
-   development with potential to produce some hail and scattered strong
-   to severe surface gusts late this afternoon into evening.
-
-   Within strengthening downstream warm advection, forcing for ascent
-   may begin to interact with better elevated moisture return to
-   support increasing strong thunderstorm development with potential to
-   producing severe hail by late tonight, across parts of eastern Iowa
-   and adjacent portions of the Midwest.
-
-   ..Kerr/Weinman.. 06/16/2026... Day 2 Convective Outlook  
-   NWS Storm Prediction Center Norman OK
-   1259 AM CDT Tue Jun 16 2026
-
-   Valid 171200Z - 181200Z
-
-   ...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
-   OF CENTRAL ILLINOIS INTO NORTHWEST INDIANA...
-
-   ...SUMMARY...
-   An outbreak of severe thunderstorms is expected across portions of
-   Illinois and Indiana on Wednesday. Intense tornadoes, swaths of
-   damaging gusts to 80 mph and hail to 2.5 inch diameter are expected.
-
-   ...Midwest...
-
-   A volatile environment for severe thunderstorms is expected to
-   develop across portions of the Midwest from IA/MO into IL/IN/OH on
-   Wednesday, with significant all-hazards severe expected.
-
-   A mid/upper level shortwave trough initially over the northern
-   Plains early Wednesday will pivot southeast across the Upper Midwest
-   through 00z, and much of the Great Lakes by 12z Thursday. As this
-   occurs, particularly intense mid and upper level flow, especially by
-   June standards, if forecast to increase over the region. A 60-80 kt
-   westerly 500 mb jet stream will overspread much of the Midwest
-   through the evening, before increasing further during the nighttime
-   hours. Furthermore, an impressive southwesterly 850 mb low-level jet
-   around 50-60 kt will be oriented from KS into IA at 12z. This
-   feature will spread east/northeast across IL/IN/OH through evening.
-   Interestingly, the core of the low-level jet may be somewhat
-   displaced to the east of the core warm sector expected to develop
-   across the Mid-MS Valley vicinity, perhaps tied to an early-day
-   shortwave impulse ejecting across IA/IL during the morning.
-   Nevertheless, 40-55 kt 850 mb winds will persist even across the
-   warm sector even as the core of the low-level jet overspreads the
-   Ohio Valley toward Lower MI during the afternoon. 
-
-   At the surface, an elongated area of low pressure will extend from
-   ND to the Mid-MO valley Wednesday morning. A warm front will extend
-   from northwest IA southeastward across central IL, while a cold
-   front extend from eastern NE into western KS. As this system
-   progresses east through the day, the warm front will lift northward
-   into northern IL/IN/OH and upper 60s/near 70 dewpoints are expected.
-   Aided by steep midlevel lapse rates/cooling aloft, MLCAPE will
-   approach 2500-3500 J/kg. The latitude of the warm front continues to
-   be a point of uncertainty. Most forecast guidance depicts morning
-   convection near and north of the warm front within a strong warm
-   advection regime moving eastward across IA/northern IL/IN. It is
-   uncertain if this will suppress the northward advancement of the
-   warm front. The ultimate position of the warm front will have large
-   impacts on where particularly concerning strong to intense tornado
-   potential may eventually develop as storm motion would likely be
-   along the boundary, rather than across the boundary, allowing for
-   potentially fast-moving/long-track supercells interacting with the
-   warm front and remaining within the favorable warm sector.
-
-   As the surface cold front develops east, additional convection will
-   develop along the boundary by late afternoon/early evening from far
-   southeast IA into northern MO and eastern KS. Initial supercells
-   along this boundary will pose an all hazards risk -- including very
-   large hail, strong tornadoes and damaging gusts. With time, this
-   convection may develop into a line propagating east/southeast. If a
-   linear MCS develops, swaths of damaging wind gusts will be possible.
-
-
-   In general, given the strength of background flow fields, damaging
-   wind potential could be significant regardless of storm mode.
-   Furthermore, even storms developing north of the warm front could
-   still produce severe gusts given large MUCAPE, fast storm motion and
-   intense flow just above the surface. Favorable low-level shear will
-   also support continued tornado potential even within a linear storm
-   mode via embedded supercell structures and mesovortex generation.
-   Large to very large hail potential is most likely early in storm
-   development and where supercells are more likely to remain discrete
-   (northern MO/far southeast IA/north-central IL).
-
-   ...Gulf Coast...
-
-   Isolated strong gusts are possible in association with a tropical
-   disturbance moving eastward along the Gulf Coast. See the tropical
-   weather outlook from the National Hurricane Center for more
-   information.
-
-   ..Leitman.. 06/16/2026
-
+   ..Jewell/Weinman.. 06/18/2026
