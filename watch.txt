@@ -1,85 +1,53 @@
-Day 1 Convective Outlook  
+Day 3 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1249 AM CDT Thu Jun 18 2026
+   0233 PM CDT Fri Jun 19 2026
 
-   Valid 181200Z - 191200Z
+   Valid 211200Z - 221200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM KENTUCKY INTO
-   THE MID ATLANTIC...OVER MUCH OF THE NORTHEAST...AND ALONG THE
-   NORTHERN GULF COAST...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE CENTRAL
+   HIGH PLAINS INTO THE MID-MISSISSIPPI/LOWER OHIO VALLEYS...
 
    ...SUMMARY...
-   Isolated to scattered severe thunderstorms will be possible from
-   Kentucky to the Mid-Atlantic, with primarily damaging wind gusts or
-   marginal hail. Scattered severe storms are possible from upstate New
-   York into New England, with damaging gusts or even a tornado. A few
-   tornadoes may occur over parts of the Gulf Coast states, and
-   scattered storms may produce gusty winds or marginal hail from
-   Oklahoma into northwest Texas.
+   Severe storms are possible along a frontal zone from the
+   Mid-Mississippi Valley to the central High Plains on Sunday. Large
+   hail, severe winds, and tornadoes will be possible.
 
-   ...From KY into the Mid Atlantic...
-   Moderate mid to high level westerlies will exist from the OH Valley
-   to Mid Atlantic, south of the primary wave over the Northeast. This
-   region will be south of the midlevel drying, with ample low-level
-   moisture remaining in place ahead of the slower moving portion of
-   the front. Scattered storms may be ongoing early in the day from KY
-   into WV, with perhaps wind or even tornado potential as SRH will be
-   high at that time. As heating occurs during the day, boundary layer
-   mixing as well as veering and weakening winds at 850 mb may reduce
-   tornado risk. However, ample deep-layer shear and nearly
-   unidirectional wind profiles will favor both cells and fast-moving
-   clusters of storms producing damaging gusts and locally severe hail
-   throughout the day. 
+   ...Mid-Mississippi Valley...
+   Models indicated that convection will likely be ongoing during the
+   morning in portions of Missouri and will move into central/southern
+   Illinois. The degree of airmass recover behind this activity is not
+   certain. There will certainly be a corridor of greater severe
+   potential along the trailing outflow from central Missouri into
+   southern Illinois, but confidence in such a scenario remains low at
+   this point. Furthermore, upper-level flow is not going to be overly
+   strong and any supercells that can develop may struggle to maintain
+   intensity. Even so, the potential for large hail, severe winds, and
+   tornadoes is evident.
 
-   ...Northeast...
-   Within a broader area of cyclonic flow aloft, a leading shortwave
-   trough will move from the Lower Great Lakes into the Northeast, with
-   a 90 kt midlevel speed max and cooling aloft moving across NY and
-   parts of New England during the day. Low pressure will develop into
-   southern Quebec, with a cold front extending southward into the
-   region.
+   ...Central High Plains...
+   Lingering moisture behind the weak surface front and upslope flow
+   during the afternoon will promote thunderstorm development within
+   eastern Colorado. A belt of stronger westerly flow will bring
+   effective shear of around 45 kt. Steep mid-level lapse rates and
+   long hodographs suggest potential for large to very-large (up to 2
+   in.) hail will be possible along with isolated severe gusts.
+   Activity may not move very far east given increasing MLCIN farther
+   into western Kansas.
 
-   Surface heating and gusty south winds will bring 60s F dewpoints
-   into the area with up to 1000 J/kg MUCAPE expected. Relatively warm
-   profiles will develop near 300 mb, somewhat limiting storm depth.
-   However, ample midlevel cooling will still support sufficient
-   destabilization. Strong deep-layer shear and backed surface winds
-   ahead of the cold front will favor low-topped supercells. Cells
-   should develop over northern NY by 18Z, and will move quickly east,
-   producing marginal hail and sporadic damaging gusts initially. The
-   low EL height may mitigate hail production somewhat. By late
-   afternoon, a tornado or two will be possible as storms encounter a
-   stronger SRH environment farther east.
+   ...Kansas/Oklahoma/Ozarks...
+   Heating of a moist airmass south of the surface boundary will
+   promote strong buoyancy (perhaps 3000-4000 J/kg MLCAPE). As the
+   shortwave trough continues east, the cold front will begin to move
+   southward by the evening. The low-level jet will strengthen and
+   provide additional lift along the boundary. A line of thunderstorms
+   is expected to move southward. Damaging winds are the main hazard
+   with this activity.
 
-   ...Parts of MS/AL/GA/FL...
-   Wind fields associated with the remnants of Arthur will increase
-   from LA into GA today, as a weak surface low and midlevel wave move
-   across MS/AL/GA. This system will provide a focus for storms which
-   will spread northeast out of LA/MS into AL, the FL Panhandle, and
-   eventually into GA. Although temperatures aloft are warm, areas of
-   strong low-level shear and mid 70s F dewpoints will support
-   organized bands of storms, some with embedded stronger cells.
-   Transient supercells will be possible with localized tornado risk.
-   Storms are likely to be ongoing over southeast LA and southern MS at
-   the start of the period, and these will develop northeastward
-   throughout the day.
+   ...Middle Ohio Valley Vicinity...
+   Convection that will move through Missouri/Illinois in the morning
+   may continue eastward. Given the modest surface low expected to
+   develop, some airmass destabilization is possible into Indiana/Ohio.
+   Strong low-level wind fields would support a risk for damaging winds
+   and perhaps a tornado or two.
 
-   ...OK into northwest TX...
-   An east-west oriented cold front will move southward across the TX
-   Panhandle, Oklahoma and northwest today, pushing well south of the
-   stronger westerlies aloft over the central Plains. The air mass
-   ahead of the front will feature 70s F dewpoints, while daytime
-   heating brings MUCAPE values into the 3000-4000 J/kg range. South of
-   this cold front, low pressure is forecast to develop over western TX
-   where the strongest heating will occur.
-
-   Isolated morning thunderstorms may be present from the KS/OK border
-   area eastward toward the Ozarks, and marginal hail cannot be ruled
-   out due to substantial elevated CAPE. Any storms that form near the
-   boundary as it moves south during the day may produce locally strong
-   gusts. The greatest risk of locally severe gusts or marginal hail
-   appears to be across southwest OK into northwest TX, where the front
-   will be more favorably timed with peak heating. Shear will be weak,
-   but extensive outflow is possible.
-
-   ..Jewell/Weinman.. 06/18/2026
+   ..Wendt.. 06/19/2026
