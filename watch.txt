@@ -1,61 +1,77 @@
-Day 2 Convective Outlook  
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1258 AM CDT Sat Jun 20 2026
+   1254 AM CDT Sun Jun 21 2026
 
    Valid 211200Z - 221200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE CENTRAL
-   HIGH PLAINS TO PARTS OF THE MID-MISSISSIPPI VALLEY....
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
+   CENTRAL/SOUTHERN PLAINS INTO THE OZARKS AND OHIO VALLEY...
 
    ...SUMMARY...
-   Severe storms are possible along a frontal zone from the
-   Mid-Mississippi Valley to the central High Plains on Sunday. Large
-   hail, severe winds, and tornadoes will be possible.
+   Severe storms are possible from the central High Plains into the
+   Ohio Valley, mainly this afternoon into tonight. Large to very large
+   hail, severe winds, and tornadoes will be possible. Some
+   strong-tornado potential could develop across parts of Missouri,
+   Illinois, and Indiana during the afternoon and early evening.
 
-   ...Synopsis...
-   A series of mid-level shortwave troughs will move through the
-   central portion of the CONUS along a surface frontal zone. The
-   primary surface low is expected to settle somewhere near the Texas
-   Panhandle on Sunday with a weaker, perhaps convectively enhanced,
-   surface low across the Midwest. 
+   ...Parts of MO into the Ohio Valley...
+   An all-hazards severe threat, including some conditional
+   strong-tornado potential, is still evident from parts of MO into the
+   Ohio Valley later today, though uncertainty remains regarding the
+   magnitude and most favored corridor of the greatest threat. No
+   upgrade was made with this outlook, though greater tornado and/or
+   wind probabilities may eventually be needed, depending on how the
+   uncertainties are resolved. 
 
-   ...Ozarks into the Lower Ohio River Valley...
-   An expansive MCS will likely be present across eastern Kansas and
-   into Missouri on Sunday morning. This MCS will continue east through
-   the day and eventually into the Ohio Valley by the afternoon. An
-   outflow boundary will likely be left in the wake of this MCS across
-   Missouri and southern Illinois during the afternoon. The degree of
-   airmass recovery within this region remains uncertain. Some guidance
-   shows a secondary MCS moving into northeast Oklahoma and northern
-   Arkansas, which may have implications on the upstream EML and the
-   potential for clearing/recovery in the wake of the morning MCS.
-   However, other guidance shows an EML advecting into the region and
-   aiding in recovery during the afternoon/evening. A localized
-   corridor with greater tornado threat likely exists along this
-   boundary from eastern Missouri into southern Illinois and perhaps
-   southwest Indiana, but too much uncertainty from prior storms
-   precludes any higher tornado probabilities at this time. 
+   Guidance generally suggests that an MCV currently evolving across KS
+   will move across central/northern MO through the morning, before
+   moving into parts of the Midwest and Ohio Valley through the
+   afternoon. In association with the MCV, a surface low may deepen
+   along a front and move across parts of central MO/IL. Guidance
+   varies regarding the strength of the surface low, enhancement to
+   low-level shear/SRH, and magnitude of destabilization in advance of
+   the MCV. However, in general, rich moisture and enlarged low-level
+   hodographs will support development of a storm cluster with embedded
+   supercells and/or mesovortices, if sufficient diurnal
+   destabilization occurs. Tornadoes and damaging winds could accompany
+   any organized cells/clusters. Strong-tornado potential could evolve
+   if any supercells can be sustained within this regime. 
 
-   ...Central High Plains Vicinity...
-   Storms are forecast to develop within the upslope flow across
-   western Kansas by mid-afternoon. Easterly surface flow, combined
-   with strengthening flow aloft (in excess of 50 knots above 400mb) 
-   will support supercell structures and the potential for large to
-   very large hail. Storm motions will be relatively slow and thus, the
-   storms likely won't make it that far east due to increasing
-   inhibition with eastward extent. However, some guidance, most
-   notably the 00Z HRW-NSSL WRF show some elevated supercells farther
-   north into Nebraska toward the end of the period. If this persists
-   in later guidance, an eventual eastward expansion of the Slight Risk
-   may be needed. 
+   In the wake of the MCV, relatively strong heating will support at
+   least moderate destabilization along the trailing front across parts
+   of central/southern MO. While some weakening/veering of low-level
+   flow is expected after the passage of the MCV, deep-layer shear will
+   remain sufficient for organized development along the boundary,
+   which could pose an all-hazards severe threat from late afternoon
+   into the evening from south-central MO into the lower OH Valley. 
 
-   ...Southern Kansas and Northern Oklahoma...
-   Storms will continue to build westward during the day into eastern
-   and perhaps central Kansas, and will congeal and shift southward
-   through the evening. Overnight, as the low-level jet strengthens,
-   expect storms to develop in an area with moderate to strong
-   instability. These storms may pose some initial hail threat before
-   growing upscale into an MCS with a wind threat across southern
-   Kansas and northern Oklahoma during the overnight hours.
+   ...Central High Plains into the Ozarks...
+   A mid/upper-level shortwave trough initially over WY will move
+   toward KS/NE later today. A 35-50 kt midlevel jet maximum attendant
+   to this shortwave will impinge upon parts of the central and
+   southern High Plains. An outflow-influenced front will likely extend
+   across parts of southern KS, with moist easterly flow expected north
+   of this boundary by late afternoon, while strong heating will occur
+   south of the boundary. Scattered afternoon storm development is
+   expected within the post-frontal regime from southeast WY/northeast
+   CO into western NE/KS. Moderate buoyancy and favorable deep-layer
+   shear will support supercell development, with a threat of large to
+   very large hail, localized severe gusts, and possibly a tornado. 
 
-   ..Bentley.. 06/20/2026
+   Widely scattered afternoon storm development will also be possible
+   in the vicinity of the surface front, from northwest OK into
+   southeast KS/southwest MO. Moderate to strong buoyancy and
+   sufficient deep-layer shear will support supercell development with
+   initial storms along the front, with some clustering possible later
+   in the convective evolution. Large to very large hail, damaging
+   winds, and some tornado potential could accompany the strongest
+   afternoon/evening storms. 
+
+   Late tonight into early Monday morning, guidance generally suggests
+   development of one or more upscale growing clusters, evolving from
+   either diurnal convection, or nocturnal elevated redevelopment.
+   Swaths of strong to severe gusts could accompany any upscale growth,
+   though guidance varies considerably regarding the most favorable
+   corridors late in the forecast period.
+
+   ..Dean/Squitieri.. 06/21/2026
