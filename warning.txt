@@ -1,5 +1,76 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Shreveport LA
+546 AM CDT Mon Jun 22 2026
+
+The National Weather Service in Shreveport has issued a
+
+* Severe Thunderstorm Warning for...
+  Northern Hempstead County in southwestern Arkansas...
+  Howard County in southwestern Arkansas...
+  Little River County in southwestern Arkansas...
+  Sevier County in southwestern Arkansas...
+  McCurtain County in southeastern Oklahoma...
+  Northern Bowie County in northeastern Texas...
+  Northern Franklin County in northeastern Texas...
+  Red River County in northeastern Texas...
+  Northern Titus County in northeastern Texas...
+
+* Until 645 AM CDT.
+
+* At 546 AM CDT, severe thunderstorms were located along a line from
+  10 miles northeast of Athens to 21 miles west of Manchester, or
+  along a line from 12 miles northeast of Umpire to 30 miles
+  northwest of Clarksville, moving southeast at 45 mph. A 49 mph wind
+  gust was just recorded from the Hugo Mesonet station in Central
+  Choctaw County Oklahoma. Locally higher wind gusts are possible.
+
+  HAZARD...60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  De Queen, Ashdown, Nashville, New Boston, Clarksville, Mineral
+  Springs, Dierks, Horatio, Foreman, Boxelder, Umpire, Hagansport,
+  Idabel, Broken Bow, De Kalb, Bogata, Lockesburg, Wilton, Blevins
+  and Tollette.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Seek shelter inside a well-built structure and stay away from
+windows. These storms are capable of producing damaging winds.
+
+Continuous cloud to ground lightning is occurring with these storms.
+Lightning is one of nature's leading killers. Remember, if you can
+hear thunder, you are close enough to be struck by lightning.
+
+Torrential rainfall is also occurring with these storms and may lead
+to flash flooding. Do not drive your vehicle through flooded
+roadways.
+
+&&
+
+LAT...LON 3388 9531 3391 9527 3389 9526 3396 9523
+      3394 9516 3421 9515 3442 9446 3419 9447
+      3419 9424 3435 9425 3435 9394 3419 9393
+      3418 9382 3401 9382 3394 9353 3396 9346
+      3362 9387 3320 9531
+TIME...MOT...LOC 1045Z 318DEG 36KT 3442 9394 3411 9446 3382 9553
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...0.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+
+15
+
+
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Little Rock AR
 543 AM CDT Mon Jun 22 2026
 
