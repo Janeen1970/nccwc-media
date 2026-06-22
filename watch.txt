@@ -1,66 +1,57 @@
-   Day 1 Convective Outlook  
+   Day 2 Convective Outlook  
    NWS Storm Prediction Center Norman OK
    1258 AM CDT Mon Jun 22 2026
 
-   Valid 221200Z - 231200Z
+   Valid 231200Z - 241200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
-   SOUTHEAST INTO THE MID ATLANTIC...THE CENTRAL AND NORTHERN HIGH
-   PLAINS...AND ARKLATEX...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
+   EASTERN COLORADO INTO WESTERN KANSAS AND NORTHERN OKLAHOMA....
 
    ...SUMMARY...
-   Scattered severe storms appear possible across portions of the
-   Mid-Atlantic into the Southeast, mainly this afternoon and evening.
-   Widely scattered severe storms are expected across the northern and
-   central High Plains, with more isolated severe weather possible from
-   the southern Plains into the lower Mississippi Valley.
+   Scattered severe storms are expected across the central High Plains
+   on Tuesday with isolated severe storms possible into the Upper
+   Mississippi Valley. Large to very large hail and damaging wind gusts
+   will be the primary threats.
 
-   ...Mid Atlantic into the Mid-South...
-   A midlevel shortwave trough, including the remnant of a prominent
-   MCV, is forecast to move from parts of the Upper OH Valley toward
-   the Northeast and Mid Atlantic later today. While most guidance
-   suggests some dampening of this shortwave trough with time, some
-   flow enhancement will persist within the 850-500 mb layer in the
-   wake of this shortwave across parts of the Mid Atlantic and
-   central/southern Appalachians. Scattered storm development is
-   expected by early/mid afternoon within a moist and moderately
-   unstable environment. Initial development is expected to evolve into
-   forward propagating storm clusters with a threat of damaging winds
-   through the afternoon into the early evening. As convection
-   intercepts a northward-moving warm front across the Mid Atlantic,
-   locally backed flow may support development of at least transient
-   supercells, with some tornado potential. 
+   ...Synopsis...
+   An upper low initially over southern Canada will shift into the
+   northern Plains with a belt of 40-50+ kt mid-level flow forecast
+   across the northern and central Plains into the upper Midwest. In
+   the low levels, an area of low pressure is forecast to develop from
+   the northern Plains into upper MS Valley with a trailing boundary
+   extending southwest into the central High Plains. Elsewhere, a cold
+   front will move off the Mid-Atlantic Coast with the trailing
+   extension of the boundary moving into the Southeast.
 
-   Farther southwest, an MCV is expected to emerge from a morning MCS
-   over the southern Plains and move eastward toward the Mid-South
-   region through the afternoon. As this MCV moves through a very
-   warm/moist and moderately buoyant environment, storm development is
-   expected both along the MCV track, and also in the wake of the MCV
-   along a trailing cold front. Damaging winds will be possible with
-   the strongest cells/clusters. Guidance varies somewhat regarding the
-   strength of low-level shear/SRH enhancement associated with the MCV,
-   but some tornado potential could also evolve through the afternoon
-   into early evening. 
+   ...Central High Plains into the Central/Southern Plains...
+   As mid-level flow strengthens across the Rockies, a lee cyclone will
+   develop across eastern Colorado and result in strengthening upslope
+   flow. Moderate to strong instability is expected within this zone.
+   This instability, combined with nearly 50 knots of mid-level flow,
+   will result in a supercell environment. Large to very large hail
+   will be the primary threat from this activity. Eventual upscale
+   growth into a cluster is expected, and a potential bowing MCS across
+   western Kansas and potentially northern Oklahoma should result in an
+   increasing severe wind threat during the evening and into the early
+   overnight hours.
 
-   ...Central/northern High Plains...
-   Scattered storm development is expected this afternoon and evening
-   across parts of the central and northern High Plains, within a
-   relatively moist and moderately unstable environment. Steep midlevel
-   lapse rates and sufficient deep-layer shear will support potential
-   for supercells with large to very large hail, localized severe
-   gusts, and possibly a tornado or two. Modest upscale growth cannot
-   be ruled out during the evening, though most guidance does not
-   depict organized MCS development at this time. 
+   ...Portions of the northern Plains into the Upper Midwest...
+   Some elevated storms may be ongoing at the beginning of the period
+   from northern Nebraska into southeast South Dakota on the nose of a
+   modest low-level jet. These storms could pose some large hail
+   threat. Additional storms may develop along the front during the
+   afternoon. Strong mid-level flow will result in adequate shear for
+   storm organization, but instability may be the primary limiting
+   factor. Extensive cloud cover may limit heating, but at least some
+   pockets of greater destabilization are possible. Within these areas,
+   a threat for isolated large hail may exist. 
 
-   ...Southern Plains/ArkLaTex region...
-   The remnant of a vigorous MCS will likely be ongoing at the start of
-   the period from north TX into the ArkLaTex region. Some severe
-   threat could accompany this system at the beginning of the period,
-   though a general weakening trend is expected through the morning.
-   Isolated redevelopment will be possible along the remnant outflow
-   into early evening, with an increase in storm coverage expected late
-   tonight. Localized wind damage could accompany any of this
-   redevelopment, though generally modest deep-layer shear will tend to
-   limit a more organized severe threat.
+   ...Southeast...
+   A few strong storms capable of gusty winds appear possible Tuesday
+   afternoon along and ahead of the synoptic front from the Gulf Coast
+   to the eastern Carolinas. Poor lapse rates will be the primary
+   limiting factor for damaging wind gusts. However, as the event gets
+   closer and details regarding instability and frontal position become
+   more clear, wind probabilities may be warranted.
 
-   ..Dean/Squitieri.. 06/22/2026
+   ..Bentley.. 06/22/2026
