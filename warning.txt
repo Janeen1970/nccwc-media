@@ -1,5 +1,63 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+546 AM CDT Mon Jun 22 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Southern Franklin County in west central Arkansas...
+  East central Sebastian County in west central Arkansas...
+
+* Until 630 AM CDT.
+
+* At 546 AM CDT, a severe thunderstorm was located over Fort Chaffee,
+  moving northeast at 30 mph.
+
+  HAZARD...60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Charleston...                     Greenwood...
+  Altus...                          Branch...
+  Denning...                        Wiederkehr Village...
+  Bloomer...                        Washburn...
+  Fort Chaffee...                   Etna...
+  Alix...                           Meg...
+  Milltown...                       Peter Pender...
+
+This includes Interstate 40 in Arkansas near mile marker 42.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Remain alert for a possible tornado! Tornadoes can develop quickly
+from severe thunderstorms. If you spot a tornado go at once into the
+basement or small central room in a sturdy structure.
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3538 9371 3537 9375 3540 9379 3542 9380
+      3531 9381 3532 9392 3523 9392 3523 9403
+      3514 9403 3514 9414 3526 9422 3551 9371
+TIME...MOT...LOC 1046Z 241DEG 26KT 3520 9408 
+
+TORNADO...POSSIBLE
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...<.75 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+
+
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Shreveport LA
 546 AM CDT Mon Jun 22 2026
 
