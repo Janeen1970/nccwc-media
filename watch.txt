@@ -1,57 +1,104 @@
-   Day 2 Convective Outlook  
+  Day 1 Convective Outlook CORR 1
    NWS Storm Prediction Center Norman OK
-   1258 AM CDT Mon Jun 22 2026
+   0356 AM CDT Tue Jun 23 2026
 
    Valid 231200Z - 241200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
-   EASTERN COLORADO INTO WESTERN KANSAS AND NORTHERN OKLAHOMA....
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS OVER PARTS OF
+   THE CENTRAL HIGH PLAINS...
+
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
+   THE MID ATLANTIC...
+
+   CORRECTED FOR TEXT
 
    ...SUMMARY...
-   Scattered severe storms are expected across the central High Plains
-   on Tuesday with isolated severe storms possible into the Upper
-   Mississippi Valley. Large to very large hail and damaging wind gusts
-   will be the primary threats.
+   Severe storms capable of 2+ inch diameter hail, 75+ mph gusts, and
+   isolated tornadoes are expected from the central High Plains into
+   parts of the central and southern Plains today into tonight.
+   Damaging gusts and perhaps a brief tornado may occur with storms
+   along the Mid-Atlantic. Scattered storms capable of isolated severe
+   wind/hail are possible across the northern Plains into the upper
+   Mississippi Valley.
 
    ...Synopsis...
-   An upper low initially over southern Canada will shift into the
-   northern Plains with a belt of 40-50+ kt mid-level flow forecast
-   across the northern and central Plains into the upper Midwest. In
-   the low levels, an area of low pressure is forecast to develop from
-   the northern Plains into upper MS Valley with a trailing boundary
-   extending southwest into the central High Plains. Elsewhere, a cold
-   front will move off the Mid-Atlantic Coast with the trailing
-   extension of the boundary moving into the Southeast.
+   A mid-level trough will impinge on the Eastern Seaboard while upper
+   ridging builds over the western into central CONUS today. Multiple
+   mid-level impulses are poised to traverse the upper ridge,
+   supporting at least scattered thunderstorm development in multiple
+   rounds across the Plains. These rounds of storms will encompass the
+   entire period (12Z Tuesday morning through 12Z Wednesday morning),
+   resulting in a complex forecast. Nonetheless, stronger flow aloft
+   associated with the ridge will advect an EML atop seasonal low-level
+   moisture, resulting in enough buoyancy and vertical wind shear to
+   support an appreciable severe threat, especially over the central
+   High Plains. Otherwise, a cold front approaching the East Coast will
+   support a line of severe thunderstorms over the Mid-Atlantic.
 
-   ...Central High Plains into the Central/Southern Plains...
-   As mid-level flow strengthens across the Rockies, a lee cyclone will
-   develop across eastern Colorado and result in strengthening upslope
-   flow. Moderate to strong instability is expected within this zone.
-   This instability, combined with nearly 50 knots of mid-level flow,
-   will result in a supercell environment. Large to very large hail
-   will be the primary threat from this activity. Eventual upscale
-   growth into a cluster is expected, and a potential bowing MCS across
-   western Kansas and potentially northern Oklahoma should result in an
-   increasing severe wind threat during the evening and into the early
-   overnight hours.
+   ...Portions of the central High Plains...
+   By afternoon peak heating, upslope flow beneath a glancing mid-level
+   impulse will support the initiation of at least isolated storms.
+   These storms will develop atop a relatively mixed boundary layer and
+   surface dewpoints approaching 60 F, overspread by 9 C/km mid-level
+   lapse rates, resulting in moderate to locally strong buoyancy (i.e.
+   3000+ J/kg MLCAPE). Strong vertical wind shear will also be in
+   place, with 50 kts of effective bulk shear driven by elongated
+   hodographs with modest low-level curvature. Supercells will be the
+   primary storm mode, accompanied by a threat for all hazards. Given
+   the potential for a mixed boundary layer, intense gusts well
+   exceeding 75 mph will be possible, in addition to hailstones
+   potentially reaching the 2-3.5 inch range. Any supercells that can
+   ingest terrain-induced low-level vertical vorticity may be
+   accompanied by a landspout/hybrid tornado threat.
 
-   ...Portions of the northern Plains into the Upper Midwest...
-   Some elevated storms may be ongoing at the beginning of the period
-   from northern Nebraska into southeast South Dakota on the nose of a
-   modest low-level jet. These storms could pose some large hail
-   threat. Additional storms may develop along the front during the
-   afternoon. Strong mid-level flow will result in adequate shear for
-   storm organization, but instability may be the primary limiting
-   factor. Extensive cloud cover may limit heating, but at least some
-   pockets of greater destabilization are possible. Within these areas,
-   a threat for isolated large hail may exist. 
+   ...Portions of the central and southern Plains...
+   A surface boundary currently resides along the Red River, with
+   thunderstorms developing all along this boundary from the TX
+   Panhandle to central MS. At the start of the forecast period (12Z
+   Tuesday), an established low-level jet will be in the process of
+   transporting a moist low-level airmass northward, perhaps
+   encouraging northward movement of the surface boundary as well.
+   However, an MCS may develop somewhere along the KS/OK border at the
+   start of the period along an elevated boundary, which will drift
+   southeastward through the late morning/early afternoon hours. The
+   evolution of this MCS and interacting convection with the
+   aforementioned surface boundary introduces considerable uncertainty
+   to the forecast, especially for late afternoon/early evening storms.
 
-   ...Southeast...
-   A few strong storms capable of gusty winds appear possible Tuesday
-   afternoon along and ahead of the synoptic front from the Gulf Coast
-   to the eastern Carolinas. Poor lapse rates will be the primary
-   limiting factor for damaging wind gusts. However, as the event gets
-   closer and details regarding instability and frontal position become
-   more clear, wind probabilities may be warranted.
+   If the MCS and merging surface boundary convection linger over the
+   southern Plains through the day, later severe potential may be
+   reduced. However, if convection can exit the Plains or somehow
+   dissipate by late morning/early afternoon, enough destabilization
+   may take place for an evening severe threat. Should the later
+   scenario unfold, convective initiation over the southern High Plains
+   may result in severe hail/wind producing supercells merging into a
+   cold-pool driven MCS, which in turn may produce a severe wind swath
+   with 75+ mph gusts. Given so much uncertainty with the details of
+   this forecast, a broad area of 15 percent/CIG1 probabilities were
+   introduced for portions of the central and southern Plains.
+   Considerable adjustments to this forecast (upgrades or probabilities
+   removal) may be needed depending on convective and subsequent
+   modified environmental evolution through the first half of the
+   period. 
 
-   ..Bentley.. 06/22/2026
+   ...Parts of the Northern Plains...
+   Cold temperatures aloft and 8+ C/km mid-level lapse rates will
+   accompany the passage of an upper low over parts of the northern
+   Plains into the Upper MS Valley. By afternoon peak heating,
+   thunderstorms initiating along the periphery of the upper low, amid
+   a belt of stronger flow aloft (driving elongated hodographs) will
+   support multicells and perhaps transient supercells capable of
+   isolated severe wind and hail.
+
+   ...Mid-Atlantic...
+   By late morning into early afternoon, surface temperatures warming
+   into the 80s F amid 70+ F dewpoints will yield over 2000 J/kg
+   MLCAPE, but distributed through tall/thin profiles given poor (5-6 
+   C/km) mid-level lapse rates. Nearly unidirectional tropospheric wind
+   profiles will yield nearly 40 kts of effective (speed) shear, which
+   will favor multicellular development and ultimately a squall line
+   along/ahead of the cold front. Damaging gusts are expected to be the
+   main threat, though a brief tornado may also occur wherever locally
+   backed near-surface winds may be realized.
+
+   ..Squitieri/Halbert.. 06/23/2026
