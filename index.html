@@ -76,6 +76,7 @@ body{
 .radar{top:204px;background:#111827;color:#c084fc;}
 .hackett{top:240px;background:#111827;color:#22c55e;}
 .world{top:276px;background:#111827;color:#44ccff;}
+.marine{top:312px;background:#001a1a;color:#7dd3fc;}
 
 /* ===== RADIO ===== */
 .wrap{max-width:1100px;margin:auto;padding:20px;}
@@ -141,7 +142,7 @@ aside.card{width:35%;}
 
 <!-- HACKETT -->
 <div class="ticker hackett">
-  <div class="label">HACKETT</div>
+  <div class="label">MARINE</div>
   <div class="scroll">
     <div id="hackett-text" class="mover"></div>
   </div>
@@ -152,6 +153,14 @@ aside.card{width:35%;}
   <div class="label">WORLD</div>
   <div class="scroll">
     <div id="world-text" class="mover"></div>
+  </div>
+</div>
+
+<!-- MARINE -->
+<div class="ticker marine">
+  <div class="label">MARINE</div>
+  <div class="scroll">
+    <div id="marine-text" class="mover"></div>
   </div>
 </div>
 
@@ -234,6 +243,7 @@ function loadTicker(file,id,fallback){
       else if(id === "live-bar-text") el.style.setProperty("--speed","120s");
       else if(id === "hackett-text") el.style.setProperty("--speed","120s");
       else if(id === "world-text") el.style.setProperty("--speed","120s");
+      else if(id === "marine-text") el.style.setProperty("--speed","120s");
     })
     .catch(()=>{
       document.getElementById(id).textContent = fallback;
@@ -249,6 +259,7 @@ function loadAllTickers(){
   loadTicker("radar.txt","radar-text","Radar quiet.");
   loadTicker("hackett.txt","hackett-text","No Hackett data.");
   loadTicker("world.txt","world-text","No World data.");
+  loadTicker("marine.txt","marine-text","No marine data.");
 }
 
 loadAllTickers();
