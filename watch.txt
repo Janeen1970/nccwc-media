@@ -1,103 +1,102 @@
- Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1149 AM CDT Wed Jun 24 2026
+   0100 AM CDT Thu Jun 25 2026
 
-   Valid 241630Z - 251200Z
+   Valid 251200Z - 261200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE
-   CENTRAL HIGH PLAINS...
-
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE GREAT BASIN...HIGH PLAINS AND MIDWEST...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
+   INTO TONIGHT ACROSS PARTS OF THE SOUTHERN AND CENTRAL GREAT
+   PLAINS...
 
    ...SUMMARY...
-   Widely scattered but intense severe thunderstorms are expected this
-   afternoon and evening across parts of the central High Plains, with
-   a threat for large to very large hail, severe wind gusts, and
-   perhaps a couple of tornadoes. Other severe thunderstorms are
-   expected across parts of the Midwest and Great Basin.
+   One or two organizing clusters of storms, with potential to produce
+   strong to severe wind gusts, are possible across parts of the Texas
+   South Plains through central Great Plains late this afternoon into
+   tonight.  Isolated strong storm development preceding this activity
+   across parts of north central Oklahoma into south central Kansas may
+   pose a risk for a couple of tornadoes by early this evening.
 
-   ...Central/Southern High Plains...
-   Post-frontal low-level moisture will remain over the central High
-   Plains today via low-level upslope flow, which should be most
-   focused/strongest across southeast Wyoming/northeast Colorado, and
-   to a lesser extent, the Raton Mesa vicinity. As daytime heating
-   occurs and low-level clouds present this morning gradually erode,
-   2000-3000 J/kg of MLCAPE should develop by mid to late afternoon in
-   a narrow corridor across northeast Colorado into southeast Wyoming.
-   This instability will also be aided by the presence of steep
-   mid-level lapse rates.
+   ...Discussion...
+   The westerlies are undergoing amplification across the mid-latitude
+   Pacific.  Later today into tonight, models indicate that this will
+   include digging large-scale mid-level troughing on its leading edge,
+   across and inland of the Pacific Northwest coast.  Downstream, it
+   appears that generally zonal flow will prevail across the northern
+   and central tier of the U.S., to the north of ridging in the
+   subtropical latitudes.  Within this regime, mid-level troughing,
+   accompanied by an area of modest height falls within otherwise
+   rising heights, is forecast to turn eastward across the lower Great
+   Lakes vicinity.  Upstream, initially stronger mid-level height falls
+   accompanying a short wave perturbation, and perhaps a notable
+   embedded mesoscale convective vortex, may be in the process of
+   overspreading the central Great Plains at the outset of the period,
+   before continuing toward the lower Missouri Valley, amidst weak to
+   modest larger-scale height rises late this afternoon through
+   tonight.
 
-   Thunderstorms should develop this afternoon across much the region
-   as strong mid-level west-northwesterly flow associated with a
-   shortwave trough over the northern Plains overspreads the central
-   Rockies/High Plains. Accordingly, the highest convective coverage is
-   anticipated from east-central/southeast Wyoming into
-   northeast/east-central CO, where buoyancy should be maximized.
-   Deep-layer shear will be rather strong, with values up to 50-60 kt.
-   These conditions will support the potential for intense supercells
-   capable of large to very large hail (isolated 2-4 inches in diameter
-   possible). Notable low-level curvature of the hodograph could
-   support a couple of tornadoes in this region as well. Eventual
-   upscale growth into a southeastward-moving MCS capable of producing
-   severe winds is probable into eastern Colorado/western Kansas this
-   evening, with some 75+ mph gusts possible.
+   In lower levels, a broad weak surface low is forecast to migrate
+   across the lower Great Lakes, with a an ill-defined trailing influx
+   of cooler/drier air advancing a bit farther southward through the
+   central Great Plains, and southeast of the Upper Midwest through the
+   Great Lakes and adjacent portions of the Ohio Valley.  It appears
+   that surface troughing will deepen through the day to the lee of the
+   southern Rockies, as strong heating occurs beneath a remnant plume
+   of very warm elevated mixed-layer air across the southern Great
+   Plains.  Near the northern/northeastern periphery of this air mass,
+   a zone of strong differential heating may develop by late afternoon,
+   northeast of the Raton ridge into northern Oklahoma.  This boundary
+   might be augmented by outflow from a cluster of storms now evolving
+   across northeastern Colorado into western Kansas.  It appears that
+   this boundary may retreat northward into portions of southern Kansas
+   and Missouri tonight.
 
-   Lower thunderstorm coverage is anticipated farther south into the
-   southern High Plains, with warmer temperatures and higher cloud
-   bases suggesting a predominantly outflow-dominant mode. Strong to
-   severe gusts will be the primary risk, although isolated hail may
-   also occur.
+   ...Parts of southern/central Great Plains...
+   The potential convective evolution for today remains unclear, and
+   severe weather potential will considerably be impacted by
+   sub-synoptic developments, which remain unclear.  This includes the
+   subsequent evolution of the cluster of storms now propagating into
+   northwestern Kansas, and another forming across the Texas Panhandle
+   vicinity.  However, guidance generally suggests that low-level
+   convergence and destabilization within the lee surface trough across
+   the Panhandle vicinity into Texas South Plains may provide support
+   for widespread thunderstorm development by early this evening.  And
+   the boundary across the central Great Plans, reinforced by early day
+   outflow and subsequent differential heating, may eventually become a
+   focus for increasing thunderstorm development this evening into the
+   overnight hours.
 
-   ...Midwest including portions of Wisconsin/northern Illinois...
-   A belt of 40-50 kt westerly mid-level flow will overspread Wisconsin
-   and northern Illinois today as a weak shortwave trough moves across
-   the Upper Midwest and Great Lakes through the period. Seasonably
-   cool temperatures aloft will aid up to around 1000-1500 J/kg of
-   MLCAPE through peak afternoon heating along/ahead of a weak cold
-   front. Current expectations are for scattered to numerous
-   thunderstorms to develop this afternoon with moderate to locally
-   strong deep-layer shear providing support for updraft organization.
-   A mix of multicells and supercells should pose a threat for severe
-   hail and damaging winds, and possibly some tornado risk, as they
-   spread east-southeastward through the afternoon and evening before
-   eventually weakening.
+   A deeply mixed boundary layer across the Panhandle/South Plains
+   vicinity may become unstable enough to support the risk for large
+   hail, in addition to damaging wind gusts late this afternoon into
+   evening.
 
-   ...Great Basin/Four Corners...
-   Current surface observations indicate rather dry conditions across
-   the Great Basin/Four Corners regions this morning. Still, greater
-   low/mid-level moisture is forecast to advect northeastward through
-   the day as a weak mid-level shortwave trough advances
-   east-northeastward from the lower Colorado River Valley across the
-   Great Basin. The boundary layer is expected to become very well
-   mixed with strong daytime heating that will occur this afternoon,
-   with weak instability present. Modestly enhanced mid-level flow will
-   aid in northeastward thunderstorm motions, and some potential exists
-   for strong/gusty outflow winds across a large area this afternoon
-   and early evening.
+   Low-level convergence/warm advection along the zone of differential
+   surface heating might promote at least isolated supercell
+   development somewhere across north central Oklahoma into south
+   central Kansas, where a convectively augmented belt of westerly
+   mid-level flow may contribute to strong shear.  If this occurs, this
+   may be accompanied by a period of increasing potential for a tornado
+   or two by early evening, near the nose of a strengthening southerly
+   850 mb jet, before evolving into an upscale growing cluster with
+   strong surface gusts becoming the primary potential hazard
+   overnight.  
 
-   ...Southern Plains into the Lower Mississippi Valley...
-   Thunderstorms should increase/re-intensify regionally this
-   afternoon, aided by multiple MCVs interacting with a convectively
-   augmented front that extends northwest-southeastward regionally.
-   Deep-layer flow and related shear should remain rather modest.
-   Isolated hail and damaging winds may occur with the strongest cores
-   that form, but the potential for more organized clusters is
-   uncertain. Influenced by prior/modifying outflow, at least a
-   conditional-type risk for supercell redevelopment later today is
-   most probable across portions of southern/eastern Oklahoma toward
-   the ArkLaTex.
+   ...Lower Great Lakes...
+   Convection allowing model output is still not providing a clear
+   signal for more than rather isolated pre-frontal strong to severe
+   thunderstorm development.  However, strengthening westerly flow in
+   the 700-500 mb layer could become sufficient to support organized
+   convective development, including supercells, with sufficient
+   destabilization.  Depending on model trends, it is still possible
+   that probabilities could be increased in later outlooks for this
+   period.
 
-   ...Florida...
-   After mostly clear skies this morning, cumulus field continues to
-   increase within a very moist air mass to the south of a front across
-   the northern Florida Peninsula, with low to mid 70s F warm-sector
-   surface dewpoints. While low/mid-level winds will remain weak today,
-   cool mid-level temperatures and ample daytime heating will support
-   the development of moderate to locally strong instability this
-   afternoon. Scattered to numerous pulse-type thunderstorms are
-   expected to develop across the interior Florida Peninsula and
-   Atlantic Coast sea breeze, with occasional damaging winds possible
-   given steepened low-level lapse rates.
+   ...Parts of central and southern Wyoming...
+   Latest convection allowing guidance suggests that thermodynamic
+   profiles by this afternoon could become conducive to the evolution
+   of an organizing cluster of storms with potential to produce strong
+   to severe surface gusts, aided by forcing for ascent associated with
+   a short wave perturbation emerging from the northern intermountain
+   region.
 
-   ..Guyer/Moore.. 06/24/2026
+   ..Kerr/Chalmers.. 06/25/2026
