@@ -1,34 +1,82 @@
-URGENT - IMMEDIATE BROADCAST REQUESTED
-   Tornado Watch Number 392
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   300 PM CDT Thu Jun 25 2026
+   1245 AM CDT Fri Jun 26 2026
 
-   The NWS Storm Prediction Center has issued a
+   Valid 261200Z - 271200Z
 
-   * Tornado Watch for portions of 
-     Southern Kansas
-     Northern Oklahoma
-     Northeast Texas Panhandle
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
+   EVENING ACROSS PARTS OF THE OZARKS PLATEAU INTO LOWER OHIO VALLEY
+   AND ACROSS PARTS OF THE NORTHERN ROCKIES INTO ADJACENT GREAT
+   PLAINS...
 
-   * Effective this Thursday afternoon and evening from 300 PM until
-     1000 PM CDT.
+   ...SUMMARY...
+   Scattered severe thunderstorm development is possible today,
+   particularly this afternoon into tonight across parts of the Ozark
+   Plateau into lower Ohio Valley and across parts of the northern
+   Rockies into adjacent Great Plains.
 
-   * Primary threats include...
-     A few tornadoes and a couple intense tornadoes possible
-     Scattered large hail likely with isolated very large hail events
-       to 2.5 inches in diameter possible
-     Scattered damaging winds and isolated significant gusts to 80
-       mph possible
+   ...Discussion...
+   Models indicate that amplification of mid/upper flow across the
+   eastern mid-latitude Pacific into western North America will
+   continue through this period, with large-scale troughing and an
+   embedded cyclonic circulation digging inland across the Pacific
+   Northwest through Great Basin and northern Rockies, downstream of
+   building ridging.  As this occurs, ridging is likely to build across
+   the northern Great Plains through upper Mississippi Valley, but
+   broadly confluent, zonal flow is forecast to persist east of the
+   mid/upper Mississippi Valley, in the wake of a mid-level trough
+   accelerating east of the lower Great Lakes through New England and
+   the Canadian Maritimes.  On the southern periphery of this regime, a
+   number of convectively generated perturbations may progress across
+   the Ozarks Plateau and lower Ohio Valley through Mid Atlantic today
+   through tonight.
 
-   SUMMARY...Initially, a cluster of storms will pose a severe threat
-   through mid/late afternoon across northeast Oklahoma, with
-   additional peripheral storm development possible. Meanwhile, an
-   outflow boundary will continue to stall and modify, with potential
-   severe-storm/supercell development across southwest Kansas and the
-   eastern Texas/Oklahoma Panhandles into northwest Oklahoma through
-   this evening, where all severe hazards are possible including
-   tornadoes.
+   In lower levels, a weak surface low is forecast to migrate
+   east-northeast of the lower Great Lakes into northern New England,
+   before weakening.  This may be accompanied by a reinforcing influx
+   of somewhat cooler and drier area, in the wake of an
+   ill-defined/diffuse preceding front overspreading the northern Mid
+   Atlantic.  To the west of the Appalachians, this boundary may become
+   augmented in locations by convective outflow and developing areas of
+   strengthening differential surface heating during the day.  Across
+   the high plains, fairly significant surface cyclogenesis centered
+   across southeastern Montana is probable by 12Z Saturday, with
+   deepening surface troughing southward to the lee of the Rockies.
 
-   The tornado watch area is approximately along and 55 statute miles
-   north and south of a line from 35 miles northwest of Liberal KS to
-   10 miles south southeast of Grove OK... Extended until 1:00 A.M.
+   As a notable plume of very warm elevated mixed-layer air spreads
+   east of the higher terrain, through much of the Great Plains,
+   initiation of stronger thunderstorm development may largely be
+   confined to the higher terrain, before propagating into the
+   deepening surface troughing across the adjacent plains.  Otherwise,
+   to the east of the Great Plains, forcing for ascent and
+   destabilization along the weak front, and within low-level warm
+   advection to the east-southeast of the weak low, may provide support
+   for at least widely scattered strong to severe storm development.
+
+   ...Ozark Plateau into lower Ohio Valley...
+   Higher coverage of potential strong to severe thunderstorm
+   development may generally focus across this region, aided by at
+   least a couple of convectively generated perturbations.  There is
+   spread among the various model output, but it still appears that
+   this could include a fairly notable MCV migrating into the lower
+   Ohio Valley by around 19-21Z, along a better-defined segment of the
+   low-level baroclinic zone.  With surface dew points forecast near
+   70F, and a convectively augmented belt of flow on the order of 30-50
+   kt in the 850-500 mb layer contributing to sufficient shear for
+   supercell structures, a couple of tornadoes appear possible in a
+   corridor roughly centered along the Ohio River.  Otherwise, several
+   clusters of thunderstorms may evolve this afternoon and evening,
+   possibly accompanied by developing corridors of strong to severe
+   wind gusts.
+
+   ...Northern Rockies into adjacent Great Plains...
+   Given a corridor of at least weak to moderate boundary-layer
+   destabilization near and to the lee of the higher terrain, forcing
+   for ascent and strengthening vertical shear downstream of the
+   digging large-scale troughing probably will become supportive of a
+   period of organized severe thunderstorm development late this
+   afternoon through evening.  This may include supercells and
+   organizing clusters posing a risk for severe hail and wind, and at
+   least some potential for a tornado or two.
+
+   ..Kerr/Chalmers.. 06/26/2026
