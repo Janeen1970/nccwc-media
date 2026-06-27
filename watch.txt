@@ -1,82 +1,75 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1245 AM CDT Fri Jun 26 2026
+   0700 AM CDT Sat Jun 27 2026
 
-   Valid 261200Z - 271200Z
+   Valid 271300Z - 281200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
-   EVENING ACROSS PARTS OF THE OZARKS PLATEAU INTO LOWER OHIO VALLEY
-   AND ACROSS PARTS OF THE NORTHERN ROCKIES INTO ADJACENT GREAT
-   PLAINS...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS LATE THIS
+   AFTERNOON INTO EARLY TONIGHT ACROSS EASTERN MT AND WESTERN ND...
+
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS INTO WESTERN SOUTH
+   DAKOTA AND NEBRASKA...AND ACROSS NORTH CAROLINA...
 
    ...SUMMARY...
-   Scattered severe thunderstorm development is possible today,
-   particularly this afternoon into tonight across parts of the Ozark
-   Plateau into lower Ohio Valley and across parts of the northern
-   Rockies into adjacent Great Plains.
+   A mix of initial supercells and later storm clusters will produce
+   swaths of severe outflow winds and very large hail across the
+   northern High Plains late this afternoon into early tonight.
 
-   ...Discussion...
-   Models indicate that amplification of mid/upper flow across the
-   eastern mid-latitude Pacific into western North America will
-   continue through this period, with large-scale troughing and an
-   embedded cyclonic circulation digging inland across the Pacific
-   Northwest through Great Basin and northern Rockies, downstream of
-   building ridging.  As this occurs, ridging is likely to build across
-   the northern Great Plains through upper Mississippi Valley, but
-   broadly confluent, zonal flow is forecast to persist east of the
-   mid/upper Mississippi Valley, in the wake of a mid-level trough
-   accelerating east of the lower Great Lakes through New England and
-   the Canadian Maritimes.  On the southern periphery of this regime, a
-   number of convectively generated perturbations may progress across
-   the Ozarks Plateau and lower Ohio Valley through Mid Atlantic today
-   through tonight.
+   ...Northern High Plains this afternoon into tonight...
+   Water-vapor imagery this morning shows a mid- to upper-level low
+   over the Vancouver/Washington coast with a large-scale trough
+   enveloping much of the West.  Strong cyclonic 500-mb flow will
+   extend through the base of the trough and into parts of the northern
+   High Plains later today coincident with the ejection of a lead
+   disturbance into the western Dakotas.  Boundary-layer dewpoints in
+   the 60s will continue to spread northward from KS/NE to the Dakotas,
+   east of a deep lee trough/cyclone across the central/northern High
+   Plains.  The moistening will occur beneath a plume of steep midlevel
+   lapse rates emanating from the Great Basin and north-central
+   Rockies.  
 
-   In lower levels, a weak surface low is forecast to migrate
-   east-northeast of the lower Great Lakes into northern New England,
-   before weakening.  This may be accompanied by a reinforcing influx
-   of somewhat cooler and drier area, in the wake of an
-   ill-defined/diffuse preceding front overspreading the northern Mid
-   Atlantic.  To the west of the Appalachians, this boundary may become
-   augmented in locations by convective outflow and developing areas of
-   strengthening differential surface heating during the day.  Across
-   the high plains, fairly significant surface cyclogenesis centered
-   across southeastern Montana is probable by 12Z Saturday, with
-   deepening surface troughing southward to the lee of the Rockies.
+   Morning showers and thunderstorms over parts of this region will
+   move downstream and away from where strong to severe thunderstorm
+   development is expected later this afternoon, along both the
+   surface trough/lee cyclone near the MT/ND border and near the Big
+   Horn Mountains.  Some of the stronger initial storms will likely be
+   supercellular owing to moderate to large CAPE.  The risk for large
+   to very large hail (2-3 inches in diameter) is greatest near the
+   ND/MT border where supercells are forecast early in the convective
+   life cycle.  A couple of tornadoes are also possible but relatively
+   large temperature-dewpoint spreads and a transition to upscale
+   growth may temper the tornado threat.  As more storms develop
+   leading to storm mergers and coalescing outflow, a linear cluster
+   may potentially develop into a bow echo across western ND this
+   evening.  The NSSL-WRF and some recent HRRR time-lagged solutions
+   imply this scenario but uncertainty remains due to appreciable model
+   spread.  Nonetheless, the very unstable airmass over western ND
+   combined with a supercell to linear cluster transition in the
+   presence of steep low to mid-level lapse rates, lends confidence in
+   highlighting a corridor over western ND in a level 2 intensity
+   (locally 80-100 mph gusts).  More isolated supercells will also be
+   possible farther south into western SD/NE where isolated very large
+   hail and significant severe outflow gusts will be possible.  
 
-   As a notable plume of very warm elevated mixed-layer air spreads
-   east of the higher terrain, through much of the Great Plains,
-   initiation of stronger thunderstorm development may largely be
-   confined to the higher terrain, before propagating into the
-   deepening surface troughing across the adjacent plains.  Otherwise,
-   to the east of the Great Plains, forcing for ascent and
-   destabilization along the weak front, and within low-level warm
-   advection to the east-southeast of the weak low, may provide support
-   for at least widely scattered strong to severe storm development.
+   ...TN/southern KY to NC this afternoon...
+   A series of MCVs in a corridor from south-central KS into MO and
+   east near the WV/VA border will provide a focus for additional
+   thunderstorm activity through the day.  In areas void of morning
+   showers/thunderstorms, a very moist boundary layer featuring lower
+   to mid 70s F surface dewpoints will gradually heat and destabilize
+   through the mid afternoon.  Some enhancement of midlevel flow in
+   proximity to the MCVs may aid in storm organization primarily in the
+   form of multicellular clusters.  Isolated to widely scattered wind
+   damage will be the primary risk with this activity, but an isolated
+   tornado may also occur in the warm advection zone with enhanced
+   low-level hodograph curvature across TN on the southwest flank of
+   the western MCV, though confidence in this scenario remains low.
 
-   ...Ozark Plateau into lower Ohio Valley...
-   Higher coverage of potential strong to severe thunderstorm
-   development may generally focus across this region, aided by at
-   least a couple of convectively generated perturbations.  There is
-   spread among the various model output, but it still appears that
-   this could include a fairly notable MCV migrating into the lower
-   Ohio Valley by around 19-21Z, along a better-defined segment of the
-   low-level baroclinic zone.  With surface dew points forecast near
-   70F, and a convectively augmented belt of flow on the order of 30-50
-   kt in the 850-500 mb layer contributing to sufficient shear for
-   supercell structures, a couple of tornadoes appear possible in a
-   corridor roughly centered along the Ohio River.  Otherwise, several
-   clusters of thunderstorms may evolve this afternoon and evening,
-   possibly accompanied by developing corridors of strong to severe
-   wind gusts.
+   ...TX Panhandle into west TX late this afternoon/evening...
+   Though forcing for ascent will be weak at best this far south,
+   strong surface heating/mixing along the lee trough/dryline could
+   support high-based thunderstorm development late this afternoon. 
+   Inverted-V profiles will favor the potential for isolated severe
+   outflow gusts of 60-75 mph.
 
-   ...Northern Rockies into adjacent Great Plains...
-   Given a corridor of at least weak to moderate boundary-layer
-   destabilization near and to the lee of the higher terrain, forcing
-   for ascent and strengthening vertical shear downstream of the
-   digging large-scale troughing probably will become supportive of a
-   period of organized severe thunderstorm development late this
-   afternoon through evening.  This may include supercells and
-   organizing clusters posing a risk for severe hail and wind, and at
-   least some potential for a tornado or two.
-
-   ..Kerr/Chalmers.. 06/26/2026
+   ..Smith/Jewell.. 06/27/2026
