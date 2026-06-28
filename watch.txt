@@ -1,75 +1,66 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0700 AM CDT Sat Jun 27 2026
+   1254 AM CDT Sun Jun 28 2026
 
-   Valid 271300Z - 281200Z
+   Valid 281200Z - 291200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS LATE THIS
-   AFTERNOON INTO EARLY TONIGHT ACROSS EASTERN MT AND WESTERN ND...
-
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS INTO WESTERN SOUTH
-   DAKOTA AND NEBRASKA...AND ACROSS NORTH CAROLINA...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE DAKOTAS
+   AND NORTHWEST MINNESOTA...AND ACROSS NORTHERN IOWA AND VICINITY...
 
    ...SUMMARY...
-   A mix of initial supercells and later storm clusters will produce
-   swaths of severe outflow winds and very large hail across the
-   northern High Plains late this afternoon into early tonight.
+   Severe thunderstorms are possible today across northern Iowa and
+   vicinity, and mainly tonight across the Dakotas. Large to very large
+   hail and severe winds are the primary hazards.
 
-   ...Northern High Plains this afternoon into tonight...
-   Water-vapor imagery this morning shows a mid- to upper-level low
-   over the Vancouver/Washington coast with a large-scale trough
-   enveloping much of the West.  Strong cyclonic 500-mb flow will
-   extend through the base of the trough and into parts of the northern
-   High Plains later today coincident with the ejection of a lead
-   disturbance into the western Dakotas.  Boundary-layer dewpoints in
-   the 60s will continue to spread northward from KS/NE to the Dakotas,
-   east of a deep lee trough/cyclone across the central/northern High
-   Plains.  The moistening will occur beneath a plume of steep midlevel
-   lapse rates emanating from the Great Basin and north-central
-   Rockies.  
+   ...Dakotas to IA/WI through tonight...
+   As the primary cyclone occludes near the southwest SK/southeast AB
+   border, a belt of south-southwesterly midlevel flow near 50 kt will
+   be maintained from CO to the Dakotas, east of the broad closed low
+   over the northern Great Basin/Rockies. A separate lee cyclone is
+   expected to form in the vicinity of northeast CO this afternoon and
+   then progress northeastward across NE/SD overnight.  A storm cluster
+   will likely be ongoing near the southwest MN/northwest IA border at
+   the start of the period, as a continuation of the ongoing storms
+   along the NE/SD border.  These morning storms will pose a threat for
+   occasional large hail/wind damage along the warm front/buoyancy
+   gradient through midday/early afternoon.  In the wake of the morning
+   storms, a surface warm front demarcating boundary-layer dewpoints
+   into the 70s will likewise move northward slowly across IA into
+   southern MN/WI.  West of the morning storms, a warm elevated mixed
+   layer observed in 00Z soundings across the central Plains will act
+   to cap the moistening boundary layer and likely inhibit additional
+   warm sector storm development through much of the period.  A few
+   storms will be possible in ND during the afternoon, though storm
+   coverage/intensity are both in question given weak-moderate buoyancy
+   and limited forcing for ascent.
 
-   Morning showers and thunderstorms over parts of this region will
-   move downstream and away from where strong to severe thunderstorm
-   development is expected later this afternoon, along both the
-   surface trough/lee cyclone near the MT/ND border and near the Big
-   Horn Mountains.  Some of the stronger initial storms will likely be
-   supercellular owing to moderate to large CAPE.  The risk for large
-   to very large hail (2-3 inches in diameter) is greatest near the
-   ND/MT border where supercells are forecast early in the convective
-   life cycle.  A couple of tornadoes are also possible but relatively
-   large temperature-dewpoint spreads and a transition to upscale
-   growth may temper the tornado threat.  As more storms develop
-   leading to storm mergers and coalescing outflow, a linear cluster
-   may potentially develop into a bow echo across western ND this
-   evening.  The NSSL-WRF and some recent HRRR time-lagged solutions
-   imply this scenario but uncertainty remains due to appreciable model
-   spread.  Nonetheless, the very unstable airmass over western ND
-   combined with a supercell to linear cluster transition in the
-   presence of steep low to mid-level lapse rates, lends confidence in
-   highlighting a corridor over western ND in a level 2 intensity
-   (locally 80-100 mph gusts).  More isolated supercells will also be
-   possible farther south into western SD/NE where isolated very large
-   hail and significant severe outflow gusts will be possible.  
+   Much of the severe threat will likely be delayed until tonight
+   immediately north of the lee cyclone into SD.  Westward advection of
+   richer moisture and ascent preceding the surface cyclone (and subtle
+   embedded speed maxima aloft) will likely support elevated
+   thunderstorm development overnight across western SD into southern
+   ND.  The environment will favor elevated supercells capable of
+   producing very large hail (2-3 inches in diameter) and occasional
+   severe gusts.  
 
-   ...TN/southern KY to NC this afternoon...
-   A series of MCVs in a corridor from south-central KS into MO and
-   east near the WV/VA border will provide a focus for additional
-   thunderstorm activity through the day.  In areas void of morning
-   showers/thunderstorms, a very moist boundary layer featuring lower
-   to mid 70s F surface dewpoints will gradually heat and destabilize
-   through the mid afternoon.  Some enhancement of midlevel flow in
-   proximity to the MCVs may aid in storm organization primarily in the
-   form of multicellular clusters.  Isolated to widely scattered wind
-   damage will be the primary risk with this activity, but an isolated
-   tornado may also occur in the warm advection zone with enhanced
-   low-level hodograph curvature across TN on the southwest flank of
-   the western MCV, though confidence in this scenario remains low.
+   Farther east, a zone of low-level warm advection will be focused
+   across WI by late evening/early tonight along the northeast edge of
+   the warm elevated mixed layer.  Sufficient moistening above the
+   surface and large CAPE will favor the potential for at least
+   isolated large hail/strong gusts with largely elevated storms
+   tonight.  
 
-   ...TX Panhandle into west TX late this afternoon/evening...
-   Though forcing for ascent will be weak at best this far south,
-   strong surface heating/mixing along the lee trough/dryline could
-   support high-based thunderstorm development late this afternoon. 
-   Inverted-V profiles will favor the potential for isolated severe
-   outflow gusts of 60-75 mph.
+   ...Carolinas/southern VA this afternoon/evening...
+   An MCV now over KY will turn more southeastward today, downstream
+   from an amplifying ridge over the lower and middle MS Valley. 
+   Destabilization and steepening of low-level lapse rates in cloud
+   breaks, along with ~25 kt midlevel flow, will support isolated wind
+   damage potential with storm clusters during the afternoon/evening. 
 
-   ..Smith/Jewell.. 06/27/2026
+   ...West TX late this afternoon/evening...
+   Strong surface heating and deep mixing along a sharpening dryline
+   will allow high-based thunderstorm development from late afternoon
+   through late evening.  Flow aloft will be weak, but inverted-V
+   profiles will favor isolated severe outflow gusts of 60-75 mph.
+
+   ..Thompson/Chalmers.. 06/28/2026
