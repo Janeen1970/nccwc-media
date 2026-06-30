@@ -1,66 +1,80 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1254 AM CDT Sun Jun 28 2026
+   1255 AM CDT Tue Jun 30 2026
 
-   Valid 281200Z - 291200Z
+   Valid 301200Z - 011200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE DAKOTAS
-   AND NORTHWEST MINNESOTA...AND ACROSS NORTHERN IOWA AND VICINITY...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS NORTHERN 
+   WISCONSIN AND THE UPPER PENINSULA OF MICHIGAN...PARTS OF NEW YORK 
+   AND VERMONT...AND PORTIONS OF THE CENTRAL/SOUTHERN PLAINS......
 
    ...SUMMARY...
-   Severe thunderstorms are possible today across northern Iowa and
-   vicinity, and mainly tonight across the Dakotas. Large to very large
-   hail and severe winds are the primary hazards.
+   Severe thunderstorms will be possible from parts of the central High
+   Plains into the Upper Midwest, and across parts of the Northeast on
+   today.
 
-   ...Dakotas to IA/WI through tonight...
-   As the primary cyclone occludes near the southwest SK/southeast AB
-   border, a belt of south-southwesterly midlevel flow near 50 kt will
-   be maintained from CO to the Dakotas, east of the broad closed low
-   over the northern Great Basin/Rockies. A separate lee cyclone is
-   expected to form in the vicinity of northeast CO this afternoon and
-   then progress northeastward across NE/SD overnight.  A storm cluster
-   will likely be ongoing near the southwest MN/northwest IA border at
-   the start of the period, as a continuation of the ongoing storms
-   along the NE/SD border.  These morning storms will pose a threat for
-   occasional large hail/wind damage along the warm front/buoyancy
-   gradient through midday/early afternoon.  In the wake of the morning
-   storms, a surface warm front demarcating boundary-layer dewpoints
-   into the 70s will likewise move northward slowly across IA into
-   southern MN/WI.  West of the morning storms, a warm elevated mixed
-   layer observed in 00Z soundings across the central Plains will act
-   to cap the moistening boundary layer and likely inhibit additional
-   warm sector storm development through much of the period.  A few
-   storms will be possible in ND during the afternoon, though storm
-   coverage/intensity are both in question given weak-moderate buoyancy
-   and limited forcing for ascent.
+   ...Synopsis...
+   An upper-level low will move into Saskatchewan/Manitoba today, with
+   west southwesterly flow aloft overspreading portions of northern
+   Minnesota into northern Wisconsin and the Upper Peninsula of
+   Michigan. A frontal boundary will extend from a surface low across
+   Manitoba southward across the Upper Midwest into the Central Plains,
+   with a dryline extending southward into the Southern Plains. Across
+   the Northeast, enhanced northwesterly flow aloft will impinge upon
+   the northeastern periphery of a high amplitude ridge across the
+   eastern US.
 
-   Much of the severe threat will likely be delayed until tonight
-   immediately north of the lee cyclone into SD.  Westward advection of
-   richer moisture and ascent preceding the surface cyclone (and subtle
-   embedded speed maxima aloft) will likely support elevated
-   thunderstorm development overnight across western SD into southern
-   ND.  The environment will favor elevated supercells capable of
-   producing very large hail (2-3 inches in diameter) and occasional
-   severe gusts.  
+   ...Upper Midwest/Great Lakes...
+   A southwesterly low-level jet is set to increase across
+   central/northern Wisconsin by late afternoon. This in combination
+   with forcing for ascent from the upper-level trough should support
+   convection developing near the surface boundary across northern
+   Wisconsin into the Upper Peninsula of Michigan. To the south/east of
+   the boundary, a very moist air mass with 70s dewpoints is forecast.
+   Strong to extreme instability is forecast across this region amid
+   strong deep layer shear profiles, supporting initial supercells
+   capable of large hail, damaging wind, and perhaps a tornado. With
+   time, clustering may support potential for an increase in damaging
+   wind potential.
 
-   Farther east, a zone of low-level warm advection will be focused
-   across WI by late evening/early tonight along the northeast edge of
-   the warm elevated mixed layer.  Sufficient moistening above the
-   surface and large CAPE will favor the potential for at least
-   isolated large hail/strong gusts with largely elevated storms
-   tonight.  
+   Guidance also suggests further development may occur by late evening
+   across portions of Nebraska into northern Iowa as the surface
+   boundary begins to shift northward with a short-wave impulse
+   rotating through the upper trough. This will pose some potential for
+   damaging wind and hail through the late evening/overnight period.
+   Forecast soundings suggests this activity may remain elevated,
+   leading to lower confidence in higher probabilities.
 
-   ...Carolinas/southern VA this afternoon/evening...
-   An MCV now over KY will turn more southeastward today, downstream
-   from an amplifying ridge over the lower and middle MS Valley. 
-   Destabilization and steepening of low-level lapse rates in cloud
-   breaks, along with ~25 kt midlevel flow, will support isolated wind
-   damage potential with storm clusters during the afternoon/evening. 
+   ...Northeast...
+   A belt of 45 kt northwesterly flow aloft will overspread portions of
+   the Northeast this afternoon. Guidance suggests that thunderstorms
+   will develop across the region by the afternoon. Deep layer shear
+   around 35-40 kts and moderate instability thunderstorm development
+   is forecast across the region. This will support transient
+   supercells before one or more clusters/bowing segments develop and
+   spread south and eastward with damaging wind potential. A stronger
+   supercell or two may be capable of a tornado or two.
 
-   ...West TX late this afternoon/evening...
-   Strong surface heating and deep mixing along a sharpening dryline
-   will allow high-based thunderstorm development from late afternoon
-   through late evening.  Flow aloft will be weak, but inverted-V
-   profiles will favor isolated severe outflow gusts of 60-75 mph.
+   ...Southern/Central High Plains...
+   A mid-level shortwave will eject across the central Plains this
+   afternoon, with widely scattered thunderstorm development expected
+   near the surface trough/dryline in the afternoon/evening. A
+   southerly low-level jet is progged to increase across the area
+   through the evening. Moderate to strong instability is progged amid
+   steep low to mid-level lapse rates. Initial high-based convection
+   will pose potential for large hail and damaging wind. With
+   clustering/consolidation along outflows, the damaging wind threat
+   will increase with potential for instances of significant winds
+   70-80 mph. 
 
-   ..Thompson/Chalmers.. 06/28/2026
+   ...Southeastern US...
+   Forecast guidance depicts 25-35 kt mid-level northeasterly flow on
+   the southern periphery of an upper high centered over the OH/TN
+   Valley. A very moist air mass will be present across much of the
+   region and strong destabilization is forecast amid strong daytime
+   heating. Forecast soundings depict around 20-30 kt effective shear
+   magnitudes, supporting some risk of organized cells/clusters.
+   Isolated damaging wind gusts are possible as activity develops
+   west/southwest through early evening.
+
+   ..Thornton/Chalmers.. 06/30/2026
