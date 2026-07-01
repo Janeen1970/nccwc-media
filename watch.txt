@@ -1,80 +1,79 @@
-Day 1 Convective Outlook  
+  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1255 AM CDT Tue Jun 30 2026
+   0100 AM CDT Wed Jul 01 2026
 
-   Valid 301200Z - 011200Z
+   Valid 011200Z - 021200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS NORTHERN 
-   WISCONSIN AND THE UPPER PENINSULA OF MICHIGAN...PARTS OF NEW YORK 
-   AND VERMONT...AND PORTIONS OF THE CENTRAL/SOUTHERN PLAINS......
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+   OF THE MIDWEST INTO THE UPPER GREAT LAKES...
+
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
+   THE CENTRAL HIGH PLAINS AND THE NORTHEAST...
 
    ...SUMMARY...
-   Severe thunderstorms will be possible from parts of the central High
-   Plains into the Upper Midwest, and across parts of the Northeast on
-   today.
+   Scattered severe thunderstorms are forecast across the Upper
+   Midwest/Great Lakes today and tonight. Damaging wind gusts (some to
+   80 mph) are the main concern, in addition to isolated large to very
+   large hail and a few tornadoes. Additional severe storms are
+   possible across parts of the the central High Plains and Northeast.
 
-   ...Synopsis...
-   An upper-level low will move into Saskatchewan/Manitoba today, with
-   west southwesterly flow aloft overspreading portions of northern
-   Minnesota into northern Wisconsin and the Upper Peninsula of
-   Michigan. A frontal boundary will extend from a surface low across
-   Manitoba southward across the Upper Midwest into the Central Plains,
-   with a dryline extending southward into the Southern Plains. Across
-   the Northeast, enhanced northwesterly flow aloft will impinge upon
-   the northeastern periphery of a high amplitude ridge across the
-   eastern US.
+   ...Midwest and Upper Great Lakes ...
+   Within a belt of strong midlevel southwesterly flow extending from
+   the central/northern Plains into the Upper Midwest/Great Lakes, a
+   convectively augmented midlevel impulse should be the focus for
+   ongoing/morning strong-severe storms over parts of southern MN and
+   vicinity. This activity will mainly pose a risk for damaging gusts
+   and possibly large hail. These storms should continue
+   developing/spreading east-northeastward into the Upper Midwest along
+   a stationary boundary, where diurnal heating of a moist air mass and
+   steep lapse rates will lead to strong surface-based buoyancy. This,
+   combined with around 40 kt of effective shear, will favor a mix of
+   supercells and organized clusters. Scattered damaging wind gusts,
+   large to very large hail, and a few tornadoes will all be possible.
+   Thereafter, high-resolution guidance is in general agreement,
+   depicting a second round of upstream thunderstorm development during
+   the afternoon/evening in the vicinity of southern MN -- likely in
+   response to a strengthening low-level jet and related isentropic
+   lift. Similarly, these storms should spread east-northeastward
+   through a strongly unstable air mass and 40-50 kt of effective shear
+   (with increasing clockwise-curved hodographs). Swaths of damaging
+   winds (some gusts near 80 mph possible), large to very large hail,
+   and a few tornadoes will be possible. 
 
-   ...Upper Midwest/Great Lakes...
-   A southwesterly low-level jet is set to increase across
-   central/northern Wisconsin by late afternoon. This in combination
-   with forcing for ascent from the upper-level trough should support
-   convection developing near the surface boundary across northern
-   Wisconsin into the Upper Peninsula of Michigan. To the south/east of
-   the boundary, a very moist air mass with 70s dewpoints is forecast.
-   Strong to extreme instability is forecast across this region amid
-   strong deep layer shear profiles, supporting initial supercells
-   capable of large hail, damaging wind, and perhaps a tornado. With
-   time, clustering may support potential for an increase in damaging
-   wind potential.
-
-   Guidance also suggests further development may occur by late evening
-   across portions of Nebraska into northern Iowa as the surface
-   boundary begins to shift northward with a short-wave impulse
-   rotating through the upper trough. This will pose some potential for
-   damaging wind and hail through the late evening/overnight period.
-   Forecast soundings suggests this activity may remain elevated,
-   leading to lower confidence in higher probabilities.
+   ...Central High Plains...
+   High-based thunderstorm development is expected along a
+   north/south-oriented lee trough/dryline during the afternoon and
+   evening. Despite modest deep-layer shear (around 25-30 kt), steep
+   low/mid-level lapse rates will contribute to a strongly unstable air
+   mass. A mix of loosely organized clusters and possibly some
+   supercell structures will be capable of producing severe wind gusts
+   and large hail. 
 
    ...Northeast...
-   A belt of 45 kt northwesterly flow aloft will overspread portions of
-   the Northeast this afternoon. Guidance suggests that thunderstorms
-   will develop across the region by the afternoon. Deep layer shear
-   around 35-40 kts and moderate instability thunderstorm development
-   is forecast across the region. This will support transient
-   supercells before one or more clusters/bowing segments develop and
-   spread south and eastward with damaging wind potential. A stronger
-   supercell or two may be capable of a tornado or two.
+   Enhanced west-northwesterly midlevel flow will persist across the
+   Northeast, where a warm/moist air mass will contribute to around
+   3000 J/kg MLCAPE. While nebulous mesoscale forcing for ascent casts
+   uncertainty on overall convective coverage and evolution, the strong
+   buoyancy and a veering wind profile (albeit modest deep-layer shear)
+   will favor east-southeastward-spreading convection capable of
+   damaging wind gusts and isolated hail during the afternoon and again
+   during the evening/nighttime hours.  
 
-   ...Southern/Central High Plains...
-   A mid-level shortwave will eject across the central Plains this
-   afternoon, with widely scattered thunderstorm development expected
-   near the surface trough/dryline in the afternoon/evening. A
-   southerly low-level jet is progged to increase across the area
-   through the evening. Moderate to strong instability is progged amid
-   steep low to mid-level lapse rates. Initial high-based convection
-   will pose potential for large hail and damaging wind. With
-   clustering/consolidation along outflows, the damaging wind threat
-   will increase with potential for instances of significant winds
-   70-80 mph. 
+   ...Southeast...
+   Along the southern periphery of a midlevel anticyclone centered over
+   the central Appalachians, a belt of 20-30-kt east-southeasterly flow
+   in the 700-500-mb layer will overspread a hot/moist air mass with
+   4500 J/kg MLCAPE during the afternoon. Despite limited deep-layer
+   shear, the extreme buoyancy and well-mixed boundary layer will be
+   favorable for wet microbursts with the stronger convective clusters
+   that evolve. 
 
-   ...Southeastern US...
-   Forecast guidance depicts 25-35 kt mid-level northeasterly flow on
-   the southern periphery of an upper high centered over the OH/TN
-   Valley. A very moist air mass will be present across much of the
-   region and strong destabilization is forecast amid strong daytime
-   heating. Forecast soundings depict around 20-30 kt effective shear
-   magnitudes, supporting some risk of organized cells/clusters.
-   Isolated damaging wind gusts are possible as activity develops
-   west/southwest through early evening.
+   ...Northern Rockies/High Plains...
+   Isolated to widely scattered thunderstorms are expected ahead of a
+   slow-moving midlevel trough moving across the Northwest. Preceding
+   the trough, around 40 kt of midlevel southwesterly flow and a weakly
+   unstable air mass will support a couple loosely organized clusters
+   capable of producing severe wind gusts during the afternoon and
+   evening.
 
-   ..Thornton/Chalmers.. 06/30/2026
+   ..Weinman/Chalmers.. 07/01/2026
