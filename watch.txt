@@ -1,79 +1,85 @@
-  Day 1 Convective Outlook  
+  
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0100 AM CDT Wed Jul 01 2026
+   0743 AM CDT Thu Jul 02 2026
 
-   Valid 011200Z - 021200Z
+   Valid 021300Z - 031200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
-   OF THE MIDWEST INTO THE UPPER GREAT LAKES...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
+   THE UPPER MIDWEST...
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
-   THE CENTRAL HIGH PLAINS AND THE NORTHEAST...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE DAKOTAS
+   INTO THE WESTERN GREAT LAKES AND OVER THE SOUTHERN APPALACHIANS AND
+   TENNESSEE VALLEY...
 
    ...SUMMARY...
-   Scattered severe thunderstorms are forecast across the Upper
-   Midwest/Great Lakes today and tonight. Damaging wind gusts (some to
-   80 mph) are the main concern, in addition to isolated large to very
-   large hail and a few tornadoes. Additional severe storms are
-   possible across parts of the the central High Plains and Northeast.
+   Scattered to numerous severe storms will be possible from the
+   northern Plains into the Midwest and Great Lakes regions today into
+   tonight, as well as across the southern Appalachians and Tennessee
+   Valley this afternoon and early evening.
 
-   ...Midwest and Upper Great Lakes ...
-   Within a belt of strong midlevel southwesterly flow extending from
-   the central/northern Plains into the Upper Midwest/Great Lakes, a
-   convectively augmented midlevel impulse should be the focus for
-   ongoing/morning strong-severe storms over parts of southern MN and
-   vicinity. This activity will mainly pose a risk for damaging gusts
-   and possibly large hail. These storms should continue
-   developing/spreading east-northeastward into the Upper Midwest along
-   a stationary boundary, where diurnal heating of a moist air mass and
-   steep lapse rates will lead to strong surface-based buoyancy. This,
-   combined with around 40 kt of effective shear, will favor a mix of
-   supercells and organized clusters. Scattered damaging wind gusts,
-   large to very large hail, and a few tornadoes will all be possible.
-   Thereafter, high-resolution guidance is in general agreement,
-   depicting a second round of upstream thunderstorm development during
-   the afternoon/evening in the vicinity of southern MN -- likely in
-   response to a strengthening low-level jet and related isentropic
-   lift. Similarly, these storms should spread east-northeastward
-   through a strongly unstable air mass and 40-50 kt of effective shear
-   (with increasing clockwise-curved hodographs). Swaths of damaging
-   winds (some gusts near 80 mph possible), large to very large hail,
-   and a few tornadoes will be possible. 
+   ...Northern High Plains into the Great Lakes and Midwest...
+   A belt of moderate southwesterly flow will extend across the
+   north-central states through the period.  A few ongoing clusters of
+   showers/thunderstorms extend along residual outflow from WI to along
+   the MN-IA border vicinity.  Farther west, a weak low analyzed near
+   the Black Hills and associated lee trough will aid in maintaining
+   southerly flow to the south of a residual frontal zone draped over
+   SD east-northeastward to near Lake Superior. 
+
+   Some isolated severe risk may continue this morning with a small
+   cluster along the Dakotas border primarily to the north of the
+   front.  Heating of a seasonably moist airmass (60s deg F north and
+   70s across eastern NE into IA) will contribute to moderate to strong
+   instability by late afternoon.  Afternoon thunderstorm development
+   is expected near the surface low and in the vicinity of the surface
+   boundary/residual outflow across the Dakotas.  Forecast model data
+   indicates deep-layer shear around 40-45 kts which will support
+   initial supercells capable of large to very large hail and severe
+   gusts.  As additional storms develop and cold pools merge and result
+   in a few clusters evolving with time, the wind threat will likely
+   increase with stronger gusts associated with bowing segments.  This
+   activity will likely persist well into the evening with some
+   lingering severe potentially into the overnight over the MN-IA
+   vicinity late.
+
+   ...Southern Appalachians into the Tennessee/Ohio Valleys...
+   A seasonably moist boundary layer is evident in surface observations
+   (lower 70s F surface dewpoints) this morning.  Relatively cool
+   500-mb temperatures around -9 deg C (reference the 12 UTC Nashville,
+   TN raob) and strong heating will result in fairly steep lapse rates
+   across this region by early to mid afternoon.  Scattered
+   thunderstorms are likely and a few stronger clusters will probably
+   evolve within a weak easterly flow regime to the southwest of an
+   mid-level anticyclone centered over southwest VA.  The steepened 0-2
+   km lapse rates and high PW (1.5-1.75 inches) will support wet
+   microbursts capable of strong to severe gusts (locally 60-70 mph)
+   with the more intense water-loaded downdrafts.  Modifying the
+   Nashville raob for forecast afternoon high temperatures in the upper
+   90s deg F yields extreme MLCAPE (4000+ J/kg).  Due to the magnitude
+   of buoyancy, have highlighted higher probabilities to account for
+   increased confidence in a wet microburst threat.  Isolated hail may
+   also accompany the more intense updrafts.  This activity will
+   probably coalesce into a few clusters that gradually weaken during
+   the evening as the wind-damage threat subsides.  
 
    ...Central High Plains...
-   High-based thunderstorm development is expected along a
-   north/south-oriented lee trough/dryline during the afternoon and
-   evening. Despite modest deep-layer shear (around 25-30 kt), steep
-   low/mid-level lapse rates will contribute to a strongly unstable air
-   mass. A mix of loosely organized clusters and possibly some
-   supercell structures will be capable of producing severe wind gusts
-   and large hail. 
+   Isolated thunderstorms are expected to develop within the lee trough
+   across the central High Plains this afternoon.  Moderate instability
+   overlapping with around 25-30 kts of deep-layer shear will support
+   potential for a mix of supercells and multicell clusters.  Steep
+   low- to mid-level lapse rates and large temperature/dew point
+   spreads will support potential for severe gusts.  Initial supercells
+   will pose potential for large hail.
 
-   ...Northeast...
-   Enhanced west-northwesterly midlevel flow will persist across the
-   Northeast, where a warm/moist air mass will contribute to around
-   3000 J/kg MLCAPE. While nebulous mesoscale forcing for ascent casts
-   uncertainty on overall convective coverage and evolution, the strong
-   buoyancy and a veering wind profile (albeit modest deep-layer shear)
-   will favor east-southeastward-spreading convection capable of
-   damaging wind gusts and isolated hail during the afternoon and again
-   during the evening/nighttime hours.  
+   ...Northeast...  
+   Northeasterly flow within the northern periphery of the eastern
+   ridge will allow for thunderstorm activity to track southward out of
+   Quebec/Ontario across portions of the Northeast this afternoon. 
+   Uncertainty remains regarding details of convective evolution and
+   potential corridors of greater threat.  Nonetheless, moderate to
+   strong instability and 30-40 kt of deep-layer shear will support
+   storm organization, with damaging gusts being the primary hazard
+   with the stronger storms.
 
-   ...Southeast...
-   Along the southern periphery of a midlevel anticyclone centered over
-   the central Appalachians, a belt of 20-30-kt east-southeasterly flow
-   in the 700-500-mb layer will overspread a hot/moist air mass with
-   4500 J/kg MLCAPE during the afternoon. Despite limited deep-layer
-   shear, the extreme buoyancy and well-mixed boundary layer will be
-   favorable for wet microbursts with the stronger convective clusters
-   that evolve. 
-
-   ...Northern Rockies/High Plains...
-   Isolated to widely scattered thunderstorms are expected ahead of a
-   slow-moving midlevel trough moving across the Northwest. Preceding
-   the trough, around 40 kt of midlevel southwesterly flow and a weakly
-   unstable air mass will support a couple loosely organized clusters
-   capable of producing severe wind gusts during the afternoon and
-   evening.
-
-   ..Weinman/Chalmers.. 07/01/2026
+   ..Smith/Dean.. 07/02/2026
