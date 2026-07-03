@@ -1,57 +1,62 @@
- Day 1 Convective Outlook  
+ Day 2 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1124 AM CDT Thu Jul 02 2026
+   1217 PM CDT Thu Jul 02 2026
 
-   Valid 021630Z - 031200Z
+   Valid 031200Z - 041200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
-   AND EVENING ACROSS PARTS OF EASTERN SOUTH DAKOTA...SOUTHWEST
-   MINNESOTA...AND NORTHWEST IOWA....
-
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE DAKOTAS
-   INTO THE WESTERN GREAT LAKES...OVER THE SOUTHERN APPALACHIANS AND
-   TENNESSEE VALLEY...AND OVER WESTERN KANSAS...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FROM CENTRAL
+   NEBRASKA INTO WESTERN IOWA...
 
    ...SUMMARY...
-   Scattered severe storms will be possible from the northern Plains
-   into the Midwest and Great Lakes regions today into tonight, as well
-   as across the southern Appalachians and Tennessee Valley this
-   afternoon and early evening.
+   Scattered wind damage and large hail are expected from parts of
+   Nebraska into Iowa Friday. Isolated to scattered severe storms are
+   also possible extending eastward from the northern/central Plains
+   into the Midwest, Tennessee Valley, and Mid-Atlantic.
 
-   ...SD to WI...
-   Morning water vapor imagery shows several weak and/or convectively
-   induced shortwave troughs moving across the northern Plains into the
-   Upper Midwest.  This area will have widespread marginal to moderate
-   afternoon CAPE and dewpoints in the 60s to lower 70s.  This leads to
-   a forecast of a large area of potential thunderstorm development,
-   but with weak/nebulous forcing and general height-rises aloft.  As
-   such, the overall confidence in this forecast is not very high.
+   ...Synopsis...
+   An upper high will remain over the Appalachians and Carolinas, with
+   a somewhat weaker ridge aloft extending westward into the southern
+   Rockies. Relatively cool midlevel temperatures will generally
+   stretch from the northern Plains and across much of the Great Lakes
+   an Northeast, as modest mid and high level westerlies persist. In
+   the low levels, substantial moisture and instability will persist
+   across those same areas, as south to southwest surface winds
+   maintain 70s F dewpoints around the northern periphery of a
+   southeast U.S. surface high. An east-west oriented boundary will
+   stretch from the northern Plains eastward across the Great Lakes
+   region, with various clusters of thunderstorms throughout the period
+   within this unstable zone.
 
-   Storms are likely to focus along a boundary currently evident from
-   southern SD into central IA.  Convection currently developing in
-   northern IA near the boundary should continue to intensify through
-   the afternoon and track into southern WI/northern IL with a severe
-   wind/hail threat.
+   ...Northern/Central Plains...
+   Any outflows from overnight convection are likely to mix, with
+   strong instability developing. Cells will form over the northern
+   High Plains initially with localized hail and wind. Larger coverage
+   of storms will occur from southern SD into northern NE during the
+   mid/late afternoon, with general upscale growth into one or more
+   MCSs. However, supercells may occur initially with large hail and a
+   brief tornado. Supporting a severe MCS will be ample precipitable
+   water, strong instability, and an increasing southerly low-level jet
+   during the evening. Additional isolated hail or wind may occur near
+   the surface trough into western KS and toward the TX Panhandle where
+   temperatures will be hot.
 
-   Other intense thunderstorm clusters are expected to develop along
-   the SD/NE portion of the boundary by mid/late afternoon, also with a
-   risk of large hail and damaging wind gusts.
+   ...Much of the Midwest to the Lower Great Lakes and across NY, PA
+   and NJ...
+   The entire corridor stretching from northern IL/southern WI into NY
+   and NJ will destabilize with daytime heating and robust moisture.
+   Storms are most likely from WI/IL during the late afternoon, and
+   also near the Lower Great Lakes, affecting OH, PA, NY. Modest
+   westerlies aloft and the uncapped air mass across the area will
+   support a few longer-lived clusters of storms capable of damaging
+   wind gusts. Some of the activity may proceed into western New
+   England into early evening.
 
-   ...Western KS...
-   Full sunshine and dewpoints in the 60s will lead to a region of
-   strong instability over western KS this afternoon. Most CAM
-   solutions suggest at least isolated thunderstorms form along the
-   KS/CO border and spread slowly eastward during the evening.  A
-   deeply mixed boundary layer and sufficient CAPE suggest a risk of
-   damaging wind gusts in the strongest cells.
+   ...TN Valley and northern GA...
+   Within the weak easterly flow regime aloft, just south of the upper
+   ridge, storms are expected to form during the afternoon with  the
+   very moist and unstable air mass. Mid 70s F dewpoints will again
+   lead to strong instability, with multicell clusters moving
+   west/northwest by mid/early afternoon. Locally damaging wind gusts
+   are possible.
 
-   ...TN Valley/Southern Appalachians...
-   A widespread very moist and unstable air mass is present today
-   across this region, with full sunshine leading to steep low-level
-   lapse rates and MLCAPE values over 4000 J/kg.  Weak forcing under an
-   upper ridge limits confidence in timing/location of storms. 
-   However, widely scattered thunderstorm development should eventually
-   result in merging outflows and the risk of gusty/damaging winds this
-   afternoon and early evening across the region.
-
-   ..Hart/Halbert.. 07/02/2026
+   ..Jewell.. 07/02/2026
