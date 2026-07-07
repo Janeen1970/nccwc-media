@@ -1,96 +1,95 @@
- Day 1 Convective Outlook  
+  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0731 AM CDT Mon Jul 06 2026
+   0735 AM CDT Tue Jul 07 2026
 
-   Valid 061300Z - 071200Z
+   Valid 071300Z - 081200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE EASTERN DAKOTAS AND WESTERN MINNESOTA AS WELL AS CENTRAL
-   VIRGINIA INTO FAR NORTH-CENTRAL NORTH CAROLINA...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE NORTHERN
+   HIGH PLAINS INTO THE UPPER MIDWEST...
 
    ...SUMMARY...
-   Widely scattered severe thunderstorms capable of large to very large
-   hail and severe wind gusts appear possible across the eastern
-   Dakotas and western Minnesota this afternoon and evening. Isolated
-   to scattered damaging wind gusts will also be possible with the
-   strongest storms in the southern Mid-Atlantic and Carolinas.
+   Widely scattered to scattered severe storms capable of large hail
+   and severe wind gusts are possible from the northern High Plains
+   into parts of the Upper Midwest today into tonight. Isolated severe
+   storms capable of mainly damaging wind gusts are possible this
+   afternoon and evening from the southern Mid-Atlantic into the
+   Carolinas, the Sabine River Valley, parts of the Great Basin, and
+   southeast Arizona.
 
-   ...Upper Mississippi Valley into north-central Nebraska...
-   Early-morning surface analysis reveals a low over far southwest
-   Manitoba, with a cold front extending southwestward from this low
-   into southeast MT and then westward across south-central MT. This
-   surface low and associated cold front precede a well-defined
-   shortwave trough currently moving through southern Saskatchewan.
-   This shortwave is forecast to continue eastward today, with the
-   attendant surface low and cold front progressing eastward as well. A
-   warm and moist airmass will precede this cold front, with afternoon
-   highs ranging from the upper 80s/low 90s across eastern SD/northwest
-   MN into the upper 90s/low 100s from central SD into central NE.
-   Boundary-layer mixing will be offset by modest low-level moisture
-   advection, likely keeping dewpoints in the mid to upper 60s over
-   much of the region. These warm and moist conditions will help
-   destabilize the airmass, despite relatively warm mid-level
-   temperatures at the base of a northeastward-advecting EML. Over 2000
-   J/kg of MLCAPE will likely be in place by the mid afternoon, with a
-   pocket of 3000 J/kg possible across southeast SD by the late
-   afternoon. 
+   ...Northern High Plains into the Upper Midwest..
+   A large area of showers and thunderstorms is currently moving
+   northeastward across eastern MT and western ND. This activity, which
+   appears to be associated with a weak lead shortwave trough, is
+   forecast to continue northeastward/eastward throughout the day.
+   Storm severity will be limited by a lack of buoyancy and stronger
+   ascent. However, cloud cover associated with this activity will aid
+   in sharpening a warm front that is expected to develop as the cold
+   front, which moved across SD last night, returns northward amid
+   low-level moisture advection ahead of a stronger shortwave trough. 
 
-   Thunderstorm development is anticipated first across western ND and
-   northwest MN as the cold front interacts with this buoyant airmass,
-   with ascent along the front augmented by modest lift along the
-   southern periphery of the shortwave trough. Enhanced mid-level flow
-   will exist within the base of this shortwave as well, with the
-   resulting combination of buoyancy and shear supportive of supercells
-   early in the convective cycle, with large hail as the primary
-   hazard. Some instances of hail in excess of two inches are possible.
-   A somewhat quick transition to a more linear mode appears likely
-   given the frontal forcing, close storm proximity, and likelihood of
-   strong cold pools. Severe gusts will be the primary hazard once this
-   upscale growth occurs.
+   Thunderstorms are first expected to develop back farther west across
+   the northern High Plains, where moist easterly upslope flow combined
+   with steep mid-level lapse will foster airmass destabilization.
+   Moderate to strong buoyancy (i.e. MLCAPE 1000 to 2000 J/kg) and
+   moderate deep-layer shear (i.e. effective bulk shear of 40 to 50 kt)
+   will support the potential for a few supercells capable of large
+   hail and damaging gusts. One or more bowing segments could evolve
+   from these supercells, with at least some potential for stronger,
+   more organized line capable of gust over 70 mph to move across SD.
+   However, confidence in a corridor of greater severe potential is
+   currently limited, owing to the likelihood of complex interactions
+   between outflows and new storm development over the MT/WY/SD border
+   intersection vicinity. 
 
-   Lower storm coverage is anticipated with southward extent from
-   central SD into northern NE. Here, weaker shear is expected to limit
-   the potential for organized storm modes, though isolated occurrences
-   of hail and severe wind gusts appear possible with the strongest
-   storms.
+   Thunderstorm development also appears probable farther east along
+   the warm front during the evening as the low-level jet increases.
+   Large to very large hail is possible with this activity initially,
+   before upscale growth results in bowing clusters. 
 
-   ...Mid-Atlantic into the Carolinas...
-   A hot and very moist boundary layer is forecast in the vicinity of
-   a lee trough this afternoon, with MLCAPE generally from 1500-2500
-   J/kg. Forcing for ascent will be weak, with convergence along the
-   lee trough as the primary impetus for convective initiation.
-   Vertical shear will be weak, but scattered coverage and an
-   outflow-dominant storm mode will support the potential for upscale
-   growth into loosely organized clusters. Relatively high storm bases
-   and steep low-level lapse rates will enhance downdraft potential
-   with a risk for damaging wind gusts with the strongest storms.
-   Highest coverage is expected from central VA into far north-central
-   NC.
+   Additional storms are possible near the lee trough from southeast WY
+   into northeast CO and the NE Panhandle during the afternoon into
+   evening. The local environment will feature a deep and well-mixed
+   boundary layer, which will support the potential for a few severe
+   wind gusts and perhaps some hail. 
 
-   ...Northern Great Basin into southern Montana and northern
-   Wyoming...
-   Early-morning satellite imagery shows a shortwave trough moving into
-   southwestern ID. This shortwave is forecast to continue
-   northeastward across ID and western MT, moving within the
-   northwestern periphery of an upper ridge centered over the Four
-   Corners. Mid-level moisture and ascent associated with this
-   shortwave will result in isolated to scattered thunderstorms across
-   the region during the afternoon and evening. Moderate mid-level flow
-   (i.e. 35-40 kt winds at 500 mb) will accompany this wave as well,
-   resulting in sufficient deep-layer shear to support at least
-   episodic supercell and bowing structures capable of damaging winds
-   and isolated hail.
+   ...Great Basin...
+   A modest shortwave trough is forecast to move through northeast NV
+   and northern UT this afternoon and evening. Modest mid-level
+   moisture and lift associated with this wave will support isolated to
+   widely scatted thunderstorms atop a deep and well-mixed boundary
+   layer. Modest updrafts and high cloud bases atop very steep
+   low-level lapse rates will support locally severe wind gusts with
+   the strongest storms.
 
-   ...Lower MS Valley...
-   A notable vorticity maximum is currently moving southward from
-   southwest MO into northwest AR, with slow southward/southeastward
-   progression of this vorticity maximum expected throughout the day.
-   Ample low-level moisture exists over the region, supporting diurnal
-   airmass destabilization and the development of strong buoyancy (i.e.
-   MLCAPE from 2000 to 3000 J/kg) by the afternoon. Scattered to
-   numerous thunderstorms are anticipated as the vorticity max moves
-   through this environment. Vertical shear will be weak, limiting
-   storm organization, but a few strong downdrafts are still possible.
-   Isolated occurrences of marginally severe hail are possible as well.
+   ...Southern AZ...
+   Increased mid-level moisture will support thunderstorm development
+   across the higher terrain of eastern AZ during the afternoon. Modest
+   easterly mid-level flow is expected over the region, with some
+   potential for the thunderstorms to progress westward into the lower
+   elevations during the late afternoon. A few strong gusts are
+   possible. 
 
-   ..Mosier/Dean.. 07/06/2026
+   ...East Texas into the Sabine River Valley...
+   Early-morning satellite imagery shows a broad upper low centered
+   over the Mid-South, with a weak vorticity maximum pivoting through
+   its southwest periphery over southern AR/northern LA. A few
+   thunderstorms are ongoing in the vicinity of this vorticity maximum,
+   with a gradual increase in thunderstorm coverage later this morning
+   through the afternoon as ascent from this vorticity maximum
+   interacts with the moist and unstable airmass in place. Vertical
+   shear is weak but some loosely organized cold pools may evolve,
+   supporting the potential for sporadic damaging wind gusts.
+
+   ...Southern Mid-Atlantic into the Carolinas...
+   A moist and moderately unstable air mass is expected to support
+   scattered thunderstorm development across the region, beginning over
+   the Blue Ridge Mountains during the early afternoon and expanding
+   southward along the weak lee troughing into the central Carolinas.
+   Some sea breeze development is possible from the VA Tidewater along
+   the coastal Carolinas as well. Vertical shear will remain weak,
+   limiting the potential for storm organization. Even so, the presence
+   of steep low-level lapse rates will enhance downdraft potential,
+   leading to the risk for sporadic damaging wind occurrences,
+   especially with any storm clusters.
+
+   ..Mosier/Thornton.. 07/07/2026
