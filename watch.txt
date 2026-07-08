@@ -1,95 +1,69 @@
-  Day 1 Convective Outlook  
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0735 AM CDT Tue Jul 07 2026
+   1257 AM CDT Wed Jul 08 2026
 
-   Valid 071300Z - 081200Z
+   Valid 081200Z - 091200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE NORTHERN
-   HIGH PLAINS INTO THE UPPER MIDWEST...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM PARTS OF THE
+   CENTRAL PLAINS INTO THE MID MISSOURI AND UPPER MISSISSIPPI
+   VALLEYS...
 
    ...SUMMARY...
-   Widely scattered to scattered severe storms capable of large hail
-   and severe wind gusts are possible from the northern High Plains
-   into parts of the Upper Midwest today into tonight. Isolated severe
-   storms capable of mainly damaging wind gusts are possible this
-   afternoon and evening from the southern Mid-Atlantic into the
-   Carolinas, the Sabine River Valley, parts of the Great Basin, and
-   southeast Arizona.
+   Thunderstorms with severe wind gusts and hail will be possible this
+   afternoon and evening across parts of the central Plains, and from
+   the Missouri Valley into the upper Mississippi Valley. Isolated
+   severe gusts may also occur in parts of the northern High Plains and
+   from North Carolina into southern Virginia.
 
-   ...Northern High Plains into the Upper Midwest..
-   A large area of showers and thunderstorms is currently moving
-   northeastward across eastern MT and western ND. This activity, which
-   appears to be associated with a weak lead shortwave trough, is
-   forecast to continue northeastward/eastward throughout the day.
-   Storm severity will be limited by a lack of buoyancy and stronger
-   ascent. However, cloud cover associated with this activity will aid
-   in sharpening a warm front that is expected to develop as the cold
-   front, which moved across SD last night, returns northward amid
-   low-level moisture advection ahead of a stronger shortwave trough. 
+   ...Central Plains/Mid Missouri Valley/Upper Mississippi Valley...
+   At mid-levels, heights will fall today across much of the
+   north-central U.S. as a subtle shortwave trough moves
+   east-southeastward across the region. At the surface, a cold front
+   will advance southeastward into the central Plains and mid Missouri
+   Valley by afternoon. Along and ahead of the front, surface dewpoints
+   will range from the mid 60s to the lower 70s F. As surface
+   temperatures warm, moderate instability will develop along this
+   west-southwest to east-northeast corridor. Low-level convergence
+   will be maximized along and near the front, which will be the
+   primary focus for convective initiation. Scattered thunderstorms
+   will form in the afternoon and move east-southeastward across the
+   instability corridor, with convective development continuing through
+   much of the evening. The instability, combined with moderate
+   deep-layer shear and steep low-level lapse rates, will support a
+   threat for severe wind gusts. The potential for severe wind will be
+   greatest with any line segment that can become sustained and
+   organized. Although there is some uncertainty concerning where the
+   greatest threat will be, it seems possible that a damaging wind
+   swath could occur in parts of southern Nebraska this evening, where
+   a 30 percent wind probability has been added.
 
-   Thunderstorms are first expected to develop back farther west across
-   the northern High Plains, where moist easterly upslope flow combined
-   with steep mid-level lapse will foster airmass destabilization.
-   Moderate to strong buoyancy (i.e. MLCAPE 1000 to 2000 J/kg) and
-   moderate deep-layer shear (i.e. effective bulk shear of 40 to 50 kt)
-   will support the potential for a few supercells capable of large
-   hail and damaging gusts. One or more bowing segments could evolve
-   from these supercells, with at least some potential for stronger,
-   more organized line capable of gust over 70 mph to move across SD.
-   However, confidence in a corridor of greater severe potential is
-   currently limited, owing to the likelihood of complex interactions
-   between outflows and new storm development over the MT/WY/SD border
-   intersection vicinity. 
+   Further northeast into central Iowa and south-central Wisconsin,
+   convective coverage is expected to be a bit more widely spaced.
+   However, deep-layer shear will be sufficient for a severe threat as
+   low-level lapse rates and instability become maximized late this
+   afternoon. The primary threat will be for severe wind gusts, with
+   the threat being associated with short intense line segments.
 
-   Thunderstorm development also appears probable farther east along
-   the warm front during the evening as the low-level jet increases.
-   Large to very large hail is possible with this activity initially,
-   before upscale growth results in bowing clusters. 
+   ...Northern High Plains...
+   At the surface, a lee trough will develop today from eastern Wyoming
+   into eastern Montana. Along and near the trough, surface dewpoints
+   in the 50s F will contribute to the development of moderate
+   instability by afternoon. Although large-scale ascent will be
+   relatively weak, low-level convergence near the trough will aid
+   convective initiation. Thunderstorms will also develop in the higher
+   terrain and move eastward into the lower elevations. The
+   instability, combined with moderate deep-layer shear and steep low
+   to mid-level lapse rates will likely support a potential for
+   isolated severe gusts.
 
-   Additional storms are possible near the lee trough from southeast WY
-   into northeast CO and the NE Panhandle during the afternoon into
-   evening. The local environment will feature a deep and well-mixed
-   boundary layer, which will support the potential for a few severe
-   wind gusts and perhaps some hail. 
+   ...North Carolina/Southern Virginia.
+   At the surface, a very moist airmass will be in place today from the
+   Mid-Atlantic southward into the Carolinas. Surface dewpoints in the
+   mid to upper 70s F will contribute to an axis of moderate to strong
+   instability across parts of North Carolina and southern Virginia.
+   Isolated to scattered thunderstorms will develop in the foothills of
+   the Appalachians, with the storms moving eastward into the lower
+   elevations during the afternoon. The instability combined with steep
+   low-level lapse rates will support an isolated wind-damage threat.
 
-   ...Great Basin...
-   A modest shortwave trough is forecast to move through northeast NV
-   and northern UT this afternoon and evening. Modest mid-level
-   moisture and lift associated with this wave will support isolated to
-   widely scatted thunderstorms atop a deep and well-mixed boundary
-   layer. Modest updrafts and high cloud bases atop very steep
-   low-level lapse rates will support locally severe wind gusts with
-   the strongest storms.
-
-   ...Southern AZ...
-   Increased mid-level moisture will support thunderstorm development
-   across the higher terrain of eastern AZ during the afternoon. Modest
-   easterly mid-level flow is expected over the region, with some
-   potential for the thunderstorms to progress westward into the lower
-   elevations during the late afternoon. A few strong gusts are
-   possible. 
-
-   ...East Texas into the Sabine River Valley...
-   Early-morning satellite imagery shows a broad upper low centered
-   over the Mid-South, with a weak vorticity maximum pivoting through
-   its southwest periphery over southern AR/northern LA. A few
-   thunderstorms are ongoing in the vicinity of this vorticity maximum,
-   with a gradual increase in thunderstorm coverage later this morning
-   through the afternoon as ascent from this vorticity maximum
-   interacts with the moist and unstable airmass in place. Vertical
-   shear is weak but some loosely organized cold pools may evolve,
-   supporting the potential for sporadic damaging wind gusts.
-
-   ...Southern Mid-Atlantic into the Carolinas...
-   A moist and moderately unstable air mass is expected to support
-   scattered thunderstorm development across the region, beginning over
-   the Blue Ridge Mountains during the early afternoon and expanding
-   southward along the weak lee troughing into the central Carolinas.
-   Some sea breeze development is possible from the VA Tidewater along
-   the coastal Carolinas as well. Vertical shear will remain weak,
-   limiting the potential for storm organization. Even so, the presence
-   of steep low-level lapse rates will enhance downdraft potential,
-   leading to the risk for sporadic damaging wind occurrences,
-   especially with any storm clusters.
-
-   ..Mosier/Thornton.. 07/07/2026
+   ..Broyles/Moore.. 07/08/2026
