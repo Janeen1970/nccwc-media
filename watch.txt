@@ -1,76 +1,63 @@
-  
-   Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1248 AM CDT Fri Jul 10 2026
+   0732 AM CDT Sat Jul 11 2026
 
-   Valid 101200Z - 111200Z
+   Valid 111300Z - 121200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE SOUTHERN AND CENTRAL HIGH PLAINS...AND FROM THE OZARKS INTO THE
-   MID MISSISSIPPI VALLEY...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM PARTS OF
+   EASTERN OKLAHOMA INTO THE LOWER MISSISSIPPI VALLEY/TENNESSEE VALLEY
+   AND SOUTHEAST...AND ACROSS PARTS OF SOUTHERN ARIZONA...
 
    ...SUMMARY...
-   Thunderstorms with severe wind gusts and isolated large hail will be
-   possible this afternoon and evening across parts of the southern and
-   central High Plains. Severe gusts will also be possible from the
-   Ozarks and mid Mississippi Valley eastward into the southern and
-   central Appalachians, and over the western Florida Peninsula.
+   Thunderstorms capable of producing scattered severe/damaging winds
+   will be possible today from parts of the southern Plains eastward
+   into the lower Mississippi Valley and Southeast. Severe wind gusts
+   may also occur across portions of southern Arizona.
 
-   ...Southern and Central High Plains...
-   At mid-levels, a shortwave ridge will be build northeastward into
-   the north-central U.S. today as a trough moves through the central
-   Plains. At the surface, a moist airmass will be in place over the
-   central Plains. Low-level convergence will become maximized this
-   afternoon from eastern Colorado southward into northeast New Mexico.
-   As surface heating takes place, thunderstorms will form in the
-   higher terrain near this convergence axis, and move eastward into
-   the central and southern High Plains. Moderate deep-layer shear and
-   steep low to mid-level lapse rates will support a threat for severe
-   wind gusts and isolated large hail. The threat may be greatest near
-   the southern edge of the moist airmass from far southeast Colorado
-   and southwest Kansas into the northern Texas Panhandle, where strong
-   moisture convergence is forecast during the early to mid evening.
+   ...Southern Plains/Ozarks into the Tennessee Valley/Southeast and
+   Mid-Atlantic...
+   Weak mid-level troughing with multiple embedded and convectively
+   enhanced vorticity maxima will advance slowly eastward today from
+   the mid MS Valley into the lower OH Valley/Midwest and TN Valley.
+   Ongoing thunderstorms across these regions this morning are being
+   aided by warm/moist advection from a modest west-southwesterly
+   low-level jet. Current expectations are for moderate instability to
+   develop by this afternoon along/south of a surface boundary that
+   will remain aligned generally southwest-northeast from parts of the
+   southern Plains into the lower MS Valley/TN Valley and Southeast.
+   Multiple thunderstorm clusters will likely form or persist later
+   today in this favorable thermodynamic regime. With modest westerly
+   mid-level flow present, east-southeastward propagation of
+   consolidated cold pools/outflow from these clusters will likely pose
+   a threat for scattered severe/damaging winds over a broad region as
+   low-level lapse rates steepen with filtered daytime heating.
 
-   ...Ozarks/Mid Mississippi Valley...
-   A very moist airmass will be in place today across the central U.S.,
-   where surface dewpoints will be mostly 70s F. As surface
-   temperatures warm, moderate to strong instability will develop near
-   a moist axis extending west-to-east from the Ozarks into the mid
-   Mississippi Valley. Low-level convergence is expected to become
-   maximized this afternoon along and south of the moist axis. MLCAPE
-   in the 2500 to 3500 J/kg range combined with steep low-level lapse
-   rates will support a potential for severe wind gusts with any short
-   line segment that can become organized. The severe threat is
-   expected to be greatest during the late afternoon and early evening,
-   coincident with the maximum in instability.
+   The Slight Risk has been adjusted for both the influence of ongoing
+   morning convection and the potential for multiple clusters to spread
+   east-southeastward along a differential heating zone/instability
+   gradient across the Southeast and to the Atlantic Coast through
+   early evening. Isolated damaging winds may also occur farther north
+   along/near a weak synoptic front, but less instability is forecast
+   with northward extent into the OH Valley and Mid-Atlantic. Farther
+   west across parts of the southern Plains into the Ozarks, at least
+   isolated thunderstorms should develop along/south of the front this
+   afternoon, even though large-scale ascent will remain weaker across
+   these regions due to closer proximity to prominent mid-level ridging
+   across the Rockies. This activity will move slowly
+   east-southeastward while posing a threat for both severe winds and
+   hail, as moderate to strong instability and modest deep-layer shear
+   support loosely organized multicells.
 
-   ...Southern and Central Appalachians...
-   A subtle mid-level shortwave trough will move eastward into the
-   southern and central Appalachians today. As surface temperatures
-   warm, moderate instability will develop over much of the region by
-   afternoon. Topographic forcing and subtle large-scale ascent near
-   the shortwave trough will support isolated to scattered convective
-   development. Thunderstorms will form in the higher terrain and move
-   eastward into the lower elevations during the afternoon. The
-   instability and steep low-level lapse rates will support isolated
-   severe gusts with the stronger multicells.
+   ...Southern Arizona...
+   Mid/upper-level ridging will build further over the Rockies and
+   Southwest today, with weak easterly mid-level flow present over
+   parts of AZ. Daytime heating of a seasonably moist low-level airmass
+   (surface dewpoints in the 50s to low 60s across southeast AZ) will
+   support weak to locally moderate instability as the boundary layer
+   becomes very deeply mixed. Thunderstorms that initially develop
+   across the higher terrain should spread west-southwestward into the
+   lower desert elevations through the afternoon/evening, with severe
+   wind gusts possible given ample DCAPE and inverted-v type soundings.
+   Isolated hail may also occur with the stronger cores.
 
-   ...Western Florida Peninsula...
-   Very moist air will be in place over the Gulf today, where surface
-   dewpoints will be in the 70s F. As temperatures warm, a sea breeze
-   boundary is expected to form near the coast of western Florida
-   around midday. Thunderstorms will develop along this boundary as the
-   it moves inland during the afternoon. Moderate instability and steep
-   low-level lapse rates will support a few severe gusts.
-
-   ...Eastern South Dakota/Southwest Minnesota...
-   An axis of low-level moisture will be in place today from Iowa
-   north-northwestward into southwest Minnesota and eastern South
-   Dakota, where surface dewpoints will be in the 60s F. As surface
-   temperatures warm, moderate instability will develop along the moist
-   axis. Although low-level convergence is expected to remain weak, a
-   storm or two associated with a marginal hail threat could develop
-   and move southeastward along the instability axis in the late
-   afternoon and early evening.
-
-   ..Broyles/Halbert.. 07/10/2026
+   ..Gleason/Thornton.. 07/11/2026
