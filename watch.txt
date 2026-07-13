@@ -1,69 +1,38 @@
- Day 1 Convective Outlook  
+    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1257 AM CDT Sun Jul 12 2026
+   1253 AM CDT Mon Jul 13 2026
 
-   Valid 121200Z - 131200Z
+   Valid 131200Z - 141200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE CAROLINAS...EASTERN GEORGIA AND SOUTHERN ARIZONA...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE SOUTHERN ATLANTIC SEABOARD AND IN WESTERN MONTANA...
 
    ...SUMMARY...
-   Thunderstorms with severe wind gusts will be possible today over
-   parts of the Carolinas, eastern Georgia, and southern Arizona.
-   Isolated hail and a few severe gusts may occur in the western Great
-   Lakes. Isolated severe gusts will also be possible from parts of the
-   southern Plains into the Southeast.
+   Thunderstorms with isolated severe wind gusts will be possible from
+   mid afternoon into early this evening across parts of the southern
+   Atlantic Seaboard and in western Montana.
 
-   ...Carolinas/Georgia...
-   A very moist airmass will be in place today from the Southeast into
-   the Carolinas, where surface dewpoints will be in the 70s F. As
-   surface temperatures warm, moderate instability will develop over
-   most of the region by midday. A cold front will advance southward
-   across southern North Carolina, reaching northern South Carolina in
-   the afternoon. Low-level convergence will become maximized along and
-   ahead of the front, which will support scattered thunderstorm
-   development this afternoon. These storms will move eastward toward
-   the Atlantic Coast. Additional storms will form in the higher
-   terrain of the southern Appalachians, with the storms moving
-   eastward into the lower elevations. RAP forecast soundings near and
-   to the south of the front late this afternoon have MLCAPE maximizing
-   in the 2500 to 3000 J/kg range, with 0-3 km lapse rates near 7.5
-   C/km and 0-6 km shear around 20 knots. This environment will be
-   favorable for multicell line segments capable of severe wind gusts.
+   ...Southern Atlantic Seaboard...
+   Very moist air will be in place today from the Southeast eastward to
+   the southern Atlantic Seaboard. Surface dewpoints across Georgia and
+   South Carolina will be mostly in the 70s F. As surface temperatures
+   warm today, moderate instability will develop across much of the
+   region. Scattered thunderstorms will form in the higher terrain of
+   the southern Appalachians and within zones of low-level convergence
+   across the moist airmass. As instability maximizes and low-level
+   lapse rates steepen this afternoon, a few severe wind gusts will be
+   possible with the stronger cells.
 
-   ...Southern Arizona...
-   A sufficiently moist airmass will be in place today over southern
-   Arizona, where surface dewpoints will be mostly in the 50s F. By
-   afternoon, an axis of maximized low-level convergence and
-   instability will develop in southeast Arizona. Scattered
-   thunderstorms will form near this axis and move westward across
-   southern Arizona from mid afternoon into the early evening. Large
-   temperature-dewpoint spreads and very steep low-level lapse rates
-   will contribute to a potential for severe wind gusts.
+   ...Western Montana...
+   Southwesterly mid-level flow will be in place today across the
+   northwestern U.S. At the surface, upslope flow will be located from
+   the northern High Plains westward to the northern Rockies. As
+   surface temperatures warm today, a pocket of instability will
+   develop across western Montana adjacent to the higher terrain. Some
+   storms that form in the northern Rockies will move northeastward
+   toward and through this pocket of instability in the lower
+   elevations, where SBCAPE could approach 1000 J/kg late this
+   afternoon. The instability and very steep low to mid-level lapse
+   rates will contribute to a potential for isolated severe wind gusts.
 
-   ...Southern Plains/Lower Mississippi Valley...
-   A cold front located from southern Oklahoma eastward into
-   north-central Mississippi will advance slowly southward across the
-   region today. Ahead of the boundary, surface dewpoints from the mid
-   60s to the mid 70s F will contribute to moderate destabilization
-   over much of the warm sector. Scattered thunderstorm will form along
-   and to the south of the front during the afternoon. The instability
-   along with steep low-level lapse rates will be sufficient for
-   isolated strong to severe gusts with any line segment that can
-   become organized.
-
-   ...Western Great Lakes...
-   Mid-level northerly flow will be in place today over the western
-   Great Lakes. At the surface, a southwest-to-northeast corridor of
-   low-level moisture will be located from eastern Minnesota into
-   western Upper Michigan. Moderate to strong instability will develop
-   near the moist axis by afternoon. Although large-scale ascent will
-   remain limited, isolated convection could initiate near the moist
-   axis if low-level convergence becomes strong enough. In that case, a
-   cell or two could form and move southward into the stronger
-   instability late this afternoon. The instability combined with
-   moderate deep-layer shear and steep mid-level lapse rates could
-   support an isolated severe threat, with hail and strong wind gusts
-   possible.
-
-   ..Broyles/Halbert.. 07/12/2026
+   ..Broyles/Halbert.. 07/13/2026
