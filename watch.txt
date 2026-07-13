@@ -1,38 +1,51 @@
-    Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1253 AM CDT Mon Jul 13 2026
+   0730 AM CDT Mon Jul 13 2026
 
-   Valid 131200Z - 141200Z
+   Valid 131300Z - 141200Z
 
    ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE SOUTHERN ATLANTIC SEABOARD AND IN WESTERN MONTANA...
+   THE SOUTHEAST AND MONTANA...
 
    ...SUMMARY...
-   Thunderstorms with isolated severe wind gusts will be possible from
-   mid afternoon into early this evening across parts of the southern
-   Atlantic Seaboard and in western Montana.
+   Thunderstorms with isolated strong to severe winds may occur this
+   afternoon and evening across parts of the Southeast and Montana.
 
-   ...Southern Atlantic Seaboard...
-   Very moist air will be in place today from the Southeast eastward to
-   the southern Atlantic Seaboard. Surface dewpoints across Georgia and
-   South Carolina will be mostly in the 70s F. As surface temperatures
-   warm today, moderate instability will develop across much of the
-   region. Scattered thunderstorms will form in the higher terrain of
-   the southern Appalachians and within zones of low-level convergence
-   across the moist airmass. As instability maximizes and low-level
-   lapse rates steepen this afternoon, a few severe wind gusts will be
-   possible with the stronger cells.
+   ...Southeast...
+   A very weak mid-level trough will persist over the Deep South and
+   Carolinas today, with modest westerly flow. Although rich low-level
+   moisture remains present across these areas, multiple days of
+   convective overturning has resulted in rather poor lapse rates
+   aloft. This, along with persistent cloudiness, should limit to some
+   degree how much instability will develop this afternoon with
+   filtered daytime heating. Deep-layer shear will also remain weak,
+   and thunderstorms should generally be disorganized. Some loose
+   clustering may eventually occur with convection spreading eastward
+   from the central Gulf Coast towards the FL Peninsula, where
+   low-level lapse rates should become steepened by peak afternoon
+   heating. Isolated damaging winds appear possible with the strongest
+   cores from parts of FL into eastern GA and SC ahead of the weak
+   mid-level trough.
 
-   ...Western Montana...
-   Southwesterly mid-level flow will be in place today across the
-   northwestern U.S. At the surface, upslope flow will be located from
-   the northern High Plains westward to the northern Rockies. As
-   surface temperatures warm today, a pocket of instability will
-   develop across western Montana adjacent to the higher terrain. Some
-   storms that form in the northern Rockies will move northeastward
-   toward and through this pocket of instability in the lower
-   elevations, where SBCAPE could approach 1000 J/kg late this
-   afternoon. The instability and very steep low to mid-level lapse
-   rates will contribute to a potential for isolated severe wind gusts.
+   ...Montana...
+   Mid/upper-level ridging will extend from the southern/central
+   Rockies to the northern Plains/Upper Midwest through the period,
+   with a belt of enhanced southwesterly mid-level flow over
+   western/central MT. High-based thunderstorms may develop this
+   afternoon across parts of southwest into central MT amid a deeply
+   mixed boundary layer. While low-level moisture and related
+   instability are both expected to remain limited, some risk for
+   occasional strong to severe gusts may accompany this convection as
+   it spreads northward through the early evening before weakening.
 
-   ..Broyles/Halbert.. 07/13/2026
+   ...Arizona...
+   Showers and isolated thunderstorms are still ongoing this morning
+   across parts of southern AZ. While mid-level east-southeasterly flow
+   will persist today across much of AZ on the southern periphery of
+   prominent upper ridging, it remains unclear how much destabilization
+   will occur in the wake of this morning's convection. Whether
+   convection will be able to spread westward off the higher terrain of
+   southeast AZ and the Mogollon Rim is also uncertain. Have therefore
+   not included low severe wind probabilities with this update.
+
+   ..Gleason/Thornton.. 07/13/2026
