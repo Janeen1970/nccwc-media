@@ -140,13 +140,14 @@ aside.card{width:35%;}
   </div>
 </div>
 
-<!-- LE FLORE COUNTY -->
+<!-- HACKETT -->
 <div class="ticker hackett">
-  <div class="label">LE FLORE</div>
+  <div class="label">HACKETT</div>
   <div class="scroll">
-    <div id="leflore-text" class="mover"></div>
+    <div id="hackett-text" class="mover"></div>
   </div>
 </div>
+
 <!-- WORLD -->
 <div class="ticker world">
   <div class="label">WORLD</div>
@@ -240,7 +241,7 @@ function loadTicker(file,id,fallback){
       else if(id === "radar-text") el.style.setProperty("--speed","120s");
       else if(id === "walt-text") el.style.setProperty("--speed","120s");
       else if(id === "live-bar-text") el.style.setProperty("--speed","120s");
-      else if(id === "leflore-text") el.style.setProperty("--speed","120s");
+      else if(id === "hackett-text") el.style.setProperty("--speed","120s");
       else if(id === "world-text") el.style.setProperty("--speed","120s");
       else if(id === "marine-text") el.style.setProperty("--speed","120s");
     })
@@ -256,7 +257,7 @@ function loadAllTickers(){
   loadTicker("warning.txt","warning-text","No warnings.");
   loadTicker("reports.txt","report-text","No reports.");
   loadTicker("radar.txt","radar-text","Radar quiet.");
-  loadTicker("leflore.txt","leflore-text","No Le Flore County data.");
+  loadTicker("hackett.txt","hackett-text","No Hackett data.");
   loadTicker("world.txt","world-text","No World data.");
   loadTicker("marine.txt","marine-text","No marine data.");
 }
