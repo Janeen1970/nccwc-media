@@ -1,106 +1,78 @@
- Day 1 Convective Outlook  
+  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0249 PM CDT Tue Jul 14 2026
+   1252 AM CDT Wed Jul 15 2026
 
-   Valid 142000Z - 151200Z
+   Valid 151200Z - 161200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
-   OF THE NORTHEAST...
-
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS CENTRAL
-   MONTANA...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   NEW ENGLAND...THE MID-ATLANTIC...NORTHERN ROCKIES...AND ARIZONA...
 
    ...SUMMARY...
-   Severe thunderstorms capable of producing damaging winds, large
-   hail, and a few tornadoes are expected today across parts of
-   northern New York and New England. Thunderstorms with scattered
-   severe winds and isolated hail will also be possible across portions
-   of Montana.
+   There is a conditional risk for severe storms capable of large hail
+   and damaging winds in the Mid-Atlantic Wednesday afternoon and
+   evening. Isolated occurrences of mainly damaging wind gusts appear
+   possible in northern New England, the northern Rockies, and Arizona.
 
-   ...20z Update...
-   The previous forecast largely remains on track with only minor
-   adjustments required. Convection across southeast Quebec has
-   struggled to maintained intensity as it approaches the U.S. border
-   through mid-afternoon with abundant cirrus, smoke, and cloud debris
-   overspreading central to northern ME. Recent surface observations
-   show temperatures remaining in the mid/upper 70s, which is
-   supporting very limited MLCAPE per the 18 UTC CAR RAOB. This casts
-   considerable uncertainty on the degree of destabilization that will
-   occur through the early evening hours. Latest CAM guidance appears
-   to be capturing this trend and depicts low probabilities for intense
-   UH and/or strong wind swaths across northern ME. 30%/Enhanced
-   contours were trimmed southward to account for this decreased
-   confidence. 
+   ...Synopsis...
 
-   Further southwest, warmer temperatures in the 80s are supporting a
-   more volatile atmosphere with MLCAPE values estimated to be around
-   2000 J/kg. Strong shear remains across the region per VWP
-   observations, and CAM guidance continues to depict some potential
-   for intense convection traversing northern NY, VT, NH and western ME
-   later this evening as the primary surface trough migrates east. Risk
-   probabilities have been shifted southwest to better align with the
-   better thermodynamic environment and convective signal. However, the
-   recent convective trends upstream and modulating influence of
-   wildfire smoke on boundary-layer mixing/CIN reduction casts
-   uncertainty on how widespread the severe threat may be. 
+   A high-over-low blocking pattern will remain anchored over central
+   North America with an embedded shortwave trough and associated 70 kt
+   mid-level jet streak translating through New England and the
+   northern Mid-Atlantic Wednesday afternoon. That system will be
+   attended by a surface front, which will settle south into the
+   central Mid-Atlantic during the peak of the diurnal heating cycle.
 
-   ...Florida...
-   Regional reflectivity and velocity data shows a few stronger
-   thunderstorms developing across the FL Peninsula with occasional
-   downbursts. Further heating over the next few hours will continue to
-   support some potential for strong/severe downburst winds. See MCD
-   #1614 for additional information.
 
-   ...Montana...
-   Deepening cumulus is noted within the higher terrain of southern MT
-   and western WY as temperatures warm into the upper 80s and low 90s.
-   Guidance continues to show reasonably strong agreement in the
-   emergence of one or more clusters across the region through
-   mid-evening that will pose a risk of large hail and severe gusts.
-   With low-level lapse rates increasing to around 8 C/km and 30-40
-   knots of effective shear in place, there is some potential for
-   sporadic wind gusts upwards of 65-75 mph. This potential is
-   highlighted by recent CAM ensembles, and warranted introducing a CIG
-   level 1 area across parts of central MT where thermodynamic
-   conditions should be most favorable through early evening.
+   ...Mid-Atlantic...
 
-   ..Moore.. 07/14/2026
+   Temperatures in the 90s to around 100 are forecast south of the
+   front, which coupled with dewpoints in the upper 60s to low 70s,
+   will contribute to a moderately unstable air mass by afternoon with
+   MLCAPE of 1500-2500 J/kg. The strongest height falls/forcing for
+   ascent associated with the shortwave trough are expected to remain
+   north of the surface frontal zone, and as a result, the extent of
+   thunderstorm development along the boundary remains uncertain.
+   Another factor that could limit storm development is the potential
+   for instability reduction along the front due to the existence of
+   wildfire smoke, as depicted in recent HRRR runs.  
 
-   .PREV DISCUSSION... /ISSUED 1115 AM CDT Tue Jul 14 2026/
+   Given the uncertainty in storm initiation and sustenance, a level
+   1/Marginal Risk will be maintained with this forecast. However, on
+   the condition that surface-based storms develop, the presence of
+   seasonably strong mid-level winds and resultant 40-50+ kt of
+   effective bulk shear will support supercells capable of large hail
+   and damaging winds. 
 
-   ...New England...
-   Morning water vapor imagery shows a belt of 80+ knot mid level winds
-   nosing from eastern Ontario into Quebec, with mid-level height falls
-   and large-scale forcing spreading into northern New England.  This
-   has been aiding in multiple rounds of intense thunderstorms over
-   Quebec this morning, but so far this activity has struggled to make
-   it into the US due to a more stable air mass.  This will change
-   through the day as a moist and moderately unstable air mass advects
-   eastward into parts of New England ahead of the primary convective
-   activity.  Widespread smoke from upstream fires will also somewhat
-   limit daytime heating today, although the extent of the cooling is
-   uncertain.  
 
-   Present indications are that several convective cells and clusters
-   will track southeastward across parts of eastern NY, VT/NH and
-   western ME later this afternoon and evening.  Forecast soundings in
-   this region show favorable CAPE/shear combinations for supercell
-   storms capable of damaging winds, large hail, and a few tornadoes. 
-   Larger bowing clusters may also evolve, with a greater risk of
-   damaging winds.  This activity may persist after midnight with a
-   continued severe risk.
+   ...Northern New England...
 
-   ...MT...
-   A shortwave trough now over NV and its associated mid-level speed
-   max will rotate northward into parts of ID/MT this afternoon and
-   evening, aiding in the development of thunderstorms over the
-   mountains.  Storms are expected to spread northeastward into the
-   Plains during the evening, with a risk of severe wind gusts in the
-   strongest storms.
+   Within the zone of strongest forcing for ascent associated with the
+   shortwave trough, a band of low-topped showers and thunderstorms is
+   expected to develop during the afternoon amidst a marginally
+   unstable environment. Steepening low-level lapse rates and a
+   unidirectional wind profile with 35-40 kt winds as low as 1.5-2.0 km
+   AGL will support the potential for locally damaging wind gusts.
 
-   ...FL...
-   Hot and humid conditions will lead to strong afternoon CAPE values
-   and scattered thunderstorms over the central FL peninsula.  Forecast
-   soundings show slightly enhanced westerly flow around 700mb across
-   this area, which may aid in occasionally damaging winds in the
-   stronger cores.
+
+   ...South-central Montana and north-central Wyoming...
+
+   Heating along the high terrain coupled with the glancing influence
+   of a subtle disturbance is expected to foster widely scattered
+   afternoon thunderstorms amidst a moderately unstable air mass
+   featuring a relatively deep, well-mixed boundary layer. A number of
+   the 00Z CAMs indicate the potential for some cold pool organization
+   with an attendant risk for isolated severe wind gusts into the
+   evening.
+
+
+   ...Arizona...
+
+   Scattered afternoon and evening thunderstorms are expected from the
+   Colorado and San Francisco Plateaus into the Sonoran Desert amidst a
+   moderately unstable air mass with a deep and well-mixed boundary
+   layer. That thermodynamic environment will be supportive of isolated
+   strong downbursts; however, more organized severe wind gust
+   potential is expected to be limited by the weak vertical shear that
+   is forecast.
+
+   ..Mead/Lyons.. 07/15/2026
