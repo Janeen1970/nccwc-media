@@ -1,109 +1,79 @@
   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0705 AM CDT Thu Jul 16 2026
+   1258 AM CDT Fri Jul 17 2026
 
-   Valid 161300Z - 171200Z
+   Valid 171200Z - 181200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   WESTERN MONTANA AND NORTHERN NEW ENGLAND...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
+   THE NORTHERN ROCKIES...GREAT LAKES AND OHIO VALLEY TO THE SOUTHERN
+   APPALACHIANS....
 
    ...SUMMARY...
-   Severe thunderstorms capable of producing large hail and gusty winds
-   will be possible across parts of the northern Rockies this afternoon
-   and evening. Isolated to scattered damaging winds may also occur
-   over portions of northern New England, the Upper Midwest, and
-   Mid-Atlantic. A brief tornado or two remains possible across a small
-   part of south-central Texas this morning.
+   Strong to potentially severe storms are possible today across parts
+   of western Montana and northern Idaho, and also across parts of the
+   Upper Midwest and northern Great Lakes. More isolated strong to
+   severe storms with damaging gusts are possible over parts of the
+   Ohio Valley and southern Appalachians.
 
-   ...Northern Rockies...
-   A closed upper low will move slowly northward along the coast of
-   WA/OR through the period. Upper ridging will persist across much of
-   the Rockies to the Plains. Between these features, a belt of
-   modestly enhanced south/southwesterly deep-layer flow will
-   overspread the northern Rockies. Modest easterly low-level winds
-   will transport generally 50s to low 60s surface dewpoints across
-   this region beneath steep mid-level lapse rates. As daytime heating
-   occurs, moderate instability should develop. Scattered thunderstorms
-   are forecast to initially form over the higher terrain during the
-   afternoon. Veering wind profiles with height through mid/upper
-   levels and gradually strengthening flow aloft will support around
-   30-40 kt of effective bulk shear. Organized cells will pose a risk
-   for gusty winds and severe hail across much of the region. The
-   greatest risk for 1+ inch hail still appears to be across parts of
-   western MT.
+   ...Northern Rockies and Adjacent Plains...
+   An upper low over the Pacific Northwest is forecast to lift slowly
+   northward as an expansive upper ridge continues to build across the
+   western US. East of the low, a broad area of monsoon moisture will
+   persist over much of the Rocky Mountains. Weak ascent on the
+   periphery of the upper low and diurnal heating across the higher
+   terrain should allow for scattered thunderstorm development through
+   the afternoon. While displaced from the core of the stronger flow
+   aloft as the upper low drifts to the north, sufficient effective
+   shear of 25-35 kt will exist for occasional storm organization.
+   Isolated hail and severe gusts could accompany the strongest storms
+   into the evening across ID and western MT.
 
-   ...Northern New England...
-   A vigorous mid-level shortwave trough will move quickly
-   southeastward from southern Ontario/Quebec across New England
-   through the day. Strong west/northwest deep-layer flow is evident in
-   recent NAM/RAP forecast soundings. Boundary layer moisture will be
-   somewhat limited compared to prior days, with surface dewpoints
-   generally in the 50s. Still, somewhat greater daytime heating is
-   expected to the north of the more prominent smoke plume across
-   southern New England, which should help steepening low-level lapse
-   rates by late morning/early afternoon. While MLCAPE will remain
-   modest (around 250-500 J/kg), the strong low/mid-level westerly flow
-   and steepened low-level lapse rates should support scattered
-   damaging winds as low-topped convection spreads southeast from
-   Quebec and across portions of northern New England through the
-   afternoon. Confidence in this scenario occurring has increased
-   enough to add greater severe wind probabilities and a corresponding
-   Slight Risk to parts of northeast VT/northern NH and ME.
+   ...Upper Midwest and northern Great Lakes...
+   An upper trough initially over AB/SK will move southward into the
+   northern Great Lakes by early Saturday. A belt of stronger mid-level
+   flow accompanying the upper trough will aid in deepening a surface
+   low as it moves into western ON. A warm front will lift north with
+   the deepening low over the Upper Midwest. A cold front trailing the
+   surface low will provide a focus for thunderstorm development over
+   northern MN, WI and the UP of MI this afternoon and evening.
 
-   ...Mid-Atlantic...
-   Enhanced west-northwesterly mid/upper-level winds will overspread
-   the Mid-Atlantic today on the southern periphery of the mid-level
-   shortwave trough moving across New England. A surface front is
-   expected to sag southward through the day, approaching the PA/MD
-   border vicinity by late afternoon. Rich low-level moisture will be
-   in place ahead of the surface front and beneath steepening mid-level
-   lapse rates spreading in from the OH Valley. This, along with
-   diurnal heating, will foster a corridor of moderate to locally
-   strong instability this afternoon. Furthermore, various NAM/RAP
-   forecast soundings show 30-40 kt of effective bulk shear and steep
-   low-level lapse rates present south of the front. This environment
-   would generally support organized cells/line segments. However,
-   overall thunderstorm coverage remains uncertain given that stronger
-   forcing for ascent should remain mostly north of the warm sector.
-   Additionally, it is uncertain if smoke will continue to have a
-   negative impact on an otherwise favorable environment for severe
-   thunderstorms. Given the conditional potential for at least locally
-   damaging winds, have maintained the Marginal Risk with minor
-   expansions.
+   A cluster of elevated thunderstorms is likely to be ongoing early in
+   the period near or just across the international border. These
+   storms could reinvigorate with a risk for some damaging gusts and
+   hail, though confidence in the convective evolution is low. Later in
+   the day ahead of the cold front, moderate buoyancy and sufficient
+   deep-layer shear will conditionally support a threat for isolated
+   supercells or organized multicell clusters, with a threat of hail
+   and damaging winds. Any persistent supercell may also pose at least
+   a brief tornado threat, especially in closer proximity to the
+   surface low and warm front where low-level shear will be maximized.
 
-   ...Northeast North Dakota/Northern Minnesota...
-   A series of convectively enhanced vorticity maxima will migrate
-   across the Canadian Prairies north of the prominent upper ridge over
-   the Plains/Rockies, and through northwesterly flow aloft into parts
-   of ND and northern MN this afternoon into tonight. At the surface, a
-   weak low and surface front will move across ND into northern MN
-   during the evening and overnight hours. South/southeasterly
-   low-level flow will maintain a moisture-rich boundary layer,
-   supporting a narrow corridor of instability. NAM/RAP forecast
-   soundings show supercell wind profiles, but also increasing capping
-   through the late afternoon/evening. Even so, most high-resolution
-   guidance develops convection across southern Manitoba into northern
-   ND during the evening, spreading east/southeast across northern MN
-   overnight. Isolated severe hail and damaging winds may occur with
-   this activity.
+   As the main upper trough continues to southeast one or more clusters
+   of strong to severe storms may persist into the overnight along the
+   warm front. However, confidence in this scenario is lower owing to
+   the prior convection and uncertainties of diurnal development along
+   the cold front. Still, a strengthening wind field and ample moisture
+   could support a risk for damaging winds into northern Lower MI
+   overnight.
 
-   ...South-Central Texas...
-   Low-level rotation has occasionally been noted with cells occurring
-   early this morning across parts of south-central TX in a very moist
-   and weakly unstable environment, aided by a 30-35 kt southerly
-   low-level jet. A brief tornado or two still appears possible with
-   this activity through the morning, as low-level shear will remain
-   sufficient for continued updraft rotation. With time, a gradual
-   weakening of the low-level jet and related shear should result in a
-   lessening risk for tornadoes. See Mesoscale Discussion 1631 for more
-   details on the near-term threat across this area.
+   ...OH Valley to the southern Appalachians...
+   A warm and seasonably moist air mass will support moderate to
+   locally strong buoyancy beneath the upper ridge from the OH valley
+   toward the Southeast and southern Appalachians. A weak, convectively
+   enhanced sub-tropical disturbance moving northward and the higher
+   terrain should focus more widespread diurnal thunderstorm activity
+   from portions of IN/OH, into eastern KY/TN, the western Carolinas
+   and northern GA. Despite weak deep-layer shear below 20 kt, moderate
+   to strong MLCAPE (2000-3000 J/kg) and PWATS exceeding 2 inches may
+   allow for sporadic damaging gusts with any stronger multicell
+   clusters.
 
-   ...Arizona...
-   Thunderstorms will develop over the higher terrain of the Mogollon
-   Rim and southeast AZ this afternoon/evening, and subsequently spread
-   westward across portions of central/southern AZ. Mid-level winds are
-   expected to be weaker compared to previous days, but modest
-   instability and steep lapse rates amid strong heating could support
-   sporadic strong gusts.
+   ...FL...
+   CAM guidance shows vigorous storm development just offshore of the
+   FL Gulf Coast Friday morning, in association with a weak midlevel
+   trough/low. Additional storm development is expected by afternoon
+   across much of the peninsula. Large buoyancy and high PWATs suggest
+   localized strong to severe gusts cannot be ruled out near the coast
+   and inland this afternoon.
 
-   ..Gleason/Thornton.. 07/16/2026
+   ..Lyons/Weinman.. 07/17/2026
