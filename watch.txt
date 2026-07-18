@@ -1,79 +1,79 @@
   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1258 AM CDT Fri Jul 17 2026
+   0719 AM CDT Sat Jul 18 2026
 
-   Valid 171200Z - 181200Z
+   Valid 181300Z - 191200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
-   THE NORTHERN ROCKIES...GREAT LAKES AND OHIO VALLEY TO THE SOUTHERN
-   APPALACHIANS....
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS OVER PORTIONS
+   OF THE NORTHEAST...MID ATLANTIC AND LOWER GREAT LAKES...
 
    ...SUMMARY...
-   Strong to potentially severe storms are possible today across parts
-   of western Montana and northern Idaho, and also across parts of the
-   Upper Midwest and northern Great Lakes. More isolated strong to
-   severe storms with damaging gusts are possible over parts of the
-   Ohio Valley and southern Appalachians.
+   Severe thunderstorms are expected across portions of the Ohio Valley
+   and Lower Great Lakes into the Mid-Atlantic and Northeast this
+   afternoon and evening.  Damaging gusts will be the primary threat,
+   but a few tornadoes are possible, including perhaps a strong
+   tornado.
 
-   ...Northern Rockies and Adjacent Plains...
-   An upper low over the Pacific Northwest is forecast to lift slowly
-   northward as an expansive upper ridge continues to build across the
-   western US. East of the low, a broad area of monsoon moisture will
-   persist over much of the Rocky Mountains. Weak ascent on the
-   periphery of the upper low and diurnal heating across the higher
-   terrain should allow for scattered thunderstorm development through
-   the afternoon. While displaced from the core of the stronger flow
-   aloft as the upper low drifts to the north, sufficient effective
-   shear of 25-35 kt will exist for occasional storm organization.
-   Isolated hail and severe gusts could accompany the strongest storms
-   into the evening across ID and western MT.
+   ...OH Valley and Great Lakes to the Mid Atlantic and Northeast...
+   Water-vapor imagery this morning shows a potent mid-level shortwave
+   trough moving southeast over the Upper Great Lakes towards the
+   Northeast during the period.  The primary upper vorticity max will
+   rotate through the base of the larger-scale trough and through the
+   St. Lawrence Valley, before an upstream disturbance west of James
+   Bay this morning pivots southeast and reaches Maine/eastern Quebec
+   by early Sunday.  Surface analysis this morning places a 1004-mb low
+   north of Georgian Bay and a cold front extending west-southwestward
+   into northern IA.  An attendant warm front arching southeastward
+   through the Lower Great Lakes and draped over the Mid-Atlantic
+   states will advance northward as the cyclone develops east towards
+   northern Maine by late evening.  Concurrently, the cold front will
+   push southeast across much of Great Lakes into the OH Valley.  
 
-   ...Upper Midwest and northern Great Lakes...
-   An upper trough initially over AB/SK will move southward into the
-   northern Great Lakes by early Saturday. A belt of stronger mid-level
-   flow accompanying the upper trough will aid in deepening a surface
-   low as it moves into western ON. A warm front will lift north with
-   the deepening low over the Upper Midwest. A cold front trailing the
-   surface low will provide a focus for thunderstorm development over
-   northern MN, WI and the UP of MI this afternoon and evening.
+   South of the boundary, a very moist air mass was sampled this
+   morning by 12 UTC raobs and surface observations (i.e., upper 60s to
+   lower 70s F dewpoints).  A few thunderstorm clusters this morning
+   have developed near the warm frontal zone from the Lower Great Lakes
+   into the Mid-Atlantic states.  The early day storm activity will
+   likely be limited in storm vigor, due in part to initially
+   widespread cloud cover inhibiting strong heating in the areas
+   downstream over parts of PA/NY.  Gradual dissipation of clouds and
+   heating coupled with the northeastward advancement of the warm
+   sector will promote a broad area to become moderately to strongly
+   unstable later today (1000-3000 J/kg MLCAPE) from the OH Valley
+   eastward into the Mid-Atlantic and parts of the Northeast.  
 
-   A cluster of elevated thunderstorms is likely to be ongoing early in
-   the period near or just across the international border. These
-   storms could reinvigorate with a risk for some damaging gusts and
-   hail, though confidence in the convective evolution is low. Later in
-   the day ahead of the cold front, moderate buoyancy and sufficient
-   deep-layer shear will conditionally support a threat for isolated
-   supercells or organized multicell clusters, with a threat of hail
-   and damaging winds. Any persistent supercell may also pose at least
-   a brief tornado threat, especially in closer proximity to the
-   surface low and warm front where low-level shear will be maximized.
+   A belt of westerly 30-45 kt 700-mb flow from northern VA into the
+   Northeast will aid in storm organization and severe potential this
+   afternoon and evening.  Models differ substantially regarding
+   evolution/timing of possible bands of storms and clusters with
+   embedded cells.  Regardless of specific details, it seems plausible
+   several multicellular bands of storms will develop during peak
+   heating and organize as these bands move east.  Some of the more
+   intense cells will potentially become supercellular posing an
+   all-hazards severe risk.  Have largely unchanged the previous
+   outlook given the inherent thunderstorm evolution-based
+   uncertainties.  Potentially widespread damaging gusts [50-60 mph,
+   locally stronger (55-70 mph) perhaps paralleling the I-95 corridor
+   from Chesapeake Bay into southern New England].  A few tornadoes are
+   possible both from linear and cellular storm structures given some
+   low-level hodograph enlargement and moist low levels.  
 
-   As the main upper trough continues to southeast one or more clusters
-   of strong to severe storms may persist into the overnight along the
-   warm front. However, confidence in this scenario is lower owing to
-   the prior convection and uncertainties of diurnal development along
-   the cold front. Still, a strengthening wind field and ample moisture
-   could support a risk for damaging winds into northern Lower MI
-   overnight.
+   Farther west, veered low-level flow ahead of the cold front will
+   promote upscale growth into a few bands of cells and line segments
+   across the southern Great Lakes into the OH Valley.  Damaging gusts
+   appear to be the primary hazard but a localized risk for hail and
+   perhaps a couple of tornadoes may accompany this activity.  
 
-   ...OH Valley to the southern Appalachians...
-   A warm and seasonably moist air mass will support moderate to
-   locally strong buoyancy beneath the upper ridge from the OH valley
-   toward the Southeast and southern Appalachians. A weak, convectively
-   enhanced sub-tropical disturbance moving northward and the higher
-   terrain should focus more widespread diurnal thunderstorm activity
-   from portions of IN/OH, into eastern KY/TN, the western Carolinas
-   and northern GA. Despite weak deep-layer shear below 20 kt, moderate
-   to strong MLCAPE (2000-3000 J/kg) and PWATS exceeding 2 inches may
-   allow for sporadic damaging gusts with any stronger multicell
-   clusters.
+   ...Northern Rockies...
+   The mid/upper-level low that has lingered over the Pacific Northwest
+   this week is forecast to move northeastward and weaken to an open
+   wave as it lifts across far northern ID/MT into southern Canada. 
+   While only glancing over the northern Rockies, modestly enhanced
+   southwesterly flow aloft will be maintained across the region
+   through the day/evening.  Monsoon moisture and strong diurnal
+   heating will support widely scattered storm development during the
+   afternoon, with MLCAPE increasing to near 1000 J/kg and effective
+   shear of 30+ kt.  This could support a threat of isolated hail and
+   localized strong to severe gusts with the more robust storms.
 
-   ...FL...
-   CAM guidance shows vigorous storm development just offshore of the
-   FL Gulf Coast Friday morning, in association with a weak midlevel
-   trough/low. Additional storm development is expected by afternoon
-   across much of the peninsula. Large buoyancy and high PWATs suggest
-   localized strong to severe gusts cannot be ruled out near the coast
-   and inland this afternoon.
-
-   ..Lyons/Weinman.. 07/17/2026
+   ..Smith/Broyles.. 07/18/2026
