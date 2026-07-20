@@ -1,53 +1,78 @@
- Day 2 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1233 PM CDT Sun Jul 19 2026
+   0718 AM CDT Mon Jul 20 2026
 
-   Valid 201200Z - 211200Z
+   Valid 201300Z - 211200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FROM IOW ACROSS
-   WISCONSIN AND INTO WESTERN UPPER MICHIGAN...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+   OF THE UPPER MIDWEST AND GREAT LAKES...
+
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS NORTH
+   CAROLINA AND FAR SOUTHERN VIRGINIA...
 
    ...SUMMARY...
-   Severe thunderstorms are probable across portions of the Upper
-   Midwest and Great Lakes vicinity on Monday. Swaths of damaging
-   winds, large hail, and a few tornadoes will all be possible.
-   Isolated strong to damaging gusts may occur over parts of the
-   Carolinas.
+   Severe thunderstorms are expected across portions of the Upper
+   Midwest and Great Lakes vicinity, especially late this afternoon and
+   tonight.  Swaths of damaging winds, large hail, and a few tornadoes
+   will all be possible. Isolated damaging wind gusts may also occur
+   over parts of the Carolinas and southern Virginia.
 
-   ...From IA across WI and into Upper MI...
-   A substantial shortwave trough will dive southeastward across the
-   upper MS Valley and toward the Great Lakes, with a broad area of
-   50-70 kt midlevel northwesterlies. Upper-level winds will be
-   stronger, with over 100 kt at 300 mb from MN into WI. Cool
-   temperatures aloft will also result in steep midlevel lapse rates
-   over 7 C/km.
+   ...Upper Midwest/Great Lakes...
+   Radar/IR satellite composite this morning shows a decaying MCS over
+   far northern IA into west-central WI with warm-advection-related
+   storms moving east-southeast atop the MCS cold pool.  This
+   convective activity is occurring downstream of a seasonably potent 
+   mid-level shortwave trough and associated jet streak.  
 
-   A few early day storms may produce hail over eastern MN into western
-   WI as elevated instability will be strong and effective shear over
-   50 kt. This activity is expected to wane during the day, with new
-   storms developing along the cold front as it pushes into western
-   Upper MI, WI, and northern IA.
+   Surface analysis this morning places a front over the mid MS Valley
+   extending north-northwest and intersecting an outflow boundary over
+   southwest MN.  A surface low over western ON is forecast to develop
+   east across north-central ON as an attendant cold front pushes
+   southeast across the Upper Midwest.  The front over the mid- to
+   upper MS Valley will advance northeast as a warm front and the warm
+   sector will become increasingly narrow with northward extent in the
+   northern WI vicinity.  
 
-   Initial storms should primarily be supercells given such strong
-   shear. A corridor of tornado risk is evident east of the instability
-   axis from IA across WI and into Upper MI, and effective SRH may
-   exceed 300 m2/s2. Surface winds may veer with time, but any
-   rightward movement off the hodograph may lead to a large increase of
-   effective SRH for some of the larger supercells.
+   A warm and seasonably moist airmass will advect northeast into WI in
+   wake of the morning showers/thunderstorms, while a plume of elevated
+   mixed-layer air overspreads the region from the west.  Models
+   generally show upper 60s to lower/middle 70s F surface dewpoints
+   contributing to a very unstable boundary layer by mid-late
+   afternoon.  However, considerable uncertainty remains regarding
+   details with this forecast update due in part to the morning
+   convection and downstream destabilization/hazard specifics for later
+   this afternoon/evening. 
 
-   A conditional risk of a strong tornado also exists from far
-   northeast IA across much of WI. Here, 0-3 km shear will be strong,
-   with 50 kt winds at 700 mb. Several models indicate a VGP at or
-   above 0.4.
+   It is plausible the initial storms that develop later this afternoon
+   will quickly organize into supercells given strong deep-layer shear
+   and ample buoyancy ahead of the cold front.  In agreement with prior
+   forecast thinking, a corridor of large hail and tornado risk will
+   extend from Iowa across Wisconsin into Upper MI.  Forecast soundings
+   show elongated hodographs with 35-50 kt 700 mb flow, which will act
+   to enlarge hodographs and perhaps support a couple of strong
+   tornadoes.  However, will defer any potential severe changes to
+   later outlook updates if greater confidence and morning convective
+   details are resolved.  Eventually, a few clusters will probably
+   evolve this evening, with a continued damaging wind and some tornado
+   risk persisting southeastward before eventually waning overnight.  
 
-   With time, some of the cells may bow southeastward with corridors of
-   significant wind damage and hail possible.
+   ...Carolinas and southern Virginia...
+   Strong heating to the south of a west-east oriented stalled front
+   will contribute to moderate buoyancy by early to mid afternoon. 
+   Rich low-level moisture (surface dewpoints in the 70s F) and moist
+   tropospheric profiles will yield high PW and the potential for
+   water-loaded downdrafts with the more intense thunderstorm cores. 
+   Scattered thunderstorms with an isolated to scattered wind-damage
+   threat will probably focus during the 18-00 UTC period.  
 
-   ...Southern VA into NC...
-   Daytime heating, 70s F dewpoints and surface convergence near a weak
-   low will aid storm formation from western into central NC after 20Z.
-   MLCAPE over 2000 J/kg, PWAT over 2.00", and westerly flow aloft near
-   20 kt will lead to multicellular storm mode with locally damaging
-   wind gusts.
+   ...Florida...
+   Tropical Depression Two is forecast to slowly intensify across the
+   northeast Gulf of America today and tonight (refer to NHC's latest
+   forecast details).  Model guidance shows some gradual strengthening
+   of 2-3km AGL flow, especially across the western Florida Peninsula. 
+   Yet, forecast soundings imply the possibility for transient
+   supercell structures will likely be limited/low due to substantially
+   weaker flow in the midlevels---precluding a low-severe highlight at
+   this time.
 
-   ..Jewell.. 07/19/2026
+   ..Smith/Broyles.. 07/20/2026
