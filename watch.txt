@@ -1,78 +1,89 @@
-Day 1 Convective Outlook  
+
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0718 AM CDT Mon Jul 20 2026
+   1118 AM CDT Tue Jul 21 2026
 
-   Valid 201300Z - 211200Z
+   Valid 211630Z - 221200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
-   OF THE UPPER MIDWEST AND GREAT LAKES...
-
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS NORTH
-   CAROLINA AND FAR SOUTHERN VIRGINIA...
+   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE OHIO VALLEY TO MID-ATLANTIC STATES...
 
    ...SUMMARY...
-   Severe thunderstorms are expected across portions of the Upper
-   Midwest and Great Lakes vicinity, especially late this afternoon and
-   tonight.  Swaths of damaging winds, large hail, and a few tornadoes
-   will all be possible. Isolated damaging wind gusts may also occur
-   over parts of the Carolinas and southern Virginia.
+   Numerous severe thunderstorms are expected across a broad region
+   from the Tennessee and Ohio Valleys to the Mid-Atlantic and
+   Northeast States today into tonight. Swaths of damaging wind gusts
+   are expected to be the most common impact, but some tornadoes are
+   possible as well.
 
-   ...Upper Midwest/Great Lakes...
-   Radar/IR satellite composite this morning shows a decaying MCS over
-   far northern IA into west-central WI with warm-advection-related
-   storms moving east-southeast atop the MCS cold pool.  This
-   convective activity is occurring downstream of a seasonably potent 
-   mid-level shortwave trough and associated jet streak.  
+   ...Tennessee/Ohio Valley into the Mid-Atlantic and Northeast...
+   Recent satellite imagery reveals a shortwave trough moving quickly
+   southeastward across the Upper Great Lakes region, embedded within
+   the upper troughing that covers much of eastern Canada and extends
+   down into the Ohio Valley. Moderate mid-level flow accompanies this
+   shortwave, with wind speeds greater than 50 kt sampled around 500 mb
+   on the 12Z ILX, DTX, ILN, and PIT soundings. The strongest flow was
+   sampled at ILX and DTX, and the expectation is for this stronger
+   flow to spread eastward today, moving in tandem with the progressive
+   shortwave. 
 
-   Surface analysis this morning places a front over the mid MS Valley
-   extending north-northwest and intersecting an outflow boundary over
-   southwest MN.  A surface low over western ON is forecast to develop
-   east across north-central ON as an attendant cold front pushes
-   southeast across the Upper Midwest.  The front over the mid- to
-   upper MS Valley will advance northeast as a warm front and the warm
-   sector will become increasingly narrow with northward extent in the
-   northern WI vicinity.  
+   Showers and thunderstorms are already ongoing downstream of this
+   shortwave, with the highest coverage along and near the pre-frontal
+   trough in Ohio. Recent surface analysis reveals a somewhat complex
+   boundary structure, with a wavy warm front, a diffuse pre-frontal
+   trough, and a cold front. Primary warm front appears to extend
+   west-to-east from southeast Ohio across southern Pennsylvania and
+   into northern New Jersey, far southern New York, and extreme
+   southwest Connecticut. The cold front arcs southwestward from
+   northern Lower Michigan through central Illinois and central
+   Michigan. 
 
-   A warm and seasonably moist airmass will advect northeast into WI in
-   wake of the morning showers/thunderstorms, while a plume of elevated
-   mixed-layer air overspreads the region from the west.  Models
-   generally show upper 60s to lower/middle 70s F surface dewpoints
-   contributing to a very unstable boundary layer by mid-late
-   afternoon.  However, considerable uncertainty remains regarding
-   details with this forecast update due in part to the morning
-   convection and downstream destabilization/hazard specifics for later
-   this afternoon/evening. 
+   Highest overall coverage is anticipated along and ahead of the cold
+   front this afternoon through this evening, with additional
+   development expected farther east (from central Pennsylvania into
+   central Virginia) along the lee trough as well. Highest buoyancy is
+   expected along the western periphery of the cold front from central 
+   into western Kentucky, where mid to upper 70s dewpoints are
+   anticipated amid temperatures in the upper 80s/low 90s. Strong
+   buoyancy is still anticipated across Ohio as well. Robust
+   thunderstorm development is expected along the front. Vertical shear
+   is robust enough for supercells, but linear forcing along the front
+   and strong downdraft production will likely lead to quick upscale
+   growth. In either convective mode, damaging gusts (with speeds from
+   55 to 70 mph) will be the primary risk, with brief tornadoes as a
+   secondary threat, and large hail tertiary.  
 
-   It is plausible the initial storms that develop later this afternoon
-   will quickly organize into supercells given strong deep-layer shear
-   and ample buoyancy ahead of the cold front.  In agreement with prior
-   forecast thinking, a corridor of large hail and tornado risk will
-   extend from Iowa across Wisconsin into Upper MI.  Forecast soundings
-   show elongated hodographs with 35-50 kt 700 mb flow, which will act
-   to enlarge hodographs and perhaps support a couple of strong
-   tornadoes.  However, will defer any potential severe changes to
-   later outlook updates if greater confidence and morning convective
-   details are resolved.  Eventually, a few clusters will probably
-   evolve this evening, with a continued damaging wind and some tornado
-   risk persisting southeastward before eventually waning overnight.  
+   Farther east, a similar convective environment exists, although with
+   slightly less buoyancy and deep-layer vertical shear. A more
+   outflow-dominant multicell mode is anticipated across the central
+   Virginia vicinity, with a trend towards a more organized mode
+   possible with northern extent. Primary risk will be damaging gusts,
+   including a few around 65 to 70 mph. A somewhat confined corridor of
+   greater tornado potential exists from the Hudson Valley vicinity
+   into western Massachusetts/Connecticut as the warm front lifts
+   northward. Here, enhanced vorticity along the boundary coupled with
+   stronger low-level southerly flow could support a few brief
+   tornadoes.
 
-   ...Carolinas and southern Virginia...
-   Strong heating to the south of a west-east oriented stalled front
-   will contribute to moderate buoyancy by early to mid afternoon. 
-   Rich low-level moisture (surface dewpoints in the 70s F) and moist
-   tropospheric profiles will yield high PW and the potential for
-   water-loaded downdrafts with the more intense thunderstorm cores. 
-   Scattered thunderstorms with an isolated to scattered wind-damage
-   threat will probably focus during the 18-00 UTC period.  
+   ...Great Basin...
+   Scattered to numerous thunderstorms are expected across the Great
+   Basin today, supported by strong diurnal heating/mixing and moderate
+   mid-level moisture along the western periphery of the upper ridging
+   centered over the central Rockies. A few strong updrafts/downdrafts
+   are possible, with an attendant risk for strong to severe (i.e. 50
+   to 65 mph) wind gusts. 
 
-   ...Florida...
-   Tropical Depression Two is forecast to slowly intensify across the
-   northeast Gulf of America today and tonight (refer to NHC's latest
-   forecast details).  Model guidance shows some gradual strengthening
-   of 2-3km AGL flow, especially across the western Florida Peninsula. 
-   Yet, forecast soundings imply the possibility for transient
-   supercell structures will likely be limited/low due to substantially
-   weaker flow in the midlevels---precluding a low-severe highlight at
-   this time.
+   ...Gulf Coast...
+   Tropical Storm Bertha is expected to continue to drift
+   west-northwestward over the northern Gulf tonight from off the coast
+   of the Florida Panhandle toward the southern Mississippi/southern
+   Alabama coast. Reference the National Hurricane Center for the
+   latest details. 
 
-   ..Smith/Broyles.. 07/20/2026
+   A strong low-level wind field will approach these coastal areas
+   later today and tonight. However, as is typical for a westward
+   moving tropical cyclone, forecast SRH should remain relatively
+   modest inland. Given the marginal thermodynamic profiles (aside from
+   the rich boundary layer moisture) and limited SRH over land, any
+   Bertha-related mini-supercell potential is expected remain offshore.
+
+   ..Mosier/Chalmers.. 07/21/2026
