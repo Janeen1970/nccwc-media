@@ -1,29 +1,39 @@
 URGENT - MARINE WEATHER MESSAGE
 National Weather Service New Orleans LA
-1016 AM CDT Tue Jul 21 2026
+426 AM CDT Wed Jul 22 2026
 
-Mississippi Sound-Lake Borgne-Breton Sound-Chandeleur Sound-
+GMZ531>536-541-543-551-553-554-557-570-572-575-577-222330-
+/O.CON.KLIX.TR.W.1002.000000T0000Z-000000T0000Z/
+Lake Pontchartrain-Mississippi Sound-
+Lake Salvador and Lake Cataouatche-Lake Borgne-Breton Sound-
+Chandeleur Sound-Terrebonne Bay-Barataria Bay-
+Coastal Waters from Port Fourchon LA to Lower Atchafalaya River
+LA out 20 nm-
+Coastal Waters from Southwest Pass of the Mississippi River to
+Port Fourchon LA out 20 nm-
 Coastal Waters from Boothville LA to Southwest Pass of the
 Mississippi River out 20 nm-
 Coastal waters from Pascagoula Mississippi to Stake Island out
 20 NM-
+Coastal waters from Port Fourchon Louisiana to Lower Atchafalaya
+River LA from 20 to 60 NM-
+Coastal waters from Southwest Pass of the Mississippi River to
+Port Fourchon Louisiana from 20 to 60 NM-
 Coastal Waters from Stake Island LA to Southwest Pass of the
 Mississippi River from 20 to 60 nm-
 Coastal waters from Pascagoula Mississippi to Stake Island
 Louisiana out 20 to 60 NM-
-1016 AM CDT Tue Jul 21 2026
+426 AM CDT Wed Jul 22 2026
 
 ...TROPICAL STORM WARNING REMAINS IN EFFECT...
 
-* WHAT...Southwest winds 30 to 40 kt with gusts up to 50 kt and
-  waves 3 to 6 feet over protected waters and seas 8 to 14 feet
-  over open waters.
+* WHAT...Southwest winds 25 to 35 kt with gusts up to 50 kt and
+  seas 7 to 12 ft.
 
-* WHERE...Portions of the Gulf including Lake Borgne, Breton
-  Sound, Chandeleur Sound.
+* WHERE...Portions of Gulf of America.
 
-* WHEN...Tropical Storm force winds possible from early this
-  afternoon until early Thursday morning.
+* WHEN...Tropical Storm force winds possible until late this
+  afternoon.
 
 * IMPACTS...Tropical storm force winds and hazardous seas will
   capsize or damage vessels and reduce visibility.
