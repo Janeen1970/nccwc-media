@@ -1,84 +1,76 @@
- Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1250 AM CDT Wed Jul 22 2026
+   0738 AM CDT Thu Jul 23 2026
 
-   Valid 221200Z - 231200Z
+   Valid 231300Z - 241200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
-   SOUTHERN MID-ATLANTIC...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS WESTERN
+   KANSAS...
 
    ...SUMMARY...
-   Isolated to scattered storms are possible in the southern
-   Mid-Atlantic into New England this afternoon/evening. Damaging winds
-   are the primary concern. Isolated strong to severe wind gusts are
-   also possible in the central High Plains and central Oregon.
+   Widely scattered severe storms capable of severe wind gusts and
+   large hail are possible over portions of the central and southern
+   High Plains this afternoon and evening. More isolated occurrences of
+   damaging wind are possible from the middle Texas coast into Deep
+   South Texas, the eastern Carolinas, and parts of the Columbia Basin
+   into the northern Intermountain region.
 
-   ...Synopsis...
-   A upper trough will persist in the Northeast CONUS with a ridge
-   amplifying into the Northwest. An offshore upper low in the
-   Northwest will eject shortwave perturbations into Oregon/Washington.
-   At the surface, a cold front will move through New England. The
-   front will slow in the Mid-Atlantic during the afternoon before
-   moving southeast during the overnight.
+   ...Central/southern High Plains including western Kansas...
+   Strong boundary-layer heating is forecast in the vicinity of a High
+   Plains surface front and dryline this afternoon with temperatures
+   reaching the mid 90s to around 105 F. The hot temperatures will
+   combine with dewpoints in the mid 50s to mid 60s and modestly steep
+   mid-level lapse rates to yield a narrow axis of moderate instability
+   with MLCAPE of 1500-2500 J/kg across western Kansas southward into
+   western Oklahoma and the eastern Texas Panhandle. Forcing for ascent
+   preceding a shortwave trough is expected to contribute to isolated
+   to widely scattered thunderstorms by mid-afternoon from the vicinity
+   of the thermal low in southeast Colorado to along the front and
+   dryline from northeast Colorado into the Oklahoma/Texas Panhandles.
 
-   ...Mid-Atlantic into parts of Carolinas...
-   The cold front in this region is expected to slow/stall near the
-   Blue Ridge into eastern Maryland. Models suggest
-   clouds/precipitation will be likely in the vicinity of the
-   Virginia/North Carolina border. Mid-level forcing for ascent will be
-   weak at best and subtle mid-level warming is expected from far
-   southern Virginia into the Carolinas. Moderate to strong mid-level
-   winds will be in place with the strongest flow in Virginia/Maryland.
-   It is not clear how convection will evolve during the day/afternoon.
-   Storms could potentially continue from the morning into the
-   afternoon over portions of the region. There also is potential for
-   storms to develop along the cold front where there could potentially
-   be greater surface heating. In the Carolinas, the lack of ascent and
-   cloud cover concerns limit confidence in how many storms and how
-   strong they will become. Greater confidence in storm coverage exists
-   in Virginia into the DelMarVa where the Slight Risk has been
-   maintained. The kinematic environment will support occasionally
-   organized storms capable of damaging winds and perhaps a tornado or
-   two.
+   Forecast soundings along the front feature a vertically veering wind
+   profile with 30-35 kt of deep-layer shear, which will be sufficient
+   for at least episodic supercell structures with a risk
+   for large hail. In contrast, the storms forming in the hot, deeply
+   mixed air mass west of the boundary are more likely to produce
+   sporadic severe wind gusts. A corridor of more concentrated severe
+   wind gusts may materialize across portions of southwest Kansas by
+   evening, particularly if organized cold pool development occurs with
+   an evening time low-level jet increase.
 
-   ...New England...
-   A strong mid-level jet will be favorably timed during the afternoon,
-   particularly for New Hampshire/Maine. As the cold front  moves
-   through, scattered storms appear probable. Effective shear of 30-40
-   kt and strong upper-level winds will promote supercell structures.
-   The shear vector will have a large component parallel to the
-   north-south cold front so it is not clear how long discrete
-   structures can be maintained. Isolated damaging winds, marginally
-   severe hail, and perhaps a tornado would be possible. Some
-   consideration was given to a higher severe probabilities, but the
-   region will initially be in the wake of a shortwave trough and
-   thermodynamic profiles exhibit characteristics (e.g., mid-level
-   inversion, lowered equilibrium level) that limits confidence in how
-   many severe-caliber storms will exist.
+   ...Middle Texas Coast to Deep South Texas...
+   As Bertha continues westward over the northwest Gulf, a belt of
+   enhanced mid-level flow will precede Bertha and spread atop a hot
+   and moist boundary layer inland, with moderate instability
+   developing by afternoon along the middle Texas coast. Similar to
+   Wednesday, widely scattered thunderstorms are expected during the
+   afternoon within an environment characterized by 30-40 kt of
+   deep-layer shear, steep low-level lapse rates, and high PW content.
+   As such, the potential will exist for locally damaging downburst
+   winds as storms spread west-southwestward along the coast into Deep
+   South Texas during the afternoon and evening.
 
-   Farther south and west, there is less signal for convective
-   development along the cold front. A Marginal risk has been
-   maintained this outlook cycle. Some risk for damaging winds would
-   exist if an isolated storm can develop along the front.
+   ...Columbia Basin/northern Intermountain West...
+   Weak height falls are expected while mid/upper-level winds
+   strengthen regionally ahead of an upper low off the coast of the
+   Pacific Northwest. Daytime heating along favored terrain, in
+   conjunction with the glancing influence of the passing disturbance,
+   will aid in isolated to widely scattered thunderstorms by
+   mid-afternoon within a moderately unstable and steep lapse rate
+   environment. The strengthening upper-level winds will enhance
+   vertical shear, supporting the potential for some storm organization
+   with an associated risk for locally damaging wind gusts and
+   marginally severe hail.
 
-   ...Central High Plains...
-   Southeasterly surface winds will combine with increasingly
-   westerly/northwesterly flow aloft to promote modest deep-layer shear
-   (around 30 kt 0-6 km) during the afternoon/evening. The development
-   of a weak lee low and low-level moisture moving northwest around the
-   Midwest anticyclone will aid in storm development within the region.
-   Temperature-dewpoint spreads at the surface will allow for efficient
-   outflow production. A strengthening southeasterly low-level jet in
-   western Kansas may also help maintain convection farther east during
-   the evening. Severe wind gusts are possible with this activity.
+   ...Eastern Carolinas...
+   A very moist air mass and cloud breaks to the south of
+   front-associated convection early today across North Carolina should
+   allow for at least moderate destabilization across parts of the
+   coastal plain. This may result in a corridor of more concentrated
+   thunderstorm development, near the intersection of the outflow from
+   the morning storms with the sea-breeze boundary. Modest deep-layer
+   shear will coincide with steepening low-level lapse rates and high
+   PW content to yield locally intense wet microbursts capable of
+   damaging winds this afternoon until around sunset.
 
-   ...Oregon...
-   An upper-low will be positioned off the Northwest Coast. Subtle
-   ascent will help to initiate storms in parts of central Oregon
-   during the afternoon. Models are in strong agreement that scattered
-   storms will move northward into at least early evening. Strong
-   heating will lead to large temperature-dewpoint spreads at the
-   surface. Inverted-v thermodynamic profiles will promote a risk for
-   strong to severe wind gusts despite limited buoyancy and shear.
-
-   ..Wendt/Weinman.. 07/22/2026
+   ..Guyer/Broyles.. 07/23/2026
