@@ -1,76 +1,83 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0738 AM CDT Thu Jul 23 2026
+   1229 AM CDT Fri Jul 24 2026
 
-   Valid 231300Z - 241200Z
+   Valid 241200Z - 251200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS WESTERN
-   KANSAS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR
+   CENTRAL/EASTERN ND INTO PARTS OF NORTHERN MN...
 
    ...SUMMARY...
-   Widely scattered severe storms capable of severe wind gusts and
-   large hail are possible over portions of the central and southern
-   High Plains this afternoon and evening. More isolated occurrences of
-   damaging wind are possible from the middle Texas coast into Deep
-   South Texas, the eastern Carolinas, and parts of the Columbia Basin
-   into the northern Intermountain region.
+   Severe thunderstorms capable of large to very large hail, damaging
+   wind, and possibly a tornado are forecast during the afternoon and
+   evening across portions of North Dakota into northern Minnesota.
 
-   ...Central/southern High Plains including western Kansas...
-   Strong boundary-layer heating is forecast in the vicinity of a High
-   Plains surface front and dryline this afternoon with temperatures
-   reaching the mid 90s to around 105 F. The hot temperatures will
-   combine with dewpoints in the mid 50s to mid 60s and modestly steep
-   mid-level lapse rates to yield a narrow axis of moderate instability
-   with MLCAPE of 1500-2500 J/kg across western Kansas southward into
-   western Oklahoma and the eastern Texas Panhandle. Forcing for ascent
-   preceding a shortwave trough is expected to contribute to isolated
-   to widely scattered thunderstorms by mid-afternoon from the vicinity
-   of the thermal low in southeast Colorado to along the front and
-   dryline from northeast Colorado into the Oklahoma/Texas Panhandles.
+   ...Dakotas into northern MN...
+   Within an amplifying upper-level pattern, multiple low-amplitude
+   midlevel shortwave troughs are forecast to move east-southeastward
+   from the northern Rockies toward ND and northern MN through the
+   period. A surface trough will trail southwestward from a deep
+   surface cyclone that will move from northern MB/ON towards Hudson
+   Bay. A plume of relatively steep midlevel lapse rates will
+   overspread a warm and moist boundary layer along/east of the surface
+   trough, with MLCAPE increasing above 2000 J/kg across parts of ND
+   into northwest MN by late afternoon. Strengthening mid/upper-level
+   west-northwesterly flow will result in favorable deep-layer shear,
+   resulting in a conditionally favorable environment for severe
+   storms.
 
-   Forecast soundings along the front feature a vertically veering wind
-   profile with 30-35 kt of deep-layer shear, which will be sufficient
-   for at least episodic supercell structures with a risk
-   for large hail. In contrast, the storms forming in the hot, deeply
-   mixed air mass west of the boundary are more likely to produce
-   sporadic severe wind gusts. A corridor of more concentrated severe
-   wind gusts may materialize across portions of southwest Kansas by
-   evening, particularly if organized cold pool development occurs with
-   an evening time low-level jet increase.
+   Guidance generally suggests that widely scattered storms will
+   develop along the surface trough by late afternoon across eastern
+   ND. Elongated hodographs and favorable instability will initially
+   favor supercell development, though some clustering will be possible
+   with time into the evening. Large to very large hail will be the
+   primary initial hazard. Some tornado potential could evolve with
+   persistent supercells, as low-level shear gradually increases from
+   late afternoon into the evening. Any organized clustering could
+   result in localized corridors of greater severe-wind potential. Some
+   severe threat could persist as storms move into a larger portion of
+   northern/central MN through late evening, with a general weakening
+   trend expected late in the period due to increasing CINH and
+   weakening buoyancy. 
 
-   ...Middle Texas Coast to Deep South Texas...
-   As Bertha continues westward over the northwest Gulf, a belt of
-   enhanced mid-level flow will precede Bertha and spread atop a hot
-   and moist boundary layer inland, with moderate instability
-   developing by afternoon along the middle Texas coast. Similar to
-   Wednesday, widely scattered thunderstorms are expected during the
-   afternoon within an environment characterized by 30-40 kt of
-   deep-layer shear, steep low-level lapse rates, and high PW content.
-   As such, the potential will exist for locally damaging downburst
-   winds as storms spread west-southwestward along the coast into Deep
-   South Texas during the afternoon and evening.
+   Farther northwest, some guidance depicts isolated supercell
+   development west of the surface trough across the Canadian Prairies
+   during the late afternoon, which could then move into parts of
+   northern/central ND within a northwesterly flow regime. This
+   scenario is more uncertain, but 5% wind/hail probabilities have been
+   expanded westward in response to this potential. 
 
-   ...Columbia Basin/northern Intermountain West...
-   Weak height falls are expected while mid/upper-level winds
-   strengthen regionally ahead of an upper low off the coast of the
-   Pacific Northwest. Daytime heating along favored terrain, in
-   conjunction with the glancing influence of the passing disturbance,
-   will aid in isolated to widely scattered thunderstorms by
-   mid-afternoon within a moderately unstable and steep lapse rate
-   environment. The strengthening upper-level winds will enhance
-   vertical shear, supporting the potential for some storm organization
-   with an associated risk for locally damaging wind gusts and
-   marginally severe hail.
+   ...Coastal Carolinas vicinity...
+   Relatively strong heating of a richly moist airmass (PW above 2
+   inches) will result in the development of moderate buoyancy across
+   parts of the Coastal Carolinas and southeast GA, in the vicinity of
+   a surface front. Scattered storm development is expected by
+   early/mid afternoon. Deep-layer flow will generally be weak, but
+   locally damaging downbursts and outflow winds will be possible
+   within the warm and very moist environment.
 
-   ...Eastern Carolinas...
-   A very moist air mass and cloud breaks to the south of
-   front-associated convection early today across North Carolina should
-   allow for at least moderate destabilization across parts of the
-   coastal plain. This may result in a corridor of more concentrated
-   thunderstorm development, near the intersection of the outflow from
-   the morning storms with the sea-breeze boundary. Modest deep-layer
-   shear will coincide with steepening low-level lapse rates and high
-   PW content to yield locally intense wet microbursts capable of
-   damaging winds this afternoon until around sunset.
+   ...Southern High Plains vicinity...
+   A nearly stationary front draped from eastern NM into the TX/OK
+   Panhandles is expected to become a focus for thunderstorm
+   development by late afternoon or early evening. Buoyancy is forecast
+   to remain modest, and deep-layer flow will be weak, so organized
+   storm potential currently appears low. However, strong
+   boundary-layer heating/mixing will support potential for localized
+   downbursts. While magnitude and coverage of the threat currently
+   appear rather limited, wind probabilities may eventually be needed,
+   if confidence increases in more than very localized severe-wind
+   potential. 
+
+   ...Parts of the Great Basin into the Northern Rockies...
+   Widely scattered high-based storm development is expected this
+   afternoon from parts of the Great Basin into the northern Rockies,
+   along the periphery of an amplifying upper ridge over the Four
+   Corners region. Buoyancy and deep-layer shear are both expected to
+   remain weak, but strong to locally severe gusts will be possible
+   within the hot and well-mixed regime. Wind probabilities may
+   eventually be needed, if confidence increases in more than a very
+   localized/transient severe-gust threat.
+
+   ..Dean/Jirak.. 07/24/2026
 
    ..Guyer/Broyles.. 07/23/2026
