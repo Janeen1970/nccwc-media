@@ -1,83 +1,84 @@
-Day 1 Convective Outlook  
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1229 AM CDT Fri Jul 24 2026
+   0748 AM CDT Sat Jul 25 2026
 
-   Valid 241200Z - 251200Z
+   Valid 251300Z - 261200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR
-   CENTRAL/EASTERN ND INTO PARTS OF NORTHERN MN...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS MONTANA AND
+   SOUTH DAKOTA...
 
    ...SUMMARY...
-   Severe thunderstorms capable of large to very large hail, damaging
-   wind, and possibly a tornado are forecast during the afternoon and
-   evening across portions of North Dakota into northern Minnesota.
+   Storms with scattered severe wind gusts are possible across parts of
+   Montana and South Dakota this afternoon and evening.
 
-   ...Dakotas into northern MN...
-   Within an amplifying upper-level pattern, multiple low-amplitude
-   midlevel shortwave troughs are forecast to move east-southeastward
-   from the northern Rockies toward ND and northern MN through the
-   period. A surface trough will trail southwestward from a deep
-   surface cyclone that will move from northern MB/ON towards Hudson
-   Bay. A plume of relatively steep midlevel lapse rates will
-   overspread a warm and moist boundary layer along/east of the surface
-   trough, with MLCAPE increasing above 2000 J/kg across parts of ND
-   into northwest MN by late afternoon. Strengthening mid/upper-level
-   west-northwesterly flow will result in favorable deep-layer shear,
-   resulting in a conditionally favorable environment for severe
-   storms.
+   ...Montana to Dakotas...
+   A prominent upper ridge will persist over much of the
+   Southwest/central CONUS through tonight, with very hot temperatures
+   expected this afternoon from Montana into the Dakotas. Isolated to
+   scattered storms within the hot and well-mixed environment will
+   result in a broad area of at least isolated severe-wind potential.
 
-   Guidance generally suggests that widely scattered storms will
-   develop along the surface trough by late afternoon across eastern
-   ND. Elongated hodographs and favorable instability will initially
-   favor supercell development, though some clustering will be possible
-   with time into the evening. Large to very large hail will be the
-   primary initial hazard. Some tornado potential could evolve with
-   persistent supercells, as low-level shear gradually increases from
-   late afternoon into the evening. Any organized clustering could
-   result in localized corridors of greater severe-wind potential. Some
-   severe threat could persist as storms move into a larger portion of
-   northern/central MN through late evening, with a general weakening
-   trend expected late in the period due to increasing CINH and
-   weakening buoyancy. 
+   For parts of western/central Montana, convection that develops by
+   early/mid afternoon near the high terrain is expected to spread
+   eastward. This convection may be aided by a low-amplitude mid-level
+   vort max moving around the periphery of the upper ridge. Increasing
+   storm coverage and gradually strengthening mid/upper-level flow may
+   allow for one or more outflow-driven clusters to develop and spread
+   east-northeastward into early evening, with a threat of severe wind
+   gusts. Localized gusts of 75+ mph cannot be ruled out, especially if
+   deeper convection is able to spread into areas where very deep
+   mixing and heating to near/above 100 F occurs prior to storm
+   arrival. 
 
-   Farther northwest, some guidance depicts isolated supercell
-   development west of the surface trough across the Canadian Prairies
-   during the late afternoon, which could then move into parts of
-   northern/central ND within a northwesterly flow regime. This
-   scenario is more uncertain, but 5% wind/hail probabilities have been
-   expanded westward in response to this potential. 
+   Farther east, very strong heating is expected across parts of
+   western/central South Dakota, with temperatures in some areas
+   potentially rising to near/above 105 F. Low-level moisture will be
+   relatively sparse, but MLCAPE of near/above 1000 J/kg will be
+   possible where 50s F dewpoints can be maintained within the
+   well-mixed environment. Initial storm development near the Black
+   Hills will quickly become outflow dominant as it spreads eastward,
+   with an increasing threat of severe gusts as storms tend to increase
+   and potentially modestly organize as outflows aggregate. Some
+   guidance depicts development of a persistent cluster or loosely
+   organized MCS that moves eastward across South Dakota along a weak
+   surface boundary. Should this occur, a corridor of more organized
+   severe-wind threat (with gusts potentially near/above 75 mph) will
+   be possible this evening.
 
-   ...Coastal Carolinas vicinity...
-   Relatively strong heating of a richly moist airmass (PW above 2
-   inches) will result in the development of moderate buoyancy across
-   parts of the Coastal Carolinas and southeast GA, in the vicinity of
-   a surface front. Scattered storm development is expected by
-   early/mid afternoon. Deep-layer flow will generally be weak, but
-   locally damaging downbursts and outflow winds will be possible
-   within the warm and very moist environment.
+   ...Upper Midwest/Upper Great Lakes...
+   Conditional severe potential exists across parts of the Upper
+   Midwest spanning Minnesota to Upper Michigan, although confidence
+   regarding storm coverage and timing remains very low within the
+   weakly forced environment characterized by generally rising upper
+   heights. As morning stratus thins/erodes, moderate to strong
+   destabilization is possible along/south of a surface front
+   that is forecast to extend from northeast North Dakota into northern
+   Minnesota/Wisconsin by late afternoon.
 
-   ...Southern High Plains vicinity...
-   A nearly stationary front draped from eastern NM into the TX/OK
-   Panhandles is expected to become a focus for thunderstorm
-   development by late afternoon or early evening. Buoyancy is forecast
-   to remain modest, and deep-layer flow will be weak, so organized
-   storm potential currently appears low. However, strong
-   boundary-layer heating/mixing will support potential for localized
-   downbursts. While magnitude and coverage of the threat currently
-   appear rather limited, wind probabilities may eventually be needed,
-   if confidence increases in more than very localized severe-wind
-   potential. 
+   Impressively long hodographs with effective shear of 50+ kt will be
+   more than sufficient for storm organization, but most guidance
+   remains rather muted regarding potential for diurnal storm
+   development. If storms are able to develop during the afternoon or
+   evening, then a threat for hail, damaging wind, and possibly a
+   tornado could evolve. Even if diurnal storm development is limited,
+   at least isolated vigorous elevated storms may evolve within a
+   warm-advection regime near/north of the front late tonight, which
+   would pose a threat for hail and perhaps locally damaging wind.
 
-   ...Parts of the Great Basin into the Northern Rockies...
-   Widely scattered high-based storm development is expected this
-   afternoon from parts of the Great Basin into the northern Rockies,
-   along the periphery of an amplifying upper ridge over the Four
-   Corners region. Buoyancy and deep-layer shear are both expected to
-   remain weak, but strong to locally severe gusts will be possible
-   within the hot and well-mixed regime. Wind probabilities may
-   eventually be needed, if confidence increases in more than a very
-   localized/transient severe-gust threat.
+   ...Northeast Nevada/northern Utah/eastern Idaho...
+   Storm development is expected during the afternoon across parts of
+   northeast Nevada, along the western periphery of the upper ridge.
+   These storms will spread into adjacent parts of southeast Idaho and
+   northwest Utah with time. Strong to locally severe wind gusts will
+   be possible with these storms as they move northeastward within a
+   well-mixed environment.  
 
-   ..Dean/Jirak.. 07/24/2026
+   ...South-central/southeast Arizona...
+   High-based convection is again expected across southeast Arizona
+   during the afternoon, with initial downburst potential. A modest
+   enhancement to easterly flow along the southern periphery of the
+   upper ridge may allow for localized strong to severe wind gusts to
+   spread westward into parts of south-central Arizona, before
+   convection weakens tonight.
 
-   ..Guyer/Broyles.. 07/23/2026
+   ..Guyer/Wendt.. 07/25/2026
