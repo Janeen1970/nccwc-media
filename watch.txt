@@ -1,95 +1,55 @@
 
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1252 AM CDT Mon Jul 27 2026
+   1237 AM CDT Tue Jul 28 2026
 
-   Valid 271200Z - 281200Z
+   Valid 281200Z - 291200Z
 
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FROM PORTIONS
-   OF THE UPPER MIDWEST/UPPER GREAT LAKES INTO THE OHIO VALLEY...
-
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
-   SOUTHWEST SOUTH DAKOTA...WESTERN NEBRASKA...NORTHEAST COLORADO...AND
-   FAR NORTHWEST KANSAS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE MID-ATLATIC AND CAROLINAS...
 
    ...SUMMARY...
-   Severe storms capable of strong to severe wind gusts and large hail
-   are possible across the Great Lakes into the Ohio Valley Monday into
-   Monday night. More sporadic occurrences of damaging wind appear
-   possible in the Mid-Atlantic, Tennessee Valley, central High Plains,
-   and southeast Arizona.
+   Thunderstorms with potential for severe wind gusts and a tornado
+   threat are expected today from parts of the Mid-Atlantic southward
+   into the Carolinas. A few severe gusts and hail may also occur over
+   parts of the central High Plains.
 
-   ...Upper Midwest/Great Lakes into the OH/TN Valleys...
-   A very moist airmass is in place from the Upper Midwest into the OH
-   and TN Valley. This airmass is exists south of a diffuse cold front
-   that extends from a surface low over far southeast Manitoba
-   southeastward to far eastern Upper MI. One thunderstorm is currently
-   ongoing near this boundary over eastern Upper MI. Most of the
-   thunderstorms are ongoing just northeast another surface boundary
-   demarcating the very moist (i.e. 70+ dewpoints) to it southwest. How
-   this warm-air advection activity evolves early this morning will
-   have a large impact on the severe potential farther downstream from
-   the Mid MS Valley into the OH and TN Valleys through the late
-   morning into the afternoon and evening. 
+   ...Mid-Atlantic/Carolinas...
+   An upper-level trough will dig south-southeastward into the eastern
+   U.S. today, as an associated cold front moves into the central
+   Appalachians. Ahead of the front, a moist and unstable airmass will
+   be in place from the Mid-Atlantic southward into the Carolinas.
+   Surface dewpoints in the lower to mid 70s F will contribute to
+   moderate instability by afternoon over much of the region.
+   Convection is expected to first develop around midday in the higher
+   terrain of northern Virginia and Pennsylvania. These storms are
+   forecast to expand in coverage, moving southward through the
+   remainder of Virginia into North Carolina during the afternoon.
 
-   Much of the guidance is beginning to suggest the warm-air advection
-   activity clusters early this morning over the MN Arrowhead vicinity
-   before then tracking southeastward within the moisture/buoyancy
-   gradient and organizing/intensifying significantly. Synoptically,
-   the overall setup matches many characteristics of scenarios with
-   strong, forward-propagating MCSs, including a surface boundary
-   parallel to the deep-layer shear, at least modest mid-level warm
-   advection, and very strong to extreme buoyancy. Given the trend
-   within the guidance and favorable synoptics, confidence in the
-   development of a strong forward-propagating MCS is high enough to
-   adjust the 30% wind probabilities westward while also introducing a
-   CIG1 area. There is a chance that both higher wind probabilities and
-   a CIG2 may be needed, but predictability regarding convective
-   evolution is too low at this time.  
+   The strongest instability is forecast from southeastern Virginia
+   into central North Carolina, where MLCAPE could peak around 3000
+   J/kg. RAP forecast soundings near the instability axis suggest that
+   0-6 km shear will be in the 40 to 50 knot range, supportive of
+   supercells. In addition, 0-3 km storm-relative helicity is forecast
+   to reach near 225 m2/s2 by mid afternoon, with the low-level shear
+   being amplified by the directional component. This should support an
+   isolated tornado threat with supercells. Supercells and organized
+   multicell line segments will also be capable of severe wind gusts.
+   The potential for severe gusts could extend further west into the
+   foothills of the Appalachians across west-central North Carolina and
+   far northern South Carolina.
 
-   ...Central High Plains into western/central NE and SD...
-   Moist, post-frontal surface flow is expected across much of NE and
-   SD, shifting from northerly early in the day to more easterly by the
-   afternoon. Dewpoints will initially be in the mid to upper 70s,
-   although strong boundary-layer mixing will likely result in
-   dewpoints ranging from the upper 50s/low 60s across the NE Panhandle
-   to the low 70s across eastern NE. This reservoir of low-level
-   moisture coupled with strong heating and steep mid-level lapse rates
-   will result in a corridor of moderate to extreme buoyancy from
-   eastern WY/northeast CO/southwest SD eastward across south-central
-   SD and much of NE.
+   ...Central High Plains...
+   A mid-level ridge will be in place today across the High Plains, as
+   a subtle shortwave trough moves eastward through the ridge. This
+   feature along with topographic ascent will support scattered
+   convective development during the afternoon. Thunderstorms will form
+   in the higher terrain and move eastward into the lower elevations.
+   Ahead of the storms, RAP forecast soundings at 21Z have MLCAPE in
+   the 2000 to 2500 J/kg range with 0-6 km shear around 30 knots. This,
+   combined with steep low-level lapse rates and surface-temperature
+   dewpoint spreads near 30 degrees F should support a potential for
+   isolated severe wind gusts. Hail will also be possible with the
+   stronger cells.
 
-   Most of the guidance indicates a subtle, convectively augmented
-   vorticity maximum will progress eastward through the northern
-   periphery of the Four Corner upper ridge. This should contribute to
-   thunderstorm development across the high terrain, which would then
-   progress downstream into a more moist and unstable airmass. One or
-   more clusters could evolve, but the overall predictability of the
-   convective evolution is low. That being said, environmental
-   conditions support the potential for strong to severe gusts,
-   including the potential for some over 75 mph. Eastern extent of the
-   wind threat will likely be limited by building convective inhibition
-   associated with nocturnal cool, unless a  more coherent and
-   organized MCS were to evolve. If that occurs, the wind threat could
-   extend farther east into more of eastern NE and north-central KS,
-   and 5% wind probabilities were expanded eastward/southeastward to
-   account for this potential. 
-
-   Depending on the strength of the MCS, the wind threat could extend
-   eastward into more of OH and PA, and also farther southward into
-   more of TN, during the late afternoon/evening. 
-
-   ...Mid-Atlantic States...
-   Some wind threat could exist during the afternoon/evening across the
-   Mid-Atlantic, where marginal buoyancy and deep-layer shear could
-   support a few stronger updrafts.  
-
-   ...Southeast Arizona...
-   Isolated severe gusts are possible over southeast AZ as mid-level
-   moisture and daytime heating leads to scattered storms over
-   the higher terrain, particularly far southeast AZ. Cells are
-   expected to move westward into warmer temperatures and deeper
-   boundary-layer mixing, with PWAT over 1.25" and steep low-level
-   lapse rates supporting strong outflows.
-
-   ..Mosier/Squitieri.. 07/27/2026
+   ..Broyles/Squitieri.. 07/28/2026
