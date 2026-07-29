@@ -1,55 +1,67 @@
 
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1237 AM CDT Tue Jul 28 2026
+   0300 PM CDT Wed Jul 29 2026
 
-   Valid 281200Z - 291200Z
+   Valid 292000Z - 301200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE MID-ATLATIC AND CAROLINAS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
+   EVENING OVER PARTS OF THE SOUTHEAST STATES AND NORTHERN HIGH
+   PLAINS...
 
    ...SUMMARY...
-   Thunderstorms with potential for severe wind gusts and a tornado
-   threat are expected today from parts of the Mid-Atlantic southward
-   into the Carolinas. A few severe gusts and hail may also occur over
-   parts of the central High Plains.
+   Thunderstorms with severe wind gusts and hail will be possible this
+   afternoon and evening in the northern Plains. Severe wind gusts will
+   also be possible across southern Georgia and northern Florida, as
+   well as the Great Basin/northern Intermountain West.
 
-   ...Mid-Atlantic/Carolinas...
-   An upper-level trough will dig south-southeastward into the eastern
-   U.S. today, as an associated cold front moves into the central
-   Appalachians. Ahead of the front, a moist and unstable airmass will
-   be in place from the Mid-Atlantic southward into the Carolinas.
-   Surface dewpoints in the lower to mid 70s F will contribute to
-   moderate instability by afternoon over much of the region.
-   Convection is expected to first develop around midday in the higher
-   terrain of northern Virginia and Pennsylvania. These storms are
-   forecast to expand in coverage, moving southward through the
-   remainder of Virginia into North Carolina during the afternoon.
+   ...20Z Update...
+   The forecast appears to be on track, and minimal changes were needed
+   with this update. Southward-spreading storm clusters in southern
+   GA/northern FL will continue to pose a risk of damaging wind gusts
+   through the afternoon into this evening. Any areas of upscale growth
+   will pose the greatest severe-wind risk prior to the onset of
+   nocturnal boundary-layer cooling. See Severe Thunderstorm Watch #532
+   for more information. 
 
-   The strongest instability is forecast from southeastern Virginia
-   into central North Carolina, where MLCAPE could peak around 3000
-   J/kg. RAP forecast soundings near the instability axis suggest that
-   0-6 km shear will be in the 40 to 50 knot range, supportive of
-   supercells. In addition, 0-3 km storm-relative helicity is forecast
-   to reach near 225 m2/s2 by mid afternoon, with the low-level shear
-   being amplified by the directional component. This should support an
-   isolated tornado threat with supercells. Supercells and organized
-   multicell line segments will also be capable of severe wind gusts.
-   The potential for severe gusts could extend further west into the
-   foothills of the Appalachians across west-central North Carolina and
-   far northern South Carolina.
+   Farther west over the northern Plains, a persistent cluster of
+   thunderstorms and related cloud coverage over eastern MT/western ND
+   cast uncertainty on the overall severe risk. However, as a
+   subtle/low-amplitude midlevel wave currently over central MT
+   overspreads the area, the ongoing activity and additional storm
+   development along differential heating zones could pose an
+   increasing risk of severe wind gusts and isolated hail into this
+   evening. See MCD #1797 for more details.
 
-   ...Central High Plains...
-   A mid-level ridge will be in place today across the High Plains, as
-   a subtle shortwave trough moves eastward through the ridge. This
-   feature along with topographic ascent will support scattered
-   convective development during the afternoon. Thunderstorms will form
-   in the higher terrain and move eastward into the lower elevations.
-   Ahead of the storms, RAP forecast soundings at 21Z have MLCAPE in
-   the 2000 to 2500 J/kg range with 0-6 km shear around 30 knots. This,
-   combined with steep low-level lapse rates and surface-temperature
-   dewpoint spreads near 30 degrees F should support a potential for
-   isolated severe wind gusts. Hail will also be possible with the
-   stronger cells.
+   Additional thunderstorms forming along the high terrain from CO
+   northward into eastern WY may also pose some risk of strong-severe
+   wind gusts as storms move eastward into a warm/moist air mass over
+   the High Plains. However, the severe-wind risk will be largely
+   dependent on the development of robust cold pools and upscale
+   growth, and weak forcing for ascent limits confidence in where this
+   risk will be maximized.
 
-   ..Broyles/Squitieri.. 07/28/2026
+   ..Weinman.. 07/29/2026
+
+   .PREV DISCUSSION... /ISSUED 1101 AM CDT Wed Jul 29 2026/
+
+   ...GA/FL...
+   Latest surface analysis shows a weak cold front sagging southward
+   across GA.  A very moist and unstable air mass is present along and
+   south of the front, with dewpoints in the mid 70s and full heating
+   expected.  This will yield afternoon MLCAPE values over 3000 J/kg
+   and scattered thunderstorm development.  Sufficient northwesterly
+   mid-level flow of 15-25 knots will help storms propagate into north
+   FL by early evening.  Locally damaging wind gusts will be possible
+   in the stronger cells due to water loading and some momentum
+   transfer.  If outflows can congeal, a more organized damaging wind
+   risk could develop late this afternoon and early evening before
+   weakening after dark.
+
+   ...MT/ND...
+   Scattered thunderstorms are expected to develop this afternoon along
+   a weak surface boundary near the MT/ND border.  These storms will be
+   in a hot and moderately unstable air mass with MLCAPE around 2000
+   J/kg.  As this activity spreads northeastward across western ND, the
+   combination of a deep sub-cloud layer, steep low-level lapse rates,
+   and sufficient flow aloft will pose the risk of damaging wind gusts.
