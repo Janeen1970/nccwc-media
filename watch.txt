@@ -1,67 +1,56 @@
-
-   Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0300 PM CDT Wed Jul 29 2026
+   1249 AM CDT Thu Jul 30 2026
 
-   Valid 292000Z - 301200Z
+   Valid 301200Z - 311200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
-   EVENING OVER PARTS OF THE SOUTHEAST STATES AND NORTHERN HIGH
-   PLAINS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE CENTRAL AND NORTHERN PLAINS...
 
    ...SUMMARY...
-   Thunderstorms with severe wind gusts and hail will be possible this
-   afternoon and evening in the northern Plains. Severe wind gusts will
-   also be possible across southern Georgia and northern Florida, as
-   well as the Great Basin/northern Intermountain West.
+   Thunderstorms with severe wind gusts will be possible this afternoon
+   and evening across parts of the central and northern Plains.
+   Isolated severe gusts may also occur along parts of the eastern Gulf
+   Coast.
 
-   ...20Z Update...
-   The forecast appears to be on track, and minimal changes were needed
-   with this update. Southward-spreading storm clusters in southern
-   GA/northern FL will continue to pose a risk of damaging wind gusts
-   through the afternoon into this evening. Any areas of upscale growth
-   will pose the greatest severe-wind risk prior to the onset of
-   nocturnal boundary-layer cooling. See Severe Thunderstorm Watch #532
-   for more information. 
+   ...Central and Northern Plains...
+   At mid-levels, a shortwave ridge will move eastward into the upper
+   Mississippi Valley today as a shortwave trough and an associated
+   cold front, move through the northern Plains. Ahead of the front,
+   surface dewpoints will be in the lower 70s F with moderate
+   instability developing across much of the moist airmass by late
+   morning. Convection is expected to initiate near the front around
+   midday with coverage expanding during the afternoon. MCS development
+   will be possible during the late afternoon and early evening from
+   eastern South Dakota southwestward into central Nebraska.
 
-   Farther west over the northern Plains, a persistent cluster of
-   thunderstorms and related cloud coverage over eastern MT/western ND
-   cast uncertainty on the overall severe risk. However, as a
-   subtle/low-amplitude midlevel wave currently over central MT
-   overspreads the area, the ongoing activity and additional storm
-   development along differential heating zones could pose an
-   increasing risk of severe wind gusts and isolated hail into this
-   evening. See MCD #1797 for more details.
+   RAP forecast soundings at 21Z from Huron, South Dakota southward to
+   near Grand Island, Nebraska have MLCAPE in the 1500 to 2000 J/kg
+   range and 0-6 km shear in the 25 to 35 knot range. This should be
+   sufficient for a mixed mode including potential for supercells and
+   severe line segments. The primary threat will be for damaging wind
+   gusts with any cell or line that can become intense in areas that
+   destabilize the most. The severe threat may persist into the early
+   to mid evening as a relatively large convective cluster moves
+   southward into the central Plains.
 
-   Additional thunderstorms forming along the high terrain from CO
-   northward into eastern WY may also pose some risk of strong-severe
-   wind gusts as storms move eastward into a warm/moist air mass over
-   the High Plains. However, the severe-wind risk will be largely
-   dependent on the development of robust cold pools and upscale
-   growth, and weak forcing for ascent limits confidence in where this
-   risk will be maximized.
+   Further west into parts of the High Plains, pockets of moderate
+   instability may develop from southeastern Colorado into western
+   Kansas and across eastern Montana. Although large-scale ascent is
+   forecast to be relatively weak in these areas, topographic forcing
+   will aid convective initiation. In the mid to late afternoon,
+   isolated to scattered storms will move southeastward into the lower
+   elevations. Localized strong to severe wind gusts and hail will be
+   the primary threats.
 
-   ..Weinman.. 07/29/2026
+   ...Eastern Gulf Coast...
+   A quasi-stationary front will be in place today from the Florida
+   Panhandle into southern Georgia. Near and to the south of the front,
+   surface dewpoints in the 70s F will contribute to moderate
+   destabilization. As low-level convergence increases during the day
+   near the front, isolated to scattered storms are expected to form
+   and move southeastward into the moist and unstable air. Moderate
+   instability and steep low-level lapse rates may support an isolated
+   threat for severe wind gusts this afternoon.
 
-   .PREV DISCUSSION... /ISSUED 1101 AM CDT Wed Jul 29 2026/
-
-   ...GA/FL...
-   Latest surface analysis shows a weak cold front sagging southward
-   across GA.  A very moist and unstable air mass is present along and
-   south of the front, with dewpoints in the mid 70s and full heating
-   expected.  This will yield afternoon MLCAPE values over 3000 J/kg
-   and scattered thunderstorm development.  Sufficient northwesterly
-   mid-level flow of 15-25 knots will help storms propagate into north
-   FL by early evening.  Locally damaging wind gusts will be possible
-   in the stronger cells due to water loading and some momentum
-   transfer.  If outflows can congeal, a more organized damaging wind
-   risk could develop late this afternoon and early evening before
-   weakening after dark.
-
-   ...MT/ND...
-   Scattered thunderstorms are expected to develop this afternoon along
-   a weak surface boundary near the MT/ND border.  These storms will be
-   in a hot and moderately unstable air mass with MLCAPE around 2000
-   J/kg.  As this activity spreads northeastward across western ND, the
-   combination of a deep sub-cloud layer, steep low-level lapse rates,
-   and sufficient flow aloft will pose the risk of damaging wind gusts.
+   ..Broyles/Squitieri.. 07/30/2026
