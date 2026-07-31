@@ -1,56 +1,55 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1249 AM CDT Thu Jul 30 2026
+   1227 AM CDT Fri Jul 31 2026
 
-   Valid 301200Z - 311200Z
+   Valid 311200Z - 011200Z
 
    ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE CENTRAL AND NORTHERN PLAINS...
+   THE OZARKS AND MID MISSISSIPPI VALLEY...
 
    ...SUMMARY...
-   Thunderstorms with severe wind gusts will be possible this afternoon
-   and evening across parts of the central and northern Plains.
-   Isolated severe gusts may also occur along parts of the eastern Gulf
-   Coast.
+   Thunderstorms with severe wind gusts and hail will be possible this
+   afternoon and evening across parts of the Ozarks and mid Mississippi
+   Valley. Isolated severe gusts will also be possible in parts of the
+   southern Plains and from east-central Colorado into northeastern New
+   Mexico.
 
-   ...Central and Northern Plains...
-   At mid-levels, a shortwave ridge will move eastward into the upper
-   Mississippi Valley today as a shortwave trough and an associated
-   cold front, move through the northern Plains. Ahead of the front,
-   surface dewpoints will be in the lower 70s F with moderate
-   instability developing across much of the moist airmass by late
-   morning. Convection is expected to initiate near the front around
-   midday with coverage expanding during the afternoon. MCS development
-   will be possible during the late afternoon and early evening from
-   eastern South Dakota southwestward into central Nebraska.
+   ...Ozarks/Mid Mississippi Valley...
+   At mid-levels, a positively tilted shortwave trough will move
+   southeastward across the mid to upper Mississippi Valley. An
+   associated cold front will advance southeastward into the western
+   Ozarks. Ahead of the front, an axis of moisture will be in place
+   with surface dewpoints in the 70s F. As surface temperatures warm,
+   moderate instability will develop along and near the moist axis,
+   with MLCAPE forecast to peak in the 2500 to 3500 J/kg range during
+   the afternoon. In addition to the instability, mid-level flow will
+   be westerly at 30 to 35 knots, which will contribute to moderate
+   deep-layer shear over much of the moist sector. This will result a
+   mixed mode with supercells and organized line segments both
+   possible. Along the instability axis, 0-3 km lapse rates are
+   forecast to peak near 7 C/km which will support a threat for severe
+   wind gusts. The threat could persist into the early to mid evening
+   as storms move southeastward across the mid Mississippi Valley.
 
-   RAP forecast soundings at 21Z from Huron, South Dakota southward to
-   near Grand Island, Nebraska have MLCAPE in the 1500 to 2000 J/kg
-   range and 0-6 km shear in the 25 to 35 knot range. This should be
-   sufficient for a mixed mode including potential for supercells and
-   severe line segments. The primary threat will be for damaging wind
-   gusts with any cell or line that can become intense in areas that
-   destabilize the most. The severe threat may persist into the early
-   to mid evening as a relatively large convective cluster moves
-   southward into the central Plains.
+   ...Southern Plains/East-central Colorado/Northeast New Mexico...
+   Northwesterly mid-level flow will be in place across much of the
+   central U.S. today. At the surface, a cold front will move southward
+   into central Oklahoma and the Texas Panhandle by afternoon. An axis
+   of moderate instability will develop ahead of the front as
+   temperatures become hot in the mid to late afternoon. Increasing
+   low-level convergence near the front will result in scattered
+   thunderstorm development. These storms will move south-southeastward
+   across the Red River Valley and southward across the Caprock of west
+   Texas. Very steep low to mid-level lapse rates and large temperature
+   dewpoint spreads exceeding 40 degrees F in some areas will result in
+   a potential for isolated severe wind gusts.
 
-   Further west into parts of the High Plains, pockets of moderate
-   instability may develop from southeastern Colorado into western
-   Kansas and across eastern Montana. Although large-scale ascent is
-   forecast to be relatively weak in these areas, topographic forcing
-   will aid convective initiation. In the mid to late afternoon,
-   isolated to scattered storms will move southeastward into the lower
-   elevations. Localized strong to severe wind gusts and hail will be
-   the primary threats.
+   Further west into east-central Colorado and northeast New Mexico, an
+   axis of instability will develop by afternoon in and near the
+   foothills of the southern Rockies. Storms will form in the mid to
+   late afternoon in the higher terrain and gradually move
+   southeastward into the lower elevations. Steep low to mid-level
+   lapse rates will support a potential for isolated severe gusts. Hail
+   could also occur with the stronger updrafts.
 
-   ...Eastern Gulf Coast...
-   A quasi-stationary front will be in place today from the Florida
-   Panhandle into southern Georgia. Near and to the south of the front,
-   surface dewpoints in the 70s F will contribute to moderate
-   destabilization. As low-level convergence increases during the day
-   near the front, isolated to scattered storms are expected to form
-   and move southeastward into the moist and unstable air. Moderate
-   instability and steep low-level lapse rates may support an isolated
-   threat for severe wind gusts this afternoon.
-
-   ..Broyles/Squitieri.. 07/30/2026
+   ..Broyles/Chalmers.. 07/31/2026
