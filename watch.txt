@@ -1,55 +1,66 @@
-
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0744 PM CDT Sat Aug 01 2026
+   0750 AM CDT Sun Aug 02 2026
 
-   Valid 020100Z - 021200Z
+   Valid 021300Z - 031200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS EVENING
-   ACROSS PARTS OF THE OHIO AND TENNESSEE VALLEYS AND PARTS OF THE
-   SOUTHERN GREAT PLAINS/ROCKIES...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS THE EAST
+   AS WELL AS PARTS OF THE SOUTHWEST AND NORTHERN PLAINS...
 
    ...SUMMARY...
-   Thunderstorms posing a risk for generally brief, weak tornadoes
-   across the southwestern Ohio vicinity probably will begin to
-   diminish within the next hour or two.  Otherwise, locally strong to
-   severe gusts remain possible this evening in continuing thunderstorm
-   development across parts of the Ohio and Tennessee Valleys, and
-   parts of the southern Rockies into adjacent southern Great Plains.
+   Scattered strong to locally severe thunderstorm development is
+   expected this afternoon and evening across parts of the lower Great
+   Lakes and upper Ohio Valley into the middle and southern Atlantic
+   Piedmont. Damaging winds are the primary hazard, although a tornado
+   could occur.
 
-   ...01Z Update...
+   ...Eastern States...
+   The large-scale positive-tilt upper trough will continue to drift
+   eastward regionally, with the leading edge of height falls generally
+   parallel to the Appalachians. Ahead of a cold front, early day cloud
+   cover, precipitation, and otherwise generally weak
+   lower/mid-tropospheric lapse rates will be factors that tend to
+   limit overall boundary-layer destabilization.
 
-   ...Ohio/Tennessee Valleys...
-   Focused low-level convergence and weak to modest clockwise-curved
-   low-level hodographs, near a surface low now centered to the
-   northwest of the Greater Cincinnati area, have contributed to
-   transient supercell structures within developing convection
-   downstream of an elongating mid-level low across the lower
-   Ohio/middle Mississippi Valley vicinity.  Potential for brief/weak
-   tornadoes has probably been boosted by near-surface buoyancy
-   associated with a boundary layer characterized by high relative
-   humidity and surface dew points in the lower 70s, along at least a
-   narrow pre-frontal corridor near the southern Ohio/Indiana state
-   border area into north central Kentucky.  However, with the loss of
-   daytime heating, near-surface stabilization probably will diminish
-   this threat by 02-03Z.
+   Breaks in cloud cover into this afternoon will eventually allow for
+   widely scattered to scattered intensifying thunderstorm development
+   into mid/late afternoon. This may focus within a pre-cold frontal
+   corridor across the Allegheny Plateau/upper Ohio Valley into lower
+   Great Lakes vicinity, where it could be enhanced by 20-40 kt
+   south-southwesterly flow in the 850-500 mb layer, and within
+   somewhat more modest flow off the higher terrain in vicinity of the
+   lee troughing across the Piedmont.
 
-   Otherwise, some intensification of pre-frontal thunderstorm
-   development still appears possible this evening, southward across
-   parts of middle and eastern Tennessee into northern Alabama. 
-   Although lower/mid-tropospheric lapse rates are rather modest to
-   weak, seasonably high moisture content is supporting sizable CAPE. 
-   Aided by 20-30 kt deep-layer southwesterly mean flow overspreading
-   this environment, heavy precipitation loading and downward momentum
-   transfer could still contribute to potential for localized damaging
-   surface gusts.
+   With at least modest CAPE in excess of 1000 J/kg, and potential for
+   heavy precipitation loading in the presence of seasonably high
+   moisture content, localized strong downbursts may generate a few
+   damaging surface gusts. A brief tornado threat may also exist across
+   parts of upper Ohio Valley toward the Mid-Atlantic given sufficient
+   low-level shear/SRH in the presence of a moist boundary layer.
 
-   ...Southern Rockies and adjacent southern Great Plains...
-   Convection developing southward ahead of a weak perturbation within
-   light northerly flow, into a very warm and deeply mixed boundary
-   layer with 40-50 F surface temperature/dew point spreads, may
-   continue to pose a risk for strong to locally severe wind gusts into
-   mid/late evening across parts of southern New Mexico and adjacent
-   portions of western/southwestern Texas and southeastern Arizona.
+   ...North Dakota/northwest Minnesota...
+   The extent and likelihood of sustained deep convective development
+   remain uncertain. Some guidance has suggested that there may be at
+   least attempts at deep convective development late this afternoon
+   near the weak pre-cold frontal surface troughing. However, the
+   potential for sustained thunderstorm activity remains unclear due to
+   limited low-level moisture beneath very warm and dry mid-levels,
+   associated with an elevated mixed-layer overspreading the region
+   today. A somewhat better potential for thunderstorm development may
+   await increasing forcing for ascent with the approach of the
+   upstream shortwave trough later tonight. In either case, some risk
+   for hail and severe winds will exist pending development across the
+   region.
 
-   ..Kerr.. 08/02/2026
+   ...Southeast Arizona/far southwest New Mexico...
+   Residual cloud cover and widely scattered convection should clear
+   relatively early today, with renewed diurnal destabilization across
+   southeast Arizona and nearby southwest New Mexico. At least widely
+   scattered thunderstorms should develop over the mountains/higher
+   terrain of the Arizona/New Mexico border vicinity, with
+   southwestward storm persistence across southeast Arizona aided by
+   moderately strong northeasterly winds. A few instances of
+   severe-caliber wind gusts/blowing dust are possible this afternoon
+   through early evening.
+
+   ..Guyer/Bentley.. 08/02/2026
