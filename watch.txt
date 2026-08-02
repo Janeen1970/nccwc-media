@@ -1,55 +1,55 @@
-Day 1 Convective Outlook  
+
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1227 AM CDT Fri Jul 31 2026
+   0744 PM CDT Sat Aug 01 2026
 
-   Valid 311200Z - 011200Z
+   Valid 020100Z - 021200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE OZARKS AND MID MISSISSIPPI VALLEY...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS EVENING
+   ACROSS PARTS OF THE OHIO AND TENNESSEE VALLEYS AND PARTS OF THE
+   SOUTHERN GREAT PLAINS/ROCKIES...
 
    ...SUMMARY...
-   Thunderstorms with severe wind gusts and hail will be possible this
-   afternoon and evening across parts of the Ozarks and mid Mississippi
-   Valley. Isolated severe gusts will also be possible in parts of the
-   southern Plains and from east-central Colorado into northeastern New
-   Mexico.
+   Thunderstorms posing a risk for generally brief, weak tornadoes
+   across the southwestern Ohio vicinity probably will begin to
+   diminish within the next hour or two.  Otherwise, locally strong to
+   severe gusts remain possible this evening in continuing thunderstorm
+   development across parts of the Ohio and Tennessee Valleys, and
+   parts of the southern Rockies into adjacent southern Great Plains.
 
-   ...Ozarks/Mid Mississippi Valley...
-   At mid-levels, a positively tilted shortwave trough will move
-   southeastward across the mid to upper Mississippi Valley. An
-   associated cold front will advance southeastward into the western
-   Ozarks. Ahead of the front, an axis of moisture will be in place
-   with surface dewpoints in the 70s F. As surface temperatures warm,
-   moderate instability will develop along and near the moist axis,
-   with MLCAPE forecast to peak in the 2500 to 3500 J/kg range during
-   the afternoon. In addition to the instability, mid-level flow will
-   be westerly at 30 to 35 knots, which will contribute to moderate
-   deep-layer shear over much of the moist sector. This will result a
-   mixed mode with supercells and organized line segments both
-   possible. Along the instability axis, 0-3 km lapse rates are
-   forecast to peak near 7 C/km which will support a threat for severe
-   wind gusts. The threat could persist into the early to mid evening
-   as storms move southeastward across the mid Mississippi Valley.
+   ...01Z Update...
 
-   ...Southern Plains/East-central Colorado/Northeast New Mexico...
-   Northwesterly mid-level flow will be in place across much of the
-   central U.S. today. At the surface, a cold front will move southward
-   into central Oklahoma and the Texas Panhandle by afternoon. An axis
-   of moderate instability will develop ahead of the front as
-   temperatures become hot in the mid to late afternoon. Increasing
-   low-level convergence near the front will result in scattered
-   thunderstorm development. These storms will move south-southeastward
-   across the Red River Valley and southward across the Caprock of west
-   Texas. Very steep low to mid-level lapse rates and large temperature
-   dewpoint spreads exceeding 40 degrees F in some areas will result in
-   a potential for isolated severe wind gusts.
+   ...Ohio/Tennessee Valleys...
+   Focused low-level convergence and weak to modest clockwise-curved
+   low-level hodographs, near a surface low now centered to the
+   northwest of the Greater Cincinnati area, have contributed to
+   transient supercell structures within developing convection
+   downstream of an elongating mid-level low across the lower
+   Ohio/middle Mississippi Valley vicinity.  Potential for brief/weak
+   tornadoes has probably been boosted by near-surface buoyancy
+   associated with a boundary layer characterized by high relative
+   humidity and surface dew points in the lower 70s, along at least a
+   narrow pre-frontal corridor near the southern Ohio/Indiana state
+   border area into north central Kentucky.  However, with the loss of
+   daytime heating, near-surface stabilization probably will diminish
+   this threat by 02-03Z.
 
-   Further west into east-central Colorado and northeast New Mexico, an
-   axis of instability will develop by afternoon in and near the
-   foothills of the southern Rockies. Storms will form in the mid to
-   late afternoon in the higher terrain and gradually move
-   southeastward into the lower elevations. Steep low to mid-level
-   lapse rates will support a potential for isolated severe gusts. Hail
-   could also occur with the stronger updrafts.
+   Otherwise, some intensification of pre-frontal thunderstorm
+   development still appears possible this evening, southward across
+   parts of middle and eastern Tennessee into northern Alabama. 
+   Although lower/mid-tropospheric lapse rates are rather modest to
+   weak, seasonably high moisture content is supporting sizable CAPE. 
+   Aided by 20-30 kt deep-layer southwesterly mean flow overspreading
+   this environment, heavy precipitation loading and downward momentum
+   transfer could still contribute to potential for localized damaging
+   surface gusts.
 
-   ..Broyles/Chalmers.. 07/31/2026
+   ...Southern Rockies and adjacent southern Great Plains...
+   Convection developing southward ahead of a weak perturbation within
+   light northerly flow, into a very warm and deeply mixed boundary
+   layer with 40-50 F surface temperature/dew point spreads, may
+   continue to pose a risk for strong to locally severe wind gusts into
+   mid/late evening across parts of southern New Mexico and adjacent
+   portions of western/southwestern Texas and southeastern Arizona.
+
+   ..Kerr.. 08/02/2026
