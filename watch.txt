@@ -1,66 +1,97 @@
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0750 AM CDT Sun Aug 02 2026
+   1254 AM CDT Mon Aug 03 2026
 
-   Valid 021300Z - 031200Z
+   Valid 031200Z - 041200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS THE EAST
-   AS WELL AS PARTS OF THE SOUTHWEST AND NORTHERN PLAINS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS LATE THIS
+   AFTERNOON AND EVENING ACROSS PARTS OF NORTHERN MINNESOTA INTO
+   ADJACENT PORTIONS OF THE EASTERN DAKOTAS...
 
    ...SUMMARY...
-   Scattered strong to locally severe thunderstorm development is
-   expected this afternoon and evening across parts of the lower Great
-   Lakes and upper Ohio Valley into the middle and southern Atlantic
-   Piedmont. Damaging winds are the primary hazard, although a tornado
-   could occur.
+   Strong to severe thunderstorm development appears possible today
+   across parts of northern Minnesota into adjacent portions of the
+   eastern Dakotas, as well as across the eastern Arizona international
+   border vicinity and parts of the northern Mid Atlantic through
+   western New England.
 
-   ...Eastern States...
-   The large-scale positive-tilt upper trough will continue to drift
-   eastward regionally, with the leading edge of height falls generally
-   parallel to the Appalachians. Ahead of a cold front, early day cloud
-   cover, precipitation, and otherwise generally weak
-   lower/mid-tropospheric lapse rates will be factors that tend to
-   limit overall boundary-layer destabilization.
+   ...Discussion...
+   A compact, but fairly deep, lower/mid-tropospheric cyclone over the
+   Canadian Prairies is forecast to migrate across northern Manitoba
+   into western Hudson Bay today through tonight.  One initial trailing
+   cold front is already advancing into the northern Great Plains, with
+   a more substantive cold front approaching the international border
+   and forecast to overtake it by mid afternoon, roughly across the
+   northwestern Minnesota through southeastern North Dakota, central
+   South Dakota, and western Nebraska vicinity.  
 
-   Breaks in cloud cover into this afternoon will eventually allow for
-   widely scattered to scattered intensifying thunderstorm development
-   into mid/late afternoon. This may focus within a pre-cold frontal
-   corridor across the Allegheny Plateau/upper Ohio Valley into lower
-   Great Lakes vicinity, where it could be enhanced by 20-40 kt
-   south-southwesterly flow in the 850-500 mb layer, and within
-   somewhat more modest flow off the higher terrain in vicinity of the
-   lee troughing across the Piedmont.
+   As a notable upstream mid-level short wave trough accelerates across
+   the northern U.S. Rockies, toward northwestern Ontario, it appears
+   that a secondary surface low emerging from Wyoming will weaken while
+   migrating northeast of the Black Hills through the adjacent middle
+   Missouri Valley early today.  Another surface low may form along the
+   front across northern Minnesota into northwestern Ontario this
+   evening, but it appears that the most rapid deepening will occur
+   north of Lake Superior overnight.
 
-   With at least modest CAPE in excess of 1000 J/kg, and potential for
-   heavy precipitation loading in the presence of seasonably high
-   moisture content, localized strong downbursts may generate a few
-   damaging surface gusts. A brief tornado threat may also exist across
-   parts of upper Ohio Valley toward the Mid-Atlantic given sufficient
-   low-level shear/SRH in the presence of a moist boundary layer.
+   To the south and southwest of the mid-level wave, models indicate
+   that mid-level ridging will build across the Southwest during the
+   day, with highest heights becoming centered along an axis across
+   southwestern through central Arizona into north central New Mexico
+   by late afternoon.
 
-   ...North Dakota/northwest Minnesota...
-   The extent and likelihood of sustained deep convective development
-   remain uncertain. Some guidance has suggested that there may be at
-   least attempts at deep convective development late this afternoon
-   near the weak pre-cold frontal surface troughing. However, the
-   potential for sustained thunderstorm activity remains unclear due to
-   limited low-level moisture beneath very warm and dry mid-levels,
-   associated with an elevated mixed-layer overspreading the region
-   today. A somewhat better potential for thunderstorm development may
-   await increasing forcing for ascent with the approach of the
-   upstream shortwave trough later tonight. In either case, some risk
-   for hail and severe winds will exist pending development across the
-   region.
+   Within the downstream westerlies, a notable mid-level trough is
+   forecast to pivot east and northeast of the lower Great Lakes
+   through New England.  As it does, a remnant perturbation digging
+   toward the southern Appalachians may evolve into a weak mid-level
+   low across the Southeast, cut off from the westerlies.
 
-   ...Southeast Arizona/far southwest New Mexico...
-   Residual cloud cover and widely scattered convection should clear
-   relatively early today, with renewed diurnal destabilization across
-   southeast Arizona and nearby southwest New Mexico. At least widely
-   scattered thunderstorms should develop over the mountains/higher
-   terrain of the Arizona/New Mexico border vicinity, with
-   southwestward storm persistence across southeast Arizona aided by
-   moderately strong northeasterly winds. A few instances of
-   severe-caliber wind gusts/blowing dust are possible this afternoon
-   through early evening.
+   ...Northern Great Plains into Upper Midwest...
+   The influence of possible early period convection and associated
+   cloud cover on destabilization and convective potential later today
+   across parts of the central and eastern Dakotas into Minnesota
+   remains a bit unclear.  However, by mid to late afternoon, guidance
+   generally indicates that a fairly sharp quasi-stationary
+   near-surface baroclinic zone will evolve across northwestern
+   Minnesota through southeastern North Dakota.  It appears that this
+   may become a focus for at least a narrow corridor of modest
+   boundary-layer destabilization, coincident with strengthening south
+   to southwesterly lower/mid-tropospheric wind fields (including
+   30-40+ kt around 850 mb and 50-70 kt around 500 mb).  This may
+   provide a window of opportunity for strong to severe storm
+   development, including a couple of supercells, by this evening,
+   before the front overtakes the instability axis with the passage of
+   the frontal wave.
 
-   ..Guyer/Bentley.. 08/02/2026
+   ...Southeastern Arizona/adjacent New Mexico...
+   Low-level moisture appears likely to remain relatively modest across
+   central and southern Arizona, with strong daytime heating and mixing
+   lowering surface dew points through the mid to lower 50s F by late
+   afternoon.  However, along the southern periphery of the stronger
+   mid-level ridging, it appears that this may support at least
+   moderate boundary layer CAPE near the international border vicinity,
+   beneath 25+ kt east-northeasterly mid-level steering flow. 
+
+   The higher terrain either side of the southern Arizona/New Mexico
+   state border will provide potential for a more substantive
+   clustering of convection, which may propagate across and south of
+   the international border by early this evening.  If preceding
+   thunderstorm development, initially developing in the unstable
+   environment near the international border, does not generate too
+   much stabilizing outflow, it is possible that this could become
+   supportive of a swath of strong to severe wind gusts, aided by
+   evaporative cooling in a deeply mixed sub-cloud layer with 40-50 F
+   temperature/dew point spreads.
+
+   ...Northern Mid Atlantic through western New England...
+   Along and ahead of a weak cold front, trailing a deepening surface
+   low migrating northeastward toward the lower St. Lawrence Valley,
+   boundary-layer destabilization will probably be slowed, if not
+   inhibited, by weak mid-level lapse rates and early day cloud
+   cover/precipitation,  However, strengthening deep-layer wind fields
+   and shear will potentially become more supportive of organized
+   thunderstorm development with a risk for damaging wind gusts and
+   perhaps a tornado or two, if pre-frontal breaks in cloud cover can
+   allow for sufficient destabilization with daytime heating.
+
+   ..Kerr/Supinie.. 08/03/2026
