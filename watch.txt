@@ -1,47 +1,68 @@
-    Day 1 Convective Outlook  
+ Day 1 Convective Outlook CORR 1
    NWS Storm Prediction Center Norman OK
-   0735 AM CDT Tue Aug 04 2026
+   0826 AM CDT Thu Aug 06 2026
 
-   Valid 041300Z - 051200Z
+   Valid 061300Z - 071200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR SOUTHEAST
-   ARIZONA...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR NORTHEAST
+   OKLAHOMA AND SOUTHEAST KANSAS INTO THE MISSOURI OZARKS...
+
+   CORRECTED FOR WIND LINES
 
    ...SUMMARY...
-   Scattered severe wind gusts are possible across southeast Arizona
-   during the late afternoon and evening.
+   Isolated to widely scattered severe thunderstorms capable primarily
+   of a severe-wind threat will be possible this afternoon and evening
+   over parts of Ozarks and Great Plains.  Isolated strong to locally
+   severe gusts capable of wind damage are possible from the
+   Mid-Atlantic northward into New York.
 
-   ...Southeast Arizona...
-   A flattened mid to upper-level ridge over the Desert Southwest will
-   feature a moderate belt of easterlies across Sonora into far
-   southern portions of NM and AZ.  A seasonably moist airmass will
-   undergo strong heating and result in moderate buoyancy by mid
-   afternoon (1000-2000 J/kg MLCAPE) per RAP/NAM forecast soundings. 
-   Initially widely scattered storm development over the higher terrain
-   will gradually move west across southeast AZ during the late
-   afternoon and evening.  Steep 700-500 mb lapse rates (around 8 deg
-   C/km) atop very steep low-level lapse rates ahead of this activity
-   will support ample evaporative cooling potential with the stronger
-   thunderstorm cores.  The resultant microbursts and associated
-   outflow will yield a risk for 60-80 mph gusts as storms congeal into
-   a small cluster or two.  
+   ...Ozarks westward into the southern High Plains...
+   Water-vapor imagery shows a mid-level anticyclone centered over
+   AZ/UT and a broad trough over the Upper Midwest favoring modest
+   west-northwesterly mid to high-level flow across the central Plains.
+   Several clusters of showers/thunderstorms are ongoing this morning
+   from the mid MS Valley and lower MO Valley into the OK-KS border
+   region.  Much of this activity is located to the north of a residual
+   front and outflow draped from the TX Panhandle east-northeast into
+   the mid MS Valley.  South of the boundary, an appreciably moist
+   airmass, featuring 50s F dewpoints west to lower 70s east, will heat
+   in areas void of convection and related cloud debris.  It is
+   uncertain how much influence morning showers/storms will have across
+   the Slight Risk area.  Nonetheless, model forecast soundings show
+   moderate destabilization occurring by mid-late afternoon across much
+   of this region.  Isolated to widely scattered storms will
+   preferentially develop near the effective front/outflow.  Some storm
+   organization is possible with the main threat being isolated to
+   widely scattered severe gusts.  Have adjusted the level 1 intensity
+   for wind to northern OK westward into the southern High Plains where
+   steep low-level lapse rates are forecast.  A couple of multicell
+   clusters may eventually evolve during the early evening.  A relative
+   minimum in storm activity may occur over parts of the TX Panhandle
+   in between storms over the northeast NM/western part of the TX
+   Panhandle and higher coverage of storms farther east over northern
+   OK into the Ozarks.  
 
-   ...Sangre de Cristos and adjacent plains...
-   A local maximum in buoyancy is depicted by model guidance near the
-   Raton Mesa by mid-late afternoon where widely scattered storms will
-   likely develop.  Some of the CAMs show this activity moving
-   southeast into parts of the OK-TX Panhandles during the early
-   evening with an isolated risk for severe gusts.  Marginally severe
-   hail is possible with the stronger cores.
+   ...Mid-Atlantic into the Northeast...
+   Mid-level flow will be southwesterly over the Northeast today.  At
+   the surface, a trough will be located from the Atlantic Coastal
+   Plains of Virginia north-northeastward into the southeastern New
+   York.  As surface temperatures warm today, thunderstorms will
+   develop in the foothills of the Appalachians, moving
+   east-northeastward into the lower elevations and toward the surface
+   trough.  Surface dewpoints near the trough will be in the lower to
+   mid 70s F, which will contribute to moderate destabilization by
+   early afternoon (MLCAPE 1000-2500 J/kg).  Some of the stronger
+   water-loaded downdrafts will be capable of an isolated risk for wind
+   damage.  
 
-   ...Western Carolinas...
-   A mid-level low will remain over northern Georgia today.  To the
-   east of the low, an axis of moderate instability is forecast to
-   develop over the western Carolinas by afternoon.  Warming surface
-   temperatures in the higher terrain will result in scattered
-   convective initiation across the southern Appalachians.  As
-   instability peaks and low-level lapse rates become steep in the
-   afternoon, an isolated wind-damage threat is expected to develop in
-   the western Carolinas.
+   ...Western Nebraska/southern South Dakota...
+   West-northwesterly mid-level flow will be in place over much of the
+   north-central U.S.  At the surface, an axis of low-level
+   moisture will set up from western Nebraska into far southern South
+   Dakota, where dewpoints will be in the 60s F.  Near this axis, model
+   forecasts show a pocket of moderate instability this afternoon with
+   MLCAPE around 2000 J/kg.  Although large-scale ascent will be weak,
+   any cell that can initiate near the instability axis could be
+   capable of producing isolated severe gusts/large hail.
 
-   ..Smith/Bentley.. 08/04/2026
+   ..Smith/Bentley.. 08/06/2026
