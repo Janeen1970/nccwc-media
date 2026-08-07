@@ -41,43 +41,4 @@ MAX WIND GUST...60 MPH
 $$
 
 
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-551 PM CDT Fri Aug 7 2026
 
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  East central Le Flore County in southeastern Oklahoma...
-
-* Until 630 PM CDT.
-
-* At 551 PM CDT, a severe thunderstorm was located 4 miles south of
-  Heavener, moving northeast at 10 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Heavener...                       Hodgen...
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-&&
-
-LAT...LON 3473 9462 3484 9473 3498 9451 3493 9445
-      3483 9445
-TIME...MOT...LOC 2251Z 229DEG 9KT 3483 9460 
-
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH
