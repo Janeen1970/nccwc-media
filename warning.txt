@@ -1,5 +1,53 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Shreveport LA
+627 PM CDT Fri Aug 7 2026
+
+The National Weather Service in Shreveport has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern McCurtain County in southeastern Oklahoma...
+
+* Until 700 PM CDT.
+
+* At 627 PM CDT, a severe thunderstorm was located 26 miles north of
+  Broken Bow, or 30 miles northwest of De Queen, moving southeast at
+  10 mph.
+
+  HAZARD...Ping pong ball size hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail
+           damage to roofs, siding, windows, and vehicles. Expect
+           wind damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Watson, Plunketville and Smithville.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Seek shelter inside a well-built structure and stay away from
+windows. This storm is capable of producing damaging winds and large
+hail.
+
+If on or near Broken Bow Lake, get away from the water and move
+indoors or inside a vehicle. Remember, lightning can strike out to 15
+miles from the parent thunderstorm. If you can hear thunder, you are
+close enough to be struck by lightning. Move to safe shelter now! Do
+not be caught on the water in a thunderstorm.
+
+&&
+
+LAT...LON 3436 9476 3451 9463 3451 9459 3446 9446
+      3424 9447 3412 9456
+TIME...MOT...LOC 2326Z 308DEG 9KT 3440 9464
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.50 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 617 PM CDT Fri Aug 7 2026
 
