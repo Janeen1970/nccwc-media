@@ -1,5 +1,53 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Little Rock AR
+632 PM CDT Fri Aug 7 2026
+
+The National Weather Service in Little Rock has issued a
+
+* Severe Thunderstorm Warning for...
+  Northwestern Marion County in north central Arkansas...
+  Boone County in north central Arkansas...
+
+* Until 715 PM CDT.
+
+* At 632 PM CDT, a severe thunderstorm was located near Myrtle, or
+  near Harrison, moving east at 25 mph.
+
+  HAZARD...60 mph wind gusts and half dollar size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Harrison...                       Diamond City...
+  Bergman...                        Lead Hill...
+  Pyatt...                          Olvey...
+  Myrtle...                         Self...
+  Lakeway...                        Red Bank...
+  Winington...                      Clark Hill...
+  Dodd City...                      Capps...
+  Willis...                         Bellefonte...
+  Alpena...                         Zinc...
+  South Lead Hill...                Batavia...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3619 9330 3640 9329 3647 9277 3618 9276
+TIME...MOT...LOC 2332Z 265DEG 22KT 3631 9312 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.25 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Tulsa OK
 619 PM CDT Fri Aug 7 2026
 
