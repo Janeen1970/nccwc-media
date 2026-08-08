@@ -1,63 +1,18 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-735 PM CDT Fri Aug 7 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Northeastern Franklin County in west central Arkansas...
-
-* Until 815 PM CDT.
-
-* At 735 PM CDT, a severe thunderstorm was located near Cass, moving 
-  northeast at 15 mph.
-
-  HAZARD...60 mph wind gusts and quarter size hail.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Cass...                           Turners Bend...
-  Barnes...                         Paradise...
-  Redding...                        
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-&&
-
-LAT...LON 3562 9384 3569 9392 3577 9382 3577 9370
-      3568 9370
-TIME...MOT...LOC 0035Z 233DEG 11KT 3568 9384 
-
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.00 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH
-
-$$
-
-
-...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
 National Weather Service Little Rock AR
-723 PM CDT Fri Aug 7 2026
+756 PM CDT Fri Aug 7 2026
 
 The National Weather Service in Little Rock has issued a
 
 * Severe Thunderstorm Warning for...
-  Northwestern Johnson County in western Arkansas...
+  Southwestern Newton County in north central Arkansas...
+  North central Johnson County in western Arkansas...
 
-* Until 815 PM CDT.
+* Until 830 PM CDT.
 
-* At 723 PM CDT, a severe thunderstorm was located 9 miles northwest
-  of Woodland, or 12 miles northeast of Ozark, moving east at 20 mph.
+* At 756 PM CDT, a severe thunderstorm was located near Walnut, or 20
+  miles southwest of Jasper, moving northeast at 20 mph.
 
   HAZARD...60 mph wind gusts and quarter size hail.
 
@@ -67,10 +22,11 @@ The National Weather Service in Little Rock has issued a
            to roofs, siding, and trees.
 
 * Locations impacted include...
-  Oak Grove in Johnson County...    Wolf Pen Campground...
-  Catalpa...                        Harmony...
-  Yale...                           Ozone...
-  Oark...                           
+  Walnut...                         Devils Knob...
+  Mossville...                      Nail...
+  Salus...                          Arbaugh...
+  Fallsville...                     Swain...
+  Dixon Ridge...                    
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -79,10 +35,17 @@ building.
 
 &&
 
-LAT...LON 3567 9370 3573 9347 3556 9338 3553 9370
-TIME...MOT...LOC 0023Z 247DEG 17KT 3560 9366 
+LAT...LON 3576 9322 3571 9348 3578 9352 3582 9352
+      3594 9337
+TIME...MOT...LOC 0056Z 238DEG 16KT 3580 9345 
 
 HAIL THREAT...RADAR INDICATED
 MAX HAIL SIZE...1.00 IN
 WIND THREAT...RADAR INDICATED
 MAX WIND GUST...60 MPH
+
+$$
+
+74
+
+
