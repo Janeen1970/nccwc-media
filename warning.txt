@@ -1,5 +1,51 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
+National Weather Service Tulsa OK
+735 PM CDT Fri Aug 7 2026
+
+The National Weather Service in Tulsa has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern Franklin County in west central Arkansas...
+
+* Until 815 PM CDT.
+
+* At 735 PM CDT, a severe thunderstorm was located near Cass, moving 
+  northeast at 15 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations in or near the path include...
+  Cass...                           Turners Bend...
+  Barnes...                         Paradise...
+  Redding...                        
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3562 9384 3569 9392 3577 9382 3577 9370
+      3568 9370
+TIME...MOT...LOC 0035Z 233DEG 11KT 3568 9384 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.00 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+
+
+...BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
 National Weather Service Little Rock AR
 723 PM CDT Fri Aug 7 2026
 
