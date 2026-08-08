@@ -1,90 +1,42 @@
 BULLETIN - IMMEDIATE BROADCAST REQUESTED
 Severe Thunderstorm Warning
-National Weather Service Little Rock AR
-632 PM CDT Fri Aug 7 2026
+National Weather Service Shreveport LA
+648 PM CDT Fri Aug 7 2026
 
-The National Weather Service in Little Rock has issued a
+The National Weather Service in Shreveport has issued a
 
 * Severe Thunderstorm Warning for...
-  Northwestern Marion County in north central Arkansas...
-  Boone County in north central Arkansas...
+  North Central McCurtain County in southeastern Oklahoma...
 
-* Until 715 PM CDT.
+* Until 730 PM CDT.
 
-* At 632 PM CDT, a severe thunderstorm was located near Myrtle, or
-  near Harrison, moving east at 25 mph.
+* At 648 PM CDT, a severe thunderstorm was located 27 miles north of
+  Broken Bow, or 37 miles northwest of De Queen, moving east at 15
+  mph.
 
-  HAZARD...60 mph wind gusts and half dollar size hail.
+  HAZARD...60 mph wind gusts and quarter size hail.
 
   SOURCE...Radar indicated.
 
-  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
-           to roofs, siding, and trees.
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage to
+           roofs, siding, and trees.
 
 * Locations impacted include...
-  Harrison...                       Diamond City...
-  Bergman...                        Lead Hill...
-  Pyatt...                          Olvey...
-  Myrtle...                         Self...
-  Lakeway...                        Red Bank...
-  Winington...                      Clark Hill...
-  Dodd City...                      Capps...
-  Willis...                         Bellefonte...
-  Alpena...                         Zinc...
-  South Lead Hill...                Batavia...
+  Sherwood, Mount Herman, Bethel and Smithville.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-For your protection move to an interior room on the lowest floor of a
-building.
+Seek shelter inside a well-built structure and stay away from
+windows. This storm is capable of producing damaging winds and large
+hail.
 
 &&
 
-LAT...LON 3619 9330 3640 9329 3647 9277 3618 9276
-TIME...MOT...LOC 2332Z 265DEG 22KT 3631 9312 
+LAT...LON 3426 9488 3448 9491 3451 9476 3451 9460
+      3428 9470
+TIME...MOT...LOC 2348Z 252DEG 13KT 3441 9482
 
 HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.25 IN
+MAX HAIL SIZE...1.00 IN
 WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH...BULLETIN - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Warning
-National Weather Service Tulsa OK
-619 PM CDT Fri Aug 7 2026
-
-The National Weather Service in Tulsa has issued a
-
-* Severe Thunderstorm Warning for...
-  Northeastern Madison County in northwestern Arkansas...
-  South central Carroll County in northwestern Arkansas...
-
-* Until 700 PM CDT.
-
-* At 619 PM CDT, a severe thunderstorm was located over Marble,
-  moving southeast at 5 mph.
-
-  HAZARD...Ping pong ball size hail and 60 mph wind gusts.
-
-  SOURCE...Radar indicated.
-
-  IMPACT...People and animals outdoors will be injured. Expect hail 
-           damage to roofs, siding, windows, and vehicles. Expect 
-           wind damage to roofs, siding, and trees.
-
-* Locations in or near the path include...
-  Marble...                         Dryfork...
-  Metalton...                       
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-For your protection move to an interior room on the lowest floor of a
-building.
-
-&&
-
-LAT...LON 3603 9361 3615 9368 3623 9354 3617 9341
-TIME...MOT...LOC 2319Z 307DEG 5KT 3615 9358 
-
-HAIL THREAT...RADAR INDICATED
-MAX HAIL SIZE...1.50 IN
-WIND THREAT...RADAR INDICATED
-MAX WIND GUST...60 MPH.
+MAX WIND GUST...60 MPH
