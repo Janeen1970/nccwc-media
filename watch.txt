@@ -1,138 +1,73 @@
  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0225 PM CDT Fri Aug 07 2026
+   1153 PM CDT Fri Aug 07 2026
 
-   Valid 072000Z - 081200Z
+   Valid 081200Z - 091200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS MUCH OF
-   IOWA...NORTHERN WISCONSIN INTO THE UPPER PENINSULA OF MICHIGAN...AND
-   THE MID-ATLANTIC...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+   OF THE NORTHERN AND CENTRAL PLAINS INTO THE UPPER MISSISSIPPI
+   VALLEY...PARTS OF THE MID-ATLANTIC...AND SOUTHERN ARIZONA...
 
    ...SUMMARY...
-   Isolated to scattered severe thunderstorms are possible across parts
-   of the Upper Midwest/Great Lakes this afternoon and evening, with
-   large to very large hail and severe winds the main threats.
-   Thunderstorms capable of scattered damaging winds may also occur
-   over portions of the Mid-Atlantic.
+   Severe thunderstorms will be possible this afternoon and evening
+   across parts of the central and northern Plains southeastward into
+   the lower to mid Missouri Valley. Additional strong to severe storms
+   are possible in the Mid-Atlantic and central/southern Arizona.
 
-   ...20z Update...
-   Adjustments were made to the D1 Convective Outlook to trim
-   probabilities behind the cold front across Minnesota/Iowa and behind
-   morning/early afternoon convection across Kansas/Oklahoma. The
-   Marginal Risk was shifted southward across Oklahoma/Arkansas to
-   account for recent trends in storm/outflow evolution and resulting
-   increasing potential for damaging wind downstream. 
+   ...Northern/Central Plains into MN/IA/MO...
 
-   A Marginal Risk was added across portions of southwestern New Mexico
-   into far western Texas. Across this region, a very deeply mixed and
-   hot boundary layer will support outflow dominant storms. Hi-res
-   guidance suggests that storms may produce strong to severe outflow
-   winds across this region later this afternoon. 
+   A modest but weakening low-level jet across portions of NE/SD may
+   support ongoing elevated convection this morning, mainly across NE.
+   This activity will weaken and spread southeast through the morning
+   hours, but could pose a marginal risk for hail. 
 
-   See previous discussion below for more information.
+   The forecast for the afternoon into nighttime hours becomes complex
+   and uncertain. Broad northwesterly flow aloft will modestly
+   strengthen by late afternoon/early evening as several shortwave
+   impulses migrate through the base of an upper low/trough centered
+   over central Canada. Height falls are expected to be weak, and warm
+   mid-level temperatures will pose capping issues. Nevertheless,
+   surface troughing across the northern/central High Plains will
+   result in south/southeasterly low-level flow, transporting 60s F
+   dewpoints northward across the central Plains and MO Valley ahead of
+   a southward sagging surface front oriented across ND and northern MN
+   late in the period. Increasing boundary layer moisture beneath steep
+   midlevel lapse rates will support moderate to strong
+   destabilization. 
 
-   ..Thornton.. 08/07/2026
+   Several areas of convection may develop during the late
+   afternoon/evening near the surface trough, and overnight near the
+   southward-sagging surface front. Given weak large-scale ascent and
+   warm midlevels, it remains uncertain where storm development is most
+   likely and how storm coverage will evolve. With an increasing
+   low-level jet across the central Plains during the nighttime hours,
+   some convection could develop atop a capping inversion, or along the
+   surface front near the ND/SD border. Isolated large hail is possible
+   with this activity. If surface-based convection can develop within
+   the strongly unstable airmass, damaging wind gusts also will be
+   possible.  
 
-   .PREV DISCUSSION... /ISSUED 1106 AM CDT Fri Aug 07 2026/
+   Additional high-based convection is possible across CO and western
+   KS/NE. A hot and well mixed boundary layer could support strong
+   outflow winds with this activity as well.
 
-   ...Upper Midwest/Great Lakes...
-   Thunderstorms are ongoing along/ahead of a cold front late this
-   morning from the MN Arrowhead southwestward into southern
-   MN/northern IA. While there are still uncertainties regarding
-   convective evolution this afternoon and evening, it appears
-   increasingly probable that two mesoscale corridors of greater severe
-   potential will exist: one across southern MN into IA, and another
-   across northern WI into the U.P of MI. In general, the severe risk
-   today will be aided by a mid/upper-level trough advancing
-   east-southeastward across these regions in tandem with a 35-50 kt
-   west-northwesterly mid-level jet.
+   ...Mid-Atlantic...
 
-   Thunderstorms are expected to further increase in coverage and
-   intensity along the eastward-advancing cold front this afternoon
-   across parts of northern WI into the western U.P of MI. While latest
-   NAM/RAP forecast soundings across this area suggest low-level
-   moisture remains fairly shallow/limited, mostly clear conditions are
-   noted on recent visible satellite imagery. Resultant moderate
-   instability and gradually strengthening deep-layer shear with the
-   approach of the mid/upper-level trough will aid in thunderstorm
-   organization. Small clusters/bowing line segments will probably be
-   the dominant mode given the linear forcing of the cold front, with
-   enhanced low/mid-level flow aiding the risk for scattered
-   severe/damaging winds. A Slight Risk has been added for parts of
-   northern WI into the U.P of MI given increased confidence in this
-   scenario occurring.
+   A modest midlevel shortwave trough will overspread the region
+   through afternoon/early evening. Strong heating of a seasonally
+   moist airmass will support moderate instability. Vertical shear is
+   expected to be sufficient for organized cells and clusters with an
+   attendant risk for damaging wind gusts. The strongest cells could
+   also produce small hail. 
 
-   Farther south, generally elevated convection is ongoing across
-   southern MN into northern IA. The 12Z observed sounding from MPX
-   showed fairly steep low/mid-level lapse rates in the 850-530 mb
-   layer, which along with 35-40 kt of effective bulk shear and around
-   2000 J/kg of MUCAPE may continue to support a threat for severe hail
-   with this activity in the short term. Even though cloud cover
-   remains prevalent across these areas late this morning, a corridor
-   of moderate to locally strong instability is still forecast to
-   develop this afternoon across parts of eastern NE into IA ahead of
-   the cold front. Current expectations are for multiple surface-based
-   supercells and/or bowing clusters to develop along/ahead of the
-   front in southern MN, and then spread southeastward across IA
-   through the late afternoon/early evening. A threat for both large
-   hail and damaging winds should exist with this activity, and a
-   Slight Risk has been introduced where confidence is greater that
-   robust convection will occur. 2+ inch diameter hail and perhaps a
-   tornado also appear possible with any surface-based supercell, even
-   though low-level flow will not be overly strong.
+   ...AZ...
 
-   ...Ohio Valley into the Mid-Atlantic...
-   Between upper troughing over central Canada/the Upper Midwest and
-   upper ridging over the western Atlantic, around 20-30 kt of
-   southwesterly mid-level flow will exist today from the OH Valley
-   into the Mid-Atlantic and Northeast. Greater destabilization and
-   steepening of low-level lapse rates are anticipated this afternoon
-   across the Mid-Atlantic, where recent visible satellite imagery
-   shows generally clear skies. Loosely organized cells/clusters that
-   initially develop across the higher terrain of the central
-   Appalachians should spread into the Mid-Atlantic coastal plain
-   through the afternoon/evening, while posing a threat for scattered
-   damaging winds up to 50-60 mph and perhaps marginally severe hail.
-   Across the OH Valley, somewhat weaker mid-level flow may tend to
-   limit updraft organization. Still, some potential for clustering and
-   isolated damaging winds may exist downstream of ongoing convection
-   where greater destabilization can ocur. Have therefore expanded the
-   Marginal Risk across much of the OH Valley to account for this
-   possibility.
+   Easterly midlevel flow will persist on the southern periphery of an
+   upper high over the Four Corners. Steep midlevel lapse rates and
+   persistent moisture across the region will foster thunderstorm
+   development across the higher terrain during the evening. The hot
+   and well mixed boundary layer will support strong outflow gusts as
+   convection moves westward off higher terrain toward the lower
+   deserts.
 
-   ...Southern/Central Plains into the Ozarks...
-   Elevated thunderstorms posing an isolated hail threat in southeast
-   KS late this morning should further diminish into the early
-   afternoon as a southwesterly low-level jet gradually weakens. To the
-   south and east of this activity, a hot and unstable airmass will
-   exist this afternoon across OK into parts of southern MO and AR.
-   Although details regarding convective evolution remain unclear, it
-   is possible that robust thunderstorms develop/continue on the
-   outflow from this morning's activity, or near multiple MCVs present
-   from earlier convection. Isolated strong to severe winds appear
-   possible, even though deep-layer shear should remain weak. The
-   Marginal Risk has been expanded eastward and connected to the risk
-   area in the OH Valley. Other isolated thunderstorms posing some
-   severe wind threat may develop this afternoon farther west across
-   eastern NM into the OK/TX Panhandles.
-
-   ...Arizona...
-   Modest east-southeasterly mid-level flow will persist today over AZ
-   to the south of a mid/upper-level anticyclone centered over the Four
-   Corners. Widely scattered convection should develop over the
-   Mogollon Rim and the higher terrain in southeast AZ this afternoon,
-   and gradually spread into the lower deserts this evening. Given the
-   very well-mixed boundary layer and weak to locally moderate
-   instability expected to be in place ahead of these thunderstorms,
-   have maintained low severe wind probabilities.
-
-   ...Northern Nebraska/Southern South Dakota...
-   Elevated thunderstorms may develop across parts of northern NE and
-   southern SD late tonight/early Saturday morning as isentropic ascent
-   increases in tandem with modest strengthening of a southerly
-   low-level jet. Low-level moistening beneath steepening mid-level
-   lapse rates should support sufficient MUCAPE for robust updrafts, 
-   although confidence in overall coverage remains low due to
-   weak/nebulous large-scale ascent. Regardless, strong shear in the
-   cloud-bearing layer across this area should promote organized
-   convection capable of producing isolated severe hail.
+   ..Leitman/Marsh.. 08/08/2026
