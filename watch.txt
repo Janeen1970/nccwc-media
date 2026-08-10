@@ -1,71 +1,57 @@
  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1215 AM CDT Sun Aug 09 2026
+   1100 AM CDT Mon Aug 10 2026
 
-   Valid 091200Z - 101200Z
+   Valid 101630Z - 111200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE MIDWEST...AND PORTIONS OF THE DAKOTAS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM PARTS OF
+   ILLINOIS TO THE MID-ATLANTIC COAST...OVER PARTS OF THE NORTHERN AND
+   CENTRAL PLAINS...AND OVER SOUTHERN ARIZONA...
 
    ...SUMMARY...
-   Scattered damaging winds may occur today into this evening from
-   southern Minnesota and eastern Iowa eastward across parts of
-   northern Illinois, southern Wisconsin, southern Lower Michigan,
-   northwest Ohio, and northern Indiana. Damaging wind and hail is also
-   expected across portions of the Dakotas.
+   Thunderstorms with severe wind gusts will be possible this afternoon
+   and evening from northern Illinois eastward into Pennsylvania.
+   Severe gusts and hail will also be possible from parts of the
+   central and northern Plains into the Midwest, with scattered severe
+   storms over southern Arizona.
 
-   ...IA/MN into the Midwest...
+   ...PA/NY/NJ...
+   Multiple clusters and lines of thunderstorms are ongoing this
+   morning from western PA.  So far, this activity has produced limited
+   severe wind gusts due to weak low-level lapse rates.  However,
+   continued heating over central/eastern PA will eventually allow the
+   storms to be more efficient wind-producers with locally damaging
+   gusts expected.  See MD #1894 for further details.
 
-   Convection is expected to be ongoing this morning across parts of
-   southern MN into eastern IA. This early day activity could pose a
-   risk for damaging gusts. This activity is likely to continue to
-   spread eastward across the Lake Michigan vicinity through the
-   afternoon on the nose a of modest low-level jet and along a surface
-   front oriented across southern WI and Lower MI. This activity could
-   intensify as is moves into a destabilizing airmass by midday. 
+   ...OH/WV...
+   A secondary cluster of storms over central OH is tracking
+   southeastward in a moderately sheared environment.  Rapid heating is
+   occurring to the southwest of this cluster, which should result in
+   intensification by mid afternoon.  Storms will likely spread into
+   northern WV with a risk of damaging wind gusts and perhaps hail.
 
-   Additional development is possible within the moisture rich warm
-   sector across northern IL/IN along the southern flank of ongoing
-   convection and/or outflow. Strong to extreme instability is
-   forecast, while vertically veering wind profiles support 30+ kt
-   effective shear magnitudes. Low-level SRH also will be enhanced
-   along the surface boundary. While damaging winds are expected to be
-   the primary hazard with convection, some risk for hail and a tornado
-   or two also will exist through evening. Depending on the evolution
-   of morning convection, it is possible higher probabilities will be
-   needed in subsequent outlooks.
+   ...SD/MN/IA...
+   A large reservoir of unstable air will reside across much of SD
+   today, with MLCAPE values over 3000 J/kg, steep lapse rates, and
+   dewpoints in the upper 60s.  A capping inversion should preclude
+   sustained convection until after 00z when strengthening southerly
+   low-level flow and warm advection will aid initiation.  Supercells
+   capable of large hail and damaging winds are expected, with eventual
+   upscale organization into a bowing MCS possible through the
+   evening/night.
 
-   ...Dakotas and western NE...
-
-   A surface front is expected to develop southward across the central
-   Plains, becoming oriented across northern KS by tonight. Low-level
-   warm advection atop the boundary, and surface winds becoming
-   south/southeasterly with time will maintain 60s dewpoints across the
-   region. Within this post-frontal upslope regime, moderate
-   northwesterly flow aloft will persist. A modest south/southwesterly
-   low-level jet is also forecast to develop during the evening hours.
-   Low-level convergence within the warm advection regime and
-   increasing low-level jet may be sufficient for isolated to scattered
-   thunderstorm development. Supercell wind profiles and steep
-   low-level lapse rates will support initial storms capable of large
-   hail and damaging winds. If sufficient clusters/outflow
-   consolidation can occur, upscale growth during the late evening into
-   overnight hours is possible, with an increasing risk for swaths of
-   severe/damaging gusts.
-
-   ...Southern Appalachians...
-
-   Scattered thunderstorm development is expected over higher terrain
-   within a seasonally moist and unstable airmass. Steepening low-level
-   lapse rates and high PW values may support locally strong gusts with
-   wet microbursts through early evening.
+   ...CO/KS...
+   Most model guidance shows the likelihood of scattered high-based
+   thunderstorm development late this afternoon over northeast CO,
+   spreading into northwest KS and southwest NE this evening.  Cloud
+   cover is somewhat limiting heating, but sufficient CAPE and winds
+   aloft may promote a period of damaging wind potential later today.
 
    ...AZ...
+   Another round of evening thunderstorms is expected to initiate off
+   the higher terrain of east-central AZ and spread westward toward the
+   TUS/PHX metro areas.  Parameters remain conditionally favorable for
+   damaging winds in any sustained/organized clusters of storms that
+   may develop.
 
-   Modest easterly mid/upper flow will persist across the region on the
-   southern periphery of an upper high over the Four Corners. Another
-   day of hot conditions will promote steep lapse rates and modest
-   destabilization. As convection develops over higher terrain and
-   spread westward, strong outflow gusts may occur.
-
-   ..Leitman/Moore.. 08/09/2026
+   ..Hart/Weinman.. 08/10/2026
