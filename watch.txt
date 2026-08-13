@@ -1,69 +1,75 @@
   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0736 AM CDT Wed Aug 12 2026
+   1258 AM CDT Thu Aug 13 2026
 
-   Valid 121300Z - 131200Z
+   Valid 131200Z - 141200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE
-   NORTHERN/CENTRAL PLAINS TO THE LOWER OHIO VALLEY...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   IOWA INTO ILLINOIS...
 
    ...SUMMARY...
-   Scattered severe thunderstorms are possible today through this
-   evening from parts of the mid Mississippi Valley and lower Ohio
-   Valley into portions of the central and northern High Plains. 
-   Severe gusts and large hail are the primary hazards.
+   Isolated to scattered severe thunderstorms appear possible today
+   from parts of the southern/central High Plains to the mid
+   Mississippi and lower Ohio Valleys. Damaging winds should be the
+   main threat, but occasional hail may also occur.
 
-   ...IA to OH Valley...
-   Radar/satellite imagery this morning show several thunderstorm
-   clusters ongoing from IA into the OH Valley.  The most notable
-   thunderstorm cluster is over far eastern IA and is moving into
-   central and northern IL this morning.  The airmass downstream of
-   this activity is very moist and extremely unstable [reference the 12
-   UTC Davenport, IA raob (4300 J/kg MLCAPE)], and it is located near
-   the terminus of a 35-kt west-southwesterly LLJ over northern MO. 
-   Expecting a gradual intensification of storms this morning across IL
-   with a risk for scattered severe gusts and associated wind damage. 
-   Considerable uncertainty remains regarding the eventual evolution of
-   additional storm clusters over parts of the Midwest through this
-   afternoon.  Outflow from morning showers/storms over eastern IN into
-   central KY will likely inhibit appreciable severe risk farther east
-   across parts of the OH Valley.  Nonetheless, a moist and
-   destabilizing boundary layer will lend a risk for scattered wind
-   damage and isolated large hail with the stronger storms through the
-   late afternoon and evening.  
+   ...Iowa into Illinois/Indiana...
+   An MCV has developed early this morning with an ongoing cluster of
+   thunderstorms across central NE. This activity is expected to spread
+   eastward through the morning, and should be in the vicinity of
+   western/central IA by the start of the period. There is still
+   uncertainty regarding how intense this cluster will be due to the
+   presence of fairly substantial MLCIN downstream into IA. Even so,
+   warm/moist advection associated with a low-level jet over the
+   southern/central Plains and the presence of a rather moist/unstable
+   airmass into IA suggest some potential for an organized cluster to
+   pose a risk for scattered severe/damaging winds as it moves eastward
+   through the morning. A brief embedded tornado may also occur if
+   convection can remain surface based.
 
-   ...Northern/Central Plains...
-   East/southeasterly low-level flow will maintain modest moisture
-   across the Dakotas, increasing with southward extent across NE into
-   northern KS.  Near-60 F dewpoints will likely spread westward into
-   eastern CO/WY/MT beneath steep lapse rates.  Ample heating will
-   result in moderate buoyancy and 30+ kt effective shear---supporting
-   some organization to the scattered thunderstorms forecast to develop
-   later this afternoon/evening.  Initial cells will pose a threat for
-   large hail and severe gusts.  Some clustering may occur during the
-   evening but confidence remains low regarding specific corridors
-   where the severe threat will focus.  
+   Even greater uncertainty exists this afternoon regarding potential
+   convective evolution, with most guidance showing the cluster
+   weakening as it moves into IN. Regardless, the airmass downstream
+   and to the south of outflow associated with the morning cluster will
+   destabilize through the day, and any additional thunderstorms that
+   form could pose at least an isolated threat for damaging winds and
+   perhaps some hail given the strong buoyancy forecast.
 
-   ...Lower MI into NY/PA/NJ...
-   A belt of stronger northwesterly flow aloft will extend from Lower
-   MI into NY/PA today.  A seasonally moist/unstable airmass will be in
-   place.  Vertically veering wind profiles will foster 35+ kt
-   effective shear magnitudes, while hodographs are fairly elongated.
-   Midlevel lapse rates will remain modest, with MLCAPE around
-   1000-1500 J/kg expected.  Isolated to widely scattered storms will
-   pose a risk for damaging gusts and marginally severe hail.
+   ...Southern/Central High Plains...
+   High-based thunderstorms are forecast to initially develop over the
+   higher terrain of the central Rockies/Front Range this afternoon,
+   with post-frontal low-level upslope flow persisting across the
+   central High Plains. As this activity spreads east-northeastward and
+   encounters greater instability, consolidating outflows should
+   support some increase for isolated severe gusts given steepened
+   low-level lapse rates. Occasional hail may also occur with the
+   stronger cores that develop. Consideration was given to including
+   greater severe wind probabilities across eastern CO into parts of
+   KS, but modest deep-layer shear casts some doubt on overall
+   thunderstorm organization/intensity. A somewhat separate area of
+   thunderstorms may also develop farther south across the southern
+   High Plains in a very hot and well-mixed boundary layer. This
+   activity should also pose a threat for isolated severe gusts through
+   the afternoon.
 
-   ...TN Valley/Southeast...
-   Thunderstorms are expected to develop by midday within a very moist
-   and strongly unstable airmass.  Deep-layer northwesterly flow will
-   remain weak, but steepened 0-2 km lapse rates and high PW (near 2
-   inches) will support an isolated risk for some stronger water-loaded
-   downdrafts capable of wind damage.
+   ...Great Basin...
+   Modestly enhanced southwesterly mid-level flow will persist today
+   across the Great Basin downstream of a weak mid-level trough over
+   CA. Weak to locally moderate instability is forecast to develop
+   through the afternoon as filtered diurnal heating occurs. Scattered
+   to numerous thunderstorms are expected to form and spread
+   northeastward across this destabilizing airmass, with strong to
+   severe gusts possible. Based on latest guidance trends (00Z HREF),
+   have expanded the Marginal Risk for severe/damaging winds to include
+   more of the Great Basin.
 
-   ...Lower CO River Valley...
-   Model guidance shows widely scattered storms developing this
-   afternoon near a weak upper trough analyzed this morning via
-   water-vapor imagery.  Some of the stronger thunderstorm downdrafts
-   may be capable of isolated severe gusts.
+   ...Northeast...
+   Seasonably cool mid-level temperatures are forecast today across
+   parts of the Northeast, with a mid-level trough expected to move
+   east-southeastward from Quebec into New England. While instability
+   is forecast to remain fairly limited, strong west-northwesterly flow
+   aloft may support a risk for isolated damaging winds with
+   thunderstorms that develop and spread southeastward through the
+   afternoon. Isolated hail may also occur with the stronger cells.
 
-   ..Smith/Kerr.. 08/12/2026
+   ..Gleason/Moore.. 08/13/2026
