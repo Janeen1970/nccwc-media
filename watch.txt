@@ -1,66 +1,84 @@
-  Day 1 Convective Outlook  
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1257 AM CDT Fri Aug 14 2026
+   0241 PM CDT Sat Aug 15 2026
 
-   Valid 141200Z - 151200Z
+   Valid 152000Z - 161200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE MID MISSOURI AND MID MISSISSIPPI VALLEYS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS PORTIONS OF THE
+   OHIO VALLEY AND PARTS OF THE CENTRAL HIGH PLAINS...
 
    ...SUMMARY...
-   Thunderstorms with severe wind gusts and hail will be possible this
-   afternoon and evening across parts of the mid Missouri and mid
-   Mississippi Valleys. Isolated severe gusts will also be possible in
-   parts of the central Plains and from the Ohio Valley to the
-   Mid-Atlantic.
+   Thunderstorms with severe wind gusts and isolated large hail remain
+   possible from late afternoon into the evening across the central
+   High Plains. Severe wind gusts may also still occur this afternoon
+   through early evening across parts of the Ohio Valley and Southeast.
 
-   ...Mid Missouri and mid Mississippi Valleys...
-   A broad anticyclonic flow pattern will be in place over much of the
-   central U.S. today, as a subtle embedded shortwave trough moves
-   through the mid Missouri Valley. Ahead of this feature, a
-   quasi-stationary front will be in place from southern Iowa
-   east-southeastward into north-central Illinois. This boundary will
-   be the focus for convective development this afternoon. Surface
-   dewpoints along the boundary will be in the 70s F, which will result
-   in strong destabilization by afternoon. Surface-based convective
-   initiation is expected along the instability gradient during the
-   late afternoon to the south of Omaha. From these initial storms, a
-   line is expected to organize and move eastward across south-central
-   Iowa and far northern Missouri during the late afternoon and early
-   evening.
+   ...20Z Update...
+   The previous forecast (see below) remains generally on track, with
+   only minor changes made to the 20Z Day 1 Convective Outlook Update
+   to reflect the latest observations and latest guidance consensus.
+   There were considerations to add a Category 1/Marginal Risk for
+   severe wind/hail over portions of the Pacific Northwest into the
+   northern Rockies given appreciable cool temperatures aloft
+   overspreading a heated boundary layer. Nonetheless, vertical wind
+   shear should remain quite weak. Therefore, while a 50+ kt gust or
+   instance of 1+ inch hail may occur with any of the stronger storms,
+   the severe threat should be very sparse, precluding severe
+   probabilities this outlook.
 
-   RAP forecast soundings ahead of the line at 00Z from Des Moines
-   southward into far northern Missouri have MLCAPE in the 2000 to 3500
-   J/kg range. Some directional shear is present in the low-levels, and
-   0-6 km shear is in the 30 to 35 knot range. This environment will be
-   favorable for bowing line segments capable of severe wind gusts. An
-   embedded supercell with a hail threat will also be possible. The
-   severe threat is expected to move eastward into northwest and
-   north-central Illinois during the evening.
+   ..Squitieri.. 08/15/2026
 
-   ...Central Plains...
-   Southwesterly mid-level flow will be in place today over much of the
-   western and central U.S. A subtle shortwave trough will move
-   northeastward into the central High Plains. Large-scale ascent
-   associated with the trough and topographic lift in the foothills of
-   the Rockies will be favorable for scattered convective initiation by
-   early afternoon. Thunderstorms will move northeastward into the
-   central High Plains and into a moderately unstable airmass. Some RAP
-   forecast soundings in east-central Colorado during the late
-   afternoon have 0-6 km shear around 25 knots with low to mid-level
-   lapse rates exceeding 7 C/km. This will likely support isolated
-   severe wind gusts and hail.
+   .PREV DISCUSSION... /ISSUED 1135 AM CDT Sat Aug 15 2026/
 
-   ...Ohio Valley/Central Appalachians/Mid-Atlantic...
-   West-northwesterly mid-level flow will be in place today over much
-   of the northeastern U.S. At the surface, an axis of moderate
-   instability will develop by afternoon from the Ohio Valley
-   east-southeastward into the Mid-Atlantic. Along and near the
-   instability axis, low-level convergence will be the primary focus
-   for convective initiation. Near and downstream of these pockets of
-   convergence, isolated to scattered thunderstorms are expected to
-   develop. The moderate instability with precipitable water values in
-   the 2 to 2.2 inch range should support a threat for isolated severe
-   wet downbursts.
+   ...Front Range/Central High Plains...
+   Modestly strong southwesterly flow aloft coupled with strong
+   daytime heating, low-level upslope flow, and orographic lift will
+   support another day of thunderstorms regionally. These thunderstorms
+   should gradually move off the higher terrain into the central High
+   Plains later this afternoon, where a moderately
+   buoyant airmass will be in place. Around 30-35 kt of effective
+   bulk shear is expected over the region, which will support a mixed
+   mode with supercells and multicell line segments. Isolated large
+   hail is possible with any supercells, while severe wind gusts will
+   be possible with both supercells and line segments. The severe
+   threat should persist into the evening as this complex of storms
+   moves eastward through the central High Plains including
+   west/southwest Kansas.
 
-   ..Broyles/Lyons.. 08/14/2026
+   ...Midwest/Middle Ohio Valley...
+   Thunderstorms have generally weakened since the overnight, although
+   scattered showers/some thunderstorms and plentiful cloud cover
+   continue in areas progressively north of the Ohio River. An MCV is
+   readily apparent in observational data as it continues to move into
+   northwest Indiana, with an enhanced belt (40+ kt) of westerly winds
+   associated with the MCV per regional WSR-88D VWP data. 
+
+   As clouds thin/abate, a gradual increase in renewed thunderstorm
+   coverage and intensity is expected later this afternoon. Mid-level
+   lapse rates will be poor, but dewpoints in the 70s F will support
+   moderate buoyancy, particularly in areas where cloud cover does not
+   overly inhibit diurnal heating, which will tend to generally be
+   southward toward the Ohio River. Strong updrafts and high
+   precipitable water will support the potential for wet microbursts
+   capable of producing damaging gusts, and some enhancement to the
+   low-level winds could also yield a brief tornado.
+
+   ...Central Appalachians/Carolinas/Georgia...
+   A very moist airmass, characterized by dewpoints in the low to mid
+   70s, is in place regionally. Strong heating will destabilize the
+   airmass by the early afternoon, resulting in a large reservoir of
+   moderate buoyancy. Thunderstorm development is anticipated within
+   this destabilized airmass across the higher terrain of the central
+   Appalachians as well as any area of low-level convergence across the
+   remainder of the region. Vertical shear will be weak, and limited
+   storm organization is anticipated. Even so, the moderate buoyancy
+   could still support updrafts/downdrafts strong enough to produce
+   occasional damaging gusts.
+
+   ...Central Plains/Mid Missouri Valley to Mid Mississippi Valley...
+   Elevated thunderstorms are expected again tonight, initiated by both
+   an approaching cold front and warm-air advection. Ample low-level
+   moisture and moderate buoyancy will be in place, but vertical shear
+   will be marginal. Isolated strong to severe storms are expected, but
+   a predominantly elevated and clustered storm mode should limit the
+   overall severe potential.
