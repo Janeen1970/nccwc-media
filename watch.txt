@@ -1,76 +1,61 @@
-     Day 1 Convective Outlook  
+  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0742 AM CDT Sun Aug 16 2026
+   1152 AM CDT Mon Aug 17 2026
 
-   Valid 161300Z - 171200Z
+   Valid 171630Z - 181200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE OHIO VALLEY...CENTRAL APPALACHIANS...MID-ATLANTIC...AND CENTRAL
-   HIGH PLAINS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
+   NORTH-CENTRAL PLAINS/UPPER MIDWEST AND SOUTHERN APPALACHIANS...
 
    ...SUMMARY...
-   Thunderstorms with damaging wind gusts will be possible from this
-   afternoon into early evening over parts of the Ohio Valley and
-   Mid-Atlantic. Large hail and isolated severe wind gusts will also be
-   possible in parts of the central High Plains.
+   Thunderstorms with severe wind gusts and large hail are expected
+   this afternoon and evening across parts of the central and northern
+   Plains. Damaging gusts will also be possible in parts of the
+   southern Appalachians to the North Carolina Piedmont, and possibly
+   across portions of the Mid-South and southern Plains.
 
-   ...Lower MO Valley through the OH Valley into the Mid-Atlantic...
-   Satellite and regional radar imagery shows several vorticity maxima
-   embedded within the moderate westerly flow aloft that extends from
-   the central Plains across the OH Valley and into the Mid-Atlantic.
-   The strongest vorticity maximum is currently moving through
-   north-central KS and south-central NE, while more subtle maxima
-   exist across western IL, southwestern Lower MI/far northern IN, and
-   western PA. Each of these features will likely contribute to showers
-   and thunderstorms later today. The most consequential of these
-   storms will likely occur in tandem with the western IL and
-   southwestern Lower MI waves as they interact with a moist and
-   diurnally destabilized airmass from the middle OH Valley into the
-   Mid-Atlantic. Airmass destabilization appears likely by the early
-   afternoon, with renewed thunderstorm development anticipated from
-   southeast Lower MI into southern IN. Moderate vertical shear will be
-   in place, supporting a predominantly multicellular mode. Mid-level
-   winds may increase slightly throughout the afternoon, and a
-   supercell or two is possible over southern OH. A trend towards
-   clustering and the development of linear segments is anticipated
-   over time, with damaging gusts as the primary risk throughout the
-   day.
+   ...Northern/Central Plains...
+   Weak height falls are expected regionally with a seasonally
+   prominent strengthening of northwesterly flow aloft. A surface low
+   will shift eastward and an attendant cold front will push
+   southward/southeastward across eastern Montana, North Dakota and
+   toward west/northwest Minnesota. The airmass preceding this front
+   will be moist and strongly unstable, with dewpoints in the upper 60s
+   and MLCAPE over 2500 J/kg. Multiple areas of initial development are
+   expected, including along the front from eastern Dakotas into
+   western Minnesota, and in the vicinity of the pre-frontal trough
+   and/or front over the NE Panhandle vicinity, southern South Dakota,
+   and southeast Montana/far eastern Wyoming.
 
-   These storms will continue eastward across WV into Mid-Atlantic
-   during the late afternoon/early evening. Moderate buoyancy will
-   support storm persistence and the potential for continued damaging
-   gusts. Additional thunderstorm development is possible ahead of
-   these clusters in areas of low-level convergence during the
-   afternoon. Moderate vertical shear could support a few more
-   organized storms, with water-loaded downbursts as the primary severe
-   risk. A tornado or two is also possible, particularly across
-   northern VA where southerly surface winds could result in adequate
-   low-level hodograph curvature. 
+   Mid/Late-afternoon storm development in each of these areas will
+   progress into zones of greater buoyancy by evening. Some initial
+   supercells capable of large hail are expected, especially given the
+   strength of the deep-layer wind profiles, while steep low-level
+   lapse rates and high cloud bases will support strong wind gust
+   potential, especially with the possibility that storms may
+   cluster/organize this evening across Nebraska/southern South Dakota,
+   and possibly across Siouxland and western Minnesota. 
 
-   Farther west (across the Lower MO Valley), the well-defined
-   vorticity maximum currently over north-central KS/southern-central
-   NE is forecast to be east of the region by the late afternoon, but
-   airmass destabilization in its wake is uncertain. If the airmass can
-   recover, additional thunderstorms are likely along a cold front
-   moving into the region this evening. Strong buoyancy will support
-   robust updrafts, but modest vertical shear will keep storm
-   organization limited. If thunderstorms form, a few strong gusts are
-   possible across this region this evening.
+   ...Central/Southern Appalachians into the Piedmont...
+   Within a very moist airmass, renewed thunderstorm development is
+   expected along the southern flank of a remnant thunderstorm cluster
+   and in vicinity of the higher terrain/mountains this afternoon.
+   Vertical shear will not be overly strong, but moderate/strong
+   buoyancy and steep low-level lapse rates will still support the
+   potential for damaging wind gusts. These strong outflows could
+   promote the development of several
+   forward-propagating/southeast-moving line segments with a persistent
+   potential for wind damage, at least through early evening.
 
-   ...Northern/Central High Plains...
-   Scattered thunderstorm development in anticipated this afternoon
-   across the northern and central High Plains. Thunderstorms over the
-   northern High Plains will be supported by low-level convergence
-   along the western edge of the moist airmass over the Plains.
-   Moderate vertical shear could support a few supercells capable of
-   hail and strong gusts, but modest buoyancy should keep the overall
-   severe threat isolated. 
+   ...Oklahoma/Arkansas to Mid-South...
+   Aided by an MCV, a small cluster of storms with a morning history of
+   occasional severe-caliber winds continues at midday across northwest
+   Arkansas. For additional short-term details, see Mesoscale
+   Discussion 2010. While not certain or perhaps likely, a general
+   eastward-persistence of this cluster could occur. Additional
+   isolated storm development may occur regionally later this afternoon
+   along the remnant outflow and/or front, with steep low-level lapse
+   rates and ample buoyancy supportive of damaging downburst potential
+   through around sunset.
 
-   Thunderstorm development farther south across the central High
-   Plains will result from a combination of moist low-level easterlies,
-   westerly flow aloft and orographic effects. Here, more cellular
-   development over the high terrain and immediate foothills could pose
-   a risk for large hail before transitioning towards more linear
-   structures with strong gusts as the primary severe risk.
-
-   ..Mosier/Dean.. 08/16/2026
+   ..Guyer/Chalmers.. 08/17/2026
