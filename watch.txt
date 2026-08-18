@@ -1,61 +1,86 @@
-  Day 1 Convective Outlook  
+Day 1 Convective Outlook CORR 1
    NWS Storm Prediction Center Norman OK
-   1152 AM CDT Mon Aug 17 2026
+   0910 AM CDT Tue Aug 18 2026
 
-   Valid 171630Z - 181200Z
+   Valid 181300Z - 191200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
-   NORTH-CENTRAL PLAINS/UPPER MIDWEST AND SOUTHERN APPALACHIANS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM NORTHEAST
+   KANSAS INTO CENTRAL MISSOURI...
+
+   CORRECTED FOR WIND CIG1 LINE ORIENTATION
 
    ...SUMMARY...
-   Thunderstorms with severe wind gusts and large hail are expected
-   this afternoon and evening across parts of the central and northern
-   Plains. Damaging gusts will also be possible in parts of the
-   southern Appalachians to the North Carolina Piedmont, and possibly
-   across portions of the Mid-South and southern Plains.
+   Thunderstorms with severe wind gusts and isolated large hail will be
+   possible this afternoon and evening from the central Plains into the
+   lower Missouri Valley. Isolated severe gusts and hail will also be
+   possible from the Northern Rockies into the central High Plains, and
+   eastward into the Midwest and southern Lower Michigan. Damaging
+   gusts could also occur across parts of Mississippi and Alabama.
 
-   ...Northern/Central Plains...
-   Weak height falls are expected regionally with a seasonally
-   prominent strengthening of northwesterly flow aloft. A surface low
-   will shift eastward and an attendant cold front will push
-   southward/southeastward across eastern Montana, North Dakota and
-   toward west/northwest Minnesota. The airmass preceding this front
-   will be moist and strongly unstable, with dewpoints in the upper 60s
-   and MLCAPE over 2500 J/kg. Multiple areas of initial development are
-   expected, including along the front from eastern Dakotas into
-   western Minnesota, and in the vicinity of the pre-frontal trough
-   and/or front over the NE Panhandle vicinity, southern South Dakota,
-   and southeast Montana/far eastern Wyoming.
+   ...Central Plains into Lower MO Valley...
+   Warm-air advection showers and thunderstorms are currently ongoing
+   across south-central/southeast NE. This activity is likely
+   reinforcing an outflow boundary from an earlier MCS that extends
+   from northwest KS into the NE/KS/MO border vicinity. These showers
+   and thunderstorms are expected to continue southeastward over the
+   next few hours, while gradually diminishing in coverage and
+   intensity. How this outflow modifies will influence the thunderstorm
+   potential across northern KS this afternoon. If the boundary does
+   not wash out, there could be a region of notable convergence that
+   develops across in the northwestern/north-central KS between the
+   outflow (reinforced by an approaching cold front) and a heat-driven
+   surface low that develops across western KS. Even with this
+   potential convergence, convective initiation is uncertain. Most
+   guidance maintains warm low/mid level temperatures, with the
+   resultant capping suppressing any thunderstorm development. Steep
+   lapse rates, moderate deep-layer vertical shear, and strong buoyancy
+   are expected north of the boundary, and there is a conditional risk
+   for large to very large hail and strong downdrafts if any updrafts
+   can mature. 
 
-   Mid/Late-afternoon storm development in each of these areas will
-   progress into zones of greater buoyancy by evening. Some initial
-   supercells capable of large hail are expected, especially given the
-   strength of the deep-layer wind profiles, while steep low-level
-   lapse rates and high cloud bases will support strong wind gust
-   potential, especially with the possibility that storms may
-   cluster/organize this evening across Nebraska/southern South Dakota,
-   and possibly across Siouxland and western Minnesota. 
+   A more certain scenario is expected farther east across eastern KS,
+   where evening thunderstorm development is anticipated as the
+   low-level jet increases. Steep lapse rates and moderate vertical
+   shear support the potential for thunderstorms capable of large hail
+   during the initially more cellular mode. These storms will likely
+   cluster quickly, with a trend towards upscale growth into a
+   forward-propagating MCS which then moves into MO. Damaging gusts
+   will become the primary risk once this occurs.
 
-   ...Central/Southern Appalachians into the Piedmont...
-   Within a very moist airmass, renewed thunderstorm development is
-   expected along the southern flank of a remnant thunderstorm cluster
-   and in vicinity of the higher terrain/mountains this afternoon.
-   Vertical shear will not be overly strong, but moderate/strong
-   buoyancy and steep low-level lapse rates will still support the
-   potential for damaging wind gusts. These strong outflows could
-   promote the development of several
-   forward-propagating/southeast-moving line segments with a persistent
-   potential for wind damage, at least through early evening.
+   ...Northern Rockies through the Central High Plains...
+   A shortwave trough is forecast to progress southeastward from
+   British Columbia/Alberta into the northern Rockies. Thunderstorm
+   development is anticipated across the northern Rockies as this wave
+   interacts with the destabilized and buoyant airmass across the
+   region. Moderate westerly flow will accompany this wave as well,
+   supporting the potential for more organized storm structures and the
+   development of several line segments. These widely scattered
+   thunderstorms are forecast to progress eastward/southeastward this
+   afternoon/evening, with additional development possible from WY into
+   the central High Plains. The moderate westerly flow aloft, high
+   storm bases, and steep low-level lapse rates support the potential
+   for strong to severe wind gusts as these storms progress
+   eastward/southeastward.
 
-   ...Oklahoma/Arkansas to Mid-South...
-   Aided by an MCV, a small cluster of storms with a morning history of
-   occasional severe-caliber winds continues at midday across northwest
-   Arkansas. For additional short-term details, see Mesoscale
-   Discussion 2010. While not certain or perhaps likely, a general
-   eastward-persistence of this cluster could occur. Additional
-   isolated storm development may occur regionally later this afternoon
-   along the remnant outflow and/or front, with steep low-level lapse
-   rates and ample buoyancy supportive of damaging downburst potential
-   through around sunset.
+   ...Southern WI/northern IL into Lower MI...
+   Low-level moisture is expected to increase across the Midwest ahead
+   of an approaching cold front, resulting in moderate buoyancy by the
+   late afternoon. Convergence along the front will be weak but still
+   sufficient for convective initiation, with the combination of
+   moderate buoyancy and moderate westerly flow aloft supporting strong
+   to severe storms. An initially more cellular mode could yield large
+   hail within the strongest storms. A quick transition towards more
+   linear modes is anticipated, with damaging gusts becoming the
+   primary severe risk within any strong line segments.
 
-   ..Guyer/Chalmers.. 08/17/2026
+   ...MS/AL...
+   Afternoon thunderstorm development is anticipated across MS and AL
+   as a weak vorticity maximum progresses southeastward into the warm,
+   moist, and unstable environment in place across the region. Vertical
+   shear will be weak, and an outflow-dominant, multicellular mode is
+   expected. Even so, some clustering into one or more line segments
+   appears probable, resulting in scattered thunderstorm coverage.
+   Steep low-level lapse rates and relatively high cloud bases support
+   the potential for strong downdrafts with any more robust convection.
+
+   ..Mosier/Bunting.. 08/18/2026
