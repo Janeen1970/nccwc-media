@@ -1,86 +1,80 @@
-Day 1 Convective Outlook CORR 1
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0910 AM CDT Tue Aug 18 2026
+   1257 AM CDT Wed Aug 19 2026
 
-   Valid 181300Z - 191200Z
+   Valid 191200Z - 201200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM NORTHEAST
-   KANSAS INTO CENTRAL MISSOURI...
-
-   CORRECTED FOR WIND CIG1 LINE ORIENTATION
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE MID MISSISSIPPI VALLEY...
 
    ...SUMMARY...
-   Thunderstorms with severe wind gusts and isolated large hail will be
-   possible this afternoon and evening from the central Plains into the
-   lower Missouri Valley. Isolated severe gusts and hail will also be
-   possible from the Northern Rockies into the central High Plains, and
-   eastward into the Midwest and southern Lower Michigan. Damaging
-   gusts could also occur across parts of Mississippi and Alabama.
+   Thunderstorms with severe wind gusts and hail will be possible this
+   afternoon across the mid Mississippi Valley. Isolated severe gusts
+   and hail will also be possible from the lower to mid Missouri Valley
+   westward into the Great Plains. A few severe gusts could also occur
+   in southern Arizona and in the Southeast.
 
-   ...Central Plains into Lower MO Valley...
-   Warm-air advection showers and thunderstorms are currently ongoing
-   across south-central/southeast NE. This activity is likely
-   reinforcing an outflow boundary from an earlier MCS that extends
-   from northwest KS into the NE/KS/MO border vicinity. These showers
-   and thunderstorms are expected to continue southeastward over the
-   next few hours, while gradually diminishing in coverage and
-   intensity. How this outflow modifies will influence the thunderstorm
-   potential across northern KS this afternoon. If the boundary does
-   not wash out, there could be a region of notable convergence that
-   develops across in the northwestern/north-central KS between the
-   outflow (reinforced by an approaching cold front) and a heat-driven
-   surface low that develops across western KS. Even with this
-   potential convergence, convective initiation is uncertain. Most
-   guidance maintains warm low/mid level temperatures, with the
-   resultant capping suppressing any thunderstorm development. Steep
-   lapse rates, moderate deep-layer vertical shear, and strong buoyancy
-   are expected north of the boundary, and there is a conditional risk
-   for large to very large hail and strong downdrafts if any updrafts
-   can mature. 
+   ...Mid Mississippi Valley...
+   At mid-levels, a shortwave trough and an associated speed max will
+   move southeastward into the mid Mississippi Valley today. At the
+   surface, an outflow boundary associated with morning convection will
+   move southward into southern Missouri by midday. To the north of the
+   boundary, surface dewpoints will be in the 70s F. Moderate
+   instability is expected to develop in areas that are not impacted by
+   morning outflow. As low-level convergence becomes focused near the
+   boundary during the late afternoon and early evening, isolated to
+   scattered convective initiation is expected. From this convection,
+   thunderstorms will likely develop and move eastward across the mid
+   Mississippi. One or two organized line segments will be possible
+   during the evening.
 
-   A more certain scenario is expected farther east across eastern KS,
-   where evening thunderstorm development is anticipated as the
-   low-level jet increases. Steep lapse rates and moderate vertical
-   shear support the potential for thunderstorms capable of large hail
-   during the initially more cellular mode. These storms will likely
-   cluster quickly, with a trend towards upscale growth into a
-   forward-propagating MCS which then moves into MO. Damaging gusts
-   will become the primary risk once this occurs.
+   Early evening RAP forecast soundings in south-central Missouri,
+   where the strongest instability is expected, have 0-6 km shear
+   around 40 knots with precipitable water near 2 inches. MLCAPE is
+   expected to peak in the 2500 to 3000 J/kg range with 0-3 km lapse
+   rates around 7.5 C/km. This environment will support a severe threat
+   with supercells and multicell line segments. Severe wind gusts and
+   hail will be the primary hazards. The severe threat could persist
+   into the mid to late evening, with storms that are maintained by a
+   low-level jet that is forecast to strengthen in southeast Missouri.
 
-   ...Northern Rockies through the Central High Plains...
-   A shortwave trough is forecast to progress southeastward from
-   British Columbia/Alberta into the northern Rockies. Thunderstorm
-   development is anticipated across the northern Rockies as this wave
-   interacts with the destabilized and buoyant airmass across the
-   region. Moderate westerly flow will accompany this wave as well,
-   supporting the potential for more organized storm structures and the
-   development of several line segments. These widely scattered
-   thunderstorms are forecast to progress eastward/southeastward this
-   afternoon/evening, with additional development possible from WY into
-   the central High Plains. The moderate westerly flow aloft, high
-   storm bases, and steep low-level lapse rates support the potential
-   for strong to severe wind gusts as these storms progress
-   eastward/southeastward.
+   ...Great Plains...
+   Mid-level northwesterly flow will be in place across the Great
+   Plains today. At the surface, dewpoints in the 60s and 70s F will
+   contribute to moderate destabilization over much of the region.
+   During the afternoon, isolated storm development will be possible
+   within the unstable airmass from the lower to mid Missouri Valley
+   southwestward into the central Plains. A few severe gusts and hail
+   will be possible but the storms will remain isolated due to limited
+   large-scale ascent. The greater convective coverage is expected
+   further south in the higher terrain of eastern Colorado and
+   northeast New Mexico. Thunderstorms will likely form due to
+   topographic forcing during the mid to late afternoon and move
+   east-southeastward into the lower elevations. Ahead of these storms,
+   RAP forecast soundings at 00Z in the northern Texas Panhandle and
+   southwest Kansas have 0-6 km shear around 40 knots with 0-3 km lapse
+   rates near 8 C/km, and surface-temperature dewpoint spreads
+   exceeding 30 degrees. This environment will support an isolated
+   potential for severe gusts.
 
-   ...Southern WI/northern IL into Lower MI...
-   Low-level moisture is expected to increase across the Midwest ahead
-   of an approaching cold front, resulting in moderate buoyancy by the
-   late afternoon. Convergence along the front will be weak but still
-   sufficient for convective initiation, with the combination of
-   moderate buoyancy and moderate westerly flow aloft supporting strong
-   to severe storms. An initially more cellular mode could yield large
-   hail within the strongest storms. A quick transition towards more
-   linear modes is anticipated, with damaging gusts becoming the
-   primary severe risk within any strong line segments.
+   ...Southern Arizona...
+   Low-level moisture will be in place today across southern Arizona,
+   where surface dewpoints will be mostly in the 50s F. As surface
+   temperature warm, isolated to scattered convective initiation will
+   occur in the higher terrain of southeastern Arizona. These storms
+   will move west-southwestward toward an axis of instability. Steep
+   low to mid-level lapse rates and large temperature-dewpoint spreads
+   will support and isolated potential for severe gusts late this
+   afternoon into early evening.
 
-   ...MS/AL...
-   Afternoon thunderstorm development is anticipated across MS and AL
-   as a weak vorticity maximum progresses southeastward into the warm,
-   moist, and unstable environment in place across the region. Vertical
-   shear will be weak, and an outflow-dominant, multicellular mode is
-   expected. Even so, some clustering into one or more line segments
-   appears probable, resulting in scattered thunderstorm coverage.
-   Steep low-level lapse rates and relatively high cloud bases support
-   the potential for strong downdrafts with any more robust convection.
+   ...Southeast...
+   A very moist airmass will be in place today across the Southeast,
+   where surface dewpoints will be in the 70s F. As surface
+   temperatures warm, moderate instability will develop over much of
+   the region. Scattered thunderstorms are expected to develop and move
+   southward across parts of Mississippi and western Alabama. The deep
+   low-level moisture combined with steep low-level lapse rates will
+   support an isolated wind-damage threat during the mid to late
+   afternoon.
 
-   ..Mosier/Bunting.. 08/18/2026
+   ..Broyles/Thornton.. 08/19/2026
