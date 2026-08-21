@@ -1,65 +1,86 @@
-Day 1 Convective Outlook  
+  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0800 PM CDT Wed Aug 19 2026
+   1124 AM CDT Fri Aug 21 2026
 
-   Valid 200100Z - 201200Z
+   Valid 211630Z - 221200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE MID
-   MISSISSIPPI AND OHIO VALLEYS AND SOUTHERN ARIZONA...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE CENTRAL PLAINS...MIDWEST...LOWER MS VALLEY...AND CAROLINAS...
 
    ...SUMMARY...
-   Thunderstorms capable of severe wind gusts and hail remain possible
-   this evening across the mid Mississippi and lower Ohio Valleys and
-   southern Arizona. More isolated strong storms are possible through
-   the evening across parts of the central/southern High Plains and
-   parts of the Southeast.
+   Scattered severe thunderstorms capable of producing large hail (some
+   2+ inches) and severe winds may occur over parts of the central
+   Plains into the Midwest this afternoon and evening. Damaging winds
+   will also be possible with scattered to numerous thunderstorms
+   across portions of the Carolinas and northern Gulf Coast states.
 
-   ...Mid MS Valley to the lower OH Valley.
-   Evening water vapor imagery showed a broad trough and enhanced
-   northwesterly mid-level flow stretching from the southern Dakotas
-   into the mid MS Valley. Downstream of a flattened upper ridge over
-   the Southwest, this trough and stronger flow aloft should continue
-   eastward this evening aiding in thunderstorm development across
-   parts of the Mid MS and lower OH valleys this evening.
+   ...Central Plains into the Midwest...
+   A northwest flow regime will result in a weakly forced and in a
+   limited confidence severe setup across the central Plains.  Ongoing
+   widely scattered storm activity may persist and reinvigorate during
+   the afternoon, or new development occurs along residual outflow as
+   the airmass becomes moderately to strongly unstable.  Forecast
+   sounding profiles show moist low levels beneath steep 700-500 mb
+   lapse rates amid veering and strengthening flow with height.  Large
+   hail (some 2+ inches) would be a threat with any sustained
+   supercells along with severe gusts (60-75 mph).  If a small cluster
+   can eventually develop, the severe-wind hazard would likely focus
+   with these potential storms.  
 
-   Several clusters of storms are already ongoing this evening near a
-   diffuse frontal zone across MO and into southern IL and western KY.
-   As the upper trough approaches, ascent form a 30+ kt southwesterly
-   low-level jet may support an increase in storm coverage, possibly
-   along the flank of the exist cluster in MO and farther south along
-   the frontal zone later this evening. Moderate, and likely somewhat
-   elevated buoyancy (2000-3000 J/kg MUCAPE), and 40-50 kt of
-   deep-layer shear will favor organized clusters or supercell
-   structures. Hail is possible, along with some damaging winds and
-   perhaps a tornado, especially if storms can develop into a more
-   coherent MCS. These storms should spread eastward overnight into the
-   lower OH Valley with a continued severe risk.
+   A small west to east oriented band of storms is moving south across
+   southern WI to the east of a weak surface low and immediately
+   downstream of an associated mid-level perturbation.  While effective
+   bulk shear is forecast to remain fairly modest (around 20-30 kt), a
+   mix of multicells and marginal supercells is expected to develop
+   later this afternoon across parts of southern WI into
+   northern/central IL along and ahead of a weak front.  Severe hail
+   may occur with any persistent cells, while the threat for damaging
+   winds should increase as small clusters form and spread
+   east-southeastward through the early evening.  While low-level
+   flow is not forecast to become overly strong, sufficient veering
+   with height through low/mid levels should exist to support modest
+   low-level hodograph curvature and some risk for a brief tornado.
 
-   ...Central and southern High Plains...
-   Scattered thunderstorms, including a few supercells are ongoing
-   across the central and southern High Plains within a broad upslope
-   flow regime. Aided by an upper trough with moderate northwesterly
-   flow aloft, organized storms structures capable of large hail should
-   continue along the Foothills and adjacent high plains this evening.
-   Steep lapse rates and large temperature-dew point depressions may
-   also favor a few severe gusts with the more intense cores/clusters
-   that can develop.
+   ...Carolinas...
+   Weakened shower/thunderstorm activity associated with an MCV over
+   the western Carolinas will likely dissipate during the early
+   afternoon.  However, renewed storm development is forecast in
+   proximity to this upper disturbance, as well as near residual
+   outflow from the earlier convection and a surface cool front draped
+   from the GA/SC Piedmont northeastward into the coastal plain of
+   eastern NC.  Strong heating of a seasonably moist boundary layer
+   will result in strong instability by mid afternoon.  Sufficient
+   deep-layer shear for some organized multicell potential will be
+   greatest near the upper-level feature.  Farther southeast near the
+   SC Low Country, weaker flow will result in a pulse thunderstorm
+   mode.  Scattered damaging gusts are possible with the stronger
+   thunderstorms through the early evening before nocturnal stability
+   weakens storms and ends the severe threat.  
 
-   ...AZ...
-   Scattered storms across the higher terrain of southern AZ should
-   continue to move toward the southwest into the Lower Deserts this
-   evening. Adequate monsoon moisture amid very hot temperatures (100
-   F+) and steep low-level lapse rates will support strong downdrafts
-   with severe gusts of 60-75 mph possible.
+   ...North TX east into northern Gulf Coast states...
+   Antecedent outflow from overnight storm clusters over the lower MS
+   Valley and AL will serve as a focus for storm development this
+   afternoon.  Farther west, a more pronounced decaying MCS and
+   associated southward-moving MCV over east-central OK will also focus
+   storm activity across east TX into western LA.  The 12 UTC Little
+   Rock raob showed a belt of enhanced flow around the 4-5 km layer
+   (35-40 kt).  Other than a localized corridor where moderate
+   northerly flow will overspread a strongly destabilizing boundary
+   layer, slightly weaker northerly to northeasterly flow will
+   encompass this larger region from north TX to Mobile Bay. 
+   Nonetheless, the development of very steep 0-3 km lapse rates (9 deg
+   C/km) by early to mid afternoon and high PW (1.75-2.0 inches) will
+   support scattered wind damage with the more intense downdrafts (most
+   likely and concentrated from east TX through southern MS). 
 
-   ...Southeast...
-   Scattered thunderstorms are ongoing early this evening from MS into
-   western/southern AL and across the FL Panhandle in association with
-   a weak MCV. A warm boundary layer and seasonably high moisture
-   content should continue to support scattered strong storms through
-   this evening. PWATs over 2 inches will favor strong water-loaded
-   downdrafts with isolated damaging gusts potential. Storms should
-   gradually diminish in coverage and intensity tonight as the boundary
-   layer stabilizes.
+   ...Northern Great Basin into the Snake Valley...
+   A mid-level vorticity max rotating northward around the western
+   periphery of the Four Corners upper high, will move into northern
+   NV/UT by late afternoon.  Deep inverted-V profiles will develop by
+   mid afternoon with a dry sub-cloud layer featuring large surface
+   temperature-dewpoint spreads.  A linear cluster of storms is
+   expected to evolve and move north across the NV/UT/ID vicinity
+   during the late afternoon and early evening.  Evaporatively cooled
+   downdrafts will be potentially capable of severe gusts 60-75 mph.
 
-   ..Lyons.. 08/20/2026
+   ..Smith/Chalmers.. 08/21/2026
