@@ -1,88 +1,82 @@
   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0101 AM CDT Sat Aug 22 2026
+   1259 AM CDT Mon Aug 24 2026
 
-   Valid 221200Z - 231200Z
+   Valid 241200Z - 251200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE UPPER OHIO VALLEY...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
+   NORTHERN PLAINS/UPPER MIDWEST...CENTRAL HIGH PLAINS...MIDDLE GULF
+   COAST AND COASTAL CAROLINAS...
 
    ...SUMMARY...
-   Scattered damaging gusts are likely across the Ohio Valley with more
-   isolated damaging wind potential extending westward into the Mid
-   Mississippi Valley and southern Plains this afternoon/evening.
-   Isolated hail and damaging winds are also possible over the Front
-   Range, Great Basin and parts of the northern Rockies.
+   Severe thunderstorms capable of large hail and damaging wind gusts
+   will be possible mainly this afternoon and evening across the
+   Dakotas and northwest Minnesota as well as the central High Plains.
+   Other severe storms may focus across the lower Mississippi Valley
+   and middle Gulf Coast, as well as the coastal Carolinas.
 
-   ...OH and TN Valleys...
-   An upper low initially over the western Great Lakes is forecast to
-   deepen as it moves southeastward today and tonight. A belt of
-   stronger mid-level flow behind the trough will move into parts of
-   the Plains and Midwest. A weak surface low and trailing cold front
-   will move southeastward across the Lakes and into the upper OH
-   Valley through the day. Ahead of the front, upper 60s to 70s F
-   surface dewpoints and filtered diurnal heating should allow for
-   moderate destabilization, sufficient for scattered to numerous
-   thunderstorms by early afternoon. Despite generally modest to weak
-   deep-layer shear, steepening of lower/mid-level lapse will support
-   stronger downdrafts within organized multicell clusters. With time,
-   some upscale growth into linear segments is also possible and would
-   also favor a risk for scattered damaging gusts. This appears most
-   likely across central/eastern OH and KY into western PA/WV.
+   ...Dakotas/Upper Midwest to central High Plains...
+   An eastward-moving shortwave trough will emerge from the Canadian
+   Rockies and move across the Canadian prairies through tonight, with
+   a belt of moderately strong flow aloft and multiple MCVs influencing
+   the Dakotas to Minnesota. Residual early day convection and
+   lingering cloud cover will be complicating factors as far as the
+   later-day forecast scenario. 
 
-   Farther south, more isolated storm coverage is expected ahead of the
-   front from the western Carolina Piedmont to the TN Valley. Steep
-   low-level lapse rates and enhanced low and mid-level northwesterly
-   flow will still support some risk for isolated damaging gusts.
+   That said, at least widely scattered thunderstorms should develop
+   and increase by late afternoon within a moist/unstable air mass near
+   the eastward-moving front and weak surface wave across the
+   east-central Dakotas and/or cross the international border and move
+   southeastward into the region. Deep-layer wind profiles would be
+   conducive to some supercells and the development of
+   east/southeastward-moving clusters by evening, with large hail and
+   damaging winds possible.
 
-   ...Ozarks/Mid MS Valley...
-   A weak convectively augmented shortwave trough is forecast to move
-   from southeastern KS and southern MO into northern AR along western
-   portions of a weak surface front by midday. Ahead of these features,
-   a very warm and humid air mass will be in place, which should allow
-   substantial diurnal destabilization and eventual thunderstorm
-   development. Enhanced northwesterly flow may help organize a few
-   thunderstorm clusters as they spread eastward from the Ozarks into
-   the ArkLaTex and mid MS Valley. Damaging wind gusts and some hail
-   are possible.
+   More removed from the stronger cyclonic flow aloft, additional
+   higher-based storms are expected by late afternoon and early evening
+   south-southwestward across the Black Hills/western Nebraska in
+   vicinity of the front and preceding trough. Sufficient
+   strength/veering of winds with height should support some initial
+   supercells capable of hail, prior to a clustering of these
+   southeastward-moving storms, with wind damage being a possibility
+   through mid/late evening across the central High Plains.  
 
-   ...Front Range and adjacent High Plains...
-   Post-frontal upslope flow, aided by a weak short wave impulse on the
-   eastern periphery of the upper ridge will support thunderstorm
-   development along/east of the Laramie mountains through Colorado
-   Front Range this afternoon. On the fringes of the stronger northwest
-   flow aloft, deep-layer shear will be marginal for storm
-   organization. Steep mid-level lapse rates and moderate buoyancy
-   could support some hail with the stronger updrafts. Isolated
-   damaging gusts are also possible, especially with any more
-   persistent thunderstorm clusters.
+   ...Coastal Carolinas...
+   The region will be influenced by moderately strong cyclonic flow
+   aloft, with a moist and moderate-to-strongly unstable environment
+   along the coastal plain to the east of a stationary/slow-moving
+   front. The degree of buoyancy and upwards of 35-40 kt effective
+   shear could support some initial supercells with hail this
+   afternoon, although damaging winds should be the most prevalent
+   concern as storms become more numerous. Severe potential should tend
+   to wane by around sunset.
 
-   ...Southern Plains...
-   Very hot surface temperatures (100+ F) are likely across parts of
-   western North TX into southwestern and central OK this afternoon.
-   Low-level convergence near a thermally enhanced surface low and weak
-   front will aid high-based thunderstorm development late afternoon
-   into the early evening. Weak buoyancy atop the steep low-level lapse
-   rates and deep mixed layer will favor very strong downdrafts within
-   the high-based storms. Isolated severe gusts (possibly 65-75 mph
-   gusts) associated with microbursts are possible as convection is
-   forecast to move southward through the evening.
+   ...Lower Mississippi Valley/Middle Gulf Coast...
+   Widely scattered elevated convection has developed early in the
+   overnight across the Ozarks, and this regime may increase and
+   probably shift south-southeastward today, potentially becoming
+   surface based into the afternoon, influenced by cold pool
+   development. It seems plausible that an upscale-growing/forward
+   propagating cluster could gradually evolve during the day, with
+   damaging wind potential increasing across the ArkLaMiss
+   south-southeastward toward the Gulf Coast.
 
-   ...Northern Rockies to the Great Basin....
-   An upper low along the western periphery of the substantial
-   mid-level ridge over the Southwest will migrate northward toward the
-   international border as a belt of stronger mid-level flow
-   overspreads a plume of monsoon moisture from the Great Basin to the
-   Northern Rockies. Ascent from the upper wave and heating of the
-   modestly moist air mass should allow for weak destabilization and
-   scattered thunderstorm development. Steep lapse rates could support
-   isolated severe gusts.
+   ...Northern Great Basin/central Rockies...
+   Scattered high-based thunderstorms are expected to develop this
+   afternoon amid classic inverted-V profiles. Since these storms will
+   develop along the periphery of stronger flow aloft, some
+   organization is possible. Multiple dry microbursts may occur, some
+   of which may pose a severe gust threat.
 
-   Isolated hail is also possible with scattered thunderstorms from
-   eastern WA into the ID panhandle. Closer to the upper trough and
-   beneath strong mid-level flow, elongated hodographs may promote
-   organization with transient supercell structures. Cooler mid-level
-   temperatures could favor hail production despite modest overall
-   moisture.
+   ...Maine...
+   By late morning into early afternoon, partially clearing skies will
+   encourage surface temperatures to rise into the 70s F, resulting in
+   marginal instability (e.g. a few hundred J/kg MLCAPE) given
+   relatively poor mid-level lapse rates. Nonetheless, a southerly
+   mid-to upper-level jet streak will overspread northern New England
+   during the afternoon, resulting in highly elongated hodographs and
+   30-40 kt of effective shear. As such, any storms that can develop
+   and become sustained should become organized multicells capable of
+   supporting a few damaging gusts and possibly some hail.
 
-   ..Lyons/Weinman.. 08/22/2026
+   ..Guyer/Weinman.. 08/24/2026
