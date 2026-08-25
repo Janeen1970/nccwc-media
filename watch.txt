@@ -1,82 +1,65 @@
   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1259 AM CDT Mon Aug 24 2026
+   1257 AM CDT Tue Aug 25 2026
 
-   Valid 241200Z - 251200Z
+   Valid 251200Z - 261200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
-   NORTHERN PLAINS/UPPER MIDWEST...CENTRAL HIGH PLAINS...MIDDLE GULF
-   COAST AND COASTAL CAROLINAS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE CENTRAL
+   PLAINS AND UPPER MISSISSIPPI VALLEY...
 
    ...SUMMARY...
-   Severe thunderstorms capable of large hail and damaging wind gusts
-   will be possible mainly this afternoon and evening across the
-   Dakotas and northwest Minnesota as well as the central High Plains.
-   Other severe storms may focus across the lower Mississippi Valley
-   and middle Gulf Coast, as well as the coastal Carolinas.
+   Scattered severe storms are likely across the central/southern
+   Plains this afternoon and evening, and also possible across portions
+   of the upper Mississippi Valley. Severe wind gusts and large hail
+   are the primary hazards.
 
-   ...Dakotas/Upper Midwest to central High Plains...
-   An eastward-moving shortwave trough will emerge from the Canadian
-   Rockies and move across the Canadian prairies through tonight, with
-   a belt of moderately strong flow aloft and multiple MCVs influencing
-   the Dakotas to Minnesota. Residual early day convection and
-   lingering cloud cover will be complicating factors as far as the
-   later-day forecast scenario. 
+   ...Central/southern Plains...
+   The region will be influenced by a modest amplification of the
+   large-scale pattern with a resultant increase in northwesterly flow
+   aloft by late today into tonight, while a front progresses
+   southeastward across the central High Plains. The front, as it
+   intercepts a moist and moderate to strongly unstable boundary layer,
+   will influence increasing thunderstorm development by mid/late
+   afternoon, with an orographically influenced increase in
+   thunderstorms also occurring along the Raton Mesa/Front Range.
 
-   That said, at least widely scattered thunderstorms should develop
-   and increase by late afternoon within a moist/unstable air mass near
-   the eastward-moving front and weak surface wave across the
-   east-central Dakotas and/or cross the international border and move
-   southeastward into the region. Deep-layer wind profiles would be
-   conducive to some supercells and the development of
-   east/southeastward-moving clusters by evening, with large hail and
-   damaging winds possible.
+   Influenced by the strengthening northwesterlies aloft, effective
+   shear across Nebraska and western Kansas will generally at least be
+   35-40 kt. On the eastern periphery of a stout elevated mixed layer,
+   this will support some initial supercells capable of large hail,
+   most probable across western/southern Nebraska into
+   northern/possibly western Kansas.
 
-   More removed from the stronger cyclonic flow aloft, additional
-   higher-based storms are expected by late afternoon and early evening
-   south-southwestward across the Black Hills/western Nebraska in
-   vicinity of the front and preceding trough. Sufficient
-   strength/veering of winds with height should support some initial
-   supercells capable of hail, prior to a clustering of these
-   southeastward-moving storms, with wind damage being a possibility
-   through mid/late evening across the central High Plains.  
+   Influenced by the front and aggregating outflow, one or more
+   southeastward-moving clusters capable of wind damage will likely
+   evolve by evening across southern Nebraska and Kansas. While winds
+   aloft will not be as strong, a similar upscale-growing quasi-linear
+   trend will probably also occur with high-based storms from the Raton
+   Mesa vicinity into the Oklahoma/Texas Panhandles, and perhaps nearby
+   Oklahoma, with severe-caliber wind gust potential spreading
+   east-southeastward through the evening.
 
-   ...Coastal Carolinas...
-   The region will be influenced by moderately strong cyclonic flow
-   aloft, with a moist and moderate-to-strongly unstable environment
-   along the coastal plain to the east of a stationary/slow-moving
-   front. The degree of buoyancy and upwards of 35-40 kt effective
-   shear could support some initial supercells with hail this
-   afternoon, although damaging winds should be the most prevalent
-   concern as storms become more numerous. Severe potential should tend
-   to wane by around sunset.
+   ...Eastern Minnesota/western Wisconsin/western upper Michigan...
+   A shortwave trough (and related mid/high-level speed max) will dig
+   southeastward over southern Manitoba toward northern Minnesota and
+   Lake Superior tonight. While residual early day convection and cloud
+   cover may curb destabilization for a time, and keep the warm sector
+   somewhat narrow, strong to severe thunderstorm development should
+   occur near the eastward-advancing front by around mid/late
+   afternoon. 60s F dewpoints will contribute to a zone of 2000+ J/kg
+   MLCAPE across the eastern half of Minnesota/far northwest Wisconsin
+   by peak heating. Some supercells will be possible aside from more
+   prevalent multicells/small clusters. Large hail and damaging winds
+   are expected to be the primary hazards, at least on a widely
+   scattered basis.
 
-   ...Lower Mississippi Valley/Middle Gulf Coast...
-   Widely scattered elevated convection has developed early in the
-   overnight across the Ozarks, and this regime may increase and
-   probably shift south-southeastward today, potentially becoming
-   surface based into the afternoon, influenced by cold pool
-   development. It seems plausible that an upscale-growing/forward
-   propagating cluster could gradually evolve during the day, with
-   damaging wind potential increasing across the ArkLaMiss
-   south-southeastward toward the Gulf Coast.
+   ...Coastal Southeast/middle Gulf Coast...
+   A moist/unstable environment will be favorable for isolated
+   pulse-type severe thunderstorms capable of water-loaded downdrafts
+   and wind damage, particularly during mid/late afternoon through
+   around sunset. This currently appears most probable across coastal
+   South Carolina, southern Georgia and northern Florida, although some
+   strong thunderstorm wind potential might also exist across the
+   middle Gulf Coast such as southern Louisiana.
 
-   ...Northern Great Basin/central Rockies...
-   Scattered high-based thunderstorms are expected to develop this
-   afternoon amid classic inverted-V profiles. Since these storms will
-   develop along the periphery of stronger flow aloft, some
-   organization is possible. Multiple dry microbursts may occur, some
-   of which may pose a severe gust threat.
-
-   ...Maine...
-   By late morning into early afternoon, partially clearing skies will
-   encourage surface temperatures to rise into the 70s F, resulting in
-   marginal instability (e.g. a few hundred J/kg MLCAPE) given
-   relatively poor mid-level lapse rates. Nonetheless, a southerly
-   mid-to upper-level jet streak will overspread northern New England
-   during the afternoon, resulting in highly elongated hodographs and
-   30-40 kt of effective shear. As such, any storms that can develop
-   and become sustained should become organized multicells capable of
-   supporting a few damaging gusts and possibly some hail.
-
-   ..Guyer/Weinman.. 08/24/2026
+   ..Guyer/Weinman.. 08/25/2026
