@@ -1,65 +1,75 @@
-  Day 1 Convective Outlook  
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1257 AM CDT Tue Aug 25 2026
+   1234 AM CDT Wed Aug 26 2026
 
-   Valid 251200Z - 261200Z
+   Valid 261200Z - 271200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE CENTRAL
-   PLAINS AND UPPER MISSISSIPPI VALLEY...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
+   CENTRAL HIGH PLAINS...OZARKS/MID-SOUTH...AND MIDWEST...
 
    ...SUMMARY...
-   Scattered severe storms are likely across the central/southern
-   Plains this afternoon and evening, and also possible across portions
-   of the upper Mississippi Valley. Severe wind gusts and large hail
-   are the primary hazards.
+   Isolated to widely scattered severe storms are expected across parts
+   of the central and southern High Plains, Great Lakes into the Ohio
+   Valley, and parts of the Ozarks to Lower Mississippi Valley.
+   Damaging/severe gusts are the main threat across these regions,
+   though large hail is also possible, particularly across the High
+   Plains.
 
-   ...Central/southern Plains...
-   The region will be influenced by a modest amplification of the
-   large-scale pattern with a resultant increase in northwesterly flow
-   aloft by late today into tonight, while a front progresses
-   southeastward across the central High Plains. The front, as it
-   intercepts a moist and moderate to strongly unstable boundary layer,
-   will influence increasing thunderstorm development by mid/late
-   afternoon, with an orographically influenced increase in
-   thunderstorms also occurring along the Raton Mesa/Front Range.
+   ...Lower MI into parts of northwest OH...IN/IL...Eastern MO...
+   A mid/upper trough will move from the Upper Great Lakes/Midwest
+   toward the Lower Great Lakes/Ohio Valley through the period. A
+   surface low will move across Ontario, as a trailing cold front moves
+   across parts of the Great Lakes and Ohio/mid MS Valleys. Moderate to
+   locally strong destabilization is generally expected along/ahead of
+   the front from parts of MO/IL/IN into lower MI, though early-day
+   convection and cloudiness could limit heating/destabilization with
+   northward extent. Scattered storm development is expected along the
+   front during the afternoon, which will spread east-southeastward
+   into the early evening. 
 
-   Influenced by the strengthening northwesterlies aloft, effective
-   shear across Nebraska and western Kansas will generally at least be
-   35-40 kt. On the eastern periphery of a stout elevated mixed layer,
-   this will support some initial supercells capable of large hail,
-   most probable across western/southern Nebraska into
-   northern/possibly western Kansas.
+   Effective shear of generally 30-40 kt will support some storm
+   organization, with a few supercells and/or organized line segments
+   possible. Damaging winds and large hail could accompany the
+   strongest storms. If any supercells can be sustained, then some
+   tornado potential cannot be ruled out, especially from northern IN
+   into parts of lower MI, where some enhancement to low-level
+   shear/SRH is currently forecast.
 
-   Influenced by the front and aggregating outflow, one or more
-   southeastward-moving clusters capable of wind damage will likely
-   evolve by evening across southern Nebraska and Kansas. While winds
-   aloft will not be as strong, a similar upscale-growing quasi-linear
-   trend will probably also occur with high-based storms from the Raton
-   Mesa vicinity into the Oklahoma/Texas Panhandles, and perhaps nearby
-   Oklahoma, with severe-caliber wind gust potential spreading
-   east-southeastward through the evening.
+   ...Parts of the Ozarks into the Lower MS Valley...
+   Guidance varies regarding potential for morning convection across
+   southeast MO. If substantial early-day convection does develop, then
+   a loosely organized cluster could evolve and move southeastward into
+   parts of western TN and northern MS/AL, with wind-damage potential.
+   Otherwise, scattered storm development is expected from southern MO
+   into AR and eastern OK by late afternoon, potentially aided by an
+   MCV that may emerge from parts of the southern Plains. Deep-layer
+   shear will be marginally supportive of storm organization, and
+   relatively large PW and buoyancy will support potential for
+   downbursts and loosely organized clusters with a wind-damage threat.
+   Isolated hail also cannot be ruled out with the strongest updrafts.
+   Some guidance depicts maintenance of a southward-moving storm
+   cluster into late tonight, resulting in some wind-damage potential
+   spreading into parts of southern LA/MS before the end of the period.
 
-   ...Eastern Minnesota/western Wisconsin/western upper Michigan...
-   A shortwave trough (and related mid/high-level speed max) will dig
-   southeastward over southern Manitoba toward northern Minnesota and
-   Lake Superior tonight. While residual early day convection and cloud
-   cover may curb destabilization for a time, and keep the warm sector
-   somewhat narrow, strong to severe thunderstorm development should
-   occur near the eastward-advancing front by around mid/late
-   afternoon. 60s F dewpoints will contribute to a zone of 2000+ J/kg
-   MLCAPE across the eastern half of Minnesota/far northwest Wisconsin
-   by peak heating. Some supercells will be possible aside from more
-   prevalent multicells/small clusters. Large hail and damaging winds
-   are expected to be the primary hazards, at least on a widely
-   scattered basis.
+   ...Central/southern High Plains...
+   Across the central High Plains, relatively moist low-level easterly
+   flow and diurnal heating will result in moderate destabilization
+   this afternoon. Scattered storm development is expected by late
+   afternoon, with sufficient effective shear within the northwesterly
+   flow regime for organized multicells and possibly a few supercells.
+   Large hail (potentially approaching 2 inches in diameter) and
+   localized severe gusts will be the primary threats. Some
+   clustering/upscale growth is possible during the evening, which
+   could result in maintenance of a severe-wind threat into parts of
+   western KS. 
 
-   ...Coastal Southeast/middle Gulf Coast...
-   A moist/unstable environment will be favorable for isolated
-   pulse-type severe thunderstorms capable of water-loaded downdrafts
-   and wind damage, particularly during mid/late afternoon through
-   around sunset. This currently appears most probable across coastal
-   South Carolina, southern Georgia and northern Florida, although some
-   strong thunderstorm wind potential might also exist across the
-   middle Gulf Coast such as southern Louisiana.
+   For the southern High Plains, deep-layer shear will generally be
+   weaker compared to areas farther north, with relatively disorganized
+   convection expected. However, storm development within a very warm
+   and well-mixed environment will support potential for at least
+   localized severe gusts as convection spreads from eastern NM into
+   the TX/OK Panhandles. Depending on trends regarding storm coverage
+   and clustering within this regime, greater wind probabilities may
+   eventually be needed.
 
-   ..Guyer/Weinman.. 08/25/2026
+   ..Dean/Weinman.. 08/26/2026
