@@ -1,31 +1,50 @@
   
-   URGENT - IMMEDIATE BROADCAST REQUESTED
-   Severe Thunderstorm Watch Number 628
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   310 PM CDT Wed Aug 26 2026
+   0758 PM CDT Wed Aug 26 2026
 
-   The NWS Storm Prediction Center has issued a
+   Valid 270100Z - 271200Z
 
-   * Severe Thunderstorm Watch for portions of 
-     Arkansas
-     Eastern and Southeastern Oklahoma
-     Far Northeast Texas
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
+   CENTRAL HIGH PLAINS...AND ALSO FROM THE ARKLATEX TO THE ARKLAMISS
+   REGIONS...
 
-   * Effective this Wednesday afternoon and evening from 310 PM
-     until 1000 PM CDT.
+   ...SUMMARY...
+   Isolated to widely scattered strong to severe thunderstorms remain
+   possible tonight across parts of the central and southern High
+   Plains, parts of Arkansas into the lower Mississippi Valley, and
+   parts of the Midwest and Ohio Valley.
 
-   * Primary threats include...
-     Scattered damaging wind gusts to 70 mph possible
-     Isolated large hail events to 1.5 inches in diameter possible
+   ...Central/southern High Plains...
+   Widely scattered strong to severe storms are ongoing this evening
+   across parts of the central/southern High Plains. The most favorable
+   environment resides from eastern CO into western KS, with moderate
+   buoyancy and effective shear of 30-40 kt within a northwesterly flow
+   regime. The strongest discrete cells in this area will continue to
+   pose a threat of hail and localized severe gusts. Some modest
+   clustering remains possible with time, which could result in at
+   least an isolated severe-wind threat as convection spreads into
+   western KS later tonight. 
 
-   SUMMARY...Thunderstorms are ongoing from parts of northern and
-   central Arkansas into far east-central Oklahoma. Thunderstorm
-   coverage is expected to increase in these areas this afternoon and
-   evening, as well as farther south in the Arklatex vicinity. Strong
-   to severe thunderstorms are possible, with damaging wind gusts as
-   the primary severe risk. Some isolated large hail is possible as
-   well.
+   Deep-layer flow/shear is generally weaker across the southern High
+   Plains, but localized strong to severe gusts will remain possible
+   within the well-mixed environment through at least dusk. 
+    
+   ...AR into the Lower MS Valley...
+   Widespread deep convection from southeastern OK into
+   central/southern AR may eventually evolve into a loosely organized,
+   outflow-driven cluster with time this evening. This could result in
+   a threat for scattered wind damage spreading into northern LA
+   through the evening, with an isolated threat possible later tonight
+   as storms approach the LA/MS Gulf Coasts. 
 
-   The severe thunderstorm watch area is approximately along and 75
-   statute miles east and west of a line from 15 miles northeast of
-   Flippin AR to 30 miles south of Texarkana AR.
+   ...Midwest/Ohio Valley...
+   Scattered storms are ongoing from parts of Lower MI into parts of
+   the Midwest/Ohio Valley. The combination of moderate buoyancy and
+   marginal deep-layer shear (generally 25-35 kt of effective shear)
+   has only been supportive of an isolated severe threat thus far. No
+   substantial improvement in the environment is expected through the
+   evening, but ongoing storms may continue to pose an isolated severe
+   threat before convection generally subsides later tonight.
+
+   ..Dean.. 08/27/2026
