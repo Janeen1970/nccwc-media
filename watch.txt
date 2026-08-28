@@ -1,95 +1,114 @@
   
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0738 AM CDT Thu Aug 27 2026
+   0242 PM CDT Fri Aug 28 2026
 
-   Valid 271300Z - 281200Z
+   Valid 282000Z - 291200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE MID-ATLANTIC/NORTHEAST...AND THE CENTRAL PLAINS...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
+   CENTRAL/NORTHERN PLAINS...GREAT BASIN AND DESERT SOUTHWEST INTO THE
+   NORTHERN ROCKIES...NORTH GEORGIA INTO THE CAROLINAS AND
+   MID-ATLANTIC...AND PARTS OF CENTRAL/EASTERN MAINE...
 
    ...SUMMARY...
-   Scattered strong to severe thunderstorms are possible across parts
-   of the Northeast and Mid-Atlantic today. Damaging winds, severe
-   hail, and a tornado or two may accompany these thunderstorms. Large
-   to very large hail and severe gusts are also possible across parts
-   of southwest South Dakota into western/central Nebraska and
-   northwest Kansas.
+   Isolated strong to severe storms are possible across the central and
+   northern Plains, northern Georgia into the Carolinas and
+   Mid-Atlantic, central and eastern Maine, and from parts of the Great
+   Basin and Desert Southwest into the northern Rockies.
 
-   ...Mid-Atlantic/Northeast...
-   An elongated mid/upper-level trough with closed low over Hudson Bay
-   will encompass much of the eastern CONUS today. Embedded within this
-   large-scale troughing, a mid-level shortwave trough with modestly
-   enhanced southwesterly winds (around 25-35 kt) will advance
-   northeastward through the day across the Mid-Atlantic and Northeast.
-   At the surface, a weak low over eastern Ontario will develop into
-   Quebec this afternoon, with a trailing cold front advancing
-   southeastward across the Mid-Atlantic/Northeast through the period.
-   Stronger daytime heating is forecast with southward extent across
-   the Mid-Atlantic ahead of the cold front, with cloud cover
-   potentially limiting heating somewhat across the Northeast. Even so,
-   a zone of moderate instability should develop by this afternoon
-   across these regions, with sufficient deep-layer shear for some
-   updraft organization. Current expectations are for thunderstorms to
-   gradually increase in coverage and intensity by 17-20Z ahead of the
-   surface front and a lee trough along/east of the Appalachians. A mix
-   of multicells and supercells should pose a threat for both severe
-   hail and damaging winds, especially from the northern Mid-Atlantic
-   northward into NY and vicinity. A tornado or two may also occur,
-   with modest hodograph curvature noted in various NAM/RAP forecast
-   soundings from northern MD northeastward to western New England.
+   ...20z Update...
+   The previous forecast largely remains on track with only minor edits
+   required - primarily to the general thunder line to reflect recent
+   convective trends. Weak/poorly organized convection ongoing across
+   the Mid-Atlantic and portions of Maine should continue to pose a
+   localized severe threat (mainly damaging wind) through late
+   afternoon. See MCDs #2162 and #2163 for additional short-term
+   details. Transient downbursts have been noted across the greater
+   Houston, TX area over the past 1-2 hours as thunderstorms develop
+   along the sea breeze. While small swaths of damaging wind may occur
+   with the more intense downbursts, this threat is expected to remain
+   fairly transient given poor deep-layer wind shear across the region
+   (wind speeds are generally 15 knots or less through the column per
+   regional VWPs). 
 
-   ...Central Plains...
-   The central Plains will be sandwiched between upper ridging over the
-   Southwest and upper troughing over eastern Canada today, with modest
-   northwesterly flow aloft persisting through the period. Large-scale
-   ascent is forecast to remain rather weak/nebulous, with some
-   guidance suggesting a weak mid-level impulse will crest the ridge
-   and aid convective initiation across parts of southwest SD into
-   western/central NE this afternoon. A corridor of greater low-level
-   moisture (generally 60s surface dewpoints) will be in place across
-   this region. Daytime heating of this moist airmass coupled with the
-   presence of steep mid-level lapse rates will help foster moderate to
-   locally strong instability and erode lingering MLCIN by 19-21Z.
-   While robust convective development and overall coverage still
-   remains somewhat uncertain given the weak forcing, a rather
-   favorable environment for supercells will exist. Any sustained
-   supercells will be capable of producing large hail (some 2+ inches)
-   as they track south-southeastward through the late afternoon into
-   the evening. The potential for severe/damaging gusts is also
-   uncertain, as most guidance does not show a cluster developing this
-   evening. An isolated threat for severe hail/gusts may also exist
-   farther west/south across the CO Front Range to Raton Mesa vicinity,
-   although deep-layer shear should be weaker across these areas.
+   Across the Great Basin, slight expansions of the 5% wind
+   probabilities were made to better reflect trends in recent
+   time-lagged CAM guidance. Some of the more aggressive solutions -
+   notably recent runs of the RRFS - hint at one or more corridors of
+   higher severe wind potential across eastern WY into SD as high-based
+   convection encounters richer low-level moisture/buoyancy over the
+   Plains. However, these solutions are exhibiting a considerable warm
+   bias compared to current observations and suggest that any residual
+   inhibition should be mixed out by this point in the day. Latest GOES
+   imagery and regional 18z soundings both depict lingering inhibition,
+   which casts considerable uncertainty onto the accuracy of the more
+   aggressive solutions.
 
-   ...Northern Rockies/High Plains...
-   A mid-level jet on the southeast periphery of upper troughing over
-   the eastern Pacific and western Canada will translate northeastward
-   across the northern Rockies today. Enhanced west-southwesterly flow
-   and lift associated with this jet will likely aid isolated to
-   scattered thunderstorm development this afternoon across parts of
-   the northern Rockies, with this activity spreading into the adjacent
-   High Plains through the evening. While low-level moisture will
-   remain limited/shallow across these regions, steep low/mid-level
-   lapse rates amid a well-mixed boundary layer coupled with moderate
-   to strong deep-layer shear should support a threat for isolated
-   severe gusts with the high-based convection that develops.
+   ..Moore.. 08/28/2026
 
-   ...Great Basin...
-   High-based thunderstorms should also develop this afternoon across
-   portions of northeast NV into northwest UT and southeast ID. While
-   low/mid-level winds and related thunderstorm organization will
-   likely be somewhat weaker/limited compared to areas farther north,
-   steep lapse rates and large DCAPE will support potential for strong
-   to severe outflow gusts as this convection spreads northeastward
-   into the early evening.
+   .PREV DISCUSSION... /ISSUED 1130 AM CDT Fri Aug 28 2026/
 
-   ...South-Central/Coastal Texas into Southern Louisiana...
-   Ongoing thunderstorms across southern LA may pose a threat for gusty
-   winds this morning before they move offshore. Additional
-   thunderstorms may develop this afternoon from parts of south-central
-   TX towards the upper TX Coast, with isolated severe/damaging
-   downburst winds possible given ample moisture/instability forecast.
-   Weak deep-layer shear should limit the overall severe threat.
+   ...Maine...
+   Morning surface analysis places a low over eastern Quebec, with a
+   cold front extending southward from this low through northern NY
+   before arcing more southwestward and becoming increasingly diffuse
+   across the Upper OH Valley. A shortwave trough is forecast to
+   progress through southern Quebec towards the St. Lawrence Valley
+   today. The surface low is forecast to eject northeastward in
+   response, with its attendant cold front sweeping eastward across ME.
+   A moist airmass precedes this front, with current observations
+   sampling mid to upper 60s dewpoints. This airmass should destabilize
+   amid filtered daytime heating ahead of the front, although poor
+   mid-level lapse will limit the overall buoyancy. Scattered
+   thunderstorm development is anticipated as the cold front interacts
+   with this modestly buoyant airmass. A few strong to severe storms
+   are possible, but deep-layer shear largely parallel to the frontal
+   boundary will contribute to a predominantly linear mode and a likely
+   trend toward undercutting of new updrafts. Even so, any updrafts
+   that can mature could organize, potentially becoming supercell
+   storms capable of locally wind gusts and hail. 
 
-   ..Gleason/Broyles.. 08/27/2026
+   ...Mid-Atlantic into Georgia...
+   Morning surface analysis places a low off the southern New England
+   coast and another over southern NJ (near the ongoing thunderstorms).
+   A weak front extends through these two lows, continuing
+   southwestward across the Carolina Piedmont into northern GA. Widely
+   scattered thunderstorms are expected to form along
+   the front this afternoon, with slow-moving but strong storms
+   possible. The stronger (but still modest) deep-layer shear will
+   occur across VA and NC, with the stronger buoyancy displaced farther
+   south across SC and GA. Even so, the expectation is that a
+   combination of moderate CAPE, high PWAT values, and limited
+   deep-layer shear will promote isolated strong storms capable of
+   water-loaded downbursts.
+
+   ...Great Basin through Wyoming..
+   A belt of stronger mid-level flow currently extends from central CA
+   through the northern Rockies between the upper troughing over
+   western Canada and the upper ridging centered over the Four Corners.
+   Low-amplitude shortwave troughs embedded within this enhanced flow,
+   and associated ascent and mid-level moisture, will contribute to
+   thunderstorm development this afternoon. A deeply mixed boundary
+   layer is anticipated throughout much of this region, suggesting any
+   of the stronger, more persistent storms could produce damaging
+   gusts. Highest storm coverage is expected from eastern NV into
+   central/northern UT, resulting in a relatively greater threat for
+   damaging gusts within this corridor.  
+
+   ...Dakotas into western Minnesota and northern Iowa...
+   There could potentially be two rounds of convection across the
+   northern Plains today. The first will be with any of the high-based
+   convection from WY as it spreads eastward into western
+   Dakotas, where greater low-level moisture and buoyancy will be in
+   place. The greater buoyancy could result in reintensification and a
+   few bowing structures capable of producing locally damaging wind
+   gusts and hail.  
+
+   Additional warm-air advection associated development is then
+   possible later this evening as the low-level jet strengthens over
+   the Plains. These elevated storms should develop within an
+   environment characterized by moderate buoyancy and deep-layer shear,
+   suggesting a few supercells capable of large hail are possible
+   initially. Over time, some upscale growth is possible, which could
+   result in a low-probability risk for damaging gusts over southwest
+   MN and adjacent northwest IA early tomorrow morning.
