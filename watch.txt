@@ -1,114 +1,35 @@
-  
-   Day 1 Convective Outlook  
+  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0242 PM CDT Fri Aug 28 2026
+   0717 AM CDT Sat Aug 29 2026
 
-   Valid 282000Z - 291200Z
+   Valid 291300Z - 301200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
-   CENTRAL/NORTHERN PLAINS...GREAT BASIN AND DESERT SOUTHWEST INTO THE
-   NORTHERN ROCKIES...NORTH GEORGIA INTO THE CAROLINAS AND
-   MID-ATLANTIC...AND PARTS OF CENTRAL/EASTERN MAINE...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM EASTERN
+   NEVADA INTO NORTHERN UTAH...
 
    ...SUMMARY...
-   Isolated strong to severe storms are possible across the central and
-   northern Plains, northern Georgia into the Carolinas and
-   Mid-Atlantic, central and eastern Maine, and from parts of the Great
-   Basin and Desert Southwest into the northern Rockies.
+   Widely scattered strong to severe storms are expected across parts
+   of the northern Great Basin, northern/central Rockies, and northern
+   Plains. Severe wind gusts are the main threat.
 
-   ...20z Update...
-   The previous forecast largely remains on track with only minor edits
-   required - primarily to the general thunder line to reflect recent
-   convective trends. Weak/poorly organized convection ongoing across
-   the Mid-Atlantic and portions of Maine should continue to pose a
-   localized severe threat (mainly damaging wind) through late
-   afternoon. See MCDs #2162 and #2163 for additional short-term
-   details. Transient downbursts have been noted across the greater
-   Houston, TX area over the past 1-2 hours as thunderstorms develop
-   along the sea breeze. While small swaths of damaging wind may occur
-   with the more intense downbursts, this threat is expected to remain
-   fairly transient given poor deep-layer wind shear across the region
-   (wind speeds are generally 15 knots or less through the column per
-   regional VWPs). 
+   ...Great Basin into Central/Northern Rockies...
+   A broad upper trough is present today across the Southern Rockies
+   into OK/TX, with relatively fast flow aloft extending from NV into
+   WY.  IR satellite imagery suggests considerable cloud cover is
+   affecting much of the Great Basin region, which will limit daytime
+   heating/destabilization and overall severe threat.  Nevertheless,
+   there appears to be a corridor from eastern NV across parts of
+   north-central UT where sufficient heating will result in steep
+   low-level lapse rates and favorable CAPE profiles for a few
+   high-based thunderstorms capable of damaging wind gusts.  Supercell
+   structures are also possible in this corridor, suggesting a risk of
+   hail in the strongest storms.
 
-   Across the Great Basin, slight expansions of the 5% wind
-   probabilities were made to better reflect trends in recent
-   time-lagged CAM guidance. Some of the more aggressive solutions -
-   notably recent runs of the RRFS - hint at one or more corridors of
-   higher severe wind potential across eastern WY into SD as high-based
-   convection encounters richer low-level moisture/buoyancy over the
-   Plains. However, these solutions are exhibiting a considerable warm
-   bias compared to current observations and suggest that any residual
-   inhibition should be mixed out by this point in the day. Latest GOES
-   imagery and regional 18z soundings both depict lingering inhibition,
-   which casts considerable uncertainty onto the accuracy of the more
-   aggressive solutions.
+   ...Northern Plains...
+   Similar to yesterday, clusters of high-based showers and
+   thunderstorms will spread eastward across WY into parts of the
+   Dakotas/NE this afternoon and evening.  Favorable winds aloft,
+   combined with at least marginal CAPE will aid in a risk of locally
+   damaging wind gusts and hail.
 
-   ..Moore.. 08/28/2026
-
-   .PREV DISCUSSION... /ISSUED 1130 AM CDT Fri Aug 28 2026/
-
-   ...Maine...
-   Morning surface analysis places a low over eastern Quebec, with a
-   cold front extending southward from this low through northern NY
-   before arcing more southwestward and becoming increasingly diffuse
-   across the Upper OH Valley. A shortwave trough is forecast to
-   progress through southern Quebec towards the St. Lawrence Valley
-   today. The surface low is forecast to eject northeastward in
-   response, with its attendant cold front sweeping eastward across ME.
-   A moist airmass precedes this front, with current observations
-   sampling mid to upper 60s dewpoints. This airmass should destabilize
-   amid filtered daytime heating ahead of the front, although poor
-   mid-level lapse will limit the overall buoyancy. Scattered
-   thunderstorm development is anticipated as the cold front interacts
-   with this modestly buoyant airmass. A few strong to severe storms
-   are possible, but deep-layer shear largely parallel to the frontal
-   boundary will contribute to a predominantly linear mode and a likely
-   trend toward undercutting of new updrafts. Even so, any updrafts
-   that can mature could organize, potentially becoming supercell
-   storms capable of locally wind gusts and hail. 
-
-   ...Mid-Atlantic into Georgia...
-   Morning surface analysis places a low off the southern New England
-   coast and another over southern NJ (near the ongoing thunderstorms).
-   A weak front extends through these two lows, continuing
-   southwestward across the Carolina Piedmont into northern GA. Widely
-   scattered thunderstorms are expected to form along
-   the front this afternoon, with slow-moving but strong storms
-   possible. The stronger (but still modest) deep-layer shear will
-   occur across VA and NC, with the stronger buoyancy displaced farther
-   south across SC and GA. Even so, the expectation is that a
-   combination of moderate CAPE, high PWAT values, and limited
-   deep-layer shear will promote isolated strong storms capable of
-   water-loaded downbursts.
-
-   ...Great Basin through Wyoming..
-   A belt of stronger mid-level flow currently extends from central CA
-   through the northern Rockies between the upper troughing over
-   western Canada and the upper ridging centered over the Four Corners.
-   Low-amplitude shortwave troughs embedded within this enhanced flow,
-   and associated ascent and mid-level moisture, will contribute to
-   thunderstorm development this afternoon. A deeply mixed boundary
-   layer is anticipated throughout much of this region, suggesting any
-   of the stronger, more persistent storms could produce damaging
-   gusts. Highest storm coverage is expected from eastern NV into
-   central/northern UT, resulting in a relatively greater threat for
-   damaging gusts within this corridor.  
-
-   ...Dakotas into western Minnesota and northern Iowa...
-   There could potentially be two rounds of convection across the
-   northern Plains today. The first will be with any of the high-based
-   convection from WY as it spreads eastward into western
-   Dakotas, where greater low-level moisture and buoyancy will be in
-   place. The greater buoyancy could result in reintensification and a
-   few bowing structures capable of producing locally damaging wind
-   gusts and hail.  
-
-   Additional warm-air advection associated development is then
-   possible later this evening as the low-level jet strengthens over
-   the Plains. These elevated storms should develop within an
-   environment characterized by moderate buoyancy and deep-layer shear,
-   suggesting a few supercells capable of large hail are possible
-   initially. Over time, some upscale growth is possible, which could
-   result in a low-probability risk for damaging gusts over southwest
-   MN and adjacent northwest IA early tomorrow morning.
+   ..Hart/Broyles.. 08/29/2026
