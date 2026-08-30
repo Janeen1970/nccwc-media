@@ -1,35 +1,43 @@
   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0717 AM CDT Sat Aug 29 2026
+   0714 AM CDT Sun Aug 30 2026
 
-   Valid 291300Z - 301200Z
+   Valid 301300Z - 311200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM EASTERN
-   NEVADA INTO NORTHERN UTAH...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
+   EVENING OVER PARTS OF THE DAKOTAS...
 
    ...SUMMARY...
-   Widely scattered strong to severe storms are expected across parts
-   of the northern Great Basin, northern/central Rockies, and northern
-   Plains. Severe wind gusts are the main threat.
+   Severe storms capable of damaging wind gusts are possible across
+   portions of the northern Plains this afternoon and evening.
 
-   ...Great Basin into Central/Northern Rockies...
-   A broad upper trough is present today across the Southern Rockies
-   into OK/TX, with relatively fast flow aloft extending from NV into
-   WY.  IR satellite imagery suggests considerable cloud cover is
-   affecting much of the Great Basin region, which will limit daytime
-   heating/destabilization and overall severe threat.  Nevertheless,
-   there appears to be a corridor from eastern NV across parts of
-   north-central UT where sufficient heating will result in steep
-   low-level lapse rates and favorable CAPE profiles for a few
-   high-based thunderstorms capable of damaging wind gusts.  Supercell
-   structures are also possible in this corridor, suggesting a risk of
-   hail in the strongest storms.
+   ...MT/ND/SD...
+   Morning water vapor loop shows a strong upper trough over ID
+   tracking east-northeastward.  This system will emerge onto the
+   Plains of eastern MT/western Dakotas by late afternoon today, when
+   strong heating will result in a corridor of surface temperatures
+   near 90F along the MT/ND border ahead of an approaching cold front. 
+   Thunderstorms will intensify in vicinity of this front through the
+   afternoon, tracking quickly eastward into parts of western/central
+   ND/SD by 00z.  Morning CAM solutions suggest storms will organize
+   into a line with the risk of severe wind gusts.  Given the strength
+   of the low and mid-level flow near the front, that scenario seems
+   plausible.  Therefore have added a SLGT risk to parts of this
+   region.
 
-   ...Northern Plains...
-   Similar to yesterday, clusters of high-based showers and
-   thunderstorms will spread eastward across WY into parts of the
-   Dakotas/NE this afternoon and evening.  Favorable winds aloft,
-   combined with at least marginal CAPE will aid in a risk of locally
-   damaging wind gusts and hail.
+   ...CO/KS/NE...
+   South of the primary severe threat, a secondary area of concern will
+   develop this afternoon as storms develop over the mountains of
+   central CO and spread eastward into the Plains.  This activity will
+   be high-based and in a weakly unstable environment.  Nevertheless,
+   strong outflow winds will be possible with the activity, spreading
+   eastward into western NE and northwest KS during the evening.
 
-   ..Hart/Broyles.. 08/29/2026
+   ...UT/Western CO...
+   Considerable low-level moisture will remain over UT today, leading
+   to another round of strong thunderstorms this afternoon.  Deep-layer
+   shear remains sufficient for rotating storms capable of damaging
+   wind gusts and hail.  Activity should spread into western CO by
+   early evening before weakening.
+
+   ..Hart/Broyles.. 08/30/2026
