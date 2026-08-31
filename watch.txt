@@ -1,43 +1,45 @@
   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0714 AM CDT Sun Aug 30 2026
+   0740 AM CDT Mon Aug 31 2026
 
-   Valid 301300Z - 311200Z
+   Valid 311300Z - 011200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
-   EVENING OVER PARTS OF THE DAKOTAS...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
+   AND EVENING OVER PARTS OF THE GREAT LAKES REGION...THE CENTRAL
+   PLAINS...AND THE GREAT BASIN....
 
    ...SUMMARY...
-   Severe storms capable of damaging wind gusts are possible across
-   portions of the northern Plains this afternoon and evening.
+   Isolated severe storms will be possible mainly later this afternoon
+   into tonight across the Upper Midwest/upper Great Lakes, the central
+   Plains, and across the lower Colorado River Valley and Great Basin.
 
-   ...MT/ND/SD...
-   Morning water vapor loop shows a strong upper trough over ID
-   tracking east-northeastward.  This system will emerge onto the
-   Plains of eastern MT/western Dakotas by late afternoon today, when
-   strong heating will result in a corridor of surface temperatures
-   near 90F along the MT/ND border ahead of an approaching cold front. 
-   Thunderstorms will intensify in vicinity of this front through the
-   afternoon, tracking quickly eastward into parts of western/central
-   ND/SD by 00z.  Morning CAM solutions suggest storms will organize
-   into a line with the risk of severe wind gusts.  Given the strength
-   of the low and mid-level flow near the front, that scenario seems
-   plausible.  Therefore have added a SLGT risk to parts of this
-   region.
+   ...Great Lakes Region...
+   Water vapor imagery shows a subtle shortwave trough moving across
+   NE.  This feature is forecast to track northeastward through the day
+   and affect the Great Lakes region by late afternoon. Relatively
+   strong heating is expected across much of WI, along with dewpoints
+   in the upper 60s to lower 70s.  This along with moderately steep
+   mid-level lapse rates will yield afternoon MLCAPE values over 2500
+   J/kg.  A cold front will sag into the region by early evening,
+   providing the focus for widely scattered thunderstorms from central
+   WI into upper MI.  This activity will track east-southeastward
+   across WI and into lower MI.  Forecast soundings suggest sufficient
+   vertical shear to support rotating storms capable of locally
+   gusty/damaging winds and perhaps some hail.  
 
-   ...CO/KS/NE...
-   South of the primary severe threat, a secondary area of concern will
-   develop this afternoon as storms develop over the mountains of
-   central CO and spread eastward into the Plains.  This activity will
-   be high-based and in a weakly unstable environment.  Nevertheless,
-   strong outflow winds will be possible with the activity, spreading
-   eastward into western NE and northwest KS during the evening.
+   ...Eastern CO into NE...
+   A persistent plume of mid-level moisture continues to affect areas
+   from AZ into CO, with another round of afternoon thunderstorms
+   expected over the mountains.  As these storms spread eastward into
+   eastern CO, strong outflow winds may accompany the more intense
+   cores.  Isolated strong storms may persist into parts of northwest
+   KS and much of NE after dark.
 
-   ...UT/Western CO...
-   Considerable low-level moisture will remain over UT today, leading
-   to another round of strong thunderstorms this afternoon.  Deep-layer
-   shear remains sufficient for rotating storms capable of damaging
-   wind gusts and hail.  Activity should spread into western CO by
-   early evening before weakening.
+   ...UT/AZ...
+   A shortwave trough over CA will track eastward and provide
+   large-scale forcing for ascent today over parts of AZ/UT.  This will
+   result in scattered thunderstorms once again this afternoon across
+   much of UT and northern AZ.  If pockets of sufficient heating can
+   develop, locally damaging wind gusts could occur.
 
-   ..Hart/Broyles.. 08/30/2026
+   ..Hart/Broyles.. 08/31/2026
