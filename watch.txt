@@ -1,45 +1,55 @@
-  Day 1 Convective Outlook  
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0740 AM CDT Mon Aug 31 2026
+   0712 AM CDT Tue Sep 01 2026
 
-   Valid 311300Z - 011200Z
+   Valid 011300Z - 021200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
-   AND EVENING OVER PARTS OF THE GREAT LAKES REGION...THE CENTRAL
-   PLAINS...AND THE GREAT BASIN....
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
+   OVER PARTS OF THE NORTHEAST STATES...AND THIS EVENING OVER THE
+   CENTRAL/NORTHERN PLAINS AND UPPER MIDWEST....
 
    ...SUMMARY...
-   Isolated severe storms will be possible mainly later this afternoon
-   into tonight across the Upper Midwest/upper Great Lakes, the central
-   Plains, and across the lower Colorado River Valley and Great Basin.
+   Scattered strong to severe storms are possible over the central
+   Plains and Midwest, as well as parts of New York, Pennsylvania and
+   New Jersey.
 
-   ...Great Lakes Region...
-   Water vapor imagery shows a subtle shortwave trough moving across
-   NE.  This feature is forecast to track northeastward through the day
-   and affect the Great Lakes region by late afternoon. Relatively
-   strong heating is expected across much of WI, along with dewpoints
-   in the upper 60s to lower 70s.  This along with moderately steep
-   mid-level lapse rates will yield afternoon MLCAPE values over 2500
-   J/kg.  A cold front will sag into the region by early evening,
-   providing the focus for widely scattered thunderstorms from central
-   WI into upper MI.  This activity will track east-southeastward
-   across WI and into lower MI.  Forecast soundings suggest sufficient
-   vertical shear to support rotating storms capable of locally
-   gusty/damaging winds and perhaps some hail.  
+   ...Northeast...
+   A broad upper ridge remains in place over the Mid MS/TN Valleys,
+   with northwest flow aloft affecting the northeast US and
+   Mid-Atlantic states.  The main baroclinic zone in this region
+   currently extends from central NY into southern New England, with
+   dewpoints in the mid-upper 60s along and south of the boundary. This
+   air mass is expected to destabilize through the day as temperatures
+   warm through the 80s, leading to a zone of strong instability
+   (MLCAPE of 2500+ J/kg) over parts of PA/NY/NJ.  Ongoing convection
+   may delay daytime heating, but eventually strong storms are expected
+   to form in this region, spreading southeastward through the late
+   afternoon and evening.  Damaging winds are the primary concern,
+   although some hail and a tornado or two cannot be ruled out.  A lack
+   of a more obvious upper feature to aid in large-scale forcing may
+   limit the overall coverage of severe storms.
 
-   ...Eastern CO into NE...
-   A persistent plume of mid-level moisture continues to affect areas
-   from AZ into CO, with another round of afternoon thunderstorms
-   expected over the mountains.  As these storms spread eastward into
-   eastern CO, strong outflow winds may accompany the more intense
-   cores.  Isolated strong storms may persist into parts of northwest
-   KS and much of NE after dark.
+   ...SD/NE/MN/IA...
+   A shortwave trough currently over western CO will track quickly
+   northeastward and affect the central Plains by late afternoon. 
+   Strong heating and a moist air mass will yield moderate CAPE over
+   parts of SD/NE.  Low-level warm advection and diurnal heating will
+   lead to scattered thunderstorm development over central SD by late
+   afternoon.  Initial supercell storms are expected, capable of
+   damaging winds, large hail, and perhaps a tornado.  Storms are
+   expected to become more numerous during the evening and grow upscale
+   into bowing structures, with a damaging wind risk tracking eastward
+   into parts of southern MN and perhaps northern IA.  Some guidance
+   suggests storms will maintain some damaging wind risk into central
+   WI overnight.
 
-   ...UT/AZ...
-   A shortwave trough over CA will track eastward and provide
-   large-scale forcing for ascent today over parts of AZ/UT.  This will
-   result in scattered thunderstorms once again this afternoon across
-   much of UT and northern AZ.  If pockets of sufficient heating can
-   develop, locally damaging wind gusts could occur.
+   ...Southwest LA/Southeast TX...
+   Tropical Storm Eduardo is expected to strengthen today off the
+   immediate LA/TX coast and move inland this afternoon and evening. 
+   Models continue to show limited discrete convection in the northeast
+   quadrant of the system, suggested a rather low tornado risk today. 
+   Nevertheless, given the potential for rapid strengthening around the
+   time of landfall, have opted for a small 2% tornado risk area for a
+   few hours this evening.
 
-   ..Hart/Broyles.. 08/31/2026
+   ..Hart/Dean.. 09/01/2026
