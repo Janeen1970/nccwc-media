@@ -1,96 +1,83 @@
-  Day 1 Convective Outlook  
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1257 AM CDT Wed Sep 02 2026
+   1253 AM CDT Thu Sep 03 2026
 
-   Valid 021200Z - 031200Z
+   Valid 031200Z - 041200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS NORTHERN
-   AND CENTRAL MT AND FROM THE LOWER GREAT LAKES TO THE MID ATLANTIC...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS TODAY THROUGH
+   TONIGHT ACROSS PARTS OF THE SOUTHERN GREAT LAKES INTO MID ATLANTIC
+   AND PARTS OF THE NORTHERN GREAT PLAINS...
 
    ...SUMMARY...
-   Severe thunderstorms are possible across portions of the eastern
-   Great Lakes to the Mid-Atlantic today and tonight. Damaging wind
-   gusts are the main threat, though some large hail and a few
-   tornadoes may also occur. Scattered severe gusts and more sporadic
-   occurrences of large hail appear possible from the northern Rockies
-   into northern High Plains Wednesday afternoon into night.
+   Scattered strong thunderstorm development is likely today through
+   tonight, perhaps including a few organizing clusters, posing a risk
+   for severe wind and hail across parts of the southern Great Lakes
+   into Mid Atlantic and portions of the northern Great Plains into
+   Upper Midwest.
 
-   ...Eastern Great Lakes, Mid Atlantic...
-   Several low-amplitude impulses embedded within a belt of moderate
-   mid-level northwest flow of 40-60 kt will move from the lower Great
-   Lakes into the northeast and Mid Atlantic today and tonight. A
-   surface low over James bay will trail a slow moving cold front to
-   the southwest across lower ON, the lakes and into MI/OH with a
-   second backdoor front stalled across the eastern Hudson Valley and
-   southern new England. Within the warm sector, a very moist air mass
-   will be in place over much of the Northeast contributing to large
-   buoyancy and broad, but uncertain potential for severe thunderstorms
-   much of the day.
+   ...Discussion...
+   Large-scale mid-level troughing has overspread much of the Pacific
+   coast through the Rockies.  However, models indicate that further
+   eastward progress will slow, as at least one significant embedded
+   short wave trough digs offshore and contributes to amplification of
+   the larger-scale trough near and offshore of the Pacific coast.  As
+   this occurs, downstream ridging is forecast to build across the
+   northern Great Plains/middle Missouri Valley vicinity by late
+   tonight, in the wake of a short wave trough now emerging from the
+   Great Basin and forecast to progress north-northeast of the northern
+   Rockies through the eastern Canadian Prairies and northwestern
+   Ontario.  Farther east, it appears that mid-level troughing and an
+   embedded remnant low will slowly dig southeast of western
+   Quebec/southern Ontario through the northern Atlantic Seaboard.
 
-   A complex convective scenario is expected across the region
-   modulated by several rounds of thunderstorms beginning early this
-   morning. Convection associated with a lead shortwave trough exiting
-   southern ON will likely support scattered storms along the front
-   across the lower Great Lakes and NY this morning. Isolated large
-   hail and damaging winds are possible with these storms as they move
-   southeastward and encounter a gradually destabilizing air mass
-   across southern PA and possibly into VA/MD.
+   A surface cold front accompanying the eastern Canadian perturbation
+   is preceded by considerable ongoing thunderstorm activity
+   overspreading the northern Mid Atlantic through Lake Erie vicinity.
+   It appears that an outflow boundary associated with this convection
+   may become quasi-stationary across parts of southeastern
+   Pennsylvania/New Jersey, before the initially stalled upstream
+   front, across southern portions of the Great Lakes vicinity into
+   Upper Midwest, advances southeast of the lower Great Lakes through
+   much of the northern Mid Atlantic and upper Ohio Valley by late
+   tonight.  
 
-   Air mass recovery is expected behind this initial condition as the
-   primary upper trough moves from WI and lower MI into western NY/PA
-   later in the afternoon. Steep mid-level lapse rates of 7-7.5 C/km
-   atop boundary layer dewpoints in the upper 60s to low 70s will aide
-   in destabilization with upwards of 2000-3000+ J/kg of MLCAPE by
-   afternoon from lower MI into western parts of NY and PA. Storm
-   development is expected ahead of the approaching trough and cold
-   front as well as on any residual outflow from the morning storms. A
-   mix of supercells and line segments is expected with all hazards
-   possible.
+   ...Southern Great Lakes into northern Mid Atlantic...
+   The initially stalled composite outflow boundary and surface front
+   appear likely to provide the focus for renewed thunderstorm
+   development later today through tonight.  Across the southeastern
+   Wisconsin through southern Lower Michigan/northern Indiana and Ohio
+   vicinity, it appears that the corridor of stronger destabilization
+   along this boundary will remain in relatively close proximity to the
+   southern fringe of the westerlies.  East-southeastward into the
+   northern Mid Atlantic this remains more unclear.  
 
-   A greater tornado risk may evolve in the evening across southern NY
-   and central PA, contingent upon air mass recovery in the wake of the
-   prior storms and presence of a more supercellular mode. NAM/RAP
-   forecast soundings do show some elongation of low-level hodographs,
-   and any modifying old pool or outflow boundary could further enhance
-   low-level shear profiles favorable for tornadoes. Higher tornado
-   probabilities were considered, but uncertainty on the aforementioned
-   factors remains large.
+   Regardless, where the seasonably moist boundary layer becomes
+   strongly heated, thermodynamic profiles a bit further aloft into
+   mid-levels, aided by elevated mixed-layer air, will remain
+   characterized by steep lapse rates of temperature and potential
+   wet-bulb temperature.  This will promote the risk for strong
+   downbursts and evolving cold pools capable of producing strong to
+   severe wind gusts in developing thunderstorm activity.
 
-   ...MT/ND...
-   A compact but strong shortwave trough is forecast to move rapidly
-   northeastward from the Great Basin to the northern Rockies today and
-   tonight. 35-50 kt mid-level flow will accompany this feature and
-   overspread a modestly moist, but warm and unstable air mass across
-   much of central and eastern MT. Ascent from the approaching
-   shortwave trough will aid in the development of thunderstorms across
-   the higher terrain of western MT through the afternoon. Despite
-   modest buoyancy, steep lapse rate profiles and a deep, well-mixed
-   boundary layer, will enhance severe-wind-gust potential with these
-   storms. 30-40 kt of deep-layer shear will promote organization and
-   clustering with some guidance showing a fast-moving line developing
-   and moving northeastward through the later afternoon/early evening.
-   Scattered severe gusts are likely, with peak intensity of 65-80 mph
-   possible.
+   There appears potential for one or two organizing clusters across
+   and east-southeast of the southern Great Lakes region this afternoon
+   into tonight.  It is possible that severe wind probabilities could
+   still be increased further, once forcing for convection and the
+   potential negative impacts of early day convection become clearer.
 
-   Additional storms are possible across portions of eastern MT into
-   the evening within a zone of warm advection along a nocturnally
-   strengthening low-level jet. Isolated large hail appears to be the
-   primary hazard with those storms.
+   ...Northern Great Plains into Upper Midwest...
+   Forcing for ascent, near and downstream of the short wave emerging
+   from the Great Basin, appears likely to overspread northern/eastern
+   North Dakota into northwestern Minnesota during peak boundary-layer
+   instability this afternoon and evening.  Latest convection-allowing
+   guidance suggests that this will provide support for intensifying
+   thunderstorm development, which may include a few supercells in the
+   leading warm advection regime, ahead of a possible upscale growing
+   cluster near the crest of the building larger-scale mid-level
+   ridging.  Aided by pronounced veering of lower through mid-level
+   wind fields, deep-layer shear appears conducive to the risk for
+   large hail, in the presence of thermodynamic profiles with steep
+   mid-level lapse rates and large CAPE in mid/upper levels.  A few
+   strong downbursts also appear possible.
 
-   ...WY...
-   Some model guidance shows high-based showers and thunderstorms
-   developing near the southern fringes of the northern Rockies trough
-   across WY this afternoon. Modest low-level moisture/buoyancy may
-   limit convective intensity, but sporadic strong outflow gusts are
-   possible given a very deeply mixed boundary layer.
-
-   ...Mid MO Valley into IA and southern MN...
-   An intensifying low-level jet will likely support an increase in
-   thunderstorms late this evening/overnight across the MO valley and
-   parts of the Midwest. Moderate to strong elevated instability and
-   sufficient vertical shear may exist for a few stronger storms
-   capable of marginal severe hail. However, overall forcing for ascent
-   is modest and with building mid-level heights, confidence in a
-   broader organized severe threat is low.
-
-   ..Lyons/Wendt.. 09/02/2026
+   ..Kerr/Wendt.. 09/03/2026
