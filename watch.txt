@@ -1,83 +1,80 @@
  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1253 AM CDT Thu Sep 03 2026
+   1146 AM CDT Fri Sep 04 2026
 
-   Valid 031200Z - 041200Z
+   Valid 041630Z - 051200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS TODAY THROUGH
-   TONIGHT ACROSS PARTS OF THE SOUTHERN GREAT LAKES INTO MID ATLANTIC
-   AND PARTS OF THE NORTHERN GREAT PLAINS...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE SOUTHERN
+   GREAT LAKES INTO THE MID-ATLANTIC STATES...
 
    ...SUMMARY...
-   Scattered strong thunderstorm development is likely today through
-   tonight, perhaps including a few organizing clusters, posing a risk
-   for severe wind and hail across parts of the southern Great Lakes
-   into Mid Atlantic and portions of the northern Great Plains into
-   Upper Midwest.
+   A couple of organized thunderstorm clusters are expected to develop
+   across the southern Great Lakes and mid/upper Ohio Valley today
+   through tonight, accompanied by the risk for damaging wind gusts.
+   More widely scattered strong thunderstorms east of the Blue Ridge
+   may also produce damaging wind gusts this afternoon and evening.
 
-   ...Discussion...
-   Large-scale mid-level troughing has overspread much of the Pacific
-   coast through the Rockies.  However, models indicate that further
-   eastward progress will slow, as at least one significant embedded
-   short wave trough digs offshore and contributes to amplification of
-   the larger-scale trough near and offshore of the Pacific coast.  As
-   this occurs, downstream ridging is forecast to build across the
-   northern Great Plains/middle Missouri Valley vicinity by late
-   tonight, in the wake of a short wave trough now emerging from the
-   Great Basin and forecast to progress north-northeast of the northern
-   Rockies through the eastern Canadian Prairies and northwestern
-   Ontario.  Farther east, it appears that mid-level troughing and an
-   embedded remnant low will slowly dig southeast of western
-   Quebec/southern Ontario through the northern Atlantic Seaboard.
+   ...Midwest/southern Great Lakes to Mid-Atlantic States...
+   As large-scale pattern amplification occurs, a belt of moderately
+   strong northwesterly flow aloft will tend to overlie a frontal zone
+   that extends from southern portions of Minnesota/Wisconsin
+   east-southeastward to Pennsylvania/New Jersey. That said, ongoing
+   convection has effectively modified/southward-shunted the effective
+   front in several areas, and this will be the primary focus for storm
+   intensification/redevelopment this afternoon, as well into the
+   evening/late night.
 
-   A surface cold front accompanying the eastern Canadian perturbation
-   is preceded by considerable ongoing thunderstorm activity
-   overspreading the northern Mid Atlantic through Lake Erie vicinity.
-   It appears that an outflow boundary associated with this convection
-   may become quasi-stationary across parts of southeastern
-   Pennsylvania/New Jersey, before the initially stalled upstream
-   front, across southern portions of the Great Lakes vicinity into
-   Upper Midwest, advances southeast of the lower Great Lakes through
-   much of the northern Mid Atlantic and upper Ohio Valley by late
-   tonight.  
+   The steeper mid-level lapse rates will remain displaced west of the
+   region, but ample low-level moisture (i.e. upper 60s/low 70s
+   dewpoints) coupled with afternoon temperatures from the mid 80s to
+   mid 90s will still support moderate to strong buoyancy near/south of
+   the effective boundary. General storm re-intensification and/or new
+   development is anticipated this afternoon, particularly south/ahead
+   of currently ongoing clusters. Bowing line segments will be the
+   predominant storm mode, with damaging winds as the most common
+   hazard. 
 
-   ...Southern Great Lakes into northern Mid Atlantic...
-   The initially stalled composite outflow boundary and surface front
-   appear likely to provide the focus for renewed thunderstorm
-   development later today through tonight.  Across the southeastern
-   Wisconsin through southern Lower Michigan/northern Indiana and Ohio
-   vicinity, it appears that the corridor of stronger destabilization
-   along this boundary will remain in relatively close proximity to the
-   southern fringe of the westerlies.  East-southeastward into the
-   northern Mid Atlantic this remains more unclear.  
+   The threat for damaging wind gusts will extend southeastward into
+   the Mid-Atlantic this afternoon and evening amid a very warm and
+   moist airmass. Vertical shear will be weaker with southward extent,
+   but ample moisture (i.e. PW values from 1.8" to 2"), strong
+   buoyancy, and steep low-level lapse rates will support the potential
+   for strong outflow capable of wind damage. Bowing line
+   segments will be the primary storm mode here as well.
 
-   Regardless, where the seasonably moist boundary layer becomes
-   strongly heated, thermodynamic profiles a bit further aloft into
-   mid-levels, aided by elevated mixed-layer air, will remain
-   characterized by steep lapse rates of temperature and potential
-   wet-bulb temperature.  This will promote the risk for strong
-   downbursts and evolving cold pools capable of producing strong to
-   severe wind gusts in developing thunderstorm activity.
+   ...Southern Wisconsin/southern Lake Michigan vicinity...
+   The same general meteorological thematic scenario as described in
+   the prior section applies to this region, and severe probabilities
+   have been extended westward regionally, albeit for a somewhat
+   conditional/uncertain scenario. A robust reservoir of
+   moisture/locally extreme buoyancy will exist particularly to the
+   south of ongoing midday convection. The region will be influenced by
+   the amplifying upper ridge, but there is at least some possibility
+   that storm redevelopment/intensification could occur near/east of
+   the surface triple point and/or near outflow, with some related
+   severe potential. Development could also occur toward the southern
+   Lake Michigan vicinity later tonight as isentropic ascent increases
+   near/northeast of the surface boundary.
 
-   There appears potential for one or two organizing clusters across
-   and east-southeast of the southern Great Lakes region this afternoon
-   into tonight.  It is possible that severe wind probabilities could
-   still be increased further, once forcing for convection and the
-   potential negative impacts of early day convection become clearer.
+   ...North-central Plains/Dakotas...
+   While perceived severe probabilities remain below 5%, some
+   strong/sporadic severe potential may exist also South Dakota, far
+   northern Nebraska and/or southeast North Dakota later today through
+   late tonight, although confidence in specific meteorological
+   scenarios remains low.
 
-   ...Northern Great Plains into Upper Midwest...
-   Forcing for ascent, near and downstream of the short wave emerging
-   from the Great Basin, appears likely to overspread northern/eastern
-   North Dakota into northwestern Minnesota during peak boundary-layer
-   instability this afternoon and evening.  Latest convection-allowing
-   guidance suggests that this will provide support for intensifying
-   thunderstorm development, which may include a few supercells in the
-   leading warm advection regime, ahead of a possible upscale growing
-   cluster near the crest of the building larger-scale mid-level
-   ridging.  Aided by pronounced veering of lower through mid-level
-   wind fields, deep-layer shear appears conducive to the risk for
-   large hail, in the presence of thermodynamic profiles with steep
-   mid-level lapse rates and large CAPE in mid/upper levels.  A few
-   strong downbursts also appear possible.
+   Weak lee troughing will contribute to modest low-level convergence
+   from western Kansas across western/central Nebraska into southwest
+   South Dakota. Dewpoints will likely be in the low to mid 60s F
+   within this convergence zone, and steep mid-level lapse rates will
+   contribute to moderate/strong buoyancy. Even so, warm mid-levels may
+   prevent the airmass from completely destabilizing. The remaining
+   convective inhibition, coupled with the presence of large-scale
+   height rises across the region, casts doubt to whether successful
+   convective initiation will occur. Any mature updrafts could result
+   in strong downdraft, but uncertainty remains high. Other storm
+   development could occur tonight, potentially as a byproduct of a
+   subtle mid-level wave/ongoing convection ongoing across South Dakota
+   this morning.
 
-   ..Kerr/Wendt.. 09/03/2026
+   ..Guyer/Thornton.. 09/04/2026
