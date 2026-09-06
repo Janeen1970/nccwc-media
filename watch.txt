@@ -1,80 +1,127 @@
- Day 1 Convective Outlook  
+ 
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1146 AM CDT Fri Sep 04 2026
+   1241 AM CDT Sun Sep 06 2026
 
-   Valid 041630Z - 051200Z
+   Valid 061200Z - 071200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE SOUTHERN
-   GREAT LAKES INTO THE MID-ATLANTIC STATES...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
+   THE SOUTHERN APPALACHIANS INTO THE SAVANNAH RIVER VALLEY AND OVER
+   PARTS OF WESTERN AND CENTRAL MONTANA...
 
    ...SUMMARY...
-   A couple of organized thunderstorm clusters are expected to develop
-   across the southern Great Lakes and mid/upper Ohio Valley today
-   through tonight, accompanied by the risk for damaging wind gusts.
-   More widely scattered strong thunderstorms east of the Blue Ridge
-   may also produce damaging wind gusts this afternoon and evening.
+   Widely scattered damaging wind gusts are likely across portions of
+   the Southeast Sunday afternoon and early evening. Widely scattered
+   large hail occurrences are expected across portions of western and
+   central Montana Sunday afternoon and evening. Additional areas at
+   risk for severe wind and hail are across parts of the Interior West,
+   over the northern and central High Plains, and from the eastern
+   Dakotas and western Minnesota into the Ozark Plateau and Gulf Coast
+   states.
 
-   ...Midwest/southern Great Lakes to Mid-Atlantic States...
-   As large-scale pattern amplification occurs, a belt of moderately
-   strong northwesterly flow aloft will tend to overlie a frontal zone
-   that extends from southern portions of Minnesota/Wisconsin
-   east-southeastward to Pennsylvania/New Jersey. That said, ongoing
-   convection has effectively modified/southward-shunted the effective
-   front in several areas, and this will be the primary focus for storm
-   intensification/redevelopment this afternoon, as well into the
-   evening/late night.
+   ...Synopsis...
 
-   The steeper mid-level lapse rates will remain displaced west of the
-   region, but ample low-level moisture (i.e. upper 60s/low 70s
-   dewpoints) coupled with afternoon temperatures from the mid 80s to
-   mid 90s will still support moderate to strong buoyancy near/south of
-   the effective boundary. General storm re-intensification and/or new
-   development is anticipated this afternoon, particularly south/ahead
-   of currently ongoing clusters. Bowing line segments will be the
-   predominant storm mode, with damaging winds as the most common
-   hazard. 
+   A prominent mid-level ridge over the central U.S. is forecast to
+   weaken during the latter half of the period in response to the
+   progression of two distinct short-wave troughs and associated  wind
+   maxima through the Interior West. Separate, weaker perturbations
+   will move through the ridge axis over the northern Plains/mid-MO
+   Valley region on Sunday, contributing to thunderstorm development in
+   those areas. Elsewhere, a mid-level disturbance over the OH Valley
+   Sunday morning is forecast to move into the Cumberland Plateau
+   vicinity by afternoon, also likely serving as a focus for
+   thunderstorm development.
 
-   The threat for damaging wind gusts will extend southeastward into
-   the Mid-Atlantic this afternoon and evening amid a very warm and
-   moist airmass. Vertical shear will be weaker with southward extent,
-   but ample moisture (i.e. PW values from 1.8" to 2"), strong
-   buoyancy, and steep low-level lapse rates will support the potential
-   for strong outflow capable of wind damage. Bowing line
-   segments will be the primary storm mode here as well.
+   At the surface, a lee cyclone will persist over the northern High
+   Plains, with that feature potentially deepening Sunday night in
+   response to increasing height falls aloft. High pressure will build
+   across the Great Lakes, OH Valley, and Northeast with a baroclinic
+   zone present between those surface features from the mid-MO Valley
+   through the Ozarks and TN Valley into the Southeast.
 
-   ...Southern Wisconsin/southern Lake Michigan vicinity...
-   The same general meteorological thematic scenario as described in
-   the prior section applies to this region, and severe probabilities
-   have been extended westward regionally, albeit for a somewhat
-   conditional/uncertain scenario. A robust reservoir of
-   moisture/locally extreme buoyancy will exist particularly to the
-   south of ongoing midday convection. The region will be influenced by
-   the amplifying upper ridge, but there is at least some possibility
-   that storm redevelopment/intensification could occur near/east of
-   the surface triple point and/or near outflow, with some related
-   severe potential. Development could also occur toward the southern
-   Lake Michigan vicinity later tonight as isentropic ascent increases
-   near/northeast of the surface boundary.
 
-   ...North-central Plains/Dakotas...
-   While perceived severe probabilities remain below 5%, some
-   strong/sporadic severe potential may exist also South Dakota, far
-   northern Nebraska and/or southeast North Dakota later today through
-   late tonight, although confidence in specific meteorological
-   scenarios remains low.
+   ...Southern Appalachians into the Savannah River Valley...
 
-   Weak lee troughing will contribute to modest low-level convergence
-   from western Kansas across western/central Nebraska into southwest
-   South Dakota. Dewpoints will likely be in the low to mid 60s F
-   within this convergence zone, and steep mid-level lapse rates will
-   contribute to moderate/strong buoyancy. Even so, warm mid-levels may
-   prevent the airmass from completely destabilizing. The remaining
-   convective inhibition, coupled with the presence of large-scale
-   height rises across the region, casts doubt to whether successful
-   convective initiation will occur. Any mature updrafts could result
-   in strong downdraft, but uncertainty remains high. Other storm
-   development could occur tonight, potentially as a byproduct of a
-   subtle mid-level wave/ongoing convection ongoing across South Dakota
-   this morning.
+   Temperatures in the 90s will coincide with boundary-layer dewpoints
+   in the 70s to yield a moderately to strongly unstable air mass
+   (i.e., MLCAPE of 2000-3000+ J/kg) by afternoon with steepening
+   low-level lapse rates. Aided by forcing attendant to the mid-level
+   disturbance mentioned above, that thermodynamic environment will
+   support an increase in thunderstorm coverage and intensity through
+   the afternoon along and ahead of the surface front.
 
-   ..Guyer/Thornton.. 09/04/2026
+   Some increase in mid-level winds may accompany the disturbance with
+   up to 30 kt of deep-layer shear forecast in the vicinity of the
+   frontal zone. As such, the potential will exist for longer-lived
+   multi-cells and line segments capable of damaging wind gusts and
+   perhaps some large hail into evening.
+
+
+   ...Ozark Plateau into the Gulf Coast States...
+
+   A similar thermodynamic environment to that previously described is
+   anticipated ahead of the surface front Sunday afternoon. Generally
+   weak forcing for ascent and vertical shear are expected to limit the
+   potential for a more organized severe weather threat. However, the
+   degree of instability will support briefly intense pulse-type storms
+   capable of locally damaging wet microbursts during the afternoon and
+   early evening hours.  
+
+
+   ...Northern Great Basin into the northern Rockies...
+
+   Increasing height falls and strengthening mid/upper-level flow will
+   overspread the region Sunday afternoon into night ahead of a
+   vigorous short-wave trough pivoting through the base of the Pacific
+   Northwest upper low. The strongest instability (i.e., MLCAPE up to
+   1000-1500 J/kg) is forecast across portions of western into central
+   MT with stronger capping with eastward extent. The presence of 40-50
+   kt of deep-layer shear will support supercells capable of mainly
+   large hail through Sunday evening. While forecast hodographs exhibit
+   considerable curvature/veering winds in the lowest 1-2-km AGL,
+   stability concerns in the boundary layer may limit severe-wind-gust
+   and tornado potential.
+
+   Weaker instability is forecast from northeast NV and northern UT
+   into central and eastern ID. However, the presence of steep lapse
+   rates and kinematics mentioned above may yield a few severe storms
+   capable of severe wind gusts.
+
+
+   ...Northern and central High Plains...
+
+   Stronger forcing for ascent is expected to remain to the west and
+   east of the region through the daylight hours, leading to
+   uncertainty in storm coverage in the vicinity of the surface low and
+   lee trough. The 00Z models indicate an increasing potential for at
+   least isolated thunderstorms from mid-afternoon into evening along
+   the lee trough. RAP-based forecast soundings show steep lapse rates
+   and resulting MLCAPE of 1000-2000+ J/kg. The strongest deep-layer
+   shear of 40-50 kt is forecast across eastern MT into ND with
+   decreasing magnitudes with southward extent along the lee trough. As
+   such, a conditional risk for supercells capable of large hail and
+   severe wind gusts exists. While Marginal Risk wind and hail
+   probabilities will be maintained with this forecast, an upgrade to
+   level 2/Slight Risk is possible in subsequent updates.
+
+
+   ...Eastern Dakotas and western Minnesota into the lower Missouri
+   Valley...
+
+   Clusters of mainly elevated thunderstorms may be ongoing at 12Z
+   Sunday, aided by forcing associated with the weak disturbance(s)
+   cresting the mid-level ridge axis. A subset of the early-day storms
+   is expected to persist into afternoon with additional storms forming
+   on the leading edge of more persistent cloud cover, where pockets of
+   stronger heating and boundary-layer dewpoints in the low/mid 70s
+   will yield MLCAPE of 1500-2500 J/kg. The 00Z models suggest that
+   storms will eventually grow upscale into an MCS that tracks south
+   along or to the immediate cool side of the surface boundary through
+   portions of the middle and lower MO Valley Sunday afternoon into
+   evening. It currently appears that  deep-layer shear of generally
+   less than 30 kt and marginally steep mid-level lapse rates may limit
+   the degree of cold pool organization and a greater/more continuous
+   damaging-wind threat. Nonetheless, the setup appears supportive of
+   sporadic damaging wind and severe hail occurrences.
+
+   ..Mead/Chalmers.. 09/06/2026
