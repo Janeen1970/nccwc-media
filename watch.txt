@@ -1,61 +1,64 @@
- 
-
-   Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0259 PM CDT Mon Sep 07 2026
+   1238 AM CDT Tue Sep 08 2026
 
-   Valid 072000Z - 081200Z
+   Valid 081200Z - 091200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   CENTRAL NORTH DAKOTA AND SOUTHEAST SOUTH DAKOTA...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
+   IOWA AND EASTERN NEBRASKA...
 
    ...SUMMARY...
-   Widely scattered severe storms capable of mainly large hail are
-   expected over portions of North Dakota as well as southeast South
-   Dakota into northeast Nebraska this afternoon into evening. Isolated
-   damaging wind potential will exist over the northern and central
-   Plains into the upper Mississippi Valley. Locally damaging wind
-   gusts remain possible this afternoon over the central Gulf Coast
-   states.
+   Widely scattered severe storms capable of mainly severe wind gusts
+   appear possible across portions of Iowa and eastern Nebraska Tuesday
+   afternoon and evening. More sporadic occurrences of severe winds and
+   large hail may occur from portions of the upper Midwest into the
+   central Plains.
 
-   ...20Z Update...
-   The MRGL Risk/5-percent wind area was expanded slightly
-   west-southwestward in parts of eastern MT. Here, a small
-   north/south-oriented line segment is tracking eastward into an
-   increasingly warm PBL. This activity will continue to pose a risk of
-   a few severe wind gusts this afternoon. See MCD #2264 for more
-   details. Elsewhere, very minimal changes were made with this update.
+   ...Synopsis...
 
-   ..Weinman.. 09/07/2026
+   An intense upper low moving into southern SK late this evening will
+   continue northeast through central MB into northern ON ahead of a
+   secondary short-wave trough tracking from the northern Rockies into
+   the northern Plains. A belt of enhanced mid/upper-level winds will
+   be maintained between those features from the northern High Plains
+   into the upper Great Lakes. At the surface, a cold front will
+   advance through the eastern Dakotas and upper MS Valley with the
+   trailing extension of the boundary moving more slowly southeast
+   through the mid-MO Valley and central High Plains.
 
-   .PREV DISCUSSION... /ISSUED 1112 AM CDT Mon Sep 07 2026/
 
-   ...ND...
-   A fast-moving shortwave trough currently over WY/MT will track
-   northeastward into the Dakotas this afternoon.  Strong
-   heating/mixing in southwest ND will lead to a sharpening dryline
-   across central ND by mid/late afternoon.  This will be the likely
-   focus for thunderstorm development after 22z.  Forecast soundings in
-   the warm-sector east of the dryline suggest sufficient low-level and
-   deep-layer shear for supercell storm-modes. Large hail and perhaps a
-   tornado or two are possible in the most intense storms. This
-   activity will spread eastward into northeast ND this evening before
-   weakening.
+   ...Central Plains into the upper Midwest...
 
-   ...CO/KS/NE/SD...
-   A weak surface boundary is present today from northeast CO into
-   central NE.  Scattered afternoon thunderstorms will form over the
-   mountains of central CO, with development spreading eastward along
-   the boundary through the afternoon.  Strong heating and a deeply
-   mixed boundary-layer will promote intense downdrafts in the
-   strongest cores.  By early evening, activity may spread into
-   southeast SD where greater low-level moisture and CAPE will pose a
-   risk of a few more intense storms capable of hail or even a tornado.
-    Recent model solutions have been backing off on this SD scenario,
-   but will maintain the ongoing SLGT for now.
+   Clusters of thunderstorms are likely to be ongoing at 12Z Tuesday
+   from portions of the mid-MO Valley into the upper Midwest within a
+   zone of warm advection and moisture transport along a nocturnal
+   low-level jet (LLJ). Showers and storms may linger through the
+   morning across parts of WI and the U.P. of MI, limiting the degree
+   of air mass destabilization and associated severe weather risk
+   during the afternoon. Farther to the southwest from IA through
+   eastern and southern NE into northern KS, stronger daytime heating
+   on the southern fringe of lingering mid/high-level cloudiness will
+   contribute to a well-mixed boundary layer, featuring steep low-level
+   lapse rates. When combined with boundary-layer dewpoints in the 60s
+   to low/mid 70s F, the air mass is expected to become moderately to
+   strongly unstable by late afternoon with MLCAPE of 2000-3000 J/kg. 
 
-   ...LA/MS/AL...
-   Hot and humid conditions will prevail over the central Gulf coast
-   region today, with full sunshine and dewpoints in the low-mid 70s. 
-   Steering flow is weak, but high CAPE and ample moisture suggest a
-   risk of occasional intense downdrafts in the strongest storms.
+   In the absence of appreciable height falls/large-scale forcing for
+   ascent, convergence along the front and any preceding confluence
+   zones/outflow boundaries is expected to foster a gradual increase in
+   storm coverage and intensity by mid to late afternoon amidst the
+   destabilizing air mass. The strongest deep-layer shear is expected
+   to be displaced to the north of the effective warm sector with
+   around 30-35 kt forecast along the frontal zone. A largely parallel
+   shear-vector orientation with the front suggests that initial storms
+   should grow upscale into line segments or a broken band with an
+   associated risk for severe wind gusts from mid afternoon through
+   evening. Isolated occurrences of marginally severe hail are
+   possible; however, poor mid-level lapse are expected to limit the
+   overall threat. The 00Z models do indicate some LLJ enhancement over
+   central IA by late afternoon into evening, resulting in a corridor
+   of stronger low-level shear.  While a brief tornado or two are
+   possible, a more robust threat is expected to be limited by largely
+   outflow-dominant storms.
+
+   ..Mead/Chalmers.. 09/08/2026
