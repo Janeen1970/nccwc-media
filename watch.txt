@@ -1,64 +1,80 @@
-Day 1 Convective Outlook  
+
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1238 AM CDT Tue Sep 08 2026
+   0741 AM CDT Wed Sep 09 2026
 
-   Valid 081200Z - 091200Z
+   Valid 091300Z - 101200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
-   IOWA AND EASTERN NEBRASKA...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM CENTRAL OHIO
+   FROM WESTERN NEW YORK...
 
    ...SUMMARY...
-   Widely scattered severe storms capable of mainly severe wind gusts
-   appear possible across portions of Iowa and eastern Nebraska Tuesday
-   afternoon and evening. More sporadic occurrences of severe winds and
-   large hail may occur from portions of the upper Midwest into the
-   central Plains.
+   Isolated strong to severe thunderstorms are possible across portions
+   of the central Plains to the Ohio Valley today. A more organized
+   severe weather threat is expected from eastern Ohio to western New
+   York.
 
    ...Synopsis...
+   Early-morning satellite imagery show broad upper troughing from the
+   Pacific Northwest/British Columbia through the Upper Great Lakes and
+   Ontario. Several shortwave troughs are embedded within this larger
+   upper troughing, including one moving into northern MN and another
+   farther north across far northwestern Ontario. A belt of moderate to
+   strong mid-level westerly/southwesterly flow extends between the
+   base of these two waves. Expectation is the southern wave to move
+   quickly eastward through the Upper Great Lakes and Ontario,
+   accompanied by mid-level jet max. 
 
-   An intense upper low moving into southern SK late this evening will
-   continue northeast through central MB into northern ON ahead of a
-   secondary short-wave trough tracking from the northern Rockies into
-   the northern Plains. A belt of enhanced mid/upper-level winds will
-   be maintained between those features from the northern High Plains
-   into the upper Great Lakes. At the surface, a cold front will
-   advance through the eastern Dakotas and upper MS Valley with the
-   trailing extension of the boundary moving more slowly southeast
-   through the mid-MO Valley and central High Plains.
+   Surface analysis places a occluded low over far northwestern
+   Ontario, with a cold front extending southward into western Upper MI
+   and then back southwestward through central NE. An outflow-augmented
+   pre-frontal trough precedes this front, extending from a low in
+   southwest Lower MI to another low over northeast KS to another over
+   far southwest KS/far southeast CO. Both the cold front and
+   pre-frontal trough are expected to progress modestly
+   southward/southeastward today. Two corridors of relatively higher
+   thunderstorm coverage are anticipated this afternoon/evening, one
+   from eastern OH into western PA/western NY and the other farther
+   southwest from the Lower MO Valley into the TX/OK Panhandles.
 
+   ...Central Ohio into western New York... 
+   Moist low-levels are already in place from the OH Valley into
+   western PA and NY, with recent surface analysis sampling upper 60s
+   dewpoints in central OH decreasing to the low/mid 60s across western
+   PA and western NY. This moist airmass is expected to destabilize
+   amid modest low-level moisture advection and filtered insolation,
+   ahead of a convectively augmented vorticity maximum. With the cold
+   front still well to the northwest, this vorticity maximum will be
+   the primary impetus for thunderstorm development, augmenting the
+   weak low-level confluence along the weak pre-frontal trough. A
+   predominately linear/clustered storm mode is anticipated, but
+   strengthening mid-level flow will support effective bulk shear from
+   30 to 40 kt, which could support some more persist/organized line
+   segments. Damaging gusts are the primary risk with any of these more
+   organized segments. Low-level hodographs do show some notable
+   curative, particularly from western PA into western NY after 00Z,
+   amid a strengthening low-level jet. As such, there is a
+   low-probability tornado risk is these areas.
 
-   ...Central Plains into the upper Midwest...
+   ...Lower OH and MO Valleys into the TX/OK Panhandles...
+   Thunderstorm coverage is gradually expected to increase across the
+   region this afternoon and evening, beginning near a surface low move
+   across the Lower MO Valley before expanding back southwestward along
+   the southward-progressing front. The stronger vertical shear will be
+   displace north of the front, and a largely disorganized,
+   outflow-dominant storm mode is anticipated. Slightly better flow
+   aloft may favor a more focused cluster across the Mid-Mississippi
+   Valley into western Kentucky/Tennessee. Steep low-level lapse rates
+   and high cloud bases could support strong gusts from the Lower MO
+   Valley into the TX/OK Panhandles.
 
-   Clusters of thunderstorms are likely to be ongoing at 12Z Tuesday
-   from portions of the mid-MO Valley into the upper Midwest within a
-   zone of warm advection and moisture transport along a nocturnal
-   low-level jet (LLJ). Showers and storms may linger through the
-   morning across parts of WI and the U.P. of MI, limiting the degree
-   of air mass destabilization and associated severe weather risk
-   during the afternoon. Farther to the southwest from IA through
-   eastern and southern NE into northern KS, stronger daytime heating
-   on the southern fringe of lingering mid/high-level cloudiness will
-   contribute to a well-mixed boundary layer, featuring steep low-level
-   lapse rates. When combined with boundary-layer dewpoints in the 60s
-   to low/mid 70s F, the air mass is expected to become moderately to
-   strongly unstable by late afternoon with MLCAPE of 2000-3000 J/kg. 
+   ...Southern AZ...
+   Afternoon thunderstorms are expected over the higher terrain near
+   the southern AZ/NM border. There is some potential this activity
+   progresses westward into the lower elevations of southern AZ.
+   However, upper ridging will be centered over this region and
+   vertical shear will be weak, resulting in slow storm motion and
+   disorganized, outflow-dominant structures. A few strong gusts could
+   result from any more persistent updrafts.
 
-   In the absence of appreciable height falls/large-scale forcing for
-   ascent, convergence along the front and any preceding confluence
-   zones/outflow boundaries is expected to foster a gradual increase in
-   storm coverage and intensity by mid to late afternoon amidst the
-   destabilizing air mass. The strongest deep-layer shear is expected
-   to be displaced to the north of the effective warm sector with
-   around 30-35 kt forecast along the frontal zone. A largely parallel
-   shear-vector orientation with the front suggests that initial storms
-   should grow upscale into line segments or a broken band with an
-   associated risk for severe wind gusts from mid afternoon through
-   evening. Isolated occurrences of marginally severe hail are
-   possible; however, poor mid-level lapse are expected to limit the
-   overall threat. The 00Z models do indicate some LLJ enhancement over
-   central IA by late afternoon into evening, resulting in a corridor
-   of stronger low-level shear.  While a brief tornado or two are
-   possible, a more robust threat is expected to be limited by largely
-   outflow-dominant storms.
-
-   ..Mead/Chalmers.. 09/08/2026
+   ..Mosier/Lyons.. 09/09/2026
