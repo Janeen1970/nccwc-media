@@ -1,79 +1,61 @@
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0741 AM CDT Wed Sep 09 2026
+   0744 AM CDT Thu Sep 10 2026
 
-   Valid 091300Z - 101200Z
+   Valid 101300Z - 111200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM CENTRAL OHIO
-   FROM WESTERN NEW YORK...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM THE
+   SOUTHERN HIGH PLAINS TO THE MID-ATLANTIC COAST...
 
    ...SUMMARY...
-   Isolated strong to severe thunderstorms are possible across portions
-   of the central Plains to the Ohio Valley today. A more organized
-   severe weather threat is expected from eastern Ohio to western New
-   York.
+   Sporadic damaging wind gusts appear possible from the southern
+   Plains to the southern Mid-Atlantic coast this afternoon and
+   evening. Isolated occurrences of large hail may occur over portions
+   of south-central Colorado into northeast New Mexico and perhaps
+   portions of the Oklahoma and Texas Panhandles this afternoon and
+   evening.
 
-   ...Synopsis...
-   Early-morning satellite imagery show broad upper troughing from the
-   Pacific Northwest/British Columbia through the Upper Great Lakes and
-   Ontario. Several shortwave troughs are embedded within this larger
-   upper troughing, including one moving into northern MN and another
-   farther north across far northwestern Ontario. A belt of moderate to
-   strong mid-level westerly/southwesterly flow extends between the
-   base of these two waves. Expectation is the southern wave to move
-   quickly eastward through the Upper Great Lakes and Ontario,
-   accompanied by mid-level jet max. 
+   ...Southern Plains to the southern Mid-Atlantic coast...
+   Recent surface analysis places the primary cold front from the St.
+   Lawrence Valley west-southwestward through Lower MI, northern IL,
+   and southern IA. The front then shifts more southwestward through
+   central KS through the central OK and northwest TX Panhandles into
+   far northeast NM. A broad area of showers and thunderstorms extends
+   from southwest KS and the eastern TX/OK Panhandles through the Lower
+   MO Valley and into the middle OH Valley. Much of this activity
+   precedes the cold front and is supported by either modest low-level
+   warm-air advection and/or convergence along
+   southward/southeastward-progressing outflows. 
 
-   Surface analysis places a occluded low over far northwestern
-   Ontario, with a cold front extending southward into western Upper MI
-   and then back southwestward through central NE. An outflow-augmented
-   pre-frontal trough precedes this front, extending from a low in
-   southwest Lower MI to another low over northeast KS to another over
-   far southwest KS/far southeast CO. Both the cold front and
-   pre-frontal trough are expected to progress modestly
-   southward/southeastward today. Two corridors of relatively higher
-   thunderstorm coverage are anticipated this afternoon/evening, one
-   from eastern OH into western PA/western NY and the other farther
-   southwest from the Lower MO Valley into the TX/OK Panhandles.
+   Strong heating is anticipated south of residual cloudiness and
+   lingering showers/thunderstorms, with temperatures well into the 90s
+   to around 100 F over the southern Plains into the lower MS Valley,
+   and upper 80s to mid 90s from the TN Valley to Mid-Atlantic. This
+   heating coupled with dewpoints in the 60s to low/mid 70s will yield
+   a moderately unstable air mass by afternoon with MLCAPE ranging from
+   1000 J/kg across the Mid-Atlantic vicinity to 2000-2500 J/kg across
+   the southern Plains. This increased buoyancy coupled with
+   convergence along the synoptic front (and any existing outflow
+   boundaries) and modest large-scale ascent should result in
+   thunderstorm activity persisting throughout the afternoon and
+   evening. Some increase in intensity is possible too, particularly
+   from north-central TX in the Mid-South vicinity where buoyancy will
+   be highest. The presence of a relatively deep, well-mixed boundary
+   layer will be supportive of sporadic damaging winds with isolated
+   severe gusts in these areas. Buoyancy will be more limited farther
+   east, but vertical shear will be stronger, and some more organized
+   bowing segments are possible. Damaging gusts will be the primary
+   severe risk over this region as well.
 
-   ...Central Ohio into western New York... 
-   Moist low-levels are already in place from the OH Valley into
-   western PA and NY, with recent surface analysis sampling upper 60s
-   dewpoints in central OH decreasing to the low/mid 60s across western
-   PA and western NY. This moist airmass is expected to destabilize
-   amid modest low-level moisture advection and filtered insolation,
-   ahead of a convectively augmented vorticity maximum. With the cold
-   front still well to the northwest, this vorticity maximum will be
-   the primary impetus for thunderstorm development, augmenting the
-   weak low-level confluence along the weak pre-frontal trough. A
-   predominately linear/clustered storm mode is anticipated, but
-   strengthening mid-level flow will support effective bulk shear from
-   30 to 40 kt, which could support some more persist/organized line
-   segments. Damaging gusts are the primary risk with any of these more
-   organized segments. Low-level hodographs do show some notable
-   curative, particularly from western PA into western NY after 00Z,
-   amid a strengthening low-level jet. As such, there is a
-   low-probability tornado risk is these areas.
+   ...Raton Mesa Vicinity...
+   Upslope flow of a moist boundary layer beneath mid-level lapse rates
+   of 7-8 C/km will yield moderate afternoon instability with MLCAPE of
+   1000-1500 J/kg. Isolated to widely scattered thunderstorm
+   development is anticipated by mid afternoon along the high terrain
+   amidst a vertically veering wind profile with up to 30-35 kt of
+   deep-layer shear. A few stronger storms are possible in this
+   environment, with isolated hail as the primary hazard. Increasing
+   low-level stability away from the terrain should keep the threat
+   relatively confined and short lived.
 
-   ...Lower OH and MO Valleys into the TX/OK Panhandles...
-   Thunderstorm coverage is gradually expected to increase across the
-   region this afternoon and evening, beginning near a surface low move
-   across the Lower MO Valley before expanding back southwestward along
-   the southward-progressing front. The stronger vertical shear will be
-   displace north of the front, and a largely disorganized,
-   outflow-dominant storm mode is anticipated. Slightly better flow
-   aloft may favor a more focused cluster across the Mid-Mississippi
-   Valley into western Kentucky/Tennessee. Steep low-level lapse rates
-   and high cloud bases could support strong gusts from the Lower MO
-   Valley into the TX/OK Panhandles.
-
-   ...Southern AZ...
-   Afternoon thunderstorms are expected over the higher terrain near
-   the southern AZ/NM border. There is some potential this activity
-   progresses westward into the lower elevations of southern AZ.
-   However, upper ridging will be centered over this region and
-   vertical shear will be weak, resulting in slow storm motion and
-   disorganized, outflow-dominant structures. A few strong gusts could
-   result from any more persistent updrafts.
-
-   ..Mosier/Lyons.. 09/09/2026
+   ..Mosier/Lyons.. 09/10/2026
