@@ -1,61 +1,87 @@
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0744 AM CDT Thu Sep 10 2026
+   0300 PM CDT Fri Sep 11 2026
 
-   Valid 101300Z - 111200Z
+   Valid 112000Z - 121200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM THE
-   SOUTHERN HIGH PLAINS TO THE MID-ATLANTIC COAST...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE UPPER
+   MIDWEST...
 
    ...SUMMARY...
-   Sporadic damaging wind gusts appear possible from the southern
-   Plains to the southern Mid-Atlantic coast this afternoon and
-   evening. Isolated occurrences of large hail may occur over portions
-   of south-central Colorado into northeast New Mexico and perhaps
-   portions of the Oklahoma and Texas Panhandles this afternoon and
-   evening.
+   Scattered severe thunderstorms capable of producing large hail,
+   (some 2+ inches), damaging winds, and a couple of tornadoes are
+   expected late this afternoon and tonight across parts of the Upper
+   Midwest. Thunderstorm development is more uncertain farther south
+   into the central Plains, where a risk for large hail and severe
+   gusts may exist late this afternoon into the evening.
 
-   ...Southern Plains to the southern Mid-Atlantic coast...
-   Recent surface analysis places the primary cold front from the St.
-   Lawrence Valley west-southwestward through Lower MI, northern IL,
-   and southern IA. The front then shifts more southwestward through
-   central KS through the central OK and northwest TX Panhandles into
-   far northeast NM. A broad area of showers and thunderstorms extends
-   from southwest KS and the eastern TX/OK Panhandles through the Lower
-   MO Valley and into the middle OH Valley. Much of this activity
-   precedes the cold front and is supported by either modest low-level
-   warm-air advection and/or convergence along
-   southward/southeastward-progressing outflows. 
+   ...20Z Update...
+   The ongoing forecast remains mostly on track with most areas
+   remaining unchanged. Given the signal for the cold front to push
+   into northern Kansas by early Saturday morning, along with at least
+   a modest low-level jet, marginal wind/hail probabilities have been
+   extended into more of central Kansas for the conditional potential
+   of severe storms overnight.
 
-   Strong heating is anticipated south of residual cloudiness and
-   lingering showers/thunderstorms, with temperatures well into the 90s
-   to around 100 F over the southern Plains into the lower MS Valley,
-   and upper 80s to mid 90s from the TN Valley to Mid-Atlantic. This
-   heating coupled with dewpoints in the 60s to low/mid 70s will yield
-   a moderately unstable air mass by afternoon with MLCAPE ranging from
-   1000 J/kg across the Mid-Atlantic vicinity to 2000-2500 J/kg across
-   the southern Plains. This increased buoyancy coupled with
-   convergence along the synoptic front (and any existing outflow
-   boundaries) and modest large-scale ascent should result in
-   thunderstorm activity persisting throughout the afternoon and
-   evening. Some increase in intensity is possible too, particularly
-   from north-central TX in the Mid-South vicinity where buoyancy will
-   be highest. The presence of a relatively deep, well-mixed boundary
-   layer will be supportive of sporadic damaging winds with isolated
-   severe gusts in these areas. Buoyancy will be more limited farther
-   east, but vertical shear will be stronger, and some more organized
-   bowing segments are possible. Damaging gusts will be the primary
-   severe risk over this region as well.
+   ..Wendt.. 09/11/2026
 
-   ...Raton Mesa Vicinity...
-   Upslope flow of a moist boundary layer beneath mid-level lapse rates
-   of 7-8 C/km will yield moderate afternoon instability with MLCAPE of
-   1000-1500 J/kg. Isolated to widely scattered thunderstorm
-   development is anticipated by mid afternoon along the high terrain
-   amidst a vertically veering wind profile with up to 30-35 kt of
-   deep-layer shear. A few stronger storms are possible in this
-   environment, with isolated hail as the primary hazard. Increasing
-   low-level stability away from the terrain should keep the threat
-   relatively confined and short lived.
+   .PREV DISCUSSION... /ISSUED 1127 AM CDT Fri Sep 11 2026/
 
-   ..Mosier/Lyons.. 09/10/2026
+   ...Upper Midwest/central Plains...
+   An eastward-progressive belt of quasi-zonal westerlies exists over
+   the northern half of the CONUS, to the south of upper troughing over
+   the Canadian Prairies/central Canada, and the east of the amplifying
+   upper trough off the coastal Pacific Northwest. Weak frontal wave
+   development will occur from eastern South Dakota into Minnesota as a
+   cold front spreads eastward, with the front eventually overtaking a
+   pre-frontal trough/dryline across the central Plains.
+
+   A narrow corridor of 60s F surface dewpoints are in place ahead of
+   the cold front/dryline, with diurnal heating aiding moderate
+   destabilization along with steepened mid-level lapse rates. Minimal
+   MLCIN is expected along/ahead of the front in far northeast South
+   Dakota/western Minnesota into/just after peaking heating. Convective
+   development appears likely in this time frame across this region,
+   especially across Minnesota, owing to sufficient low-level
+   convergence along the front coupled with forcing for ascent
+   associated with the mid-level shortwave trough.
+
+   Strongly veering and gradually strengthening winds with height
+   through low/mid-levels, and 35-45 kt of deep-layer shear will easily
+   support organized convection. Initial supercells should pose a
+   threat for large hail (isolated 2+ inches possible), but convective
+   mode will probably trend towards clustering fairly quickly given the
+   presence of the cold front and strengthening low-level jet this
+   evening. Any supercells that can remain at least semi-discrete into
+   the early evening may also have a tornado threat with greater
+   low-level shear forecast in this time frame. Scattered
+   severe/damaging winds should occur with any clusters or bowing line
+   segments that can develop and spread eastward through the evening.
+   However, the wind threat will likely wane with eastward extent
+   across Minnesota into western Wisconsin by late this evening given
+   the narrow zone of destabilization forecast.
+
+   Farther southwest, convective initiation and overall thunderstorm
+   coverage from southeast South Dakota/southwest Minnesota
+   southwestward into Nebraska and northern Kansas are more uncertain
+   and probably more limited/conditional late this afternoon and
+   evening, as the better forcing for ascent with the shortwave trough
+   will remain regionally focused to the north. Still, a favorable
+   thermodynamic environment and sufficient (25-35 kt) deep-layer shear
+   would conditionally support severe hail/wind with any thunderstorms
+   that can develop and be sustained.
+
+   ...Mid-South/Tennessee Valley/Carolinas and Virginia...
+   Multiple convectively augmented mid-level perturbations remain
+   evident at midday in satellite/radar imagery, including over the
+   Ozarks as well as the middle Gulf Coast in vicinity of southern
+   Alabama. A stalled surface front extending from the ArkLaTex
+   east-northeastward into the Tennessee Valley and Virginia will
+   provide a focus for thunderstorms. Generally speaking, expectations
+   are for generally disorganized/pulse-type convection to pose a
+   threat for occasional damaging winds as diurnal heating destabilizes
+   the boundary layer and steepens low-level lapse rates. However, a
+   modest enhancement to mid-level flow across parts of the Mid-South
+   (25 kt mid-levels per Little Rock AR WSR-88D VWP), as well as
+   Virginia, could promote a couple of loosely organized clusters with
+   a bit more of a focused damaging wind threat.
