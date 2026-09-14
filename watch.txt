@@ -1,73 +1,84 @@
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0257 PM CDT Sun Sep 13 2026
+   1242 AM CDT Mon Sep 14 2026
 
-   Valid 132000Z - 141200Z
+   Valid 141200Z - 151200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE UPPER
-   OHIO VALLEY INTO CENTRAL NEW YORK...
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN NE
+   AND WESTERN IA...
 
    ...SUMMARY...
-   Isolated to widely scattered severe thunderstorms will be possible
-   across parts of the upper Ohio Valley into the Northeast this
-   afternoon and evening. Isolated strong to severe thunderstorms may
-   also occur across parts of the central and northern High Plains.
+   Scattered strong to severe thunderstorms are possible across parts
+   of eastern Nebraska into western Iowa late this afternoon and
+   evening.
 
-   ...20Z Update...
-   Minor changes where made to the ongoing forecast based on recent
-   observations and model guidance. The overall forecast reasoning
-   remains valid, however. See the previous discussion for additional
-   details.
+   ...Eastern NE/western IA...
+   A strong mid/upper-level trough will move eastward from the northern
+   Plains into the Upper Great Lakes through tonight. A deepening
+   surface low will move across the Canadian Prairies, while a
+   secondary low may develop along a trailing cold front/surface trough
+   across the central High Plains. This system will be accompanied by
+   strengthening deep-layer flow from the central Plains into the Upper
+   Midwest. 
 
-   ..Wendt.. 09/13/2026
+   Extensive elevated convection will likely be ongoing at the start of
+   the period from the mid Missouri Valley northward into the Dakotas
+   and western MN. In the wake of this early-day convection, rich
+   low-level moisture (with dewpoints in the 70s F) is forecast to
+   stream northward into eastern NE and western IA. This moistening
+   combined with relatively steep midlevel lapse rates will support
+   moderate to strong destabilization by late afternoon, while
+   low-level and deep-layer shear will become increasingly favorable
+   with time. The resulting environment will become conditionally
+   favorable for supercells capable of all severe hazards. 
 
-   .PREV DISCUSSION... /ISSUED 1139 AM CDT Sun Sep 13 2026/
+   The strongest large-scale ascent will become focused north of the
+   region by afternoon, and it remains uncertain if heating in the wake
+   of morning convection will be sufficient to remove CINH within the
+   most favorable environment. If a supercell can become established
+   and move through this environment during the late afternoon/early
+   evening, then large to very large hail, localized damaging gusts,
+   and tornadoes will all be possible. While most guidance depicts
+   storm development by early evening, 00Z CAM guidance continues to
+   vary regarding the potential for sustained supercells, with
+   relatively quick clustering possible. Even in the absence of
+   sustained supercell development, the environment will be favorable
+   for severe hail and damaging wind with any persistent clusters into
+   the evening. 
 
-   ...Northeast and upper/middle Ohio Valley...
-   Have upgraded portions of the region to a categorical Slight Risk
-   with expectations of a semi-focused regional corridor of wind damage
-   later this afternoon through early evening. Within large-scale upper
-   troughing over eastern Canada, a strong west-southwesterly mid-level
-   jet will overspread the Great Lakes into the Ohio Valley and
-   Northeast later today into tonight. A surface cold front will
-   likewise track eastward across these regions through tonight. A
-   seasonably moist low-level airmass will be in place ahead of the
-   cold front, but poor lapse rates aloft (around 6-6.5 C/km) and cloud
-   cover should limit the degree of destabilization that can occur this
-   afternoon, although cloud cover has tended to thin/abate since early
-   this morning across the upper Ohio Valley. While the main influence
-   of the upstream upper-level trough will not arrive until this
-   evening, strengthening mid-level flow through the day will support
-   35-45 kt of deep-layer shear and the potential for organized bands
-   of convection.
+   ...Western/north-central KS...
+   Strong heating is expected near/south of a surface trough across
+   parts of western/central KS this afternoon. Scattered storm
+   development is expected by late afternoon from western into
+   north-central KS. Deep-layer shear will be weaker with southwest
+   extent, but steep low-level lapse rates and 25-35 kt of flow in the
+   850-500 mb layer will support potential for one or more loosely
+   organized clusters with at least localized severe-wind potential. 
 
-   At least widely scattered thunderstorms are expected to develop
-   along/ahead of the front by mid afternoon (around 19-22Z) from parts
-   of Ohio into western New York, and then spread quickly eastward
-   across the upper Ohio Valley into the Northeast. The deep-layer
-   shear will be strong enough for some supercells initially, with
-   perhaps a marginal/isolated hail threat even with the poor lapse
-   rates present aloft. But, clusters/bowing segments with an isolated
-   damaging wind threat should quickly develop given the linear forcing
-   of the front. This convection is forecast to weaken with eastward
-   extent this evening with the onset of nocturnal cooling, and as it
-   encounters a less unstable airmass.
+   ...Four Corners region into AZ...
+   Scattered storm development is expected later today from western CO
+   and southeast UT into parts of AZ/NM, within an anomalously moist
+   environment. The strongest mid/upper-level flow and deep-layer shear
+   within this region is expected over parts of UT/CO, though it is
+   uncertain if diurnal heating/destabilization will be sufficient for
+   an organized severe threat in this area. Some threat for strong
+   gusts and small to near-severe hail could evolve with the strongest
+   storms. 
 
-   ...Wyoming and central/northern High Plains to Missouri Valley...
-   A closed mid/upper-level low over the Pacific Northwest this morning
-   will move eastward to the northern Rockies/High Plains through the
-   period. Diurnal destabilization will generally be limited ahead of
-   this low, though a narrow zone of weak instability may develop by
-   late afternoon across southern Wyoming, and across northeast
-   Colorado into the Nebraska Panhandle in a modest low-level upslope
-   flow regime. Isolated thunderstorm development is expected with
-   sufficient wind profiles for isolated severe hail/wind potential.
+   Farther south, flow will be weaker across AZ, resulting in generally
+   disorganized storms. Localized strong gusts will be possible,
+   especially in areas where stronger pre-storm heating occurs during
+   the afternoon.  
 
-   Elevated thunderstorms should again increase in coverage across
-   western/central South Dakota towards the mid Missouri Valley late
-   tonight into early Monday morning. Moderate MUCAPE and sufficient
-   cloud-layer shear could support an isolated hail threat with the
-   initial development across western/southern South Dakota, though
-   mergers/interactions and weakening buoyancy will likely limit the
-   longevity and eastward extent of this threat into the mid Missouri
-   Valley.
+   ...Coastal NC...
+   A cold front will move southward across NC through the day today.
+   Large-scale ascent will generally be weak, though isolated storm
+   development will be possible as the front encounters richer moisture
+   and any sea breeze boundaries near the coast. Deep-layer shear
+   within a northwesterly flow regime will be sufficient for organized
+   convection, but poor midlevel lapse rates may limit updraft
+   intensity and potential for an organized severe threat. Any
+   sustained storms within this regime could produce locally gusty
+   winds and small hail.
+
+   ..Dean/Halbert.. 09/14/2026
