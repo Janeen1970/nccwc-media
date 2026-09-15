@@ -1,84 +1,61 @@
+  
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1242 AM CDT Mon Sep 14 2026
+   1226 AM CDT Tue Sep 15 2026
 
-   Valid 141200Z - 151200Z
+   Valid 151200Z - 161200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN NE
-   AND WESTERN IA...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM THE
+   SOUTH-CENTRAL PLAINS INTO PARTS OF THE MIDWEST...
 
    ...SUMMARY...
-   Scattered strong to severe thunderstorms are possible across parts
-   of eastern Nebraska into western Iowa late this afternoon and
-   evening.
+   Strong to locally severe thunderstorms may occur from the
+   south-central Plains into parts of the Midwest this afternoon and
+   evening, with at least isolated damaging wind gusts possible.
 
-   ...Eastern NE/western IA...
-   A strong mid/upper-level trough will move eastward from the northern
-   Plains into the Upper Great Lakes through tonight. A deepening
-   surface low will move across the Canadian Prairies, while a
-   secondary low may develop along a trailing cold front/surface trough
-   across the central High Plains. This system will be accompanied by
-   strengthening deep-layer flow from the central Plains into the Upper
-   Midwest. 
+   ...South-central Plains into parts of the Midwest...
+   A vigorous mid/upper-level trough will move quickly eastward across
+   Ontario and the Upper Great Lakes region today, before reaching
+   southern Hudson Bay and Quebec by this evening. A deep surface low
+   will accompany this system, as a trailing cold front moves across
+   parts of the central Plains and Midwest. To the south of the
+   ejecting trough, an upper ridge is forecast to amplify over the
+   Southeast. 
 
-   Extensive elevated convection will likely be ongoing at the start of
-   the period from the mid Missouri Valley northward into the Dakotas
-   and western MN. In the wake of this early-day convection, rich
-   low-level moisture (with dewpoints in the 70s F) is forecast to
-   stream northward into eastern NE and western IA. This moistening
-   combined with relatively steep midlevel lapse rates will support
-   moderate to strong destabilization by late afternoon, while
-   low-level and deep-layer shear will become increasingly favorable
-   with time. The resulting environment will become conditionally
-   favorable for supercells capable of all severe hazards. 
+   Persistent clouds and precipitation to the cool side of the front
+   will help to reinforce the baroclinic zone as it moves southeastward
+   through the day. The front will impinge on an increasingly warm and
+   unstable environment by late afternoon, and scattered storm
+   development is expected from the TX Panhandle into parts of the
+   Midwest. The strongest mid/upper-level flow will be displaced north
+   of the front, and low-level flow will tend to weaken through the
+   day. 
 
-   The strongest large-scale ascent will become focused north of the
-   region by afternoon, and it remains uncertain if heating in the wake
-   of morning convection will be sufficient to remove CINH within the
-   most favorable environment. If a supercell can become established
-   and move through this environment during the late afternoon/early
-   evening, then large to very large hail, localized damaging gusts,
-   and tornadoes will all be possible. While most guidance depicts
-   storm development by early evening, 00Z CAM guidance continues to
-   vary regarding the potential for sustained supercells, with
-   relatively quick clustering possible. Even in the absence of
-   sustained supercell development, the environment will be favorable
-   for severe hail and damaging wind with any persistent clusters into
-   the evening. 
+   This weakening flow regime, combined with gradual midlevel height
+   rises and an eventual tendency for storms to be undercut by the
+   front, results in uncertainty regarding the magnitude of the
+   organized severe threat this afternoon and evening. However,
+   seasonably strong heating and relatively large PW and buoyancy will
+   support potential for localized downbursts and outflow-driven
+   clusters, with attendant damaging-wind potential. Hail potential
+   appears generally limited by weak midlevel lapse rates and only
+   modest deep-layer shear, though small to near-severe hail may occur
+   with the strongest cells. 
 
-   ...Western/north-central KS...
-   Strong heating is expected near/south of a surface trough across
-   parts of western/central KS this afternoon. Scattered storm
-   development is expected by late afternoon from western into
-   north-central KS. Deep-layer shear will be weaker with southwest
-   extent, but steep low-level lapse rates and 25-35 kt of flow in the
-   850-500 mb layer will support potential for one or more loosely
-   organized clusters with at least localized severe-wind potential. 
+   A relatively broad Marginal Risk has been maintained from the
+   south-central Plains into the Midwest. Corridors of locally greater
+   potential could eventually evolve within the broader risk area,
+   especially near any pre-frontal outflow boundaries generated by
+   early-day convection. 
 
-   ...Four Corners region into AZ...
-   Scattered storm development is expected later today from western CO
-   and southeast UT into parts of AZ/NM, within an anomalously moist
-   environment. The strongest mid/upper-level flow and deep-layer shear
-   within this region is expected over parts of UT/CO, though it is
-   uncertain if diurnal heating/destabilization will be sufficient for
-   an organized severe threat in this area. Some threat for strong
-   gusts and small to near-severe hail could evolve with the strongest
-   storms. 
+   ...Parts of UT/western CO...
+   Anomalous moisture will remain in place across parts of the Four
+   Corners region and Southwest today. The strongest deep-layer
+   flow/shear will reside from UT into western CO, in advance of a
+   mid/upper-level trough over the Pacific Northwest. While a few
+   strong storms will be possible, generally weak heating and
+   destabilization are currently expected to limit the magnitude of the
+   severe threat. Small hail and gusty winds could accompany the
+   strongest storms.
 
-   Farther south, flow will be weaker across AZ, resulting in generally
-   disorganized storms. Localized strong gusts will be possible,
-   especially in areas where stronger pre-storm heating occurs during
-   the afternoon.  
-
-   ...Coastal NC...
-   A cold front will move southward across NC through the day today.
-   Large-scale ascent will generally be weak, though isolated storm
-   development will be possible as the front encounters richer moisture
-   and any sea breeze boundaries near the coast. Deep-layer shear
-   within a northwesterly flow regime will be sufficient for organized
-   convection, but poor midlevel lapse rates may limit updraft
-   intensity and potential for an organized severe threat. Any
-   sustained storms within this regime could produce locally gusty
-   winds and small hail.
-
-   ..Dean/Halbert.. 09/14/2026
+   ..Dean/Supinie.. 09/15/2026
