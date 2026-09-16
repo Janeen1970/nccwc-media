@@ -1,61 +1,65 @@
-  
    Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1226 AM CDT Tue Sep 15 2026
+   0745 AM CDT Wed Sep 16 2026
 
-   Valid 151200Z - 161200Z
+   Valid 161300Z - 171200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM THE
-   SOUTH-CENTRAL PLAINS INTO PARTS OF THE MIDWEST...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE MIDWEST/OHIO VALLEY AND UTAH INTO FAR NORTHWEST COLORADO...
 
    ...SUMMARY...
-   Strong to locally severe thunderstorms may occur from the
-   south-central Plains into parts of the Midwest this afternoon and
-   evening, with at least isolated damaging wind gusts possible.
+   Isolated strong to severe thunderstorms appear possible today across
+   parts of the Midwest/Ohio Valley and Utah/far northwest Colorado.
 
-   ...South-central Plains into parts of the Midwest...
-   A vigorous mid/upper-level trough will move quickly eastward across
-   Ontario and the Upper Great Lakes region today, before reaching
-   southern Hudson Bay and Quebec by this evening. A deep surface low
-   will accompany this system, as a trailing cold front moves across
-   parts of the central Plains and Midwest. To the south of the
-   ejecting trough, an upper ridge is forecast to amplify over the
-   Southeast. 
+   ...Mid Mississippi Valley/Midwest into the Ohio Valley...
+   In between upper troughing over Canada and upper ridging over the
+   Southeast, a convectively augmented mid-level vorticity maximum over
+   IL/northwest IN evident on radar imagery will track eastward today
+   across the OH Valley/southern Great Lakes. While mid-level westerly
+   winds will remain fairly modest across this region (generally 20-30
+   kt or less), this feature should aid additional convective
+   development this afternoon across parts of IN into OH and vicinity
+   as a moist low-level airmass gradually destabilizes. Poor lapse
+   rates aloft should tend to limit overall updraft strength, but
+   locally damaging winds may occur with any loosely organized clusters
+   that can form and spread eastward through the early evening before
+   weakening with the loss of daytime heating.
 
-   Persistent clouds and precipitation to the cool side of the front
-   will help to reinforce the baroclinic zone as it moves southeastward
-   through the day. The front will impinge on an increasingly warm and
-   unstable environment by late afternoon, and scattered storm
-   development is expected from the TX Panhandle into parts of the
-   Midwest. The strongest mid/upper-level flow will be displaced north
-   of the front, and low-level flow will tend to weaken through the
-   day. 
+   Most guidance continues to show thunderstorms developing late this
+   evening (mainly after 17/03Z) over portions of IA/northern IL in a
+   modest low-level warm advection regime. While MUCAPE will gradually
+   increase across this region as low-level moisture streams northward,
+   the potential for severe/damaging winds should tend to remain low
+   since convection will remain elevated and well north of a stalled
+   surface front. Cloud-layer shear also appears marginal to support
+   supercells with hail potential. Given these limiting factors, have
+   not included low severe probabilities at this time.
 
-   This weakening flow regime, combined with gradual midlevel height
-   rises and an eventual tendency for storms to be undercut by the
-   front, results in uncertainty regarding the magnitude of the
-   organized severe threat this afternoon and evening. However,
-   seasonably strong heating and relatively large PW and buoyancy will
-   support potential for localized downbursts and outflow-driven
-   clusters, with attendant damaging-wind potential. Hail potential
-   appears generally limited by weak midlevel lapse rates and only
-   modest deep-layer shear, though small to near-severe hail may occur
-   with the strongest cells. 
+   ...Southwest into the Great Basin...
+   On the southeast periphery of a closed upper low centered over
+   northern CA, around 35-45 kt of southwesterly mid-level flow will
+   persist today across parts of the Great Basin. Ongoing thunderstorms
+   across eastern UT/northwest CO are occurring in a strongly sheared
+   but weakly unstable environment. While occasional hail could occur
+   with the stronger cores, current expectations are for renewed
+   thunderstorm development later this afternoon as the rather moist
+   low-level airmass gradually destabilizes with filtered diurnal
+   heating. If any cells/small clusters can form, they would pose an
+   isolated threat for severe hail/gusts. But, the limited
+   heating/instability should temper the overall severe risk.
 
-   A relatively broad Marginal Risk has been maintained from the
-   south-central Plains into the Midwest. Corridors of locally greater
-   potential could eventually evolve within the broader risk area,
-   especially near any pre-frontal outflow boundaries generated by
-   early-day convection. 
+   Farther south across AZ/NM, numerous to widespread thunderstorms are
+   expected to develop and spread northward through the period as a
+   weak mid-level perturbation moves northward from the Baja California
+   vicinity across the Southwest/Four Corners. Above-average low-level
+   moisture (50s/60s surface dewpoints) is already in place over these
+   areas, but modest lapse rates aloft and limited daytime heating due
+   to widespread cloud cover suggest that instability will remain weak.
+   Nearly unidirectional/southerly flow and modest strengthening with
+   height through mid/upper levels should foster only marginal
+   deep-layer shear to support updraft organization. While occasional
+   gusty winds could occur with the stronger cores that develop, the
+   threat for severe gusts appears too limited to include any
+   probabilities with this update.
 
-   ...Parts of UT/western CO...
-   Anomalous moisture will remain in place across parts of the Four
-   Corners region and Southwest today. The strongest deep-layer
-   flow/shear will reside from UT into western CO, in advance of a
-   mid/upper-level trough over the Pacific Northwest. While a few
-   strong storms will be possible, generally weak heating and
-   destabilization are currently expected to limit the magnitude of the
-   severe threat. Small hail and gusty winds could accompany the
-   strongest storms.
-
-   ..Dean/Supinie.. 09/15/2026
+   ..Gleason/Mead.. 09/16/2026
