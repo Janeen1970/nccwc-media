@@ -1,39 +1,77 @@
   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1110 AM CDT Thu Sep 17 2026
+   1129 AM CDT Sat Sep 19 2026
 
-   Valid 171630Z - 181200Z
+   Valid 191630Z - 201200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
-   AND EVENING OVER PARTS OF IDAHO/UTAH...AND A SMALL PART OF THE
-   CENTRAL HIGH PLAINS....
+   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE CENTRAL PLAINS AND CENTRAL HIGH PLAINS...
 
    ...SUMMARY...
-   Thunderstorms with isolated severe wind gusts and hail will be
-   possible over parts of the Intermountain West this afternoon and
-   evening. A few strong to severe gusts may also occur across portions
-   of the central High Plains.
+   Thunderstorms with scattered severe wind gusts and large hail are
+   possible this afternoon and evening across parts of the central
+   Plains.
 
-   ...ID/UT...
-   Morning water vapor imagery shows an upper low over northern CA,
-   with a band of strong flow aloft with associated embedded shortwave
-   troughs extending across NV into UT/ID.  Strong heating across this
-   area will aid in the development of scattered thunderstorms from
-   southern ID into northern UT by mid-afternoon.  Sufficient vertical
-   shear is present for rotating updrafts capable of large hail and
-   gusty/damaging winds.  While coverage of storms will likely be
-   limited, one or two severe cells are expected later today - mainly
-   over the eastern Snake River Plain.
+   ...Ohio Valley...
+   Recent surface analysis places a weak low over northern IN, along
+   the northern end of an outflow boundary that is pushing
+   southward/south-southeastward across central IL and central IN.
+   Airmass south of this boundary is very moist, with dewpoints
+   generally in the upper 60s to low 70s. Filtered heating is
+   anticipated across this region today, with the resulting warm and
+   moist conditions supporting moderate buoyancy. The strongest
+   buoyancy is expected from southern IN into southwest OH and adjacent
+   far northern KY. The surging character of the outflow combined with
+   limited deep-layer vertical shear results in uncertainty regarding
+   how thunderstorms will evolve this afternoon, with at least some
+   potential for a predominance of undercut, poorly organized updrafts.
+   That being said, potential also exists for just enough
+   buoyancy/shear balance for a few stronger, more persistent bowing
+   clusters. Steep low-level lapse rates will promote strong to severe
+   gusts with any more persistent line segments that develop. 
 
-   ...CO/KS/NE...
-   The remnants of a weak tropical low are tracking northeastward
-   across the four-corners region this morning.  Ample moisture and
-   weak ascent associated with this feature will lead to considerable
-   clouds and scattered thunderstorms today over the mountains of CO
-   and southern WY.  This activity will spread eastward into eastern CO
-   and western NE/KS with high-based convection posing a risk of
-   locally damaging wind gusts.  The extent of this severe threat will
-   be modulated by daytime heating, which is uncertain at this time due
-   to lingering cloud cover.
+   ...Southern Appalachians/Southeast...
+   Warm and moist conditions will support airmass destabilization and
+   the potential of afternoon/evening thunderstorms across the region.
+   The region is largely void of coherent surface features, so any
+   convective initiation would likely be tied to mesoscale areas of
+   low-level confluence. Widely scattered to scattered storms are
+   forecast during the afternoon, and a few stronger water-loaded
+   downdrafts capable of 50 to 60 mph gusts are possible.
 
-   ..Hart/Chalmers.. 09/17/2026
+   ...Central and Southern Plains/Lower Missouri Valley...
+   Recent surface analysis places a low over southwest IA, with a cold
+   front extending back southwestward through southwest KS and the
+   central OK Panhandle into the northwest TX Panhandle. This front is
+   expected to slowly push south while larger-scale mid-level troughing
+   over the Great Basin and central Rockies gradually shifts eastward.
+   A seasonably moist airmass is in place ahead of the cold front, and
+   moderate buoyancy is expected as this airmass heats and destabilizes
+   this afternoon. 
+
+   Low-level convergence along the cold front, augmented by modest
+   large-scale forcing for ascent, will support scattered storm
+   development during the late afternoon and early evening as
+   convective inhibition is locally eroded. Given adequate speed and
+   directional shear, a few short-lived supercells are possible early
+   in the convective cycle, particularly across KS. Large hail will be
+   possible with the stronger updrafts. Thereafter, high-based storm
+   character coupled with steep low-level lapse rates will support
+   strong to severe gusts, including the potential for a few gusts of
+   60 to 75 mph.
+
+   ...Central High Plains...
+   Low-level easterly flow across the central High Plains will help
+   maintain at least upper 50s/low 60s dewpoints across the region this
+   afternoon/evening. The low-amplitude shortwave trough currently
+   moving through northern NV/UT is forecast to continue eastward,
+   interacting with this moist and unstable airmass to support
+   scattered thunderstorm development. With time, strengthening
+   mid-level flow will help support upscale growth from a loosely
+   organized band of a storms (including some supercells) to a more
+   organized linear cluster. Some hail is possible early with the more
+   cellular development, with wind gusts becoming more likely with
+   time. There is some indication this activity may continue into
+   western KS during the late evening and early overnight.
+
+   ..Mosier/Chalmers.. 09/19/2026
