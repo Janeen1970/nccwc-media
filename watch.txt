@@ -1,77 +1,52 @@
-  Day 1 Convective Outlook  
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1129 AM CDT Sat Sep 19 2026
+   0800 PM CDT Sun Sep 20 2026
 
-   Valid 191630Z - 201200Z
+   Valid 210100Z - 211200Z
 
    ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE CENTRAL PLAINS AND CENTRAL HIGH PLAINS...
+   THE CENTRAL HIGH PLAINS....
 
    ...SUMMARY...
-   Thunderstorms with scattered severe wind gusts and large hail are
-   possible this afternoon and evening across parts of the central
-   Plains.
-
-   ...Ohio Valley...
-   Recent surface analysis places a weak low over northern IN, along
-   the northern end of an outflow boundary that is pushing
-   southward/south-southeastward across central IL and central IN.
-   Airmass south of this boundary is very moist, with dewpoints
-   generally in the upper 60s to low 70s. Filtered heating is
-   anticipated across this region today, with the resulting warm and
-   moist conditions supporting moderate buoyancy. The strongest
-   buoyancy is expected from southern IN into southwest OH and adjacent
-   far northern KY. The surging character of the outflow combined with
-   limited deep-layer vertical shear results in uncertainty regarding
-   how thunderstorms will evolve this afternoon, with at least some
-   potential for a predominance of undercut, poorly organized updrafts.
-   That being said, potential also exists for just enough
-   buoyancy/shear balance for a few stronger, more persistent bowing
-   clusters. Steep low-level lapse rates will promote strong to severe
-   gusts with any more persistent line segments that develop. 
-
-   ...Southern Appalachians/Southeast...
-   Warm and moist conditions will support airmass destabilization and
-   the potential of afternoon/evening thunderstorms across the region.
-   The region is largely void of coherent surface features, so any
-   convective initiation would likely be tied to mesoscale areas of
-   low-level confluence. Widely scattered to scattered storms are
-   forecast during the afternoon, and a few stronger water-loaded
-   downdrafts capable of 50 to 60 mph gusts are possible.
-
-   ...Central and Southern Plains/Lower Missouri Valley...
-   Recent surface analysis places a low over southwest IA, with a cold
-   front extending back southwestward through southwest KS and the
-   central OK Panhandle into the northwest TX Panhandle. This front is
-   expected to slowly push south while larger-scale mid-level troughing
-   over the Great Basin and central Rockies gradually shifts eastward.
-   A seasonably moist airmass is in place ahead of the cold front, and
-   moderate buoyancy is expected as this airmass heats and destabilizes
-   this afternoon. 
-
-   Low-level convergence along the cold front, augmented by modest
-   large-scale forcing for ascent, will support scattered storm
-   development during the late afternoon and early evening as
-   convective inhibition is locally eroded. Given adequate speed and
-   directional shear, a few short-lived supercells are possible early
-   in the convective cycle, particularly across KS. Large hail will be
-   possible with the stronger updrafts. Thereafter, high-based storm
-   character coupled with steep low-level lapse rates will support
-   strong to severe gusts, including the potential for a few gusts of
-   60 to 75 mph.
+   Thunderstorms with large hail and severe wind gusts will be possible
+   this evening across parts of the central High Plains. A few severe
+   wind gusts may also occur from the Ozarks northeastward into the
+   Ohio Valley.
 
    ...Central High Plains...
-   Low-level easterly flow across the central High Plains will help
-   maintain at least upper 50s/low 60s dewpoints across the region this
-   afternoon/evening. The low-amplitude shortwave trough currently
-   moving through northern NV/UT is forecast to continue eastward,
-   interacting with this moist and unstable airmass to support
-   scattered thunderstorm development. With time, strengthening
-   mid-level flow will help support upscale growth from a loosely
-   organized band of a storms (including some supercells) to a more
-   organized linear cluster. Some hail is possible early with the more
-   cellular development, with wind gusts becoming more likely with
-   time. There is some indication this activity may continue into
-   western KS during the late evening and early overnight.
+   The latest water vapor imagery shows a shortwave mid-level trough
+   over eastern Colorado. An axis of moderate instability, with MLCAPE
+   in the 1500 to 2000 J/kg range, is analyzed by the RAP just ahead of
+   this feature from near the Colorado-Kansas state line southeastward
+   into the Oklahoma Panhandle. An isolated supercell is currently
+   ongoing near the instability axis near Lamar, Colorado. RAP forecast
+   soundings ahead of this cell across far southwest Kansas early this
+   evening have MLCAPE in the 1500 to 2000 J/kg range, 0-6 km shear
+   near 40 knots and 700-500 mb lapse rates around 7 C/km. This
+   environment will continue to support supercells capable of large
+   hail and wind damage. The threat could persist into the mid to late
+   evening with parts of southwest Kansas and the Oklahoma Panhandle
+   being affected. Later this evening, short-term model forecasts also
+   suggest that redevelopment may occur to the east of the Denver
+   Metro, with a new cluster potentially tracking southeastward near
+   the instability axis. This activity could also pose a large hail and
+   wind damage threat.
 
-   ..Mosier/Chalmers.. 09/19/2026
+   ...Ozarks into the Ohio Valley...
+   Several minor perturbations, embedded in westerly flow aloft, appear
+   to moving through a corridor from the Ozarks eastward into the Ohio
+   Valley. The most pronounced feature appears to be located in
+   southeastern Indiana, ahead of which a small cluster of severe
+   storms is ongoing. Along the projected track of these storms, the
+   RAP has MLCAPE in the 1200 to 1500 J/kg range with 0-6 km around 35
+   knots. This should continue to support an isolated wind-damage
+   threat for a couple more hours early this evening...see MCD 2319.
+
+   Further southwest into the parts of the Ozarks and mid Mississippi
+   Valley, moderate instability is analyzed by the RAP from far
+   northeast Oklahoma northeastward into south-central Illinois.
+   Isolated to scattered thunderstorms are ongoing near the instability
+   axis. These storms may be capable of producing isolated severe wind
+   gusts for another hour or two this evening...see MCD 2318.
+
+   ..Broyles.. 09/21/2026
