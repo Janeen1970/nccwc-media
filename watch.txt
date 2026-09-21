@@ -1,52 +1,35 @@
  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0800 PM CDT Sun Sep 20 2026
+   1235 AM CDT Mon Sep 21 2026
 
-   Valid 210100Z - 211200Z
+   Valid 211200Z - 221200Z
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE CENTRAL HIGH PLAINS....
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM PARTS OF
+   THE SOUTHEAST INTO THE SOUTHERN AND CENTRAL APPALACHIANS...
 
    ...SUMMARY...
-   Thunderstorms with large hail and severe wind gusts will be possible
-   this evening across parts of the central High Plains. A few severe
-   wind gusts may also occur from the Ozarks northeastward into the
-   Ohio Valley.
+   Thunderstorms with isolated severe wind gusts will be possible this
+   afternoon from parts of the Southeast into the southern and central
+   Appalachians.
 
-   ...Central High Plains...
-   The latest water vapor imagery shows a shortwave mid-level trough
-   over eastern Colorado. An axis of moderate instability, with MLCAPE
-   in the 1500 to 2000 J/kg range, is analyzed by the RAP just ahead of
-   this feature from near the Colorado-Kansas state line southeastward
-   into the Oklahoma Panhandle. An isolated supercell is currently
-   ongoing near the instability axis near Lamar, Colorado. RAP forecast
-   soundings ahead of this cell across far southwest Kansas early this
-   evening have MLCAPE in the 1500 to 2000 J/kg range, 0-6 km shear
-   near 40 knots and 700-500 mb lapse rates around 7 C/km. This
-   environment will continue to support supercells capable of large
-   hail and wind damage. The threat could persist into the mid to late
-   evening with parts of southwest Kansas and the Oklahoma Panhandle
-   being affected. Later this evening, short-term model forecasts also
-   suggest that redevelopment may occur to the east of the Denver
-   Metro, with a new cluster potentially tracking southeastward near
-   the instability axis. This activity could also pose a large hail and
-   wind damage threat.
+   ...Southeast/Southern and Central Appalachians...
+   A cold front will advance southeastward across the southern and
+   eastern U.S. today. By afternoon, the front is forecast to be
+   positioned from northern Mississippi northeastward to western
+   Virginia. Ahead of the front, a moist airmass will be in place with
+   surface dewpoints in the upper 60s to mid 70s F from the lower
+   Mississippi Valley northeastward into West Virginia. As surface
+   temperature warm, an axis of moderate instability will develop ahead
+   of the front from central Mississippi northeastward into western
+   North Carolina, where MLCAPE should peak in the 2000 to 3000 J/kg
+   range. Low-level convergence will increase along the front during
+   the day, which will be favorable for scattered to numerous
+   thunderstorm development. Although deep-layer shear will be weak
+   along and near the instability axis, low-level lapse rates will
+   become steep in the afternoon. The thermodynamic environment should
+   be favorable for isolated severe wind gusts with single cells or
+   disorganized multicells. The threat should be largely diurnal but
+   may persist into the early evening in areas that destabilize the
+   most.
 
-   ...Ozarks into the Ohio Valley...
-   Several minor perturbations, embedded in westerly flow aloft, appear
-   to moving through a corridor from the Ozarks eastward into the Ohio
-   Valley. The most pronounced feature appears to be located in
-   southeastern Indiana, ahead of which a small cluster of severe
-   storms is ongoing. Along the projected track of these storms, the
-   RAP has MLCAPE in the 1200 to 1500 J/kg range with 0-6 km around 35
-   knots. This should continue to support an isolated wind-damage
-   threat for a couple more hours early this evening...see MCD 2319.
-
-   Further southwest into the parts of the Ozarks and mid Mississippi
-   Valley, moderate instability is analyzed by the RAP from far
-   northeast Oklahoma northeastward into south-central Illinois.
-   Isolated to scattered thunderstorms are ongoing near the instability
-   axis. These storms may be capable of producing isolated severe wind
-   gusts for another hour or two this evening...see MCD 2318.
-
-   ..Broyles.. 09/21/2026
+   ..Broyles/Thornton.. 09/21/2026
