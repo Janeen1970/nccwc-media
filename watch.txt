@@ -1,35 +1,45 @@
  Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1235 AM CDT Mon Sep 21 2026
+   1250 AM CDT Tue Sep 22 2026
 
-   Valid 211200Z - 221200Z
+   Valid 221200Z - 231200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM PARTS OF
-   THE SOUTHEAST INTO THE SOUTHERN AND CENTRAL APPALACHIANS...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE SOUTHEAST...AND IN THE VICINITY OF NORTH-CENTRAL AND
+   NORTHEASTERN UTAH....
 
    ...SUMMARY...
-   Thunderstorms with isolated severe wind gusts will be possible this
-   afternoon from parts of the Southeast into the southern and central
-   Appalachians.
+   Thunderstorms with isolated severe wind gusts are possible today
+   across parts of the Southeast, and in the vicinity of north-central
+   and northeastern Utah.
 
-   ...Southeast/Southern and Central Appalachians...
-   A cold front will advance southeastward across the southern and
-   eastern U.S. today. By afternoon, the front is forecast to be
-   positioned from northern Mississippi northeastward to western
-   Virginia. Ahead of the front, a moist airmass will be in place with
-   surface dewpoints in the upper 60s to mid 70s F from the lower
-   Mississippi Valley northeastward into West Virginia. As surface
-   temperature warm, an axis of moderate instability will develop ahead
-   of the front from central Mississippi northeastward into western
-   North Carolina, where MLCAPE should peak in the 2000 to 3000 J/kg
-   range. Low-level convergence will increase along the front during
-   the day, which will be favorable for scattered to numerous
-   thunderstorm development. Although deep-layer shear will be weak
-   along and near the instability axis, low-level lapse rates will
-   become steep in the afternoon. The thermodynamic environment should
-   be favorable for isolated severe wind gusts with single cells or
-   disorganized multicells. The threat should be largely diurnal but
-   may persist into the early evening in areas that destabilize the
-   most.
+   ...Southeast...
+   At the surface, a cold front will advance southward into the
+   Southeast today. The position of the front by afternoon will be from
+   the northern Gulf Coast States into southern Appalachians. Warming
+   surface temperatures and increasing low-level convergence near and
+   ahead of the boundary will result in scattered thunderstorm
+   development this afternoon. Surface dewpoints across the moist
+   airmass will mostly range from the mid 60s to mid 70s F. This will
+   aid destabilization, with MLCAPE expected to peak in the 1500 to
+   2500 J/kg in most areas ahead of the front. Although deep-layer
+   shear will be limited, the thermodynamic environment will be able to
+   support isolated severe wind gusts with convection that develops
+   within the strongest localized instability.
+    
+   ...North-central and Northeastern Utah/Far Southwest Wyoming...
+   A mid-level trough and low pressure center will move northeastward
+   across the Intermountain West today. Ahead of the system, a surface
+   low will deepen across western Utah. To the east and northeast of
+   the low, surface dewpoints will range from the mid 40s to mid 50s F.
+   This will be enough for the development of weak instability by
+   afternoon. MLCAPE is forecast to increase to around 1000 J/kg over
+   much of north-central and northeast Utah, as a cold pocket
+   associated with the approaching upper-level low begins to affect the
+   area. The Salt Lake City RAP forecast sounding at 21Z has 0-6 km
+   shear near 40 knots with steep low to mid-level lapse rates in the 7
+   to 8 C/km range. This should support an isolated potential for
+   supercells. Hail and isolated severe gusts would be the primary
+   threats.
 
-   ..Broyles/Thornton.. 09/21/2026
+   ..Broyles/Thornton.. 09/22/2026
