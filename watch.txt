@@ -1,45 +1,45 @@
- Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1250 AM CDT Tue Sep 22 2026
+   0726 AM CDT Wed Sep 23 2026
 
-   Valid 221200Z - 231200Z
+   Valid 231300Z - 241200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE SOUTHEAST...AND IN THE VICINITY OF NORTH-CENTRAL AND
-   NORTHEASTERN UTAH....
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
+   WESTERN DAKOTAS AND SOUTHERN APPALACHIANS...
 
    ...SUMMARY...
-   Thunderstorms with isolated severe wind gusts are possible today
-   across parts of the Southeast, and in the vicinity of north-central
-   and northeastern Utah.
+   Isolated severe thunderstorms are possible this afternoon across
+   parts of the western Dakotas and southern Appalachians.
 
-   ...Southeast...
-   At the surface, a cold front will advance southward into the
-   Southeast today. The position of the front by afternoon will be from
-   the northern Gulf Coast States into southern Appalachians. Warming
-   surface temperatures and increasing low-level convergence near and
-   ahead of the boundary will result in scattered thunderstorm
-   development this afternoon. Surface dewpoints across the moist
-   airmass will mostly range from the mid 60s to mid 70s F. This will
-   aid destabilization, with MLCAPE expected to peak in the 1500 to
-   2500 J/kg in most areas ahead of the front. Although deep-layer
-   shear will be limited, the thermodynamic environment will be able to
-   support isolated severe wind gusts with convection that develops
-   within the strongest localized instability.
-    
-   ...North-central and Northeastern Utah/Far Southwest Wyoming...
-   A mid-level trough and low pressure center will move northeastward
-   across the Intermountain West today. Ahead of the system, a surface
-   low will deepen across western Utah. To the east and northeast of
-   the low, surface dewpoints will range from the mid 40s to mid 50s F.
-   This will be enough for the development of weak instability by
-   afternoon. MLCAPE is forecast to increase to around 1000 J/kg over
-   much of north-central and northeast Utah, as a cold pocket
-   associated with the approaching upper-level low begins to affect the
-   area. The Salt Lake City RAP forecast sounding at 21Z has 0-6 km
-   shear near 40 knots with steep low to mid-level lapse rates in the 7
-   to 8 C/km range. This should support an isolated potential for
-   supercells. Hail and isolated severe gusts would be the primary
-   threats.
+   ...Western Dakotas...
+   Water-vapor imagery this morning shows a mid-level trough moving
+   northeast across WY/MT.  This upper disturbance will move into the
+   western Dakotas by late afternoon and gradually deamplify as it
+   reaches the Red River Valley by daybreak Thursday.  A lee trough
+   will facilitate the maintenance of a moisture plume extending
+   northward from the central High Plains into the western Dakotas. 
+   Model forecast soundings show around 1000 J/kg MLCAPE developing
+   with marginally steep lapse rates.  Widely scattered thunderstorms
+   are forecast to develop as convective inhibition erodes in the
+   vicinity of the lee trough and the Black Hills this afternoon.  Some
+   elongation of the hodograph may aid in some storm organization
+   potential, with the stronger thunderstorms perhaps yielding an
+   isolated risk for marginally severe hail/gusts through early
+   evening.  
 
-   ..Broyles/Thornton.. 09/22/2026
+   ...Southern Appalachians...
+   A mid-level vorticity maximum will move southeast today from the
+   lower OH Valley into the southern Appalachians.  An inverted trough
+   co-located with a regionally greater reservoir of low-level moisture
+   (i.e., surface dewpoints in the 60s deg F), will focus thunderstorm
+   development this afternoon.  Extensive low cloud cover will likely
+   inhibit strong heating and lends considerable uncertainty regarding
+   destabilization and the potential for stronger thunderstorm
+   development.  Forecast soundings show that despite limited low to
+   mid-level lapse rates, perhaps 250-750 J/kg MLCAPE may develop by
+   mid afternoon.  Strong to locally damaging thunderstorm gusts may
+   occur with the stronger storms.  Have removed low hail probabilities
+   due in part to the 12 UTC Nashville, TN raob depicting poor 700-500
+   mb lapse rates (4.8 deg C/km) and limited forecast buoyancy.
+
+   ..Smith/Mead.. 09/23/2026
