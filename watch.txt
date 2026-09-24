@@ -1,45 +1,49 @@
-Day 1 Convective Outlook  
+ Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0726 AM CDT Wed Sep 23 2026
+   1114 AM CDT Thu Sep 24 2026
 
-   Valid 231300Z - 241200Z
+   Valid 241630Z - 251200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
-   WESTERN DAKOTAS AND SOUTHERN APPALACHIANS...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+   OF THE EASTERN TEXAS PANHANDLE...WESTERN OKLAHOMA...AND WESTERN
+   KANSAS...
 
    ...SUMMARY...
-   Isolated severe thunderstorms are possible this afternoon across
-   parts of the western Dakotas and southern Appalachians.
+   A couple of marginally severe thunderstorms are possible late this
+   afternoon into the early evening across parts of the southern High
+   Plains.
 
-   ...Western Dakotas...
-   Water-vapor imagery this morning shows a mid-level trough moving
-   northeast across WY/MT.  This upper disturbance will move into the
-   western Dakotas by late afternoon and gradually deamplify as it
-   reaches the Red River Valley by daybreak Thursday.  A lee trough
-   will facilitate the maintenance of a moisture plume extending
-   northward from the central High Plains into the western Dakotas. 
-   Model forecast soundings show around 1000 J/kg MLCAPE developing
-   with marginally steep lapse rates.  Widely scattered thunderstorms
-   are forecast to develop as convective inhibition erodes in the
-   vicinity of the lee trough and the Black Hills this afternoon.  Some
-   elongation of the hodograph may aid in some storm organization
-   potential, with the stronger thunderstorms perhaps yielding an
-   isolated risk for marginally severe hail/gusts through early
-   evening.  
+   ...TX Panhandle into northwest OK and southwest KS...
+   An extensive plume of mid to upper level moisture currently extends
+   from southern High Plains through central Plains into the eastern
+   Dakotas and MN, evidenced by widespread cloudiness and embedded
+   showers and isolated thunderstorms. This plume is supported by
+   moderate southwesterly flow aloft between the upper ridging centered
+   over the Middle/Upper TX coast and lower heights associated with an
+   amplifying upper trough approaching the coastal Pacific Northwest. 
 
-   ...Southern Appalachians...
-   A mid-level vorticity maximum will move southeast today from the
-   lower OH Valley into the southern Appalachians.  An inverted trough
-   co-located with a regionally greater reservoir of low-level moisture
-   (i.e., surface dewpoints in the 60s deg F), will focus thunderstorm
-   development this afternoon.  Extensive low cloud cover will likely
-   inhibit strong heating and lends considerable uncertainty regarding
-   destabilization and the potential for stronger thunderstorm
-   development.  Forecast soundings show that despite limited low to
-   mid-level lapse rates, perhaps 250-750 J/kg MLCAPE may develop by
-   mid afternoon.  Strong to locally damaging thunderstorm gusts may
-   occur with the stronger storms.  Have removed low hail probabilities
-   due in part to the 12 UTC Nashville, TN raob depicting poor 700-500
-   mb lapse rates (4.8 deg C/km) and limited forecast buoyancy.
+   Recent surface analysis shows a corridor of greater low-level
+   moisture (characterized by mid to upper 60s dewpoints) extending
+   from the TX Low Rolling Plains through the eastern TX and OK
+   Panhandles into far southwest KS. Much of this corridor of greater
+   low-level moisture is just east of the cloudiness (and cooler
+   surface temperatures) associated with the mid/upper moisture plume.
+   This region should continue to heat, with afternoon temperatures
+   reaching the mid to upper 80s. Lapse rates are poor, but the warm
+   temperatures and ample low-level moisture will still support MLCAPE
+   from 1500 to 2000 J/kg. This buoyancy combined with low-level
+   convergence (either on outflow from the ongoing showers or as a
+   result of differential heating) will support isolated to scattered
+   thunderstorms this afternoon and evening. Vertical shear will be
+   weak across much of the region, and a largely disorganized storm
+   mode is anticipated. However, a few water-loaded downbursts are
+   possible with the strongest cells. 
 
-   ..Smith/Mead.. 09/23/2026
+   Slightly stronger large-scale forcing for ascent and vertical shear
+   is expected into KS as a weak convectively augmented vorticity
+   maximum moves trough. Isolated to widely scattered thunderstorms are
+   possible here as well, although weaker buoyancy should limit overall
+   intensity. Even so, a couple of weak supercells capable of isolated
+   hail and/or damaging gusts may occur.
+
+   ..Mosier/Chalmers.. 09/24/2026
