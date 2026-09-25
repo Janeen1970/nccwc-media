@@ -1,49 +1,47 @@
- Day 1 Convective Outlook  
+Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1114 AM CDT Thu Sep 24 2026
+   1109 AM CDT Fri Sep 25 2026
 
-   Valid 241630Z - 251200Z
+   Valid 251630Z - 261200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
-   OF THE EASTERN TEXAS PANHANDLE...WESTERN OKLAHOMA...AND WESTERN
-   KANSAS...
+   ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
    ...SUMMARY...
-   A couple of marginally severe thunderstorms are possible late this
-   afternoon into the early evening across parts of the southern High
-   Plains.
+   Organized severe thunderstorms are not expected today.
 
-   ...TX Panhandle into northwest OK and southwest KS...
-   An extensive plume of mid to upper level moisture currently extends
-   from southern High Plains through central Plains into the eastern
-   Dakotas and MN, evidenced by widespread cloudiness and embedded
-   showers and isolated thunderstorms. This plume is supported by
-   moderate southwesterly flow aloft between the upper ridging centered
-   over the Middle/Upper TX coast and lower heights associated with an
-   amplifying upper trough approaching the coastal Pacific Northwest. 
+   ...Synopsis...
 
-   Recent surface analysis shows a corridor of greater low-level
-   moisture (characterized by mid to upper 60s dewpoints) extending
-   from the TX Low Rolling Plains through the eastern TX and OK
-   Panhandles into far southwest KS. Much of this corridor of greater
-   low-level moisture is just east of the cloudiness (and cooler
-   surface temperatures) associated with the mid/upper moisture plume.
-   This region should continue to heat, with afternoon temperatures
-   reaching the mid to upper 80s. Lapse rates are poor, but the warm
-   temperatures and ample low-level moisture will still support MLCAPE
-   from 1500 to 2000 J/kg. This buoyancy combined with low-level
-   convergence (either on outflow from the ongoing showers or as a
-   result of differential heating) will support isolated to scattered
-   thunderstorms this afternoon and evening. Vertical shear will be
-   weak across much of the region, and a largely disorganized storm
-   mode is anticipated. However, a few water-loaded downbursts are
-   possible with the strongest cells. 
+   An MCS is decaying across the TX Panhandle/South Plains late this
+   morning. Outflow associated with this area of convection is
+   spreading south and east, while areas of rain and cloud cover slowly
+   develop northeastward toward western OK. In the wake of this early
+   day convection, some airmass recovery and modest destabilization is
+   possible across southeast NM into far southwest TX where stronger
+   heating is occurring amid more scattered cloudiness. Likewise,
+   across western OK ahead of the TX Panhandle convection and outflow,
+   more isolated cloud cover is allowing for stronger heating of a
+   moist boundary layer. 
 
-   Slightly stronger large-scale forcing for ascent and vertical shear
-   is expected into KS as a weak convectively augmented vorticity
-   maximum moves trough. Isolated to widely scattered thunderstorms are
-   possible here as well, although weaker buoyancy should limit overall
-   intensity. Even so, a couple of weak supercells capable of isolated
-   hail and/or damaging gusts may occur.
+   ...Southeast NM/Southwest TX...
 
-   ..Mosier/Chalmers.. 09/24/2026
+   Midlevel lapse rates are expected to remain modest and MLCAPE will
+   range from 500-1000 J/kg by mid/late afternoon. Isolated convection
+   may develop near higher terrain initially across southeast
+   NM/southwest TX. A storm or two could briefly become strong and
+   produce marginal hail, but the severe risk is expected to be
+   tempered by the marginal thermodynamic/kinematic parameter space in
+   the wake of the early day MCS. 
+
+   ...Western OK...
+
+   While currently mostly sunny across western OK, afternoon heating
+   could become muted by cloud cover as showers associated with the
+   ongoing TX Panhandle activity spread east/northeast the next few
+   hours. This could limit stronger destabilization/steepening of
+   low-level lapse rates within a modestly sheared environment.  A
+   strong gust or two could occur if sufficient heating/steepening of
+   low-level lapse rates unfolds. However, given modest vertical shear,
+   weak midlevel lapse rates, and marginal instability, the overall
+   severe risk appears limited.
+
+   ..Leitman/Chalmers.. 09/25/2026
