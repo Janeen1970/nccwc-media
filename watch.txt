@@ -1,47 +1,35 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1109 AM CDT Fri Sep 25 2026
+   0655 AM CDT Sat Sep 26 2026
 
-   Valid 251630Z - 261200Z
+   Valid 261300Z - 271200Z
 
-   ...NO SEVERE THUNDERSTORM AREAS FORECAST...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR WESTERN
+   OKLAHOMA INTO NORTHWEST TEXAS...
 
    ...SUMMARY...
-   Organized severe thunderstorms are not expected today.
+   Isolated hail and strong outflow winds may accompany thunderstorms
+   across portions of the southern Plains late this afternoon into the
+   early evening.
 
-   ...Synopsis...
+   ...Western OK into northwest TX...
+   Water-vapor imagery this morning shows an upper trough over the
+   central and southern High Plains moving northeast while a
+   smaller-scale upper jet moves across the TX Panhandle into OK.  A
+   lee trough will extend southward through the High Plains and act to
+   maintain southerly low-level flow and a fetch of modest moisture
+   (surface dewpoints in the lower to mid 60s F).  Scattered showers
+   and thunderstorms ongoing this morning will likely dissipate with
+   additional storm activity expected to develop around 21-23 UTC.
+   Sufficiently steepened low-level lapse rates by mid afternoon and
+   the erosion of MLCINH will likely result in widely scattered to
+   scattered storms developing from south-central KS through western OK
+   and parts of west/northwest TX.  Adequately strong deep-layer shear
+   for storm organization will aid in a few of the stronger
+   thunderstorms to be capable of an isolated threat for large hail and
+   severe gusts (mainly 22z-02z).
 
-   An MCS is decaying across the TX Panhandle/South Plains late this
-   morning. Outflow associated with this area of convection is
-   spreading south and east, while areas of rain and cloud cover slowly
-   develop northeastward toward western OK. In the wake of this early
-   day convection, some airmass recovery and modest destabilization is
-   possible across southeast NM into far southwest TX where stronger
-   heating is occurring amid more scattered cloudiness. Likewise,
-   across western OK ahead of the TX Panhandle convection and outflow,
-   more isolated cloud cover is allowing for stronger heating of a
-   moist boundary layer. 
+   Elsewhere, quiescent conditions for severe weather are expected to
+   prevail.
 
-   ...Southeast NM/Southwest TX...
-
-   Midlevel lapse rates are expected to remain modest and MLCAPE will
-   range from 500-1000 J/kg by mid/late afternoon. Isolated convection
-   may develop near higher terrain initially across southeast
-   NM/southwest TX. A storm or two could briefly become strong and
-   produce marginal hail, but the severe risk is expected to be
-   tempered by the marginal thermodynamic/kinematic parameter space in
-   the wake of the early day MCS. 
-
-   ...Western OK...
-
-   While currently mostly sunny across western OK, afternoon heating
-   could become muted by cloud cover as showers associated with the
-   ongoing TX Panhandle activity spread east/northeast the next few
-   hours. This could limit stronger destabilization/steepening of
-   low-level lapse rates within a modestly sheared environment.  A
-   strong gust or two could occur if sufficient heating/steepening of
-   low-level lapse rates unfolds. However, given modest vertical shear,
-   weak midlevel lapse rates, and marginal instability, the overall
-   severe risk appears limited.
-
-   ..Leitman/Chalmers.. 09/25/2026
+   ..Smith/Bentley.. 09/26/2026
