@@ -1,35 +1,34 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0655 AM CDT Sat Sep 26 2026
+   0730 AM CDT Sun Sep 27 2026
 
-   Valid 261300Z - 271200Z
+   Valid 271300Z - 281200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR WESTERN
-   OKLAHOMA INTO NORTHWEST TEXAS...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
+   THE CENTRAL AND NORTHERN HIGH PLAINS...
 
    ...SUMMARY...
-   Isolated hail and strong outflow winds may accompany thunderstorms
-   across portions of the southern Plains late this afternoon into the
-   early evening.
+   Isolated thunderstorms capable of large hail will be possible across
+   portions of western Nebraska and the Black Hills of South Dakota.
 
-   ...Western OK into northwest TX...
-   Water-vapor imagery this morning shows an upper trough over the
-   central and southern High Plains moving northeast while a
-   smaller-scale upper jet moves across the TX Panhandle into OK.  A
-   lee trough will extend southward through the High Plains and act to
-   maintain southerly low-level flow and a fetch of modest moisture
-   (surface dewpoints in the lower to mid 60s F).  Scattered showers
-   and thunderstorms ongoing this morning will likely dissipate with
-   additional storm activity expected to develop around 21-23 UTC.
-   Sufficiently steepened low-level lapse rates by mid afternoon and
-   the erosion of MLCINH will likely result in widely scattered to
-   scattered storms developing from south-central KS through western OK
-   and parts of west/northwest TX.  Adequately strong deep-layer shear
-   for storm organization will aid in a few of the stronger
-   thunderstorms to be capable of an isolated threat for large hail and
-   severe gusts (mainly 22z-02z).
+   ...Portions of the Central and Northern High Plains ...
+   A residual moist axis over the Plains will feature 60s deg F surface
+   dewpoints extending from the southern Plains northward into NE/SD. 
+   The western periphery of the moist plume will undergo strong heating
+   despite some increasing high cloud cover.  Forcing will likely
+   remain negligible through the day and limit storm coverage with
+   moderate buoyancy developing in western NE.  During the evening,
+   thunderstorm coverage may increase in response to increasing
+   large-scale ascent associated with an approaching subtle vorticity
+   maxima and an increase in the low-level jet.  Large hail will be
+   possible with the strongest of these storms.
 
-   Elsewhere, quiescent conditions for severe weather are expected to
-   prevail.
+   Elsewhere, scattered thunderstorms are forecast over north and
+   central TX late this afternoon, as well as isolated to widely
+   scattered storms over northern UT into central WY.  Localized gusty
+   winds are possible with the stronger storms, but uncertainty in
+   expected coverage of these gusts and magnitude of the potential
+   threat preclude a low-probability severe highlight this outlook
+   update.
 
-   ..Smith/Bentley.. 09/26/2026
+   ..Smith/Bentley.. 09/27/2026
