@@ -1,34 +1,44 @@
 Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   0730 AM CDT Sun Sep 27 2026
+   1128 AM CDT Mon Sep 28 2026
 
-   Valid 271300Z - 281200Z
+   Valid 281630Z - 291200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
-   THE CENTRAL AND NORTHERN HIGH PLAINS...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+   THE NORTHERN PLAINS...
 
    ...SUMMARY...
-   Isolated thunderstorms capable of large hail will be possible across
-   portions of western Nebraska and the Black Hills of South Dakota.
+   Isolated strong to severe thunderstorms may occur this afternoon and
+   evening across parts of western/northern South Dakota and vicinity.
 
-   ...Portions of the Central and Northern High Plains ...
-   A residual moist axis over the Plains will feature 60s deg F surface
-   dewpoints extending from the southern Plains northward into NE/SD. 
-   The western periphery of the moist plume will undergo strong heating
-   despite some increasing high cloud cover.  Forcing will likely
-   remain negligible through the day and limit storm coverage with
-   moderate buoyancy developing in western NE.  During the evening,
-   thunderstorm coverage may increase in response to increasing
-   large-scale ascent associated with an approaching subtle vorticity
-   maxima and an increase in the low-level jet.  Large hail will be
-   possible with the strongest of these storms.
+   ...Northern Plains...
+   Clouds and elevated thunderstorms remain prevalent late this morning
+   across parts of the Dakotas. A narrow window for strong to locally
+   severe thunderstorms may exist this afternoon/evening across parts
+   of western/northern SD and vicinity as convection develops
+   along/east of a weak surface trough. While lapse rates aloft should
+   remain modest, filtered daytime heating with surface temperatures
+   reaching the mid/upper 70s will probably be sufficient for robust
+   thunderstorm development. A belt of modestly enhanced southwesterly
+   mid-level flow will extend across the northern Rockies/Plains today,
+   and 30-40 kt of deep-layer shear should support updraft
+   organization. Current expectations are for thunderstorms to
+   initially form near the Black Hills by 20-22Z, and then spread
+   east-northeastward along/near a surface front through the evening.
+   The stronger cells may be capable of producing isolated hail and
+   gusty winds, before convection tends to become elevated with
+   eastward extent across northern SD/southern ND by late evening.
 
-   Elsewhere, scattered thunderstorms are forecast over north and
-   central TX late this afternoon, as well as isolated to widely
-   scattered storms over northern UT into central WY.  Localized gusty
-   winds are possible with the stronger storms, but uncertainty in
-   expected coverage of these gusts and magnitude of the potential
-   threat preclude a low-probability severe highlight this outlook
-   update.
+   ...Lower Colorado River Valley...
+   Showers and thunderstorms should develop this afternoon as an
+   anomalously moist low-level airmass spreads northward ahead of a
+   mid-level shortwave trough forecast to move from CA/NV to the lower
+   CO River Valley through the period. Cloudiness and weak mid-level
+   lapse rates should limit instability through early afternoon, before
+   cloud cover gradually diminishes through early evening. A stronger
+   thunderstorm or two may occur parts of interior southern
+   CA/northwest AZ/southern NV, but the overall risk for severe
+   hail/wind appears too limited to include any probabilities for this
+   region at this time.
 
-   ..Smith/Bentley.. 09/27/2026
+   ..Gleason/Chalmers.. 09/28/2026
