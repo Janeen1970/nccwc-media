@@ -1,44 +1,75 @@
-Day 1 Convective Outlook  
+
+   Day 1 Convective Outlook  
    NWS Storm Prediction Center Norman OK
-   1128 AM CDT Mon Sep 28 2026
+   0245 PM CDT Tue Sep 29 2026
 
-   Valid 281630Z - 291200Z
+   Valid 292000Z - 301200Z
 
-   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-   THE NORTHERN PLAINS...
+   ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM SOUTHERN
+   ARIZONA ACROSS SOUTHERN/EASTERN NEW MEXICO INTO WEST TEXAS...
 
    ...SUMMARY...
-   Isolated strong to severe thunderstorms may occur this afternoon and
-   evening across parts of western/northern South Dakota and vicinity.
+   Isolated severe thunderstorm wind gusts and possibly a tornado or
+   two could occur this afternoon into tonight from southeast Arizona
+   across southern and eastern New Mexico into west Texas.
 
-   ...Northern Plains...
-   Clouds and elevated thunderstorms remain prevalent late this morning
-   across parts of the Dakotas. A narrow window for strong to locally
-   severe thunderstorms may exist this afternoon/evening across parts
-   of western/northern SD and vicinity as convection develops
-   along/east of a weak surface trough. While lapse rates aloft should
-   remain modest, filtered daytime heating with surface temperatures
-   reaching the mid/upper 70s will probably be sufficient for robust
-   thunderstorm development. A belt of modestly enhanced southwesterly
-   mid-level flow will extend across the northern Rockies/Plains today,
-   and 30-40 kt of deep-layer shear should support updraft
-   organization. Current expectations are for thunderstorms to
-   initially form near the Black Hills by 20-22Z, and then spread
-   east-northeastward along/near a surface front through the evening.
-   The stronger cells may be capable of producing isolated hail and
-   gusty winds, before convection tends to become elevated with
-   eastward extent across northern SD/southern ND by late evening.
+   ...20z Update...
+   No changes were made to the existing severe probabilities with this
+   update as the forecast remains generally on track. An increase in
+   thunderstorm coverage (likely in the form of a complex/linear storm
+   mode) is expected this afternoon/evening as the remnant core of Polo
+   progresses northeastward into the southern High Plains. As this
+   occurs, isolated severe wind gusts and perhaps a tornado or two may
+   occur, with locally greater potential possible from southeastern New
+   Mexico into West Texas where less prevalent cloud cover has allowed
+   for stronger diurnal heating through mid afternoon. See the
+   discussion below for additional details.
 
-   ...Lower Colorado River Valley...
-   Showers and thunderstorms should develop this afternoon as an
-   anomalously moist low-level airmass spreads northward ahead of a
-   mid-level shortwave trough forecast to move from CA/NV to the lower
-   CO River Valley through the period. Cloudiness and weak mid-level
-   lapse rates should limit instability through early afternoon, before
-   cloud cover gradually diminishes through early evening. A stronger
-   thunderstorm or two may occur parts of interior southern
-   CA/northwest AZ/southern NV, but the overall risk for severe
-   hail/wind appears too limited to include any probabilities for this
-   region at this time.
+   ..Chalmers/Thornton.. 09/29/2026
 
-   ..Gleason/Chalmers.. 09/28/2026
+   .PREV DISCUSSION... /ISSUED 1120 AM CDT Tue Sep 29 2026/
+
+   ...Synopsis...
+   Fairly complex synoptic evolution is anticipated today through
+   tonight as a remnants of what is currently Hurricane Polo become
+   absorbed within the circulation of the deepening mid-latitude
+   cyclone currently centered over the Lower CO River Valley. In
+   general, the Lower CO River Valley cyclone is forecast to deepen as
+   it gradually shifts eastward. In response, Hurricane Polo is
+   forecast to move quickly northeastward across Sonora and into New
+   Mexico. Polo is forecast to weaken over the mountainous terrain of
+   northern Mexico, but will likely maintain some of its warm-core
+   characteristics through at least tomorrow morning. Additionally,
+   mass response across the southern High Plains will result in
+   increasing low-level moisture advection across the southern Plains
+   while also aiding in surface cyclogenesis across central and eastern
+   NM late tonight/early tomorrow.
+
+   ...Southern Arizona... 
+   Recent surface analysis reveals a very moist airmass over southern
+   AZ, with a corridor of mid to upper 60s dewpoints extending from the
+   central southern border into the Phoenix vicinity. Surface analysis
+   also places a weak low over south-central AZ. VAD profiles from IWA
+   and EMX both show fairly long hodographs, supported by 30 to 40 kt
+   of low/mid-level southwesterly flow. Widespread showers and
+   thunderstorms will likely continue throughout the day, with limited
+   diurnal heating and weak tropical lapse rates keeping buoyancy
+   modest. Even so, the strong nature of the wind profiles could
+   support a few at least weak/transient supercells, and potentially
+   more organized convective bands later today, with at least some
+   potential for strong thunderstorm wind gusts.
+
+   ...Southern High Plains...
+   Thunderstorm coverage is expected to increase notably this
+   afternoon/evening as the core of Polo progresses into the region.
+   Tropical character of the airmass will keep lapse rates poor while
+   cloud cover also limits heating, limiting the overall buoyancy.
+   Nonetheless, buoyant thermodynamic profiles are still expected to
+   result in updrafts deep enough for lightning production.
+   Additionally, low-level wind profiles are expected to lengthen
+   significantly after 00Z as the remnants of Polo interact with a
+   dynamically strengthening low-level jet. The widespread storm
+   coverage will result in a tendency toward complex or linear storm
+   modes with time, though a few/episodic supercells will also be
+   possible. A brief tornado and/or strong wind gusts could accompany
+   any organized, more persistent storm structures.
