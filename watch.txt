@@ -1,71 +1,42 @@
 
-   Day 1 Convective Outlook  
-   NWS Storm Prediction Center Norman OK
-   0757 AM CDT Wed Sep 30 2026
+   Flood Watch
+National Weather Service Shreveport LA
+220 PM CDT Thu Oct 1 2026
 
-   Valid 301300Z - 011200Z
+OKZ077-TXZ096-108>111-124-125-136-021130-
+/O.NEW.KSHV.FA.A.0007.261001T1920Z-261002T1200Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+McCurtain-Red River-Franklin-Titus-Camp-Morris-Wood-Upshur-Smith-
+Including the cities of Big Sandy, Broken Bow, Clarksville, Tyler,
+Naples, Pittsburg, Idabel, Lone Star, Hawkins, Bogata, Daingerfield,
+Winnsboro, Mineola, Quitman, Gilmer, Mount Vernon, Mount Pleasant,
+and Omaha
+220 PM CDT Thu Oct 1 2026
 
-   ...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
-   THE SOUTHERN AND CENTRAL PLAINS...
+...FLOOD WATCH IN EFFECT THROUGH FRIDAY MORNING...
 
-   ...SUMMARY...
-   Thunderstorms capable of severe wind gusts/some hail and a brief
-   tornado are expected across the southern Plains this afternoon into
-   tonight including portions of west Texas into southwest Oklahoma.
-   The potential for a few tornadoes and localized wind damage will
-   also exist across Kansas and possibly far southeast Nebraska.
+* WHAT...Flooding caused by excessive rainfall is possible.
 
-   ...Central/southern Plains...
-   A mid/upper-level low will move from the southern Rockies toward the
-   central High Plains through tonight. A surface low initially over
-   the southern High Plains is forecast to move only slowly eastward
-   through tonight. A warm front extending northeast of the surface low
-   may move slowly northward through the day, though persistent clouds
-   and precipitation may hinder its advance. 
+* WHERE...Portions of southeast Oklahoma, including the following
+  county, McCurtain and northeast Texas, including the following
+  counties, Camp, Franklin, Morris, Red River, Smith, Titus, Upshur
+  and Wood.
 
-   A rather strong low-level jet (50+ kt diurnally) is forecast to
-   slowly shift northeastward across parts of central/eastern Kansas
-   into western Missouri and southeast Nebraska/southwest Iowa by
-   evening. This will help to maintain strong wind profiles in the
-   vicinity of the central Plains effective warm front. Destabilization
-   near the warm front may remain weak due to limited diurnal heating
-   and weak mid-level lapse rates.
+* WHEN...Through Friday morning.
 
-   While uncertainties remain regarding the disposition of persistent
-   early day precipitation and cloud cover, will defer to the
-   anticipated strength of 0-1km/0-3km AGL winds and related
-   supercell-conducive profiles. Have upgraded portions of
-   central/eastern Kansas into far southeast Nebraska with the notion
-   that multiple tornadoes are a viable possibility, even if
-   destabilization remains muted later today.
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+  creeks, streams, and other low-lying and flood-prone locations.
+  Flooding may occur in poor drainage and urban areas.
 
-   Farther south, the coverage and persistence of early-day convection
-   across the southern Plains remains somewhat uncertain, though there
-   may be a tendency for convection to weaken and/or shift northward by
-   early afternoon. The greatest confidence in substantial diurnal
-   destabilization is from southwest Oklahoma into northwest Texas and
-   the Edwards Plateau, where heating of a very moist airmass will
-   result in MLCAPE increasing to near/above 1500 J/kg, despite poor
-   mid-level lapse rates. Renewed storm development is expected from
-   late afternoon into the evening, in advance of the approaching
-   mid/upper-level low. Moderate mid-level flow will provide sufficient
-   deep-layer shear for storm organization. 
+* ADDITIONAL DETAILS...
+  - Showers and thunderstorms will continue to develop and slowly
+    move across portions of East Texas and Southeast Oklahoma through
+    Friday Morning.  Rainfall amounts between 2" to 4" will be
+    possible.  Some isolated higher totals can`t ruled out.
+  - http://www.weather.gov/safety/flood
 
-   While supercells will be possible initially, generally
-   front-parallel flow and increasing storm coverage will likely lead
-   to more of a linear mode with time. Strong to severe gusts appear to
-   be the most likely hazard, though isolated hail also appears
-   possible across southwest Texas, where somewhat stronger
-   destabilization may occur. Also, while low-level flow will be weaker
-   compared to areas farther north, some increase in effective SRH is
-   expected during the evening, which could support a localized tornado
-   threat within the very moist environment. An isolated severe threat
-   could persist into parts of central Texas/Oklahoma overnight, though
-   diminishing buoyancy with time and eastward extent should result in
-   an eventual weakening trend.
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-   Elsewhere, a few strong to locally severe lower-topped storms could
-   occur across the south-central High Plains pending sufficient
-   destabilization.
-
-   ..Guyer/Bentley.. 09/30/2026
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
