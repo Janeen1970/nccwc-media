@@ -3,9 +3,6 @@
 National Weather Service Shreveport LA
 220 PM CDT Thu Oct 1 2026
 
-OKZ077-TXZ096-108>111-124-125-136-021130-
-/O.NEW.KSHV.FA.A.0007.261001T1920Z-261002T1200Z/
-/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
 McCurtain-Red River-Franklin-Titus-Camp-Morris-Wood-Upshur-Smith-
 Including the cities of Big Sandy, Broken Bow, Clarksville, Tyler,
 Naples, Pittsburg, Idabel, Lone Star, Hawkins, Bogata, Daingerfield,
