@@ -1,39 +1,24 @@
+Day 4-8 Convective Outlook  
+   NWS Storm Prediction Center Norman OK
+   0317 AM CDT Fri Oct 02 2026
 
-   Flood Watch
-National Weather Service Shreveport LA
-220 PM CDT Thu Oct 1 2026
+   Valid 051200Z - 101200Z
 
-McCurtain-Red River-Franklin-Titus-Camp-Morris-Wood-Upshur-Smith-
-Including the cities of Big Sandy, Broken Bow, Clarksville, Tyler,
-Naples, Pittsburg, Idabel, Lone Star, Hawkins, Bogata, Daingerfield,
-Winnsboro, Mineola, Quitman, Gilmer, Mount Vernon, Mount Pleasant,
-and Omaha
-220 PM CDT Thu Oct 1 2026
+   ...DISCUSSION...
+   Severe storm potential from Monday/D4 to Friday/D8 is forecast to be
+   minimal.
 
-...FLOOD WATCH IN EFFECT THROUGH FRIDAY MORNING...
+   A deep upper trough will move across eastern Canada and the
+   northeastern USA Mon/D4 into Tue/D5, with a cold front already
+   offshore and high pressure building in from the west. Behind the
+   ejecting upper trough, moderate northwest flow aloft will persist
+   across the northern tier of states, with some trough amplification
+   possible over the Great Lakes Wed/D6 into Fri/D8. That said, a
+   minimally unstable air mass will exist over most of the CONUS, with
+   little severe thunderstorm potential. A few stronger storms cannot
+   be ruled out around Thu/D7 over the upper Midwest beneath the
+   northwest flow regime, but this low-predictability scenario will
+   depend heavily on enough moisture returning to the region. As such,
+   no areas are currently forecast.
 
-* WHAT...Flooding caused by excessive rainfall is possible.
-
-* WHERE...Portions of southeast Oklahoma, including the following
-  county, McCurtain and northeast Texas, including the following
-  counties, Camp, Franklin, Morris, Red River, Smith, Titus, Upshur
-  and Wood.
-
-* WHEN...Through Friday morning.
-
-* IMPACTS...Excessive runoff may result in flooding of rivers,
-  creeks, streams, and other low-lying and flood-prone locations.
-  Flooding may occur in poor drainage and urban areas.
-
-* ADDITIONAL DETAILS...
-  - Showers and thunderstorms will continue to develop and slowly
-    move across portions of East Texas and Southeast Oklahoma through
-    Friday Morning.  Rainfall amounts between 2" to 4" will be
-    possible.  Some isolated higher totals can`t ruled out.
-  - http://www.weather.gov/safety/flood
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-You should monitor later forecasts and be alert for possible Flood
-Warnings. Those living in areas prone to flooding should be prepared
-to take action should flooding develop.
+   ..Jewell.. 10/02/2026
