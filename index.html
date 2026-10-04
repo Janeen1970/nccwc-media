@@ -214,6 +214,100 @@ NATIONAL CLIMATE CHANGE WARNING CENTER WEATHER AND CLIMATE RADIO</a> </div>
 
 </div>
 </div>
+</div>
+</div>
+
+
+<!-- ================================================= -->
+<!-- ADD MOVIE PLAYER HERE                              -->
+<!-- ================================================= -->
+
+<div class="wrap" id="movie-theatre">
+
+  <div style="
+    margin-top:30px;
+    background:#180b0b;
+    border:4px solid #d6a84b;
+    box-shadow:0 0 20px #d6a84b;
+    padding:20px;
+    text-align:center;
+  ">
+
+    <div style="
+      background:#f5e6b8;
+      color:#111;
+      border:8px solid #991b1b;
+      padding:18px;
+      margin-bottom:20px;
+    ">
+
+      <div style="
+        color:#b91c1c;
+        font-size:28px;
+        font-weight:bold;
+        letter-spacing:5px;
+      ">
+        ★ NOW PLAYING ★
+      </div>
+
+      <div id="movie-now-title" style="
+        font-size:36px;
+        font-weight:bold;
+        margin-top:12px;
+        text-transform:uppercase;
+      ">
+        —
+      </div>
+
+      <div style="
+        margin-top:8px;
+        font-family:monospace;
+        letter-spacing:2px;
+      ">
+        NCCWC RADIO THEATRE
+      </div>
+
+    </div>
+
+    <audio id="movie-audio"
+           controls
+           style="width:100%;">
+    </audio>
+
+    <div style="margin-top:12px;">
+      <button id="movie-prev">Prev Movie</button>
+      <button id="movie-play">Play / Pause</button>
+      <button id="movie-next">Next Movie</button>
+    </div>
+
+    <div id="movie-status"
+         style="margin-top:10px;color:#facc15;">
+    </div>
+
+    <h2 style="
+      margin-top:25px;
+      color:#facc15;
+      letter-spacing:3px;
+    ">
+      NOW SHOWING
+    </h2>
+
+    <ul id="movie-playlist" style="
+      list-style:none;
+      padding:0;
+      margin:0;
+      text-align:left;
+    ">
+    </ul>
+
+  </div>
+
+</div>
+
+<!-- ================================================= -->
+<!-- END MOVIE PLAYER                                  -->
+<!-- ================================================= -->
+
 
 <script>
 
@@ -318,6 +412,264 @@ async function loadTracks(){
 }
 
 loadTracks();
+
+
+/* =====================================================
+   NCCWC RADIO MOVIE THEATRE
+   Reads MP3 files from the GitHub /movies folder
+===================================================== */
+
+const MOVIE_API_URL =
+  `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/movies`;
+
+const movieAudio =
+  document.getElementById("movie-audio");
+
+const moviePlaylist =
+  document.getElementById("movie-playlist");
+
+const movieNow =
+  document.getElementById("movie-now-title");
+
+const movieStatus =
+  document.getElementById("movie-status");
+
+let movies = [];
+let movieIndex = 0;
+
+
+function loadMovie(i, autoplay=false){
+
+  if(!movies.length) return;
+
+  movieIndex =
+    (i + movies.length) % movies.length;
+
+  movieAudio.src =
+    movies[movieIndex].url;
+
+  movieNow.textContent =
+    movies[movieIndex].title;
+
+  updateMoviePlaylist();
+
+  if(autoplay){
+
+    movieAudio.play().catch(()=>{
+
+      movieStatus.textContent =
+        "Click Play to start movie.";
+
+    });
+
+  }
+
+}
+
+
+function nextMovie(){
+
+  loadMovie(
+    movieIndex + 1,
+    true
+  );
+
+}
+
+
+function prevMovie(){
+
+  loadMovie(
+    movieIndex - 1,
+    true
+  );
+
+}
+
+
+document.getElementById(
+  "movie-next"
+).onclick = nextMovie;
+
+
+document.getElementById(
+  "movie-prev"
+).onclick = prevMovie;
+
+
+document.getElementById(
+  "movie-play"
+).onclick = ()=>{
+
+  if(movieAudio.paused){
+
+    movieAudio.play();
+
+  }else{
+
+    movieAudio.pause();
+
+  }
+
+};
+
+
+movieAudio.addEventListener(
+  "ended",
+  nextMovie
+);
+
+
+function updateMoviePlaylist(){
+
+  const items =
+    moviePlaylist.querySelectorAll("li");
+
+  items.forEach((item,i)=>{
+
+    if(i === movieIndex){
+
+      item.style.background =
+        "#7f1d1d";
+
+      item.style.color =
+        "#ffffff";
+
+    }else{
+
+      item.style.background =
+        "#111827";
+
+      item.style.color =
+        "#f9fafb";
+
+    }
+
+  });
+
+}
+
+
+async function loadMovies(){
+
+  try{
+
+    const res =
+      await fetch(
+        MOVIE_API_URL +
+        "?_=" +
+        Date.now()
+      );
+
+    if(!res.ok){
+
+      throw new Error(
+        "Movie folder not found."
+      );
+
+    }
+
+    const data =
+      await res.json();
+
+
+    movies = data
+
+      .filter(
+        x =>
+        x.type === "file" &&
+        x.name
+          .toLowerCase()
+          .endsWith(".mp3")
+      )
+
+      .map(x=>({
+
+        title:
+          x.name
+            .replace(/\.mp3$/i,"")
+            .replace(/_/g," ")
+            .replace(/-/g," "),
+
+        url:
+          x.download_url
+
+      }));
+
+
+    moviePlaylist.innerHTML = "";
+
+
+    if(!movies.length){
+
+      movieNow.textContent =
+        "NO MOVIES";
+
+      movieStatus.textContent =
+        "No MP3 movies are currently available.";
+
+      return;
+
+    }
+
+
+    movies.forEach((movie,i)=>{
+
+      const li =
+        document.createElement("li");
+
+      li.className =
+        "track";
+
+      li.textContent =
+        movie.title;
+
+      li.style.padding =
+        "10px";
+
+      li.style.marginBottom =
+        "4px";
+
+      li.style.cursor =
+        "pointer";
+
+      li.onclick =
+        ()=>loadMovie(
+          i,
+          true
+        );
+
+      moviePlaylist.appendChild(
+        li
+      );
+
+    });
+
+
+    loadMovie(
+      0,
+      false
+    );
+
+  }
+
+  catch(error){
+
+    console.error(error);
+
+    movieNow.textContent =
+      "COMING SOON";
+
+    movieStatus.textContent =
+      "No movie folder or movies found.";
+
+  }
+
+}
+
+
+loadMovies();
+
 
 </script>
 
