@@ -1,24 +1,22 @@
-Day 4-8 Convective Outlook  
-   NWS Storm Prediction Center Norman OK
-   0317 AM CDT Fri Oct 02 2026
 
-   Valid 051200Z - 101200Z
+   Day 4-8 Convective Outlook  
+   NWS Storm Prediction Center Norman OK
+   0400 AM CDT Sun Oct 04 2026
+
+   Valid 071200Z - 121200Z
 
    ...DISCUSSION...
-   Severe storm potential from Monday/D4 to Friday/D8 is forecast to be
-   minimal.
+   For Wed/D4 through about Fri/D6, severe chances will be minimal
+   across the CONUS as a broad upper trough affects the Great Lakes
+   into the Northeast, with high pressure keeping the higher dewpoints
+   primarily offshore over the Gulf of America.
 
-   A deep upper trough will move across eastern Canada and the
-   northeastern USA Mon/D4 into Tue/D5, with a cold front already
-   offshore and high pressure building in from the west. Behind the
-   ejecting upper trough, moderate northwest flow aloft will persist
-   across the northern tier of states, with some trough amplification
-   possible over the Great Lakes Wed/D6 into Fri/D8. That said, a
-   minimally unstable air mass will exist over most of the CONUS, with
-   little severe thunderstorm potential. A few stronger storms cannot
-   be ruled out around Thu/D7 over the upper Midwest beneath the
-   northwest flow regime, but this low-predictability scenario will
-   depend heavily on enough moisture returning to the region. As such,
-   no areas are currently forecast.
+   For late Fri/D6 into Sun/D8, predictability becomes low as models
+   indicate a possible tropical cyclone over parts of the southwestern
+   Gulf of America (NHC 30% change of cyclone formation). This, along
+   with a possible weak shortwave trough developing over TX/northern
+   Gulf Coast, could result in a rapid northward surge of tropical
+   moisture and enhanced shear. This area will be monitored in upcoming
+   outlooks as the situation evolves.
 
-   ..Jewell.. 10/02/2026
+   ..Jewell.. 10/04/2026
