@@ -1,1 +1,0 @@
-wolf-central-park.png 
