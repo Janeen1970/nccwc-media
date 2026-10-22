@@ -1,59 +1,84 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Midnight Signal Theatre Visitors</title>
+<title>Midnight Signal Theatre Counter</title>
 <style>
-body {
-  margin: 0;
-  background: #10121b;
-  color: #e0ba7c;
-  font-family: Arial, sans-serif;
-  text-align: center;
-}
-.counter {
-  padding: 22px 12px;
-  border: 2px solid #b89150;
-  border-radius: 12px;
-}
-h2 {
-  font-size: 17px;
-  letter-spacing: 2px;
-}
-#total {
-  font-size: 42px;
-  font-weight: bold;
-  color: white;
-  margin: 15px;
-}
+  body {
+    margin: 0;
+    background: #10121b;
+    color: #e0ba7c;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  .counter {
+    border: 2px solid #b89150;
+    border-radius: 12px;
+    padding: 20px 10px;
+  }
+  h2 {
+    font-size: 17px;
+    letter-spacing: 2px;
+    margin: 8px 0;
+  }
+  #total {
+    color: white;
+    font-size: 44px;
+    font-weight: bold;
+    margin: 12px 0;
+  }
+  .label {
+    font-size: 13px;
+    letter-spacing: 2px;
+  }
 </style>
 </head>
 <body>
 <div class="counter">
   <h2>MIDNIGHT SIGNAL THEATRE</h2>
   <div id="total">Loading...</div>
-  <div>THEATRE VISITORS</div>
+  <div class="label">TOTAL THEATRE VISITS</div>
 </div>
+
 <script>
+const params = new URLSearchParams(location.search);
+
+if (params.get("owner") === "1") {
+  localStorage.setItem("theatreOwner", "yes");
+}
+
+const isOwner =
+  localStorage.getItem("theatreOwner") === "yes";
+
 const namespace = "midnight-signal-theatre";
-const key = "theatre-visitors-2026";
-const owner = localStorage.getItem("theatre-owner") === "yes";
+const counter = "theatre-page-visits";
 
-const base = "https://api.counterapi.dev/v1/";
-const endpoint = base + namespace + "/" + key;
+const base =
+  "https://api.countapi.xyz";
 
-fetch(endpoint + (owner ? "/" : "/up"))
+const path =
+  "/" + namespace + "/" + counter;
+
+const url = isOwner
+  ? base + "/get" + path
+  : base + "/hit" + path;
+
+fetch(url)
   .then(response => {
-    if (!response.ok) throw new Error("Counter unavailable");
+    if (!response.ok) {
+      throw new Error("Counter unavailable");
+    }
     return response.json();
   })
   .then(data => {
     document.getElementById("total").textContent =
-      Number(data.count).toLocaleString();
+      Number(data.value).toLocaleString();
   })
   .catch(() => {
-    document.getElementById("total").textContent = "Unavailable";
+    document.getElementById("total").textContent =
+      "Unavailable";
   });
 </script>
 </body>
