@@ -6,40 +6,36 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Midnight Signal Theatre Counter</title>
 <style>
-  body {
-    margin: 0;
-    background: #10121b;
-    color: #e0ba7c;
-    font-family: Arial, sans-serif;
-    text-align: center;
-  }
-  .counter {
-    border: 2px solid #b89150;
-    border-radius: 12px;
-    padding: 20px 10px;
-  }
-  h2 {
-    font-size: 17px;
-    letter-spacing: 2px;
-    margin: 8px 0;
-  }
-  #total {
-    color: white;
-    font-size: 44px;
-    font-weight: bold;
-    margin: 12px 0;
-  }
-  .label {
-    font-size: 13px;
-    letter-spacing: 2px;
-  }
+body {
+  margin: 0;
+  background: #10121b;
+  color: #e0ba7c;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.counter {
+  border: 2px solid #b89150;
+  border-radius: 12px;
+  padding: 20px 10px;
+}
+h2 {
+  font-size: 17px;
+  letter-spacing: 2px;
+}
+#total {
+  color: white;
+  font-size: 44px;
+  font-weight: bold;
+  margin: 12px 0;
+}
 </style>
 </head>
 <body>
+
 <div class="counter">
   <h2>MIDNIGHT SIGNAL THEATRE</h2>
   <div id="total">Loading...</div>
-  <div class="label">TOTAL THEATRE VISITS</div>
+  <div>TOTAL THEATRE VISITS</div>
 </div>
 
 <script>
@@ -49,37 +45,34 @@ if (params.get("owner") === "1") {
   localStorage.setItem("theatreOwner", "yes");
 }
 
-const isOwner =
+const owner =
   localStorage.getItem("theatreOwner") === "yes";
 
-const namespace = "midnight-signal-theatre";
-const counter = "theatre-page-visits";
-
 const base =
-  "https://api.countapi.xyz";
+  "https://countapi.mileshilliard.com/api/v1";
 
-const path =
-  "/" + namespace + "/" + counter;
+const key = "midnight-signal-theatre-2026-visits";
 
-const url = isOwner
-  ? base + "/get" + path
-  : base + "/hit" + path;
+const url = base + (owner ? "/get/" : "/hit/") + key;
 
-fetch(url)
+fetch(url, {cache: "no-store"})
   .then(response => {
-    if (!response.ok) {
-      throw new Error("Counter unavailable");
-    }
+    if (!response.ok) throw new Error("API error");
     return response.json();
   })
   .then(data => {
+    const count = Number(data.value);
+    if (!Number.isFinite(count)) {
+      throw new Error("Invalid count");
+    }
     document.getElementById("total").textContent =
-      Number(data.value).toLocaleString();
+      count.toLocaleString();
   })
   .catch(() => {
     document.getElementById("total").textContent =
       "Unavailable";
   });
 </script>
+
 </body>
 </html>
