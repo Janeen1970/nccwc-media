@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Midnight Signal Theatre Visitors</title>
+<style>
+body {
+  margin: 0;
+  background: #10121b;
+  color: #e0ba7c;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.counter {
+  padding: 22px 12px;
+  border: 2px solid #b89150;
+  border-radius: 12px;
+}
+h2 {
+  font-size: 17px;
+  letter-spacing: 2px;
+}
+#total {
+  font-size: 42px;
+  font-weight: bold;
+  color: white;
+  margin: 15px;
+}
+</style>
+</head>
+<body>
+<div class="counter">
+  <h2>MIDNIGHT SIGNAL THEATRE</h2>
+  <div id="total">Loading...</div>
+  <div>THEATRE VISITORS</div>
+</div>
+<script>
+const namespace = "midnight-signal-theatre";
+const key = "theatre-visitors-2026";
+const owner = localStorage.getItem("theatre-owner") === "yes";
+
+const base = "https://api.counterapi.dev/v1/";
+const endpoint = base + namespace + "/" + key;
+
+fetch(endpoint + (owner ? "/" : "/up"))
+  .then(response => {
+    if (!response.ok) throw new Error("Counter unavailable");
+    return response.json();
+  })
+  .then(data => {
+    document.getElementById("total").textContent =
+      Number(data.count).toLocaleString();
+  })
+  .catch(() => {
+    document.getElementById("total").textContent = "Unavailable";
+  });
+</script>
+</body>
+</html>
